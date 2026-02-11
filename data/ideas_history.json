@@ -48,6 +48,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-11T15:39:45.581548"
+    },
+    {
+      "nombre": "CollabTime",
+      "descripcion": "CollabTime es una herramienta que permite a los equipos remotos gestionar su tiempo, tareas y comunicación en un solo lugar. Permite a los usuarios asignar tareas, realizar un seguimiento de su progreso y comunicarse directamente a través de la plataforma, todo con una interfaz intuitiva que minimiza la curva de aprendizaje.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-11T18:43:55.122653"
     }
   ],
   "nombres_usados": [
@@ -57,6 +64,7 @@
     "TimeMaster",
     "SociaBot",
     "TaskBill",
-    "Pymex CRM"
+    "Pymex CRM",
+    "CollabTime"
   ]
 }

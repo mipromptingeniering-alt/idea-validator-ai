@@ -24,6 +24,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260211153945",
+    "nombre": "Pymex CRM",
+    "tipo": "SaaS",
+    "resumen": "Un CRM asequible y fácil de usar que permite a las PYMES gestionar sus relaciones con los clientes y optimizar la comunicación....",
+    "score": 75,
+    "landing_url": "IDEA-20260211153945.html"
+  },
+  {
     "id": "IDEA-20260211135319",
     "nombre": "TaskBill",
     "tipo": "SaaS",
