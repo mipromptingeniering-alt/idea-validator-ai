@@ -62,6 +62,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-11T20:06:19.504185"
+    },
+    {
+      "nombre": "MarketerAI",
+      "descripcion": "MarketerAI permite a los usuarios diseñar campañas de marketing personalizadas utilizando inteligencia artificial que aprende de las interacciones pasadas y ajusta las estrategias en tiempo real. La plataforma ofrece plantillas predefinidas, análisis de resultados y asesoramiento automatizado para optimizar las campañas.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-02-11T21:54:58.861425"
     }
   ],
   "nombres_usados": [
@@ -73,6 +80,7 @@
     "TaskBill",
     "Pymex CRM",
     "CollabTime",
-    "TimeOptimize"
+    "TimeOptimize",
+    "MarketerAI"
   ]
 }

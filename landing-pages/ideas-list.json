@@ -24,6 +24,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260211200619",
+    "nombre": "TimeOptimize",
+    "tipo": "SaaS",
+    "resumen": "TimeOptimize es una herramienta de gestión del tiempo que utiliza inteligencia artificial para ayudar a los emprendedores a organizar sus tareas y opt...",
+    "score": 75,
+    "landing_url": "IDEA-20260211200619.html"
+  },
+  {
     "id": "IDEA-20260211184355",
     "nombre": "CollabTime",
     "tipo": "SaaS",
