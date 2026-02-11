@@ -1,0 +1,38 @@
+{
+  "ideas": [
+    {
+      "nombre": "SocialBoost",
+      "descripcion": "SocialBoost es una plataforma que permite a las pequeñas y medianas empresas gestionar sus redes sociales de manera sencilla y eficaz. Utiliza algoritmos para recomendar contenido basado en tendencias actuales y en el comportamiento de la audiencia específica de cada negocio. También incluye funcionalidades de análisis de rendimiento y programación de publicaciones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-10T23:02:59.044341"
+    },
+    {
+      "nombre": "SocialEase",
+      "descripcion": "SocialEase permite a las pequeñas y medianas empresas gestionar sus redes sociales de manera eficiente y accesible. Proporciona herramientas de programación de publicaciones, análisis de interacción y un dashboard intuitivo que muestra el rendimiento de las campañas en tiempo real. Además, incluye plantillas adaptadas a diferentes sectores para facilitar la creación de contenido atractivo.",
+      "tipo": "SaaS",
+      "score": 76,
+      "fecha": "2026-02-10T23:14:01.436793"
+    },
+    {
+      "nombre": "TeamPulse",
+      "descripcion": "TeamPulse es una herramienta de SaaS que ayuda a los equipos remotos a ser más productivos al tiempo que promueve el bienestar mental. A través de una interfaz intuitiva, los usuarios pueden gestionar tareas, establecer metas, y participar en actividades que fomenten la cohesión del equipo y el bienestar personal, como ejercicios de mindfulness y encuestas de clima laboral.",
+      "tipo": "SaaS",
+      "score": 80,
+      "fecha": "2026-02-10T23:29:39.679996"
+    },
+    {
+      "nombre": "TimeMaster",
+      "descripcion": "TimeMaster es una plataforma que permite a los usuarios gestionar sus tareas y proyectos utilizando metodologías de productividad como Pomodoro y Kanban. Ofrece recordatorios, estadísticas de tiempo y una interfaz fácil de usar que se adapta a las preferencias individuales.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-10T23:44:54.529682"
+    }
+  ],
+  "nombres_usados": [
+    "SocialBoost",
+    "SocialEase",
+    "TeamPulse",
+    "TimeMaster"
+  ]
+}
