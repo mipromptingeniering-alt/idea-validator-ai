@@ -34,6 +34,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-11T12:59:26.642576"
+    },
+    {
+      "nombre": "TaskBill",
+      "descripcion": "TaskBill permite a los usuarios gestionar sus tareas diarias, crear y enviar facturas personalizadas, y hacer un seguimiento del estado de los pagos, todo en un solo lugar. Incluye recordatorios automáticos y análisis de tiempo dedicado a cada tarea.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-11T13:53:19.045250"
     }
   ],
   "nombres_usados": [
@@ -41,6 +48,7 @@
     "SocialEase",
     "TeamPulse",
     "TimeMaster",
-    "SociaBot"
+    "SociaBot",
+    "TaskBill"
   ]
 }
