@@ -27,8 +27,10 @@ def deploy_to_github_pages(idea_data):
                 return ""
             return str(text).replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;').replace('"', '&quot;')
         
-        # Generar HTML
-        html_content = f"""<!DOCTYPE html>
+              # Guardar archivo HTML
+        with open(filename, 'w', encoding='utf-8') as f:
+            f.write(html_content)
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
