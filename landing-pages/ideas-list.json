@@ -32,6 +32,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260211230411",
+    "nombre": "Contable Facil",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de contabilidad intuitiva y accesible para pequeñas empresas y emprendedores....",
+    "score": 75,
+    "landing_url": "IDEA-20260211230411.html"
+  },
+  {
     "id": "IDEA-20260211200619",
     "nombre": "TimeOptimize",
     "tipo": "SaaS",

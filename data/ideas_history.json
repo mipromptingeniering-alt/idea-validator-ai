@@ -76,6 +76,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-11T23:04:11.500118"
+    },
+    {
+      "nombre": "Invengo",
+      "descripcion": "Invengo proporciona a las pymes una herramienta fácil de usar para gestionar sus inventarios, realizar seguimiento de productos y pronosticar necesidades futuras, integrando además funciones de análisis de ventas para mejorar la toma de decisiones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-11T23:58:22.885164"
     }
   ],
   "nombres_usados": [
@@ -89,6 +96,7 @@
     "CollabTime",
     "TimeOptimize",
     "MarketerAI",
-    "Contable Facil"
+    "Contable Facil",
+    "Invengo"
   ]
 }
