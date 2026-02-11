@@ -15,16 +15,22 @@ jobs:
       pages: write
       id-token: write
     
-    steps:
-    - name: Checkout repository
+       - name: Checkout repository
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
     
+    - name: Debug - List files
+      run: |
+        echo "=== Current directory ==="
+        pwd
+        echo "=== Files in root ==="
+        ls -la
+        echo "=== Python files ==="
+        find . -name "*.py" -o -name "*.txt" -o -name "*.yml"
+    
     - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.11'
+
       
     
     - name: Install dependencies
