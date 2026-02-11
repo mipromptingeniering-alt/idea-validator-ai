@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Sistema automatizado que genera y valida ideas de negocio digital cada 15 minutos con IA">
+    <title>Idea Validator AI - Ideas de Negocio Digital Validadas</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+            color: #1f2937;
+        }
+        
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+            padding: 40px 20px;
+        }
+        
+        .header h1 {
+            font-size: 3em;
+            margin-bottom: 15px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+        
+        .header p {
+            font-size: 1.2em;
+            opacity: 0.95;
+            max-width: 800px;
+            margin: 0 auto;
+            line-height: 1.6;
+        }
+        
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            flex-wrap: wrap;
+            margin: 30px 0;
+        }
+        
+        .stat-card {
+            background: rgba(255,255,255,0.2);
+            backdrop-filter: blur(10px);
+            padding: 20px 30px;
+            border-radius: 15px;
+            text-align: center;
+        }
+        
+        .stat-card .number {
+            font-size: 2.5em;
+            font-weight: bold;
+            display: block;
+        }
+        
+        .stat-card .label {
+            font-size: 0.9em;
+            opacity: 0.9;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        .filters {
+            background: white;
+            padding: 25px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+        
+        .filter-label {
+            font-weight: 600;
+            color: #374151;
+        }
+        
+        select, input {
+            padding: 10px 15px;
+            border: 2px solid #e5e7eb;
+            border-radius: 8px;
+            font-size: 1em;
+            outline: none;
+            transition: border-color 0.3s;
+        }
+        
+        select:focus, input:focus {
+            border-color: #667eea;
+        }
+        
+        .idea-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        
+        .idea-card {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+            transition: transform 0.3s, box-shadow 0.3s;
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .idea-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.25);
+        }
+        
+        .idea-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 5px;
+            background: linear-gradient(90deg, #667eea, #764ba2);
+        }
+        
+        .idea-card h2 {
+            color: #667eea;
+            margin-bottom: 15px;
+            font-size: 1.6em;
+            line-height: 1.3;
+        }
+        
+        .type-badge {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 6px 15px;
+            border-radius: 20px;
+            font-size: 0.85em;
+            font-weight: 600;
+            margin-bottom: 15px;
+        }
+        
+        .idea-card p {
+            color: #4b5563;
+            line-height: 1.7;
+            margin-bottom: 20px;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        
+        .score-container {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 2px solid #f3f4f6;
+        }
+        
+        .score {
+            font-size: 1.8em;
+            font-weight: bold;
+            background: linear-gradient(135deg, #10b981, #059669);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .view-link {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            transition: gap 0.3s;
+        }
+        
+        .view-link:hover {
+            gap: 10px;
+        }
+        
+        .no-ideas {
+            text-align: center;
+            padding: 60px 20px;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+        }
+        
+        .no-ideas h3 {
+            color: #667eea;
+            font-size: 2em;
+            margin-bottom: 15px;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 60px 20px;
+            color: white;
+            font-size: 1.5em;
+        }
+        
+        .footer {
+            text-align: center;
+            color: white;
+            margin-top: 60px;
+            padding: 30px;
+            opacity: 0.9;
+        }
+        
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2em;
+            }
+            
+            .idea-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .filters {
+                flex-direction: column;
+                align-items: stretch;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🚀 Idea Validator AI</h1>
+        <p>Sistema automatizado que genera y valida ideas de negocio digital cada 15 minutos usando IA</p>
+        <div class="stats">
+            <div class="stat-card">
+                <span class="number" id="total-ideas">0</span>
+                <span class="label">Ideas Generadas</span>
+            </div>
+            <div class="stat-card">
+                <span class="number" id="avg-score">0</span>
+                <span class="label">Score Promedio</span>
+            </div>
+            <div class="stat-card">
+                <span class="number" id="best-score">0</span>
+                <span class="label">Mejor Score</span>
+            </div>
+        </div>
+    </div>
+    
+    <div class="container">
+        <div class="filters">
+            <span class="filter-label">Filtrar por:</span>
+            <select id="filter-type" onchange="filterIdeas()">
+                <option value="">Todos los tipos</option>
+                <option value="SaaS">SaaS</option>
+                <option value="MicroSaaS">MicroSaaS</option>
+                <option value="Extension">Extension</option>
+                <option value="App">App</option>
+                <option value="Tool">Tool</option>
+            </select>
+            
+            <select id="sort-by" onchange="filterIdeas()">
+                <option value="score-desc">Score: Mayor a Menor</option>
+                <option value="score-asc">Score: Menor a Mayor</option>
+                <option value="date-desc">Más Recientes</option>
+                <option value="date-asc">Más Antiguas</option>
+            </select>
+            
+            <input type="text" id="search" placeholder="Buscar por nombre..." onkeyup="filterIdeas()">
+        </div>
+        
+        <div id="loading" class="loading">
+            Cargando ideas...
+        </div>
+        
+        <div id="ideas-grid" class="idea-grid"></div>
+        
+        <div id="no-ideas" class="no-ideas" style="display: none;">
+            <h3>🤖 Sistema Inicializando</h3>
+            <p>Las ideas se generarán automáticamente cada 15 minutos.</p>
+            <p>Vuelve pronto para ver las primeras ideas validadas.</p>
+        </div>
+    </div>
+    
+    <div class="footer">
+        <p>✨ Powered by <strong>OpenAI GPT-4o-mini</strong></p>
+        <p>🤖 Generación automática 24/7 con GitHub Actions</p>
+        <p>💡 Cada idea es única y validada por IA</p>
+    </div>
+    
+    <script>
+        let allIdeas = [];
+        
+        async function loadIdeas() {
+            try {
+                const response = await fetch('ideas-list.json');
+                if (!response.ok) {
+                    document.getElementById('loading').style.display = 'none';
+                    document.getElementById('no-ideas').style.display = 'block';
+                    return;
+                }
+                
+                allIdeas = await response.json();
+                
+                if (allIdeas.length === 0) {
+                    document.getElementById('loading').style.display = 'none';
+                    document.getElementById('no-ideas').style.display = 'block';
+                    return;
+                }
+                
+                updateStats();
+                filterIdeas();
+                document.getElementById('loading').style.display = 'none';
+                
+            } catch (error) {
+                console.error('Error cargando ideas:', error);
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('no-ideas').style.display = 'block';
+            }
+        }
+        
+        function updateStats() {
+            const totalIdeas = allIdeas.length;
+            const avgScore = totalIdeas > 0 
+                ? Math.round(allIdeas.reduce((sum, idea) => sum + idea.score, 0) / totalIdeas)
+                : 0;
+            const bestScore = totalIdeas > 0 
+                ? Math.max(...allIdeas.map(i => i.score))
+                : 0;
+            
+            document.getElementById('total-ideas').textContent = totalIdeas;
+            document.getElementById('avg-score').textContent = avgScore;
+            document.getElementById('best-score').textContent = bestScore;
+        }
+        
+        function filterIdeas() {
+            const typeFilter = document.getElementById('filter-type').value;
+            const sortBy = document.getElementById('sort-by').value;
+            const searchTerm = document.getElementById('search').value.toLowerCase();
+            
+            let filtered = [...allIdeas];
+            
+            // Filtrar por tipo
+            if (typeFilter) {
+                filtered = filtered.filter(idea => idea.tipo === typeFilter);
+            }
+            
+            // Filtrar por búsqueda
+            if (searchTerm) {
+                filtered = filtered.filter(idea => 
+                    idea.nombre.toLowerCase().includes(searchTerm) ||
+                    idea.resumen.toLowerCase().includes(searchTerm)
+                );
+            }
+            
+            // Ordenar
+            filtered.sort((a, b) => {
+                switch(sortBy) {
+                    case 'score-desc':
+                        return b.score - a.score;
+                    case 'score-asc':
+                        return a.score - b.score;
+                    case 'date-desc':
+                        return b.nombre.localeCompare(a.nombre);
+                    case 'date-asc':
+                        return a.nombre.localeCompare(b.nombre);
+                    default:
+                        return 0;
+                }
+            });
+            
+            displayIdeas(filtered);
+        }
+        
+        function displayIdeas(ideas) {
+            const grid = document.getElementById('ideas-grid');
+            
+            if (ideas.length === 0) {
+                grid.innerHTML = '<div class="no-ideas"><h3>🔍 No se encontraron ideas</h3><p>Intenta con otros filtros</p></div>';
+                return;
+            }
+            
+            grid.innerHTML = ideas.map(idea => `
+                <div class="idea-card" onclick="window.location.href='${idea.landing_url}'">
+                    <h2>${escapeHtml(idea.nombre)}</h2>
+                    <span class="type-badge">${escapeHtml(idea.tipo)}</span>
+                    <p>${escapeHtml(idea.resumen)}</p>
+                    <div class="score-container">
+                        <span class="score">${idea.score}/100</span>
+                        <a href="${idea.landing_url}" class="view-link" onclick="event.stopPropagation()">
+                            Ver detalles →
+                        </a>
+                    </div>
+                </div>
+            `).join('');
+        }
+        
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+        
+        // Cargar ideas al iniciar
+        loadIdeas();
+        
+        // Recargar cada 5 minutos para ver nuevas ideas
+        setInterval(loadIdeas, 5 * 60 * 1000);
+    </script>
+</body>
+</html>
