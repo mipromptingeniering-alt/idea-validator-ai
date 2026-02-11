@@ -362,11 +362,6 @@ class IdeaTracker:
 
         self.save_history()
 
-class LandingGenerator:
-    """Genera landing profesional - YA NO SE USA (GitHub Pages usa su propio generador)"""
-    # Esta clase se mantiene por compatibilidad pero no se usa
-    pass
-
 class ContinuousGeneratorAISmart:
     """Sistema completo inteligente"""
 
@@ -628,8 +623,19 @@ class ContinuousGeneratorAISmart:
         print(f"   Min score: {self.min_score}")
         print(f"   Intervalo: {self.interval}s ({self.interval//60} min)")
         print(f"   Auto-deploy: {'✅' if self.auto_deploy else '❌'}")
+        print()
+        
+        # PARA GITHUB ACTIONS: Solo generar UNA idea y salir
+        if os.getenv('GITHUB_ACTIONS') == 'true':
+            print("🤖 Modo GitHub Actions: Generando UNA idea...")
+            self.run_iteration()
+            print("\\n✅ Idea generada exitosamente")
+            print("⏰ El workflow se ejecutará automáticamente cada 15 min")
+            return
+        
+        # MODO LOCAL: Bucle continuo
         print(f"   Presiona Ctrl+C para detener\\n")
-
+        
         # Primera iteración inmediata
         self.run_iteration()
 
