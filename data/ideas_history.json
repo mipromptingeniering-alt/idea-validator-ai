@@ -27,12 +27,20 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-10T23:44:54.529682"
+    },
+    {
+      "nombre": "SociaBot",
+      "descripcion": "SociaBot permite a las pymes crear, programar y publicar contenido en múltiples redes sociales desde una única plataforma, mientras que un chatbot AI responde automáticamente a preguntas comunes y comentarios de los clientes.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-11T12:59:26.642576"
     }
   ],
   "nombres_usados": [
     "SocialBoost",
     "SocialEase",
     "TeamPulse",
-    "TimeMaster"
+    "TimeMaster",
+    "SociaBot"
   ]
 }

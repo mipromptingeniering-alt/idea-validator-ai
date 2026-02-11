@@ -1,0 +1,72 @@
+[
+  {
+    "nombre": "TeamPulse",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de equipos remotos que combina productividad con bienestar emocional.",
+    "score": 80,
+    "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
+  },
+  {
+    "nombre": "ProductHuntTracker",
+    "tipo": "Extension",
+    "resumen": "Chrome extension: Notifica nuevos productos en tu nicho",
+    "score": 78,
+    "landing_url": "nan"
+  },
+  {
+    "nombre": "SocialEase",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de redes sociales diseñada específicamente para PYMES, que ofrece automatización de publicaciones y análisis de rendimiento...",
+    "score": 76,
+    "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
+  },
+  {
+    "nombre": "TimeMaster",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de tiempo y proyectos diseñada específicamente para pequeños emprendedores y freelancers.",
+    "score": 75,
+    "landing_url": "https://idea-idea-20260210234451-fyyvkimjx-idearias-projects.vercel.app"
+  },
+  {
+    "nombre": "SocialBoost",
+    "tipo": "SaaS",
+    "resumen": "Herramienta de gestión de redes sociales automatizada para PYMEs, que optimiza la creación y publicación de contenido.",
+    "score": 75,
+    "landing_url": "https://idea-idea-20260210230254-ktb3nx9g8-idearias-projects.vercel.app"
+  },
+  {
+    "nombre": "TwitterThreadMaker",
+    "tipo": "MicroSaaS",
+    "resumen": "MicroSaaS: Convierte blog post en thread optimizado",
+    "score": 72,
+    "landing_url": "nan"
+  },
+  {
+    "nombre": "RemoteTeamManagementAI",
+    "tipo": "SaaS",
+    "resumen": "Para Managers de equipos remotos 5-20 personas: Dashboard que mide output, no tiempo online",
+    "score": 70,
+    "landing_url": "nan"
+  },
+  {
+    "nombre": "YouTubeSummaryAI",
+    "tipo": "Extension",
+    "resumen": "Chrome extension: AI resume videos en bullet points",
+    "score": 63,
+    "landing_url": "nan"
+  },
+  {
+    "nombre": "YouTubeSummaryAI",
+    "tipo": "Extension",
+    "resumen": "Chrome extension: AI resume videos en bullet points",
+    "score": 63,
+    "landing_url": "nan"
+  },
+  {
+    "nombre": "PodcastShowNotes",
+    "tipo": "MicroSaaS",
+    "resumen": "MicroSaaS: AI genera show notes desde audio en 2 min",
+    "score": 62,
+    "landing_url": "nan"
+  }
+]
