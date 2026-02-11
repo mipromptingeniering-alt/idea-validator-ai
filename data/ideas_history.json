@@ -55,6 +55,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-11T18:43:55.122653"
+    },
+    {
+      "nombre": "TimeOptimize",
+      "descripcion": "TimeOptimize combina un calendario, un gestor de tareas y analíticas de tiempo en una única plataforma. Utiliza inteligencia artificial para ofrecer recomendaciones personalizadas, ayudar a priorizar tareas y mejorar la gestión del tiempo. Además, incluye recordatorios y notificaciones automáticas para mantener a los usuarios enfocados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-11T20:06:19.504185"
     }
   ],
   "nombres_usados": [
@@ -65,6 +72,7 @@
     "SociaBot",
     "TaskBill",
     "Pymex CRM",
-    "CollabTime"
+    "CollabTime",
+    "TimeOptimize"
   ]
 }

@@ -24,6 +24,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260211184355",
+    "nombre": "CollabTime",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral que combina gestión del tiempo, tareas y colaboración para equipos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260211184355.html"
+  },
+  {
     "id": "IDEA-20260211153945",
     "nombre": "Pymex CRM",
     "tipo": "SaaS",
