@@ -8,6 +8,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260211215458",
+    "nombre": "MarketerAI",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de marketing digital que utiliza inteligencia artificial para ayudar a emprendedores y pequeñas empresas a crear y gestionar campañas e...",
+    "score": 78,
+    "landing_url": "IDEA-20260211215458.html"
+  },
+  {
     "id": "EXT-20260210220018",
     "nombre": "ProductHuntTracker",
     "tipo": "Extension",

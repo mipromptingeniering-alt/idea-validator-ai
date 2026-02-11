@@ -69,6 +69,13 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-02-11T21:54:58.861425"
+    },
+    {
+      "nombre": "Contable Facil",
+      "descripcion": "Contable Facil es una solución en la nube que permite a pequeñas empresas gestionar su contabilidad de manera sencilla, utilizando una interfaz amigable y con herramientas educativas que ayudan a comprender mejor la situación financiera.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-11T23:04:11.500118"
     }
   ],
   "nombres_usados": [
@@ -81,6 +88,7 @@
     "Pymex CRM",
     "CollabTime",
     "TimeOptimize",
-    "MarketerAI"
+    "MarketerAI",
+    "Contable Facil"
   ]
 }
