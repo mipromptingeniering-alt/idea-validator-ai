@@ -24,6 +24,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260211135319",
+    "nombre": "TaskBill",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral que combina gestión de tareas y facturación para emprendedores y freelancers....",
+    "score": 75,
+    "landing_url": "IDEA-20260211135319.html"
+  },
+  {
     "id": "IDEA-20260211125926",
     "nombre": "SociaBot",
     "tipo": "SaaS",

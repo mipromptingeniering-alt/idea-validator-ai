@@ -41,6 +41,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-11T13:53:19.045250"
+    },
+    {
+      "nombre": "Pymex CRM",
+      "descripcion": "Pymex CRM ofrece una solución integral para que las pequeñas y medianas empresas gestionen sus interacciones con clientes, incluyendo seguimiento de contactos, gestión de tareas y un sistema de mensajes integrado que permite una comunicación directa.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-11T15:39:45.581548"
     }
   ],
   "nombres_usados": [
@@ -49,6 +56,7 @@
     "TeamPulse",
     "TimeMaster",
     "SociaBot",
-    "TaskBill"
+    "TaskBill",
+    "Pymex CRM"
   ]
 }
