@@ -139,6 +139,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-12T21:06:03.586960"
+    },
+    {
+      "nombre": "MindManage",
+      "descripcion": "MindManage es una herramienta de gestión diseñada específicamente para terapeutas y profesionales de la salud mental, que les permite organizar citas, enviar recordatorios automáticos a sus clientes y hacer un seguimiento de su progreso de manera eficiente. La plataforma también incluirá recursos educativos para que los profesionales estén actualizados en su campo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-12T22:03:16.496889"
     }
   ],
   "nombres_usados": [
@@ -161,6 +168,7 @@
     "WellNest",
     "Productividad Personal Pro",
     "Freelancer Hub",
-    "FreelanceFlow"
+    "FreelanceFlow",
+    "MindManage"
   ]
 }

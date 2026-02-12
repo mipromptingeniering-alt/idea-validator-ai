@@ -32,6 +32,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260212210603",
+    "nombre": "FreelanceFlow",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de proyectos diseñada específicamente para freelancers, que combina seguimiento de tareas, comunicación con clientes y gest...",
+    "score": 75,
+    "landing_url": "IDEA-20260212210603.html"
+  },
+  {
     "id": "IDEA-20260212181056",
     "nombre": "Productividad Personal Pro",
     "tipo": "SaaS",
