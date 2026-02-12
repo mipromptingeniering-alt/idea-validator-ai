@@ -104,6 +104,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-12T10:30:29.587802"
+    },
+    {
+      "nombre": "PyMe Online",
+      "descripcion": "PyMe Online es una solución basada en la nube que permite a las pequeñas y medianas empresas crear, gestionar y optimizar su presencia en línea. La plataforma ofrece herramientas para diseñar sitios web atractivos, gestionar redes sociales y realizar ventas en línea, todo desde un único panel de control.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-12T12:04:53.694384"
     }
   ],
   "nombres_usados": [
@@ -121,6 +128,7 @@
     "Invengo",
     "ContentGenius",
     "TeamBond",
-    "FocusBoost"
+    "FocusBoost",
+    "PyMe Online"
   ]
 }
