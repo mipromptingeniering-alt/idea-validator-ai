@@ -146,6 +146,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-12T22:03:16.496889"
+    },
+    {
+      "nombre": "FocusMate",
+      "descripcion": "FocusMate combina metodologías probadas de gestión del tiempo como Pomodoro y GTD, con un sistema de seguimiento de hábitos que aprende del comportamiento del usuario. Ofrece recomendaciones de enfoque personalizadas, recordatorios y análisis de productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-12T23:03:03.595488"
     }
   ],
   "nombres_usados": [
@@ -169,6 +176,7 @@
     "Productividad Personal Pro",
     "Freelancer Hub",
     "FreelanceFlow",
-    "MindManage"
+    "MindManage",
+    "FocusMate"
   ]
 }

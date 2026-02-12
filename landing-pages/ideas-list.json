@@ -32,6 +32,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260212220316",
+    "nombre": "MindManage",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS para la gestión de prácticas de bienestar mental que incluye gestión de citas, recordatorios, y seguimiento de clientes....",
+    "score": 75,
+    "landing_url": "IDEA-20260212220316.html"
+  },
+  {
     "id": "IDEA-20260212210603",
     "nombre": "FreelanceFlow",
     "tipo": "SaaS",
