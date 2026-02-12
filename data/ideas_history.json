@@ -125,6 +125,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-12T18:10:56.180954"
+    },
+    {
+      "nombre": "Freelancer Hub",
+      "descripcion": "Freelancer Hub es una herramienta que permite a los freelancers administrar sus proyectos, realizar un seguimiento de su tiempo y gestionar sus ingresos de forma sencilla y eficaz. Ofrece reportes de productividad y permite la integración con plataformas de pago como PayPal y Stripe.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-02-12T19:55:23.868513"
     }
   ],
   "nombres_usados": [
@@ -145,6 +152,7 @@
     "FocusBoost",
     "PyMe Online",
     "WellNest",
-    "Productividad Personal Pro"
+    "Productividad Personal Pro",
+    "Freelancer Hub"
   ]
 }

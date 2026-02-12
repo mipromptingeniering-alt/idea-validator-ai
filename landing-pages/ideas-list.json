@@ -32,6 +32,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260212181056",
+    "nombre": "Productividad Personal Pro",
+    "tipo": "SaaS",
+    "resumen": "Plataforma que ayuda a trabajadores remotos a gestionar su tiempo y aumentar su productividad a través de análisis de hábitos y recomendaciones person...",
+    "score": 75,
+    "landing_url": "IDEA-20260212181056.html"
+  },
+  {
     "id": "IDEA-20260212151038",
     "nombre": "WellNest",
     "tipo": "SaaS",
