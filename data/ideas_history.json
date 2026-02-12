@@ -90,6 +90,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-12T05:19:37.750544"
+    },
+    {
+      "nombre": "TeamBond",
+      "descripcion": "TeamBond es una herramienta que permite a los equipos realizar mini-reuniones de 10 a 15 minutos, combinando video, chat y dinámicas de grupo. La plataforma incluye templatede actividades, encuestas rápidas y espacios para compartir logros, lo que fomenta la interacción y mejora el bemalong de los empleados.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-02-12T07:59:55.385251"
     }
   ],
   "nombres_usados": [
@@ -105,6 +112,7 @@
     "MarketerAI",
     "Contable Facil",
     "Invengo",
-    "ContentGenius"
+    "ContentGenius",
+    "TeamBond"
   ]
 }
