@@ -118,6 +118,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-12T15:10:38.363020"
+    },
+    {
+      "nombre": "Productividad Personal Pro",
+      "descripcion": "Productividad Personal Pro es una herramienta que permite a los usuarios registrar su tiempo en diferentes tareas, visualizar su rendimiento a lo largo de la semana y recibir consejos personalizados para optimizar su día a día. Además, facilita la integración de técnicas de gestión del tiempo, como la técnica Pomodoro y la planificación semanal.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-12T18:10:56.180954"
     }
   ],
   "nombres_usados": [
@@ -137,6 +144,7 @@
     "TeamBond",
     "FocusBoost",
     "PyMe Online",
-    "WellNest"
+    "WellNest",
+    "Productividad Personal Pro"
   ]
 }
