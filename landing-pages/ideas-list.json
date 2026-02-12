@@ -152,6 +152,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260212195523",
+    "nombre": "Freelancer Hub",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para freelancers que combina gestión de proyectos, control de tiempo y procesamiento de pagos....",
+    "score": 70,
+    "landing_url": "IDEA-20260212195523.html"
+  },
+  {
     "id": "IDEA-20260212075955",
     "nombre": "TeamBond",
     "tipo": "SaaS",

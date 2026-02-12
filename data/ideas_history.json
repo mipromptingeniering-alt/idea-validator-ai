@@ -132,6 +132,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-02-12T19:55:23.868513"
+    },
+    {
+      "nombre": "FreelanceFlow",
+      "descripcion": "FreelanceFlow permite a los freelancers organizar sus proyectos, comunicarse con sus clientes de forma directa a través de la plataforma y gestionar los pagos de manera eficiente, todo en un solo lugar. La plataforma prioriza la facilidad de uso y la versatilidad, facilitando a los usuarios mantenerse organizados y conectados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-12T21:06:03.586960"
     }
   ],
   "nombres_usados": [
@@ -153,6 +160,7 @@
     "PyMe Online",
     "WellNest",
     "Productividad Personal Pro",
-    "Freelancer Hub"
+    "Freelancer Hub",
+    "FreelanceFlow"
   ]
 }
