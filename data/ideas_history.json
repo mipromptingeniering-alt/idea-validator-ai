@@ -97,6 +97,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-02-12T07:59:55.385251"
+    },
+    {
+      "nombre": "FocusBoost",
+      "descripcion": "FocusBoost es una plataforma en línea que ayuda a los freelancers a gestionar su tiempo y tareas utilizando enfoques modernos de productividad. A través de técnicas de Pomodoro, gamificación y un sistema de recompensas, los usuarios pueden mejorar su enfoque y efectividad laboral. Además, permite la integración con otras herramientas de gestión de proyectos y calendarios.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-12T10:30:29.587802"
     }
   ],
   "nombres_usados": [
@@ -113,6 +120,7 @@
     "Contable Facil",
     "Invengo",
     "ContentGenius",
-    "TeamBond"
+    "TeamBond",
+    "FocusBoost"
   ]
 }

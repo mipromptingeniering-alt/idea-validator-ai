@@ -120,6 +120,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260212075955",
+    "nombre": "TeamBond",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de colaboración digital que facilita mini-reuniones y actividades de equipo para mejorar la comunicación y cohesión en entornos de trab...",
+    "score": 70,
+    "landing_url": "IDEA-20260212075955.html"
+  },
+  {
     "id": "IDEA-20260210213459",
     "nombre": "RemoteTeamManagementAI",
     "tipo": "SaaS",
