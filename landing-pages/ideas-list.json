@@ -32,6 +32,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260211235822",
+    "nombre": "Invengo",
+    "tipo": "SaaS",
+    "resumen": "Invengo es una plataforma de gestión de inventario diseñada específicamente para pequeñas y medianas empresas, permitiéndoles optimizar su cadena de s...",
+    "score": 75,
+    "landing_url": "IDEA-20260211235822.html"
+  },
+  {
     "id": "IDEA-20260211230411",
     "nombre": "Contable Facil",
     "tipo": "SaaS",

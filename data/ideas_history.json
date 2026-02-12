@@ -83,6 +83,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-11T23:58:22.885164"
+    },
+    {
+      "nombre": "ContentGenius",
+      "descripcion": "ContentGenius permite a los emprendedores ingresar información básica sobre su negocio y su audiencia objetivo. A través de algoritmos de IA, genera automáticamente publicaciones de texto e imágenes para plataformas como Instagram, Facebook y Twitter, ahorrando tiempo y mejorando la calidad del contenido publicado.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-12T05:19:37.750544"
     }
   ],
   "nombres_usados": [
@@ -97,6 +104,7 @@
     "TimeOptimize",
     "MarketerAI",
     "Contable Facil",
-    "Invengo"
+    "Invengo",
+    "ContentGenius"
   ]
 }
