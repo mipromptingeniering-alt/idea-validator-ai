@@ -111,6 +111,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-12T12:04:53.694384"
+    },
+    {
+      "nombre": "WellNest",
+      "descripcion": "WellNest es una herramienta SaaS que ayuda a los trabajadores remotos a gestionar su tiempo de manera eficaz mientras promueve la salud mental a través de actividades de bienestar, meditación guiada y sesiones de 'check-in' grupales. Los usuarios pueden programar su tiempo de trabajo y bienestar en la misma plataforma, fomentando un equilibrio saludable entre ambas áreas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-12T15:10:38.363020"
     }
   ],
   "nombres_usados": [
@@ -129,6 +136,7 @@
     "ContentGenius",
     "TeamBond",
     "FocusBoost",
-    "PyMe Online"
+    "PyMe Online",
+    "WellNest"
   ]
 }
