@@ -160,6 +160,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-13T00:00:50.043339"
+    },
+    {
+      "nombre": "Finanzas Fácil",
+      "descripcion": "Finanzas Fácil permite a los usuarios gestionar ingresos, gastos, presupuestos y flujo de caja a través de una interfaz intuitiva y fácil de usar. Ofrece informes personalizados y recordatorios de pagos, así como la opción de generar facturas automáticas y llevar un registro de las cuentas por cobrar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-13T05:15:48.460056"
     }
   ],
   "nombres_usados": [
@@ -185,6 +192,7 @@
     "FreelanceFlow",
     "MindManage",
     "FocusMate",
-    "Casha"
+    "Casha",
+    "Finanzas Fácil"
   ]
 }

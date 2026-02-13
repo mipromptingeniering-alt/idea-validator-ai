@@ -32,6 +32,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260213000049",
+    "nombre": "Casha",
+    "tipo": "SaaS",
+    "resumen": "Casha es una plataforma de gestión de flujo de caja diseñada específicamente para pequeñas y medianas empresas, que permite a los usuarios prever y op...",
+    "score": 75,
+    "landing_url": "IDEA-20260213000049.html"
+  },
+  {
     "id": "IDEA-20260212230303",
     "nombre": "FocusMate",
     "tipo": "SaaS",
