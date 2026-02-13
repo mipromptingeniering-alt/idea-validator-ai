@@ -32,6 +32,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260212230303",
+    "nombre": "FocusMate",
+    "tipo": "SaaS",
+    "resumen": "FocusMate es un asistente de productividad basado en la web que ayuda a los trabajadores remotos a optimizar su tiempo mediante un enfoque personaliza...",
+    "score": 75,
+    "landing_url": "IDEA-20260212230303.html"
+  },
+  {
     "id": "IDEA-20260212220316",
     "nombre": "MindManage",
     "tipo": "SaaS",

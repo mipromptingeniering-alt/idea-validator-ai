@@ -153,6 +153,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-12T23:03:03.595488"
+    },
+    {
+      "nombre": "Casha",
+      "descripcion": "Casha permite a las PYMES llevar un control efectivo de sus ingresos y gastos, predecir flujos de caja futuros, y tomar decisiones informadas sobre sus finanzas de manera sencilla. La plataforma incluye automatización de reportes, alertas personalizadas, y recomendaciones basadas en los datos ingresados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-13T00:00:50.043339"
     }
   ],
   "nombres_usados": [
@@ -177,6 +184,7 @@
     "Freelancer Hub",
     "FreelanceFlow",
     "MindManage",
-    "FocusMate"
+    "FocusMate",
+    "Casha"
   ]
 }
