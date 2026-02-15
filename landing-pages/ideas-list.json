@@ -40,6 +40,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260215215002",
+    "nombre": "WellTime",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo que integra técnicas de productividad y bienestar emocional....",
+    "score": 75,
+    "landing_url": "IDEA-20260215215002.html"
+  },
+  {
     "id": "IDEA-20260215205608",
     "nombre": "FinanciaSimples",
     "tipo": "SaaS",

@@ -265,6 +265,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-15T21:50:02.905521"
+    },
+    {
+      "nombre": "MarketSimplify",
+      "descripcion": "MarketSimplify es una herramienta de marketing digital diseñada específicamente para pequeñas y medianas empresas. Combina la gestión de redes sociales y el email marketing en una interfaz fácil de usar, permitiendo a los empresarios crear, programar y analizar campañas sin complicaciones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-15T22:56:30.198343"
     }
   ],
   "nombres_usados": [
@@ -305,6 +312,7 @@
     "PymeDigital",
     "Freelance Time Master",
     "FinanciaSimples",
-    "WellTime"
+    "WellTime",
+    "MarketSimplify"
   ]
 }
