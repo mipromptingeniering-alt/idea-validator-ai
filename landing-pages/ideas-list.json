@@ -32,6 +32,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260215115855",
+    "nombre": "CohesionHub",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de comunicación y colaboración centrada en mejorar la cohesión del equipo en entornos de trabajo remoto....",
+    "score": 75,
+    "landing_url": "IDEA-20260215115855.html"
+  },
+  {
     "id": "IDEA-20260215114508",
     "nombre": "MentalSync",
     "tipo": "SaaS",

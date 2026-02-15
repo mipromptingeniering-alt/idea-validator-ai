@@ -202,6 +202,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-15T11:58:55.139480"
+    },
+    {
+      "nombre": "Creative Hub",
+      "descripcion": "Creative Hub es un software basado en la nube que permite a los diseñadores y creadores de contenido buscar, guardar y gestionar recursos visuales como imágenes, videos y fuentes. Ofrece características como almacenamiento en la nube, organización automática de archivos, y recomendaciones personalizadas basadas en proyectos anteriores.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-15T13:57:51.469567"
     }
   ],
   "nombres_usados": [
@@ -233,6 +240,7 @@
     "TeamSync",
     "Freelance Manager Pro",
     "MentalSync",
-    "CohesionHub"
+    "CohesionHub",
+    "Creative Hub"
   ]
 }
