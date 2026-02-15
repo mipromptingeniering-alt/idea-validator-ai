@@ -237,6 +237,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-15T17:56:44.983929"
+    },
+    {
+      "nombre": "PymeDigital",
+      "descripcion": "PymeDigital es una solución SaaS diseñada para ayudar a pequeñas y medianas empresas a crear, gestionar y optimizar su presencia en línea. Incluye herramientas para crear sitios web, gestionar redes sociales y analizar el rendimiento digital. Todo en un único lugar y con precios accesibles.",
+      "tipo": "SaaS",
+      "score": 76,
+      "fecha": "2026-02-15T19:09:37.149524"
     }
   ],
   "nombres_usados": [
@@ -273,6 +280,7 @@
     "MarketPulse",
     "CreativeCollab",
     "TimeTune",
-    "FreelanceTime"
+    "FreelanceTime",
+    "PymeDigital"
   ]
 }
