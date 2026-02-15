@@ -40,6 +40,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260215205608",
+    "nombre": "FinanciaSimples",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de contabilidad y previsión financiera diseñada para pequeñas empresas y emprendedores....",
+    "score": 75,
+    "landing_url": "IDEA-20260215205608.html"
+  },
+  {
     "id": "IDEA-20260215195033",
     "nombre": "Freelance Time Master",
     "tipo": "SaaS",

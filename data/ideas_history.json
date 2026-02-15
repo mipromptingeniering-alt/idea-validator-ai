@@ -258,6 +258,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-15T20:56:08.684059"
+    },
+    {
+      "nombre": "WellTime",
+      "descripcion": "WellTime es una aplicación que ayuda a los usuarios a gestionar su tiempo de manera eficiente, al mismo tiempo que promueve el bienestar emocional y mental. Ofrece recordatorios de pausas, técnicas de respiración, y un análisis semanal del tiempo trabajado versus el tiempo de descanso, creando una experiencia equilibrada.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-15T21:50:02.905521"
     }
   ],
   "nombres_usados": [
@@ -297,6 +304,7 @@
     "FreelanceTime",
     "PymeDigital",
     "Freelance Time Master",
-    "FinanciaSimples"
+    "FinanciaSimples",
+    "WellTime"
   ]
 }
