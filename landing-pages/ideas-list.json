@@ -32,6 +32,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260215170113",
+    "nombre": "TimeTune",
+    "tipo": "SaaS",
+    "resumen": "Herramienta de gestión del tiempo que combina la planificación de tareas con técnicas de gamificación....",
+    "score": 75,
+    "landing_url": "IDEA-20260215170113.html"
+  },
+  {
     "id": "IDEA-20260215155134",
     "nombre": "CreativeCollab",
     "tipo": "SaaS",

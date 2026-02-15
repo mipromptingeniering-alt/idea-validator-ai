@@ -230,6 +230,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-15T17:01:13.319623"
+    },
+    {
+      "nombre": "FreelanceTime",
+      "descripcion": "FreelanceTime es una herramienta que no solo ayuda a los freelancers a organizar su trabajo, sino que también usa inteligencia artificial para ofrecer recomendaciones personalizadas sobre la gestión del tiempo, priorización de tareas y técnicas de productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-15T17:56:44.983929"
     }
   ],
   "nombres_usados": [
@@ -265,6 +272,7 @@
     "Creative Hub",
     "MarketPulse",
     "CreativeCollab",
-    "TimeTune"
+    "TimeTune",
+    "FreelanceTime"
   ]
 }
