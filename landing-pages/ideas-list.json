@@ -40,6 +40,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260215225630",
+    "nombre": "MarketSimplify",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma todo-en-uno para que las PYMES gestionen sus redes sociales y campañas de email marketing de forma sencilla....",
+    "score": 75,
+    "landing_url": "IDEA-20260215225630.html"
+  },
+  {
     "id": "IDEA-20260215215002",
     "nombre": "WellTime",
     "tipo": "SaaS",

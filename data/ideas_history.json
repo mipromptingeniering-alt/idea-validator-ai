@@ -272,6 +272,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-15T22:56:30.198343"
+    },
+    {
+      "nombre": "RecomendaMe",
+      "descripcion": "RecomendaMe es una plataforma SaaS que utiliza inteligencia artificial para analizar el comportamiento del usuario y sus preferencias, proporcionando recomendaciones de productos personalizadas a través de un sistema conversacional y fácil de usar.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-02-15T23:54:46.155461"
     }
   ],
   "nombres_usados": [
@@ -313,6 +320,7 @@
     "Freelance Time Master",
     "FinanciaSimples",
     "WellTime",
-    "MarketSimplify"
+    "MarketSimplify",
+    "RecomendaMe"
   ]
 }
