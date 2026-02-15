@@ -181,6 +181,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-15T09:59:39.277657"
+    },
+    {
+      "nombre": "Freelance Manager Pro",
+      "descripcion": "Freelance Manager Pro es una herramienta diseñada para ayudar a los freelancers a organizar su trabajo de manera más eficiente. Permite el seguimiento del tiempo, la gestión de proyectos y la creación de facturas, todo en un solo lugar. La plataforma está diseñada para ser fácil de usar y accesible desde cualquier dispositivo, facilitando la vida laboral de los autónomos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-15T10:58:17.406315"
     }
   ],
   "nombres_usados": [
@@ -209,6 +216,7 @@
     "Casha",
     "Finanzas Fácil",
     "TimeFlow",
-    "TeamSync"
+    "TeamSync",
+    "Freelance Manager Pro"
   ]
 }

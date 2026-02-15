@@ -32,6 +32,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260215095939",
+    "nombre": "TeamSync",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de tareas y colaboración que integra chat, tareas y almacenamiento en la nube para pequeñas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260215095939.html"
+  },
+  {
     "id": "IDEA-20260215091153",
     "nombre": "TimeFlow",
     "tipo": "SaaS",
