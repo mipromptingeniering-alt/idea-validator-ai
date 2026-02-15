@@ -32,6 +32,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260215105817",
+    "nombre": "Freelance Manager Pro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para freelancers que combina gestión de tiempo, proyectos y facturación en una sola herramienta....",
+    "score": 75,
+    "landing_url": "IDEA-20260215105817.html"
+  },
+  {
     "id": "IDEA-20260215095939",
     "nombre": "TeamSync",
     "tipo": "SaaS",

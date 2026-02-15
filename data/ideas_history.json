@@ -188,6 +188,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-15T10:58:17.406315"
+    },
+    {
+      "nombre": "MentalSync",
+      "descripcion": "MentalSync es un software diseñado específicamente para profesionales de la salud mental que facilita la gestión de citas, el seguimiento de pacientes y la gestión de notas clínicas. Con un enfoque en la usabilidad y la personalización, los terapeutas pueden administrar su práctica de manera eficiente y mantener un contacto fluido con sus pacientes.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-15T11:45:08.375206"
     }
   ],
   "nombres_usados": [
@@ -217,6 +224,7 @@
     "Finanzas Fácil",
     "TimeFlow",
     "TeamSync",
-    "Freelance Manager Pro"
+    "Freelance Manager Pro",
+    "MentalSync"
   ]
 }
