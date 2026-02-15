@@ -195,6 +195,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-15T11:45:08.375206"
+    },
+    {
+      "nombre": "CohesionHub",
+      "descripcion": "CohesionHub es un software de gestión colaborativa que no solo permite la comunicación y la gestión de proyectos, sino que también incluye herramientas interactivas de team-building y bienestar para fomentar un ambiente de trabajo positivo, impulsando la productividad y reduciendo el aislamiento en equipos remotos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-15T11:58:55.139480"
     }
   ],
   "nombres_usados": [
@@ -225,6 +232,7 @@
     "TimeFlow",
     "TeamSync",
     "Freelance Manager Pro",
-    "MentalSync"
+    "MentalSync",
+    "CohesionHub"
   ]
 }

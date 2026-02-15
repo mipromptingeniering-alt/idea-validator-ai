@@ -32,6 +32,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260215114508",
+    "nombre": "MentalSync",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integrada para la gestión de citas y seguimiento de pacientes en salud mental....",
+    "score": 75,
+    "landing_url": "IDEA-20260215114508.html"
+  },
+  {
     "id": "IDEA-20260215105817",
     "nombre": "Freelance Manager Pro",
     "tipo": "SaaS",
