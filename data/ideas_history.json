@@ -244,6 +244,13 @@
       "tipo": "SaaS",
       "score": 76,
       "fecha": "2026-02-15T19:09:37.149524"
+    },
+    {
+      "nombre": "Freelance Time Master",
+      "descripcion": "Freelance Time Master permite a los usuarios planificar tareas, seguir el tiempo dedicado a cada proyecto, y obtener informes sobre su productividad. La aplicación también incluye recordatorios y notificaciones para mantener a los usuarios en el camino.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-15T19:50:33.692902"
     }
   ],
   "nombres_usados": [
@@ -281,6 +288,7 @@
     "CreativeCollab",
     "TimeTune",
     "FreelanceTime",
-    "PymeDigital"
+    "PymeDigital",
+    "Freelance Time Master"
   ]
 }

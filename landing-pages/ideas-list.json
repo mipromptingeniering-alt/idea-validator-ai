@@ -24,6 +24,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260215190937",
+    "nombre": "PymeDigital",
+    "tipo": "SaaS",
+    "resumen": "Plataforma todo-en-uno para que PYMES gestionen su presencia digital de manera eficiente y accesible....",
+    "score": 76,
+    "landing_url": "IDEA-20260215190937.html"
+  },
+  {
     "id": "IDEA-20260210231358",
     "nombre": "SocialEase",
     "tipo": "SaaS",
