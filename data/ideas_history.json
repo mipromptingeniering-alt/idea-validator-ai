@@ -251,6 +251,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-15T19:50:33.692902"
+    },
+    {
+      "nombre": "FinanciaSimples",
+      "descripcion": "FinanciaSimples es una plataforma SaaS que permite a las pequeñas empresas gestionar su contabilidad de manera intuitiva y simplificada, además de ofrecer predicciones financieras automáticas basadas en datos históricos y actuales, ayudando a tomar decisiones informadas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-15T20:56:08.684059"
     }
   ],
   "nombres_usados": [
@@ -289,6 +296,7 @@
     "TimeTune",
     "FreelanceTime",
     "PymeDigital",
-    "Freelance Time Master"
+    "Freelance Time Master",
+    "FinanciaSimples"
   ]
 }

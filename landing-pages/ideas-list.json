@@ -40,6 +40,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260215195033",
+    "nombre": "Freelance Time Master",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta todo-en-uno para que freelancers gestionen su tiempo, proyectos y productividad desde una única plataforma....",
+    "score": 75,
+    "landing_url": "IDEA-20260215195033.html"
+  },
+  {
     "id": "IDEA-20260215175644",
     "nombre": "FreelanceTime",
     "tipo": "SaaS",
