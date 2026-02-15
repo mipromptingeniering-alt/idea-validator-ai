@@ -209,6 +209,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-15T13:57:51.469567"
+    },
+    {
+      "nombre": "MarketPulse",
+      "descripcion": "MarketPulse permite a los profesionales del marketing consolidar datos de diferentes plataformas (redes sociales, email, PPC) en un solo lugar, utilizando inteligencia artificial para ofrecer análisis detallados y recomendaciones de optimización. La plataforma incluye dashboard interactivo, generación de informes y alertas en tiempo real sobre el rendimiento de las campañas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-15T14:58:57.839215"
     }
   ],
   "nombres_usados": [
@@ -241,6 +248,7 @@
     "Freelance Manager Pro",
     "MentalSync",
     "CohesionHub",
-    "Creative Hub"
+    "Creative Hub",
+    "MarketPulse"
   ]
 }
