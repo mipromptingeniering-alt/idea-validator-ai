@@ -32,6 +32,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260213051548",
+    "nombre": "Finanzas Fácil",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión financiera diseñada para freelancers y pequeños emprendedores que simplifica la administración de sus finanzas personales y ...",
+    "score": 75,
+    "landing_url": "IDEA-20260213051548.html"
+  },
+  {
     "id": "IDEA-20260213000049",
     "nombre": "Casha",
     "tipo": "SaaS",

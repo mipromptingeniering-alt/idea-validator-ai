@@ -167,6 +167,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-13T05:15:48.460056"
+    },
+    {
+      "nombre": "TimeFlow",
+      "descripcion": "TimeFlow permite a los usuarios gestionar múltiples proyectos y tareas, establecer recordatorios, y visualizar su tiempo de trabajo con gráficos y reportes. También incluye una función de facturación automática basada en el tiempo registrado por proyecto.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-15T09:11:53.859237"
     }
   ],
   "nombres_usados": [
@@ -193,6 +200,7 @@
     "MindManage",
     "FocusMate",
     "Casha",
-    "Finanzas Fácil"
+    "Finanzas Fácil",
+    "TimeFlow"
   ]
 }
