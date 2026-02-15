@@ -32,6 +32,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260215155134",
+    "nombre": "CreativeCollab",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de colaboración en tiempo real para creativos donde pueden compartir y recibir feedback en sus proyectos....",
+    "score": 75,
+    "landing_url": "IDEA-20260215155134.html"
+  },
+  {
     "id": "IDEA-20260215145857",
     "nombre": "MarketPulse",
     "tipo": "SaaS",
