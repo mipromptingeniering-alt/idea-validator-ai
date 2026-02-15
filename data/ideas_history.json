@@ -216,6 +216,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-15T14:58:57.839215"
+    },
+    {
+      "nombre": "CreativeCollab",
+      "descripcion": "CreativeCollab es una herramienta donde los creativos pueden presentar sus trabajos, recibir retroalimentación en tiempo real de otros profesionales, organizar sesiones de brainstorming y participar en talleres interactivos. La plataforma incluye herramientas para la gestión de proyectos, comentarios de voz y video, y un sistema de votación para ideas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-15T15:51:34.720880"
     }
   ],
   "nombres_usados": [
@@ -249,6 +256,7 @@
     "MentalSync",
     "CohesionHub",
     "Creative Hub",
-    "MarketPulse"
+    "MarketPulse",
+    "CreativeCollab"
   ]
 }
