@@ -336,6 +336,14 @@
     "landing_url": "https://idea-idea-20260210230254-ktb3nx9g8-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260216160937",
+    "nombre": "Connectify",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que combina herramientas de colaboración con actividades interactivas y gamificadas para fomentar relaciones en equipos remotos....",
+    "score": 74,
+    "landing_url": "IDEA-20260216160937.html"
+  },
+  {
     "id": "IDEA-20260215235446",
     "nombre": "RecomendaMe",
     "tipo": "SaaS",

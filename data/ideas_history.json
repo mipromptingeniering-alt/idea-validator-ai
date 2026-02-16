@@ -314,6 +314,13 @@
       "tipo": "SaaS",
       "score": 74,
       "fecha": "2026-02-16T16:09:37.813807"
+    },
+    {
+      "nombre": "DataSmart",
+      "descripcion": "DataSmart permite a las PYMES integrar sus datos de diversas fuentes, analizarlos mediante herramientas de inteligencia artificial y generar informes visuales sin necesidad de conocimientos técnicos avanzados.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-02-16T18:03:29.497383"
     }
   ],
   "nombres_usados": [
@@ -361,6 +368,7 @@
     "ContentCraft",
     "FinPymes",
     "FinanciaFácil",
-    "Connectify"
+    "Connectify",
+    "DataSmart"
   ]
 }
