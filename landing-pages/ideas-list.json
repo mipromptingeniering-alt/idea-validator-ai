@@ -40,6 +40,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260216052311",
+    "nombre": "BalanceBuddy",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo que prioriza tareas según la energía y bienestar del usuario, promoviendo un equilibrio saludable entre trabajo y...",
+    "score": 75,
+    "landing_url": "IDEA-20260216052311.html"
+  },
+  {
     "id": "IDEA-20260215225630",
     "nombre": "MarketSimplify",
     "tipo": "SaaS",

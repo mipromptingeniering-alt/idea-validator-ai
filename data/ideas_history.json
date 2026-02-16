@@ -286,6 +286,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-16T05:23:11.345466"
+    },
+    {
+      "nombre": "ContentCraft",
+      "descripcion": "ContentCraft permite a los usuarios elegir entre una amplia variedad de plantillas de contenido y usar inteligencia artificial para personalizar textos, imágenes y formatos de manera sencilla. Ideal para quienes quieren mejorar su presencia online sin invertir grandes recursos ni tiempo en marketing.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-16T08:02:59.793506"
     }
   ],
   "nombres_usados": [
@@ -329,6 +336,7 @@
     "WellTime",
     "MarketSimplify",
     "RecomendaMe",
-    "BalanceBuddy"
+    "BalanceBuddy",
+    "ContentCraft"
   ]
 }
