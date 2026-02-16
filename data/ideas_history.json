@@ -335,6 +335,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-16T20:59:53.878474"
+    },
+    {
+      "nombre": "ColabHub",
+      "descripcion": "ColabHub es un software como servicio que integra gestión de tareas, comunicación en tiempo real y seguimiento del tiempo en un solo lugar, facilitando la colaboración eficaz entre equipos distribuidos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-16T21:56:19.826820"
     }
   ],
   "nombres_usados": [
@@ -385,6 +392,7 @@
     "Connectify",
     "DataSmart",
     "TimeSync",
-    "SocialGenius"
+    "SocialGenius",
+    "ColabHub"
   ]
 }
