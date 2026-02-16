@@ -300,6 +300,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-16T11:10:46.379364"
+    },
+    {
+      "nombre": "FinanciaFácil",
+      "descripcion": "FinanciaFácil permite a los usuarios gestionar su flujo de caja sin complicaciones. Mediante un interfaz intuitiva y herramientas de categorización automática, se ayuda a los usuarios a visualizar su situación financiera, facilitando la planificación y la toma de decisiones.",
+      "tipo": "SaaS",
+      "score": 80,
+      "fecha": "2026-02-16T14:13:32.539740"
     }
   ],
   "nombres_usados": [
@@ -345,6 +352,7 @@
     "RecomendaMe",
     "BalanceBuddy",
     "ContentCraft",
-    "FinPymes"
+    "FinPymes",
+    "FinanciaFácil"
   ]
 }

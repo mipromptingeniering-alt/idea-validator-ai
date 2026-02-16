@@ -40,6 +40,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260216111046",
+    "nombre": "FinPymes",
+    "tipo": "SaaS",
+    "resumen": "FinPymes es una herramienta de gestión financiera diseñada específicamente para pequeñas y medianas empresas, que ofrece funcionalidades personalizada...",
+    "score": 75,
+    "landing_url": "IDEA-20260216111046.html"
+  },
+  {
     "id": "IDEA-20260216080259",
     "nombre": "ContentCraft",
     "tipo": "SaaS",
