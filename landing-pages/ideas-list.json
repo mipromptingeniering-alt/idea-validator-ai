@@ -1,5 +1,13 @@
 [
   {
+    "id": "IDEA-20260216141332",
+    "nombre": "FinanciaFácil",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión financiera y contable para emprendedores y freelancers, que simplifica el seguimiento de gastos e ingresos....",
+    "score": 80,
+    "landing_url": "IDEA-20260216141332.html"
+  },
+  {
     "id": "IDEA-20260210232936",
     "nombre": "TeamPulse",
     "tipo": "SaaS",

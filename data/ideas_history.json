@@ -307,6 +307,13 @@
       "tipo": "SaaS",
       "score": 80,
       "fecha": "2026-02-16T14:13:32.539740"
+    },
+    {
+      "nombre": "Connectify",
+      "descripcion": "Connectify ofrece un espacio donde los miembros de un equipo pueden colaborar en proyectos mientras participan en actividades sociales gamificadas, como desafíos, juegos y dinámicas de equipo, que fomentan la construcción de relaciones y una cultura de trabajo positiva.",
+      "tipo": "SaaS",
+      "score": 74,
+      "fecha": "2026-02-16T16:09:37.813807"
     }
   ],
   "nombres_usados": [
@@ -353,6 +360,7 @@
     "BalanceBuddy",
     "ContentCraft",
     "FinPymes",
-    "FinanciaFácil"
+    "FinanciaFácil",
+    "Connectify"
   ]
 }
