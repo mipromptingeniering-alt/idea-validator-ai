@@ -328,6 +328,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-16T19:48:01.505925"
+    },
+    {
+      "nombre": "SocialGenius",
+      "descripcion": "SocialGenius es una herramienta que permite a las pequeñas y medianas empresas crear, programar y analizar publicaciones en redes sociales con facilidad. Utilizando IA, genera sugerencias de contenido basado en las tendencias del sector y el comportamiento del usuario, permitiendo a las pymes estar siempre un paso adelante en su estrategia de marketing digital.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-16T20:59:53.878474"
     }
   ],
   "nombres_usados": [
@@ -377,6 +384,7 @@
     "FinanciaFácil",
     "Connectify",
     "DataSmart",
-    "TimeSync"
+    "TimeSync",
+    "SocialGenius"
   ]
 }

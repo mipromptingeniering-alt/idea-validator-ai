@@ -48,6 +48,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260216194801",
+    "nombre": "TimeSync",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo que integra tareas, calendario y técnicas de productividad personalizadas....",
+    "score": 75,
+    "landing_url": "IDEA-20260216194801.html"
+  },
+  {
     "id": "IDEA-20260216111046",
     "nombre": "FinPymes",
     "tipo": "SaaS",
