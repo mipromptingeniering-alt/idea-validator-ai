@@ -40,6 +40,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260216080259",
+    "nombre": "ContentCraft",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de generación de contenido automatizado que ayuda a profesionales independientes y pequeñas empresas a crear contenido atractivo para m...",
+    "score": 75,
+    "landing_url": "IDEA-20260216080259.html"
+  },
+  {
     "id": "IDEA-20260216052311",
     "nombre": "BalanceBuddy",
     "tipo": "SaaS",

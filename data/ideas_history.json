@@ -293,6 +293,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-16T08:02:59.793506"
+    },
+    {
+      "nombre": "FinPymes",
+      "descripcion": "FinPymes permite a los usuarios gestionar sus finanzas de manera simplificada, incluyendo la creación de presupuestos, seguimiento de gastos e ingresos, y reportes financieros claros. Además, ofrece integraciones con herramientas contables comunes y un panel intuitivo que facilita la toma de decisiones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-16T11:10:46.379364"
     }
   ],
   "nombres_usados": [
@@ -337,6 +344,7 @@
     "MarketSimplify",
     "RecomendaMe",
     "BalanceBuddy",
-    "ContentCraft"
+    "ContentCraft",
+    "FinPymes"
   ]
 }
