@@ -321,6 +321,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-02-16T18:03:29.497383"
+    },
+    {
+      "nombre": "TimeSync",
+      "descripcion": "TimeSync es una herramienta que no solo permite gestionar tareas y planificar el calendario, sino que también incluye recomendaciones personalizadas basadas en el comportamiento del usuario y su estilo de trabajo, mejorando así la productividad y reduciendo el estrés.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-16T19:48:01.505925"
     }
   ],
   "nombres_usados": [
@@ -369,6 +376,7 @@
     "FinPymes",
     "FinanciaFácil",
     "Connectify",
-    "DataSmart"
+    "DataSmart",
+    "TimeSync"
   ]
 }

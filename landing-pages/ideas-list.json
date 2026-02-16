@@ -360,6 +360,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260216180329",
+    "nombre": "DataSmart",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de análisis de datos fácil de usar para pequeñas y medianas empresas, que utiliza inteligencia artificial para transformar datos en ins...",
+    "score": 70,
+    "landing_url": "IDEA-20260216180329.html"
+  },
+  {
     "id": "IDEA-20260212195523",
     "nombre": "Freelancer Hub",
     "tipo": "SaaS",
