@@ -349,6 +349,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-02-16T23:01:51.477599"
+    },
+    {
+      "nombre": "MotivaWork",
+      "descripcion": "MotivaWork permite a los equipos remotos establecer metas, realizar un seguimiento de su progreso y participar en desafíos semanales. La plataforma utiliza técnicas de gamificación para motivar a los empleados, al tiempo que proporciona análisis y métricas sobre el rendimiento del equipo y la interacción social.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-16T23:59:21.464968"
     }
   ],
   "nombres_usados": [
@@ -401,6 +408,7 @@
     "TimeSync",
     "SocialGenius",
     "ColabHub",
-    "TimeWell"
+    "TimeWell",
+    "MotivaWork"
   ]
 }

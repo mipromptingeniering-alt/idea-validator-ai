@@ -384,6 +384,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260216230151",
+    "nombre": "TimeWell",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma para gestionar el tiempo y el bienestar mental, diseñada para trabajadores remotos y freelance....",
+    "score": 70,
+    "landing_url": "IDEA-20260216230151.html"
+  },
+  {
     "id": "IDEA-20260216180329",
     "nombre": "DataSmart",
     "tipo": "SaaS",
