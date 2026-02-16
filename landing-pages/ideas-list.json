@@ -304,6 +304,14 @@
     "landing_url": "https://idea-idea-20260210230254-ktb3nx9g8-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260215235446",
+    "nombre": "RecomendaMe",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de recomendaciones de productos personalizadas que ayuda a los consumidores a encontrar lo que realmente necesitan....",
+    "score": 72,
+    "landing_url": "IDEA-20260215235446.html"
+  },
+  {
     "id": "MICRO-20260210221519",
     "nombre": "TwitterThreadMaker",
     "tipo": "MicroSaaS",

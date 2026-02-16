@@ -279,6 +279,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-02-15T23:54:46.155461"
+    },
+    {
+      "nombre": "BalanceBuddy",
+      "descripcion": "BalanceBuddy permite a los usuarios ingresar sus tareas diarias y, utilizando un algoritmo de priorización, sugiere cuáles son las más importantes de acuerdo con el nivel de energía y estado de ánimo. Además, incluye recordatorios de autocuidado y técnicas de mindfulness para mejorar el bienestar general.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-16T05:23:11.345466"
     }
   ],
   "nombres_usados": [
@@ -321,6 +328,7 @@
     "FinanciaSimples",
     "WellTime",
     "MarketSimplify",
-    "RecomendaMe"
+    "RecomendaMe",
+    "BalanceBuddy"
   ]
 }
