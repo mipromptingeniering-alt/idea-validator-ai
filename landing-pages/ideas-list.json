@@ -48,6 +48,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260216215619",
+    "nombre": "ColabHub",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma todo-en-uno para la gestión de proyectos y la colaboración de equipos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260216215619.html"
+  },
+  {
     "id": "IDEA-20260216205953",
     "nombre": "SocialGenius",
     "tipo": "SaaS",
