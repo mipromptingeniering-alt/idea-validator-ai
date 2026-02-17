@@ -363,6 +363,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-17T05:15:35.707374"
+    },
+    {
+      "nombre": "SocialSimple",
+      "descripcion": "SocialSimple permite a las PYMES crear, programar y analizar publicaciones en múltiples plataformas de redes sociales desde un solo lugar. Incluye herramientas de inteligencia artificial que sugieren contenido relevante y horarios óptimos de publicación, además de un analizador de rendimiento sencillo que ayuda a las empresas a entender su crecimiento y engagement.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-17T07:57:45.993520"
     }
   ],
   "nombres_usados": [
@@ -417,6 +424,7 @@
     "ColabHub",
     "TimeWell",
     "MotivaWork",
-    "RemoteBuddy"
+    "RemoteBuddy",
+    "SocialSimple"
   ]
 }

@@ -48,6 +48,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260217051535",
+    "nombre": "RemoteBuddy",
+    "tipo": "SaaS",
+    "resumen": "Plataforma que mejora la productividad y el bienestar del trabajador remoto a través de herramientas integradas de comunicación y gamificación....",
+    "score": 75,
+    "landing_url": "IDEA-20260217051535.html"
+  },
+  {
     "id": "IDEA-20260216235921",
     "nombre": "MotivaWork",
     "tipo": "SaaS",
