@@ -370,6 +370,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-17T07:57:45.993520"
+    },
+    {
+      "nombre": "WorkWell",
+      "descripcion": "WorkWell es una aplicación que ayuda a los trabajadores remotos a gestionar su tiempo y tareas de manera eficiente, integrando recordatorios para descansos, ejercicios de respiración y autoevaluaciones de bienestar. La plataforma también ofrece análisis sobre hábitos de trabajo y recomendaciones personalizadas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-17T10:32:39.314085"
     }
   ],
   "nombres_usados": [
@@ -425,6 +432,7 @@
     "TimeWell",
     "MotivaWork",
     "RemoteBuddy",
-    "SocialSimple"
+    "SocialSimple",
+    "WorkWell"
   ]
 }

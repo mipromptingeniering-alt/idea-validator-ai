@@ -48,6 +48,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260217075745",
+    "nombre": "SocialSimple",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de redes sociales diseñada específicamente para pequeñas y medianas empresas que simplifica la programación, el análisis y e...",
+    "score": 75,
+    "landing_url": "IDEA-20260217075745.html"
+  },
+  {
     "id": "IDEA-20260217051535",
     "nombre": "RemoteBuddy",
     "tipo": "SaaS",
