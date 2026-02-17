@@ -398,6 +398,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-17T18:09:21.383286"
+    },
+    {
+      "nombre": "MarketEasy",
+      "descripcion": "MarketEasy es una herramienta de marketing digital que permite a las pequeñas empresas crear y gestionar campañas publicitarias en redes sociales, correo electrónico y sitios web. Incluye tutoriales y guías paso a paso para empoderar a los usuarios a entender mejor el marketing digital.",
+      "tipo": "SaaS",
+      "score": 76,
+      "fecha": "2026-02-17T19:57:46.699007"
     }
   ],
   "nombres_usados": [
@@ -457,6 +464,7 @@
     "WorkWell",
     "MarketAssist AI",
     "EmprendeMarketing",
-    "Finanzas Sencillas"
+    "Finanzas Sencillas",
+    "MarketEasy"
   ]
 }

@@ -48,6 +48,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260217180921",
+    "nombre": "Finanzas Sencillas",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión financiera diseñada para PyMEs que simplifica la contabilidad y el flujo de caja mediante herramientas intuitivas y predicci...",
+    "score": 75,
+    "landing_url": "IDEA-20260217180921.html"
+  },
+  {
     "id": "IDEA-20260217150952",
     "nombre": "EmprendeMarketing",
     "tipo": "SaaS",
