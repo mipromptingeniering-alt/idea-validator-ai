@@ -377,6 +377,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-17T10:32:39.314085"
+    },
+    {
+      "nombre": "MarketAssist AI",
+      "descripcion": "MarketAssist AI es una solución de marketing digital accesible que utiliza inteligencia artificial para ofrecer estrategias de marketing personalizadas y automatizadas a pequeñas empresas. Permite la creación de contenido, la gestión de redes sociales y el análisis de resultados, todo a través de un panel fácil de usar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-17T12:03:57.442133"
     }
   ],
   "nombres_usados": [
@@ -433,6 +440,7 @@
     "MotivaWork",
     "RemoteBuddy",
     "SocialSimple",
-    "WorkWell"
+    "WorkWell",
+    "MarketAssist AI"
   ]
 }

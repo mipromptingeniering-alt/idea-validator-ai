@@ -48,6 +48,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260217103239",
+    "nombre": "WorkWell",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de productividad que promueve el bienestar del trabajador remoto, integrando gestión de tareas y herramientas de autocuidado....",
+    "score": 75,
+    "landing_url": "IDEA-20260217103239.html"
+  },
+  {
     "id": "IDEA-20260217075745",
     "nombre": "SocialSimple",
     "tipo": "SaaS",
