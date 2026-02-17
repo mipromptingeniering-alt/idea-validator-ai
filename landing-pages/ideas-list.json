@@ -48,6 +48,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260216235921",
+    "nombre": "MotivaWork",
+    "tipo": "SaaS",
+    "resumen": "MotivaWork es una plataforma de productividad y bienestar diseñada para equipos remotos, que combina gamificación con herramientas de análisis para fo...",
+    "score": 75,
+    "landing_url": "IDEA-20260216235921.html"
+  },
+  {
     "id": "IDEA-20260216215619",
     "nombre": "ColabHub",
     "tipo": "SaaS",

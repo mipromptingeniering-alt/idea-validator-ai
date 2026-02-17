@@ -356,6 +356,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-16T23:59:21.464968"
+    },
+    {
+      "nombre": "RemoteBuddy",
+      "descripcion": "RemoteBuddy es una plataforma que une a los empleados remotos mediante desafíos gamificados, grupos de afinidad y herramientas de comunicación interactiva. Los usuarios pueden participar en retos semanales, recibir recompensas por logros y colaborar en tareas de manera más efectiva, todo mientras se conectan socialmente con sus compañeros.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-17T05:15:35.707374"
     }
   ],
   "nombres_usados": [
@@ -409,6 +416,7 @@
     "SocialGenius",
     "ColabHub",
     "TimeWell",
-    "MotivaWork"
+    "MotivaWork",
+    "RemoteBuddy"
   ]
 }
