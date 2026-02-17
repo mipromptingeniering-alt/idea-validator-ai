@@ -391,6 +391,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-17T15:09:52.602663"
+    },
+    {
+      "nombre": "Finanzas Sencillas",
+      "descripcion": "Finanzas Sencillas es un software en la nube que permite a las pequeñas y medianas empresas llevar un control de sus finanzas de manera fácil e intuitiva. Incluye funciones como gestión de ingresos y gastos, previsión de flujo de caja y generación de informes financieros automatizados, todo dentro de una interfaz amigable.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-17T18:09:21.383286"
     }
   ],
   "nombres_usados": [
@@ -449,6 +456,7 @@
     "SocialSimple",
     "WorkWell",
     "MarketAssist AI",
-    "EmprendeMarketing"
+    "EmprendeMarketing",
+    "Finanzas Sencillas"
   ]
 }

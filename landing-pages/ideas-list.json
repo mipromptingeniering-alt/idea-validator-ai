@@ -48,6 +48,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260217150952",
+    "nombre": "EmprendeMarketing",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral de marketing digital diseñada para pequeños y medianos emprendedores que permite crear, gestionar y analizar campañas de marke...",
+    "score": 75,
+    "landing_url": "IDEA-20260217150952.html"
+  },
+  {
     "id": "IDEA-20260217120357",
     "nombre": "MarketAssist AI",
     "tipo": "SaaS",
