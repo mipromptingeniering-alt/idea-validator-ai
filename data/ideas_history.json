@@ -405,6 +405,13 @@
       "tipo": "SaaS",
       "score": 76,
       "fecha": "2026-02-17T19:57:46.699007"
+    },
+    {
+      "nombre": "BalancePro",
+      "descripcion": "BalancePro es una herramienta que combina la gestión del tiempo, el seguimiento de tareas y el bienestar personal en un solo lugar. Permite a los usuarios planificar su día, establecer recordatorios de descanso y realizar ejercicios de meditación, todo mientras rastrean su progreso y productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-17T21:52:57.157522"
     }
   ],
   "nombres_usados": [
@@ -465,6 +472,7 @@
     "MarketAssist AI",
     "EmprendeMarketing",
     "Finanzas Sencillas",
-    "MarketEasy"
+    "MarketEasy",
+    "BalancePro"
   ]
 }
