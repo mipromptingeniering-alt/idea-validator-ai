@@ -56,6 +56,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260217215257",
+    "nombre": "BalancePro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de productividad y bienestar para trabajadores remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260217215257.html"
+  },
+  {
     "id": "IDEA-20260217180921",
     "nombre": "Finanzas Sencillas",
     "tipo": "SaaS",

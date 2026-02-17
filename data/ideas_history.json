@@ -412,6 +412,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-17T21:52:57.157522"
+    },
+    {
+      "nombre": "FocusFlow",
+      "descripcion": "FocusFlow permite a los usuarios planificar su jornada laboral, programar descansos adecuados y acceder a sesiones de meditación para mejorar su bienestar mental. La aplicación realiza un seguimiento del tiempo dedicado a cada tarea y envía notificaciones para recordar a los usuarios cuándo es el momento de descansar o meditar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-17T23:01:32.394181"
     }
   ],
   "nombres_usados": [
@@ -473,6 +480,7 @@
     "EmprendeMarketing",
     "Finanzas Sencillas",
     "MarketEasy",
-    "BalancePro"
+    "BalancePro",
+    "FocusFlow"
   ]
 }
