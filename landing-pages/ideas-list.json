@@ -512,6 +512,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260218180211",
+    "nombre": "WebStart",
+    "tipo": "SaaS",
+    "resumen": "Un generador de páginas web sencillo y accesible con herramientas de marketing integradas, diseñado para emprendedores y pequeñas empresas....",
+    "score": 70,
+    "landing_url": "IDEA-20260218180211.html"
+  },
+  {
     "id": "IDEA-20260216230151",
     "nombre": "TimeWell",
     "tipo": "SaaS",

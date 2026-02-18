@@ -468,6 +468,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-02-18T18:02:11.341984"
+    },
+    {
+      "nombre": "WebEasy AI",
+      "descripcion": "WebEasy AI es una plataforma que utiliza inteligencia artificial para ayudar a los usuarios a crear sitios web personalizados en minutos, con plantillas adaptativas y recomendaciones de contenido basadas en la industria del usuario. Incluye soporte virtual en tiempo real para resolver dudas y facilitar el uso de la plataforma.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-18T20:03:57.333365"
     }
   ],
   "nombres_usados": [
@@ -537,6 +544,7 @@
     "SociaLite",
     "FreelanceFinance",
     "CashFlow Pro",
-    "WebStart"
+    "WebStart",
+    "WebEasy AI"
   ]
 }
