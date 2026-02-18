@@ -447,6 +447,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-18T10:28:52.540498"
+    },
+    {
+      "nombre": "FreelanceFinance",
+      "descripcion": "FreelanceFinance es un software basado en la nube que ayuda a los freelancers y pequeñas empresas a llevar un control claro de sus finanzas, optimizar su carga fiscal y generar reportes financieros sencillos. Ofrece una interfaz amigable, integración con cuentas bancarias y funcionalidades de asesoría fiscal personalizadas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-18T12:02:56.195048"
     }
   ],
   "nombres_usados": [
@@ -513,6 +520,7 @@
     "Financiafreelance",
     "TaskHero",
     "PropuestAI",
-    "SociaLite"
+    "SociaLite",
+    "FreelanceFinance"
   ]
 }

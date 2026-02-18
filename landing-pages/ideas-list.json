@@ -56,6 +56,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260218102852",
+    "nombre": "SociaLite",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de gestión de redes sociales enfocada en PYMES que simplifica la programación de contenido y el análisis de métricas....",
+    "score": 75,
+    "landing_url": "IDEA-20260218102852.html"
+  },
+  {
     "id": "IDEA-20260218075956",
     "nombre": "PropuestAI",
     "tipo": "SaaS",
