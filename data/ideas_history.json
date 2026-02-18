@@ -461,6 +461,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-18T15:08:19.187972"
+    },
+    {
+      "nombre": "WebStart",
+      "descripcion": "WebStart permite a los usuarios crear su propia página web en cuestión de minutos con plantillas personalizables, sin necesidad de conocimientos técnicos. Incluye herramientas de SEO, integración con redes sociales y opciones de marketing por correo electrónico.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-02-18T18:02:11.341984"
     }
   ],
   "nombres_usados": [
@@ -529,6 +536,7 @@
     "PropuestAI",
     "SociaLite",
     "FreelanceFinance",
-    "CashFlow Pro"
+    "CashFlow Pro",
+    "WebStart"
   ]
 }

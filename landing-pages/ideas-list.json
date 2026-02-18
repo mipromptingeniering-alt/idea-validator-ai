@@ -56,6 +56,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260218150819",
+    "nombre": "CashFlow Pro",
+    "tipo": "SaaS",
+    "resumen": "Herramienta de gestión y proyección de flujo de caja diseñada específicamente para pymes....",
+    "score": 75,
+    "landing_url": "IDEA-20260218150819.html"
+  },
+  {
     "id": "IDEA-20260218120256",
     "nombre": "FreelanceFinance",
     "tipo": "SaaS",
