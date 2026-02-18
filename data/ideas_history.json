@@ -433,6 +433,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-18T05:27:06.164244"
+    },
+    {
+      "nombre": "PropuestAI",
+      "descripcion": "PropuestAI permite a los usuarios seleccionar de una variedad de plantillas profesionales y, a través de IA, rellenar automáticamente los detalles del proyecto y costos, generando un documento final que se puede presentar al cliente. También ofrece recomendaciones de contenido basado en el tipo de proyecto y el historial del cliente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-18T07:59:56.790123"
     }
   ],
   "nombres_usados": [
@@ -497,6 +504,7 @@
     "BalancePro",
     "FocusFlow",
     "Financiafreelance",
-    "TaskHero"
+    "TaskHero",
+    "PropuestAI"
   ]
 }

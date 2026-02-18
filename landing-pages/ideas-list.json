@@ -56,6 +56,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260218052706",
+    "nombre": "TaskHero",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que combina gestión de tareas con elementos de gamificación para mejorar la productividad de equipos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260218052706.html"
+  },
+  {
     "id": "IDEA-20260218000035",
     "nombre": "Financiafreelance",
     "tipo": "SaaS",
