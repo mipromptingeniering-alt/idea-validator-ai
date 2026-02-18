@@ -454,6 +454,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-18T12:02:56.195048"
+    },
+    {
+      "nombre": "CashFlow Pro",
+      "descripcion": "CashFlow Pro permite a las pequeñas y medianas empresas gestionar su flujo de caja de manera eficiente mediante proyecciones automáticas, alertas de liquidez y recomendaciones personalizadas basadas en el comportamiento financiero de la empresa.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-18T15:08:19.187972"
     }
   ],
   "nombres_usados": [
@@ -521,6 +528,7 @@
     "TaskHero",
     "PropuestAI",
     "SociaLite",
-    "FreelanceFinance"
+    "FreelanceFinance",
+    "CashFlow Pro"
   ]
 }

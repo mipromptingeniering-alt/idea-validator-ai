@@ -56,6 +56,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260218120256",
+    "nombre": "FreelanceFinance",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de contabilidad y gestión financiera diseñada específicamente para freelancers y pequeñas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260218120256.html"
+  },
+  {
     "id": "IDEA-20260218102852",
     "nombre": "SociaLite",
     "tipo": "SaaS",
