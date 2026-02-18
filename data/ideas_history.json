@@ -482,6 +482,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-18T21:52:35.003725"
+    },
+    {
+      "nombre": "CreativTime",
+      "descripcion": "CreativTime es una herramienta que no solo ayuda a los creativos a organizar sus tareas, sino que también incluye funcionalidades como un temporizador para técnicas de Pomodoro, un sistema de recompensas y una comunidad para compartir logros y tips. La plataforma ofrece un espacio para que los usuarios se conecten, colaboren y se motiven mutuamente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-18T23:04:14.881821"
     }
   ],
   "nombres_usados": [
@@ -553,6 +560,7 @@
     "CashFlow Pro",
     "WebStart",
     "WebEasy AI",
-    "SmartInventory"
+    "SmartInventory",
+    "CreativTime"
   ]
 }
