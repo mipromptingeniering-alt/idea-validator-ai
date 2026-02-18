@@ -56,6 +56,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260218075956",
+    "nombre": "PropuestAI",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta SaaS que utiliza IA para ayudar a freelancers a crear propuestas personalizadas y visualmente atractivas en minutos....",
+    "score": 75,
+    "landing_url": "IDEA-20260218075956.html"
+  },
+  {
     "id": "IDEA-20260218052706",
     "nombre": "TaskHero",
     "tipo": "SaaS",

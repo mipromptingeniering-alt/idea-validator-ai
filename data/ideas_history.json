@@ -440,6 +440,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-18T07:59:56.790123"
+    },
+    {
+      "nombre": "SociaLite",
+      "descripcion": "SociaLite permite a las pequeñas y medianas empresas gestionar sus cuentas de redes sociales de manera simple e intuitiva. Ofrece herramientas para programar publicaciones, realizar un seguimiento del rendimiento y generar informes personalizados, todo en una única plataforma.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-18T10:28:52.540498"
     }
   ],
   "nombres_usados": [
@@ -505,6 +512,7 @@
     "FocusFlow",
     "Financiafreelance",
     "TaskHero",
-    "PropuestAI"
+    "PropuestAI",
+    "SociaLite"
   ]
 }
