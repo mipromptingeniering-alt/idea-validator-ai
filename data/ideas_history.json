@@ -426,6 +426,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-18T00:00:35.379805"
+    },
+    {
+      "nombre": "TaskHero",
+      "descripcion": "TaskHero es una herramienta de gestión de tareas y seguimiento de proyectos que incorpora gamificación para motivar a los usuarios a completar tareas y alcanzar objetivos. Los usuarios pueden ganar puntos, alcanzar niveles y competir amistosamente con sus compañeros, lo que transforma la productividad en un juego interactivo y motivador.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-18T05:27:06.164244"
     }
   ],
   "nombres_usados": [
@@ -489,6 +496,7 @@
     "MarketEasy",
     "BalancePro",
     "FocusFlow",
-    "Financiafreelance"
+    "Financiafreelance",
+    "TaskHero"
   ]
 }
