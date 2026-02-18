@@ -475,6 +475,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-18T20:03:57.333365"
+    },
+    {
+      "nombre": "SmartInventory",
+      "descripcion": "SmartInventory es una herramienta en línea que ayuda a los vendedores en plataformas de comercio electrónico a gestionar su inventario y ajustar automáticamente sus precios en función de las tendencias del mercado y la competencia. Utiliza algoritmos de inteligencia artificial para ofrecer recomendaciones sobre los mejores precios a fijar y alertas sobre productos que necesitan ser reabastecidos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-18T21:52:35.003725"
     }
   ],
   "nombres_usados": [
@@ -545,6 +552,7 @@
     "FreelanceFinance",
     "CashFlow Pro",
     "WebStart",
-    "WebEasy AI"
+    "WebEasy AI",
+    "SmartInventory"
   ]
 }
