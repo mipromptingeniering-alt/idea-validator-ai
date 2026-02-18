@@ -56,6 +56,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260217230132",
+    "nombre": "FocusFlow",
+    "tipo": "SaaS",
+    "resumen": "FocusFlow es una herramienta de gestión de tiempo y productividad diseñada específicamente para trabajadores remotos que buscan equilibrar sus tareas ...",
+    "score": 75,
+    "landing_url": "IDEA-20260217230132.html"
+  },
+  {
     "id": "IDEA-20260217215257",
     "nombre": "BalancePro",
     "tipo": "SaaS",

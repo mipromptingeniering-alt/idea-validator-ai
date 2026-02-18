@@ -419,6 +419,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-17T23:01:32.394181"
+    },
+    {
+      "nombre": "Financiafreelance",
+      "descripcion": "Financiafreelance es un software que permite a los trabajadores autónomos registrar fácilmente sus ingresos y gastos, generar informes financieros y recibir recordatorios para la declaración de impuestos. También incluye recursos educativos sobre finanzas personales y fiscales.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-18T00:00:35.379805"
     }
   ],
   "nombres_usados": [
@@ -481,6 +488,7 @@
     "Finanzas Sencillas",
     "MarketEasy",
     "BalancePro",
-    "FocusFlow"
+    "FocusFlow",
+    "Financiafreelance"
   ]
 }
