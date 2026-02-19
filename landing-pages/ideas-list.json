@@ -64,6 +64,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260219210344",
+    "nombre": "TaskCom",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de tareas que integra comunicación en tiempo real para equipos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260219210344.html"
+  },
+  {
     "id": "IDEA-20260219151032",
     "nombre": "PortafolioPro",
     "tipo": "SaaS",

@@ -552,6 +552,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-19T21:03:44.440090"
+    },
+    {
+      "nombre": "FinanzasSimplificadas",
+      "descripcion": "FinanzasSimplificadas es una herramienta que permite a los usuarios gestionar sus finanzas personales y empresariales de manera sencilla y efectiva. Ofrecemos seguimiento automático de gastos, generación de informes financieros y acceso a contenido educativo para mejorar la gestión financiera.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-02-19T22:03:15.561166"
     }
   ],
   "nombres_usados": [
@@ -633,6 +640,7 @@
     "PortafolioPro",
     "FreelancePay",
     "SocialAuto",
-    "TaskCom"
+    "TaskCom",
+    "FinanzasSimplificadas"
   ]
 }
