@@ -545,6 +545,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-02-19T19:53:28.706260"
+    },
+    {
+      "nombre": "TaskCom",
+      "descripcion": "TaskCom es una herramienta digital que permite a los equipos remotos gestionar sus tareas de manera sencilla y mantener una comunicación fluida. Con funciones como listas de tareas compartidas, chat incorporado y notificaciones personalizadas, TaskCom mejora la eficiencia y disminuye la fricción en la colaboración.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-19T21:03:44.440090"
     }
   ],
   "nombres_usados": [
@@ -625,6 +632,7 @@
     "WellBee",
     "PortafolioPro",
     "FreelancePay",
-    "SocialAuto"
+    "SocialAuto",
+    "TaskCom"
   ]
 }

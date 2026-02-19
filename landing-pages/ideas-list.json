@@ -584,6 +584,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260219195328",
+    "nombre": "SocialAuto",
+    "tipo": "SaaS",
+    "resumen": "Herramienta de gestión de redes sociales automatizada para pymes, que genera contenido optimizado y lo publica en múltiples plataformas....",
+    "score": 70,
+    "landing_url": "IDEA-20260219195328.html"
+  },
+  {
     "id": "IDEA-20260219051525",
     "nombre": "QuickLaunch",
     "tipo": "SaaS",
