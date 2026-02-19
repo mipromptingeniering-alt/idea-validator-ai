@@ -559,6 +559,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-02-19T22:03:15.561166"
+    },
+    {
+      "nombre": "SocialPulse",
+      "descripcion": "SocialPulse es una plataforma que permite a las pequeñas y medianas empresas gestionar sus cuentas de redes sociales en un solo lugar. Ofrece programación de posts, análisis de rendimiento y recomendaciones estratégicas basadas en inteligencia artificial. La herramienta está diseñada para ser intuitiva y accesible, con un enfoque en las necesidades específicas de las PYMEs.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-02-19T23:48:08.115872"
     }
   ],
   "nombres_usados": [
@@ -641,6 +648,7 @@
     "FreelancePay",
     "SocialAuto",
     "TaskCom",
-    "FinanzasSimplificadas"
+    "FinanzasSimplificadas",
+    "SocialPulse"
   ]
 }
