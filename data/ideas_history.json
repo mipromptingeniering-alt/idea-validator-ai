@@ -503,6 +503,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-02-19T05:15:25.367425"
+    },
+    {
+      "nombre": "SyncTeam",
+      "descripcion": "SyncTeam permite a los usuarios gestionar su tiempo, programar reuniones y comunicarse con sus compañeros de equipo en una plataforma unificada. Los usuarios pueden ver la disponibilidad de sus colegas en tiempo real, enviar mensajes y crear tareas, todo desde una interfaz intuitiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-19T07:56:35.072276"
     }
   ],
   "nombres_usados": [
@@ -577,6 +584,7 @@
     "SmartInventory",
     "CreativTime",
     "SaludGestor",
-    "QuickLaunch"
+    "QuickLaunch",
+    "SyncTeam"
   ]
 }

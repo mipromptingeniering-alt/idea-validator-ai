@@ -544,6 +544,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260219051525",
+    "nombre": "QuickLaunch",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma todo-en-uno que permite a emprendedores y pequeñas empresas crear un sitio web y gestionar su marketing digital sin necesidad de conoci...",
+    "score": 70,
+    "landing_url": "IDEA-20260219051525.html"
+  },
+  {
     "id": "IDEA-20260218180211",
     "nombre": "WebStart",
     "tipo": "SaaS",
