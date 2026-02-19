@@ -517,6 +517,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-19T10:27:50.871904"
+    },
+    {
+      "nombre": "WellBee",
+      "descripcion": "WellBee ofrece a las empresas herramientas para medir y mejorar el clima laboral mediante encuestas, análisis de satisfacción y seguimiento de proyectos. Además, proporciona recomendaciones personalizadas para fomentar un ambiente de trabajo positivo y productivo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-19T12:03:13.297066"
     }
   ],
   "nombres_usados": [
@@ -593,6 +600,7 @@
     "SaludGestor",
     "QuickLaunch",
     "SyncTeam",
-    "CreativoGestor"
+    "CreativoGestor",
+    "WellBee"
   ]
 }
