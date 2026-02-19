@@ -489,6 +489,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-18T23:04:14.881821"
+    },
+    {
+      "nombre": "SaludGestor",
+      "descripcion": "SaludGestor es una solución integral para médicos y terapeutas que simplifica la administración de sus consultas. Ofrece funcionalidades como programación de citas, recordatorios automáticos para pacientes, y seguimiento de tratamientos, todo en una interfaz intuitiva y fácil de usar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-19T00:00:45.041897"
     }
   ],
   "nombres_usados": [
@@ -561,6 +568,7 @@
     "WebStart",
     "WebEasy AI",
     "SmartInventory",
-    "CreativTime"
+    "CreativTime",
+    "SaludGestor"
   ]
 }

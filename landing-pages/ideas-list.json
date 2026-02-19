@@ -56,6 +56,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260218230414",
+    "nombre": "CreativTime",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo diseñada para profesionales creativos que integra herramientas de productividad, motivación y colaboración....",
+    "score": 75,
+    "landing_url": "IDEA-20260218230414.html"
+  },
+  {
     "id": "IDEA-20260218215234",
     "nombre": "SmartInventory",
     "tipo": "SaaS",
