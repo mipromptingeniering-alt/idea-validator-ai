@@ -56,6 +56,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260219075635",
+    "nombre": "SyncTeam",
+    "tipo": "SaaS",
+    "resumen": "SyncTeam es una plataforma que optimiza la coordinación y la comunicación de equipos remotos al integrar la gestión del tiempo y la comunicación en un...",
+    "score": 75,
+    "landing_url": "IDEA-20260219075635.html"
+  },
+  {
     "id": "IDEA-20260219000045",
     "nombre": "SaludGestor",
     "tipo": "SaaS",

@@ -510,6 +510,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-19T07:56:35.072276"
+    },
+    {
+      "nombre": "CreativoGestor",
+      "descripcion": "CreativoGestor es una herramienta diseñada especialmente para profesionales creativos, que integra gestión de proyectos, seguimiento de tiempo, facturación y comunicación con clientes. Su diseño intuitivo busca minimizar la curva de aprendizaje y maximizar la productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-19T10:27:50.871904"
     }
   ],
   "nombres_usados": [
@@ -585,6 +592,7 @@
     "CreativTime",
     "SaludGestor",
     "QuickLaunch",
-    "SyncTeam"
+    "SyncTeam",
+    "CreativoGestor"
   ]
 }
