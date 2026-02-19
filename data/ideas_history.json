@@ -531,6 +531,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-19T15:10:32.107352"
+    },
+    {
+      "nombre": "FreelancePay",
+      "descripcion": "FreelancePay es una plataforma que permite a los freelancers crear, gestionar y firmar contratos digitalmente, mientras recibe pagos de manera segura a través de múltiples métodos de pago integrados. Facilita el seguimiento de tareas y el cobro de facturas.",
+      "tipo": "SaaS",
+      "score": 76,
+      "fecha": "2026-02-19T18:07:57.546115"
     }
   ],
   "nombres_usados": [
@@ -609,6 +616,7 @@
     "SyncTeam",
     "CreativoGestor",
     "WellBee",
-    "PortafolioPro"
+    "PortafolioPro",
+    "FreelancePay"
   ]
 }

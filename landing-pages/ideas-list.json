@@ -56,6 +56,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260219151032",
+    "nombre": "PortafolioPro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS que permite a los creativos construir y presentar su portafolio online de forma simple y atractiva....",
+    "score": 75,
+    "landing_url": "IDEA-20260219151032.html"
+  },
+  {
     "id": "IDEA-20260219120313",
     "nombre": "WellBee",
     "tipo": "SaaS",
