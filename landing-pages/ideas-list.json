@@ -56,6 +56,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260219000045",
+    "nombre": "SaludGestor",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS que permite a profesionales de la salud gestionar sus consultas, agendar citas y hacer seguimiento a tratamientos de manera sencil...",
+    "score": 75,
+    "landing_url": "IDEA-20260219000045.html"
+  },
+  {
     "id": "IDEA-20260218230414",
     "nombre": "CreativTime",
     "tipo": "SaaS",

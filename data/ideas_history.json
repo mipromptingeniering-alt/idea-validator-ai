@@ -496,6 +496,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-19T00:00:45.041897"
+    },
+    {
+      "nombre": "QuickLaunch",
+      "descripcion": "QuickLaunch es una solución SaaS que permite a los usuarios crear un sitio web personalizado en minutos utilizando plantillas fáciles de arrastrar y soltar. Además, incluye herramientas de SEO, marketing por correo electrónico y gestión de redes sociales, todo en una sola plataforma.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-02-19T05:15:25.367425"
     }
   ],
   "nombres_usados": [
@@ -569,6 +576,7 @@
     "WebEasy AI",
     "SmartInventory",
     "CreativTime",
-    "SaludGestor"
+    "SaludGestor",
+    "QuickLaunch"
   ]
 }
