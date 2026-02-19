@@ -524,6 +524,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-19T12:03:13.297066"
+    },
+    {
+      "nombre": "PortafolioPro",
+      "descripcion": "PortafolioPro es una herramienta diseñada para ayudar a diseñadores, fotógrafos y escritores a crear portafolios digitales impresionantes sin necesidad de conocimientos técnicos. Con una variedad de plantillas personalizables y funcionalidades de integración, los usuarios pueden mostrar su trabajo de manera profesional en minutos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-19T15:10:32.107352"
     }
   ],
   "nombres_usados": [
@@ -601,6 +608,7 @@
     "QuickLaunch",
     "SyncTeam",
     "CreativoGestor",
-    "WellBee"
+    "WellBee",
+    "PortafolioPro"
   ]
 }
