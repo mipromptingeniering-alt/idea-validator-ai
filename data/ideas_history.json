@@ -538,6 +538,13 @@
       "tipo": "SaaS",
       "score": 76,
       "fecha": "2026-02-19T18:07:57.546115"
+    },
+    {
+      "nombre": "SocialAuto",
+      "descripcion": "SocialAuto permite a las pequeñas y medianas empresas generar automáticamente contenido relevante y optimizado para sus redes sociales, programar publicaciones y analizar resultados. Utiliza inteligencia artificial para sugerir las mejores horas de publicación y adaptar el contenido según la audiencia.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-02-19T19:53:28.706260"
     }
   ],
   "nombres_usados": [
@@ -617,6 +624,7 @@
     "CreativoGestor",
     "WellBee",
     "PortafolioPro",
-    "FreelancePay"
+    "FreelancePay",
+    "SocialAuto"
   ]
 }

@@ -32,6 +32,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260219180757",
+    "nombre": "FreelancePay",
+    "tipo": "SaaS",
+    "resumen": "Plataforma todo en uno para la gestión de contratos y pagos de freelancers....",
+    "score": 76,
+    "landing_url": "IDEA-20260219180757.html"
+  },
+  {
     "id": "IDEA-20260217195746",
     "nombre": "MarketEasy",
     "tipo": "SaaS",
