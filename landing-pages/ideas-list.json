@@ -64,6 +64,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260220215214",
+    "nombre": "SocialConnect",
+    "tipo": "SaaS",
+    "resumen": "Plataforma que conecta a trabajadores remotos a través de actividades gamificadas y espacios virtuales para fomentar la socialización y colaboración....",
+    "score": 75,
+    "landing_url": "IDEA-20260220215214.html"
+  },
+  {
     "id": "IDEA-20260220180423",
     "nombre": "CashFlow Buddy",
     "tipo": "SaaS",

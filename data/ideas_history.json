@@ -636,6 +636,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-20T21:52:14.151379"
+    },
+    {
+      "nombre": "CreaFlow",
+      "descripcion": "CreaFlow permite a los creativos gestionar proyectos, establecer plazos, compartir ideas y colaborar con otros, todo en un entorno visualmente atractivo y adaptable a su estilo de trabajo. Incluye plantillas personalizables y una biblioteca de recursos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-20T22:59:56.358589"
     }
   ],
   "nombres_usados": [
@@ -729,6 +736,7 @@
     "CashFlow Buddy",
     "TimeWise",
     "FinOptima",
-    "SocialConnect"
+    "SocialConnect",
+    "CreaFlow"
   ]
 }
