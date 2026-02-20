@@ -573,6 +573,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-02-20T05:08:21.458568"
+    },
+    {
+      "nombre": "WellnessSync",
+      "descripcion": "WellnessSync es un software que permite a los equipos remotos gestionar tareas colaborativas mientras se monitorea y apoya su bienestar emocional. Incluye herramientas de feedback diario, ejercicios de mindfulness, y métricas de productividad que se pueden personalizar según las necesidades del equipo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-20T07:53:49.194067"
     }
   ],
   "nombres_usados": [
@@ -657,6 +664,7 @@
     "TaskCom",
     "FinanzasSimplificadas",
     "SocialPulse",
-    "AdminEase"
+    "AdminEase",
+    "WellnessSync"
   ]
 }
