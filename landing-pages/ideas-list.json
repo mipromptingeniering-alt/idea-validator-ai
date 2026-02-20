@@ -64,6 +64,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260220075349",
+    "nombre": "WellnessSync",
+    "tipo": "SaaS",
+    "resumen": "Plataforma que integra gestión de tareas y bienestar emocional para trabajadores remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260220075349.html"
+  },
+  {
     "id": "IDEA-20260219210344",
     "nombre": "TaskCom",
     "tipo": "SaaS",

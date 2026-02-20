@@ -580,6 +580,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-20T07:53:49.194067"
+    },
+    {
+      "nombre": "TimeLead",
+      "descripcion": "TimeLead permite a los usuarios gestionar su agenda, programar citas y, a la vez, automatiza tareas de marketing para atraer nuevos clientes, todo en un mismo lugar. A través de inteligencia artificial, sugiere cuándo y cómo contactar a los leads en función del comportamiento y preferencias del cliente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-20T10:01:16.127805"
     }
   ],
   "nombres_usados": [
@@ -665,6 +672,7 @@
     "FinanzasSimplificadas",
     "SocialPulse",
     "AdminEase",
-    "WellnessSync"
+    "WellnessSync",
+    "TimeLead"
   ]
 }
