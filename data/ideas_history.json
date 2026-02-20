@@ -622,6 +622,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-02-20T19:50:23.869646"
+    },
+    {
+      "nombre": "FinOptima",
+      "descripcion": "FinOptima ofrece una interfaz fácil de usar que permite a las PYMEs gestionar sus finanzas, monitorear gastos, crear presupuestos y generar informes que faciliten la toma de decisiones. Usando análisis de datos y plantillas personalizables, las empresas pueden optimizar su gestión financiera sin necesidad de experiencia previa en contabilidad.",
+      "tipo": "SaaS",
+      "score": 68,
+      "fecha": "2026-02-20T20:57:59.976416"
     }
   ],
   "nombres_usados": [
@@ -713,6 +720,7 @@
     "FinanSimple",
     "CollaboEase",
     "CashFlow Buddy",
-    "TimeWise"
+    "TimeWise",
+    "FinOptima"
   ]
 }

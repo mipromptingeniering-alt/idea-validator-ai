@@ -656,6 +656,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260220195023",
+    "nombre": "TimeWise",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo que utiliza IA para optimizar la productividad del usuario, adaptándose a sus hábitos y rutinas personales....",
+    "score": 70,
+    "landing_url": "IDEA-20260220195023.html"
+  },
+  {
     "id": "IDEA-20260219234808",
     "nombre": "SocialPulse",
     "tipo": "SaaS",
