@@ -566,6 +566,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-02-19T23:48:08.115872"
+    },
+    {
+      "nombre": "AdminEase",
+      "descripcion": "AdminEase ofrece a las pequeñas y medianas empresas una solución all-in-one para la gestión de facturación, seguimiento de clientes y proyectos, y reportes financieros, todo desde una única interfaz intuitiva.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-02-20T05:08:21.458568"
     }
   ],
   "nombres_usados": [
@@ -649,6 +656,7 @@
     "SocialAuto",
     "TaskCom",
     "FinanzasSimplificadas",
-    "SocialPulse"
+    "SocialPulse",
+    "AdminEase"
   ]
 }

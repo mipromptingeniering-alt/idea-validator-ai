@@ -600,6 +600,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260219234808",
+    "nombre": "SocialPulse",
+    "tipo": "SaaS",
+    "resumen": "Herramienta de gestión y análisis de redes sociales para PYMEs que simplifica la planificación de contenido y ofrece insights automatizados....",
+    "score": 70,
+    "landing_url": "IDEA-20260219234808.html"
+  },
+  {
     "id": "IDEA-20260219195328",
     "nombre": "SocialAuto",
     "tipo": "SaaS",
