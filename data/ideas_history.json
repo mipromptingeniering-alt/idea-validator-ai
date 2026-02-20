@@ -629,6 +629,13 @@
       "tipo": "SaaS",
       "score": 68,
       "fecha": "2026-02-20T20:57:59.976416"
+    },
+    {
+      "nombre": "SocialConnect",
+      "descripcion": "SocialConnect es una plataforma diseñada para trabajadores remotos que busca mitigar la soledad y fomentar conexiones significativas. Ofrece dinámicas de grupo, actividades gamificadas y espacios virtuales para reuniones informales y colaborativas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-20T21:52:14.151379"
     }
   ],
   "nombres_usados": [
@@ -721,6 +728,7 @@
     "CollaboEase",
     "CashFlow Buddy",
     "TimeWise",
-    "FinOptima"
+    "FinOptima",
+    "SocialConnect"
   ]
 }

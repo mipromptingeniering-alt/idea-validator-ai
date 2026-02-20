@@ -736,6 +736,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260220205759",
+    "nombre": "FinOptima",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión financiera diseñada específicamente para pequeñas y medianas empresas que simplifica la planificación y el análisis de gasto...",
+    "score": 68,
+    "landing_url": "IDEA-20260220205759.html"
+  },
+  {
     "id": "EXT-20260210215803",
     "nombre": "YouTubeSummaryAI",
     "tipo": "Extension",
