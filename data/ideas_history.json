@@ -608,6 +608,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-20T16:06:01.469542"
+    },
+    {
+      "nombre": "CashFlow Buddy",
+      "descripcion": "CashFlow Buddy permite a los usuarios conectar sus cuentas bancarias y tarjetas, y ofrece un análisis visual del flujo de caja, así como recomendaciones personalizadas para mejorar la gestión financiera. Además, incluye recordatorios de pago y seguimiento de gastos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-20T18:04:23.746874"
     }
   ],
   "nombres_usados": [
@@ -697,6 +704,7 @@
     "TimeLead",
     "SocialSmart",
     "FinanSimple",
-    "CollaboEase"
+    "CollaboEase",
+    "CashFlow Buddy"
   ]
 }

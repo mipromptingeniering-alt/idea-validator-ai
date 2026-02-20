@@ -64,6 +64,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260220160601",
+    "nombre": "CollaboEase",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de colaboración y gestión de proyectos diseñada específicamente para pequeñas y medianas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260220160601.html"
+  },
+  {
     "id": "IDEA-20260220142508",
     "nombre": "FinanSimple",
     "tipo": "SaaS",
