@@ -643,6 +643,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-20T22:59:56.358589"
+    },
+    {
+      "nombre": "PymeMarketer",
+      "descripcion": "PymeMarketer es una herramienta integral que permite a las PYMEs crear campañas de marketing digital automatizadas, gestionar redes sociales y analizar datos de rendimiento, todo desde un solo lugar. Facilita la creación de contenido, la programación de publicaciones, y el seguimiento del rendimiento en tiempo real.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-02-20T23:56:11.909416"
     }
   ],
   "nombres_usados": [
@@ -737,6 +744,7 @@
     "TimeWise",
     "FinOptima",
     "SocialConnect",
-    "CreaFlow"
+    "CreaFlow",
+    "PymeMarketer"
   ]
 }

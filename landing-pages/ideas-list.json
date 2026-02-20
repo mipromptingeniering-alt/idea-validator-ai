@@ -64,6 +64,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260220225956",
+    "nombre": "CreaFlow",
+    "tipo": "SaaS",
+    "resumen": "CreaFlow es una herramienta de gestión de proyectos para profesionales creativos que combina la organización del flujo de trabajo con funciones diseña...",
+    "score": 75,
+    "landing_url": "IDEA-20260220225956.html"
+  },
+  {
     "id": "IDEA-20260220215214",
     "nombre": "SocialConnect",
     "tipo": "SaaS",
