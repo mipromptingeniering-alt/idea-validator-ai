@@ -594,6 +594,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-20T11:48:22.985137"
+    },
+    {
+      "nombre": "FinanSimple",
+      "descripcion": "FinanSimple es un software en línea que ayuda a pequeños empresarios a gestionar sus finanzas de manera intuitiva. Incluye funciones para realizar presupuestos, seguimiento de gastos, generación de informes financieros y recordatorios de pago.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-20T14:25:08.274617"
     }
   ],
   "nombres_usados": [
@@ -681,6 +688,7 @@
     "AdminEase",
     "WellnessSync",
     "TimeLead",
-    "SocialSmart"
+    "SocialSmart",
+    "FinanSimple"
   ]
 }

@@ -64,6 +64,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260220114822",
+    "nombre": "SocialSmart",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de redes sociales diseñada especialmente para pequeñas y medianas empresas, que utiliza inteligencia artificial para optimi...",
+    "score": 75,
+    "landing_url": "IDEA-20260220114822.html"
+  },
+  {
     "id": "IDEA-20260220100116",
     "nombre": "TimeLead",
     "tipo": "SaaS",
