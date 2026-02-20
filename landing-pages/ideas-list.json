@@ -64,6 +64,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260220100116",
+    "nombre": "TimeLead",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma todo-en-uno que combina gestión del tiempo y captación de clientes para pequeñas empresas y freelancers....",
+    "score": 75,
+    "landing_url": "IDEA-20260220100116.html"
+  },
+  {
     "id": "IDEA-20260220075349",
     "nombre": "WellnessSync",
     "tipo": "SaaS",

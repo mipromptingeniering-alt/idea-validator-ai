@@ -587,6 +587,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-20T10:01:16.127805"
+    },
+    {
+      "nombre": "SocialSmart",
+      "descripcion": "SocialSmart permite a las pymes gestionar múltiples cuentas de redes sociales desde un solo panel, optimizando el contenido mediante IA. Los usuarios pueden programar publicaciones, recibir sugerencias de contenido y obtener informes sobre el rendimiento de sus publicaciones, todo adaptado a su audiencia.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-20T11:48:22.985137"
     }
   ],
   "nombres_usados": [
@@ -673,6 +680,7 @@
     "SocialPulse",
     "AdminEase",
     "WellnessSync",
-    "TimeLead"
+    "TimeLead",
+    "SocialSmart"
   ]
 }
