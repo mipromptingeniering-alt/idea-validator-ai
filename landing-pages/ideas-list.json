@@ -64,6 +64,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260220142508",
+    "nombre": "FinanSimple",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de gestión financiera fácil de usar diseñada para emprendedores y pequeños negocios....",
+    "score": 75,
+    "landing_url": "IDEA-20260220142508.html"
+  },
+  {
     "id": "IDEA-20260220114822",
     "nombre": "SocialSmart",
     "tipo": "SaaS",

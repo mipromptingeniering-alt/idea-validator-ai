@@ -601,6 +601,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-20T14:25:08.274617"
+    },
+    {
+      "nombre": "CollaboEase",
+      "descripcion": "CollaboEase es una herramienta simple y efectiva que permite a las PYMES gestionar sus proyectos y facilitar la comunicación entre equipos sin la complejidad de software más robusto y costoso. Incluye gestión de tareas, chat en tiempo real, y almacenamiento de documentos todo en un solo lugar, permitiendo a las PYMES mejorar su productividad y organización.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-20T16:06:01.469542"
     }
   ],
   "nombres_usados": [
@@ -689,6 +696,7 @@
     "WellnessSync",
     "TimeLead",
     "SocialSmart",
-    "FinanSimple"
+    "FinanSimple",
+    "CollaboEase"
   ]
 }
