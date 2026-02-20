@@ -64,6 +64,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260220180423",
+    "nombre": "CashFlow Buddy",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de flujo de caja diseñada específicamente para emprendedores y pequeñas empresas que buscan simplicidad y personalización....",
+    "score": 75,
+    "landing_url": "IDEA-20260220180423.html"
+  },
+  {
     "id": "IDEA-20260220160601",
     "nombre": "CollaboEase",
     "tipo": "SaaS",

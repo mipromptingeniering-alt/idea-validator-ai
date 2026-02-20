@@ -615,6 +615,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-20T18:04:23.746874"
+    },
+    {
+      "nombre": "TimeWise",
+      "descripcion": "TimeWise es una herramienta de software como servicio que ayuda a los usuarios a gestionar su tiempo y aumentar su productividad al aprender de sus patrones de trabajo y ofrecer recomendaciones personalizadas. Integra funciones de seguimiento del tiempo, análisis de hábitos y sugerencias para la mejora de la eficiencia.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-02-20T19:50:23.869646"
     }
   ],
   "nombres_usados": [
@@ -705,6 +712,7 @@
     "SocialSmart",
     "FinanSimple",
     "CollaboEase",
-    "CashFlow Buddy"
+    "CashFlow Buddy",
+    "TimeWise"
   ]
 }
