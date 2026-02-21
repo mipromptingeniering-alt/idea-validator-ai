@@ -678,6 +678,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-21T09:00:46.983852"
+    },
+    {
+      "nombre": "SocialScribe",
+      "descripcion": "SocialScribe es una plataforma SaaS que utiliza inteligencia artificial para ayudar a las pequeñas empresas a generar contenido atractivo para sus redes sociales, programar publicaciones y analizar el rendimiento, todo en un solo lugar. Con una interfaz intuitiva, permite al usuario seleccionar las tendencias del momento y ajustar la personalización según su marca.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-21T09:57:43.238865"
     }
   ],
   "nombres_usados": [
@@ -777,6 +784,7 @@
     "EduMarketer",
     "TheraManage",
     "SocialManagePro",
-    "EasyMarketer"
+    "EasyMarketer",
+    "SocialScribe"
   ]
 }
