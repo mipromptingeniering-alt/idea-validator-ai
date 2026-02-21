@@ -783,6 +783,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-21T22:55:46.789239"
+    },
+    {
+      "nombre": "WorkSync",
+      "descripcion": "WorkSync permite a las pequeñas y medianas empresas gestionar sus proyectos y equipos de manera eficiente, integrando funciones de comunicación en tiempo real, seguimiento de tareas y gestión de documentos en un solo lugar. La solución está diseñada para ser intuitiva y adaptable a las necesidades específicas de cada empresa.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-21T23:45:42.501851"
     }
   ],
   "nombres_usados": [
@@ -897,6 +904,7 @@
     "CollabWorks",
     "CollaboSphere",
     "SMB Digital Suite",
-    "PsychManage"
+    "PsychManage",
+    "WorkSync"
   ]
 }
