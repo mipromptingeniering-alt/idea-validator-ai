@@ -72,6 +72,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260221075607",
+    "nombre": "SocialManagePro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que permite a las PYMEs gestionar, programar y analizar su contenido en redes sociales desde un solo lugar, con recomendaciones persona...",
+    "score": 75,
+    "landing_url": "IDEA-20260221075607.html"
+  },
+  {
     "id": "IDEA-20260221070705",
     "nombre": "TheraManage",
     "tipo": "SaaS",

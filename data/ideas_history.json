@@ -671,6 +671,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-21T07:56:07.348901"
+    },
+    {
+      "nombre": "EasyMarketer",
+      "descripcion": "EasyMarketer es una plataforma diseñada para ayudar a los pequeños emprendedores y freelancers a gestionar sus campañas de marketing digital. La herramienta permite crear, programar y analizar campañas en redes sociales y email marketing de manera sencilla, sin necesidad de ser un experto en marketing.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-21T09:00:46.983852"
     }
   ],
   "nombres_usados": [
@@ -769,6 +776,7 @@
     "PymeMarketer",
     "EduMarketer",
     "TheraManage",
-    "SocialManagePro"
+    "SocialManagePro",
+    "EasyMarketer"
   ]
 }
