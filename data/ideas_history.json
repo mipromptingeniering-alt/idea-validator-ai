@@ -720,6 +720,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-21T14:56:21.397034"
+    },
+    {
+      "nombre": "CreativFlow",
+      "descripcion": "CreativFlow es una aplicación SaaS que permite a diseñadores, escritores y otros profesionales creativos organizar sus proyectos y tareas de manera intuitiva, integrando métodos de gestión del tiempo como el Pomodoro y tableros visuales al estilo Kanban. Además, ofrece plantillas adaptadas a diferentes tipos de proyectos creativos.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-02-21T15:49:34.303271"
     }
   ],
   "nombres_usados": [
@@ -825,6 +832,7 @@
     "SocialSynergy",
     "RemoteSync",
     "CreativeSpectrum",
-    "ReputaPyme"
+    "ReputaPyme",
+    "CreativFlow"
   ]
 }

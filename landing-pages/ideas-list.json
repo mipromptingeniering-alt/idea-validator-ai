@@ -80,6 +80,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260221145621",
+    "nombre": "ReputaPyme",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma sencilla para que las PYMES gestionen y mejoren su reputación online de manera efectiva....",
+    "score": 75,
+    "landing_url": "IDEA-20260221145621.html"
+  },
+  {
     "id": "IDEA-20260221135441",
     "nombre": "CreativeSpectrum",
     "tipo": "SaaS",
