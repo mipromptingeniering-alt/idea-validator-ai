@@ -769,6 +769,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-21T21:44:02.018124"
+    },
+    {
+      "nombre": "SMB Digital Suite",
+      "descripcion": "SMB Digital Suite es una solución todo-en-uno diseñada para pequeñas y medianas empresas que busca simplificar y optimizar la gestión de su presencia digital. La plataforma ofrece herramientas para crear y gestionar redes sociales, construir un sitio web de manera intuitiva y obtener análisis detallados sobre el rendimiento digital, todo en un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-21T21:59:13.845443"
     }
   ],
   "nombres_usados": [
@@ -881,6 +888,7 @@
     "FitTrack AI",
     "TeamFusion",
     "CollabWorks",
-    "CollaboSphere"
+    "CollaboSphere",
+    "SMB Digital Suite"
   ]
 }

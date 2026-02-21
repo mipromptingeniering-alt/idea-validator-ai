@@ -80,6 +80,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260221214401",
+    "nombre": "CollaboSphere",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de colaboración digital todo-en-uno para equipos remotos que combina gestión de proyectos y comunicación en una interface intuitiva....",
+    "score": 75,
+    "landing_url": "IDEA-20260221214401.html"
+  },
+  {
     "id": "IDEA-20260221205027",
     "nombre": "CollabWorks",
     "tipo": "SaaS",
