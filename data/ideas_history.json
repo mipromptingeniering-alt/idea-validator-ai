@@ -699,6 +699,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-21T11:41:58.891915"
+    },
+    {
+      "nombre": "RemoteSync",
+      "descripcion": "RemoteSync permite a los equipos remotos gestionar su tiempo de manera efectiva, asignar tareas, y comunicarse sin interrupciones. Incluye características como temporizadores para seguimiento del tiempo, listas de tareas colaborativas y chat en tiempo real. Todo está diseñado para una experiencia de usuario fluida y fácil de usar.",
+      "tipo": "SaaS",
+      "score": 76,
+      "fecha": "2026-02-21T11:57:32.452926"
     }
   ],
   "nombres_usados": [
@@ -801,6 +808,7 @@
     "EasyMarketer",
     "SocialScribe",
     "FactuSmart",
-    "SocialSynergy"
+    "SocialSynergy",
+    "RemoteSync"
   ]
 }
