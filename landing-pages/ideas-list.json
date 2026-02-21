@@ -72,6 +72,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260221095743",
+    "nombre": "SocialScribe",
+    "tipo": "SaaS",
+    "resumen": "Herramienta de gestión de redes sociales impulsada por IA que genera contenido y sugiere publicaciones basadas en tendencias actuales....",
+    "score": 75,
+    "landing_url": "IDEA-20260221095743.html"
+  },
+  {
     "id": "IDEA-20260221090046",
     "nombre": "EasyMarketer",
     "tipo": "SaaS",

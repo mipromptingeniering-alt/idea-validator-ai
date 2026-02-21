@@ -685,6 +685,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-21T09:57:43.238865"
+    },
+    {
+      "nombre": "FactuSmart",
+      "descripcion": "FactuSmart es un software de gestión financiera que permite a los usuarios crear y enviar facturas personalizadas, rastrear ingresos y gastos, y generar reportes financieros simples. Todo en una interfaz clara y fácil de usar, ideal para aquellos sin experiencia contable.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-21T10:56:08.803730"
     }
   ],
   "nombres_usados": [
@@ -785,6 +792,7 @@
     "TheraManage",
     "SocialManagePro",
     "EasyMarketer",
-    "SocialScribe"
+    "SocialScribe",
+    "FactuSmart"
   ]
 }
