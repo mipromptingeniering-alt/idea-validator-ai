@@ -748,6 +748,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-21T19:04:54.842513"
+    },
+    {
+      "nombre": "TeamFusion",
+      "descripcion": "TeamFusion ofrece un entorno virtual donde los equipos pueden comunicarse, colaborar en proyectos y participar en actividades que fomentan la cohesión del equipo, incluida la gamificación y reconocimiento entre compañeros, todo en una sola plataforma.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-21T19:48:58.308399"
     }
   ],
   "nombres_usados": [
@@ -857,6 +864,7 @@
     "CreativFlow",
     "TimeCraft",
     "FocusConnect",
-    "FitTrack AI"
+    "FitTrack AI",
+    "TeamFusion"
   ]
 }
