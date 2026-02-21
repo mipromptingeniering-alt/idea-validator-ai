@@ -760,6 +760,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260221154934",
+    "nombre": "CreativFlow",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión del tiempo y tareas diseñada específicamente para creativos que buscan optimizar su flujo de trabajo y potenciar su product...",
+    "score": 70,
+    "landing_url": "IDEA-20260221154934.html"
+  },
+  {
     "id": "IDEA-20260220195023",
     "nombre": "TimeWise",
     "tipo": "SaaS",

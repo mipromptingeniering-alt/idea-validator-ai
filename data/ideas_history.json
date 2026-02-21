@@ -727,6 +727,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-02-21T15:49:34.303271"
+    },
+    {
+      "nombre": "TimeCraft",
+      "descripcion": "TimeCraft es un software como servicio que ayuda a los profesionales creativos a gestionar su tiempo y proyectos de manera más efectiva. Utiliza inteligencia artificial para ofrecer recomendaciones personalizadas sobre cómo priorizar tareas y optimizar el flujo de trabajo, integrándose con otras herramientas como calendarios y listas de tareas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-21T16:59:51.112591"
     }
   ],
   "nombres_usados": [
@@ -833,6 +840,7 @@
     "RemoteSync",
     "CreativeSpectrum",
     "ReputaPyme",
-    "CreativFlow"
+    "CreativFlow",
+    "TimeCraft"
   ]
 }
