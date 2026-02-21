@@ -72,6 +72,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260221105608",
+    "nombre": "FactuSmart",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de facturación y seguimiento financiero diseñada específicamente para freelancers y pequeñas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260221105608.html"
+  },
+  {
     "id": "IDEA-20260221095743",
     "nombre": "SocialScribe",
     "tipo": "SaaS",

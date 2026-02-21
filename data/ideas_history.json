@@ -692,6 +692,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-21T10:56:08.803730"
+    },
+    {
+      "nombre": "SocialSynergy",
+      "descripcion": "SocialSynergy permite a las pymes gestionar sus perfiles en redes sociales de manera efectiva a través de un panel intuitivo. La plataforma incluye plantillas de publicaciones, un calendario de contenido, y módulos educativos para ayudar a los usuarios a maximizar su impacto en línea.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-21T11:41:58.891915"
     }
   ],
   "nombres_usados": [
@@ -793,6 +800,7 @@
     "SocialManagePro",
     "EasyMarketer",
     "SocialScribe",
-    "FactuSmart"
+    "FactuSmart",
+    "SocialSynergy"
   ]
 }
