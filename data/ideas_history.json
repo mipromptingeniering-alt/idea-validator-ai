@@ -650,6 +650,13 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-02-20T23:56:11.909416"
+    },
+    {
+      "nombre": "EduMarketer",
+      "descripcion": "EduMarketer es una herramienta SaaS diseñada para pequeñas y medianas empresas que desean adentrarse en el marketing digital. Ofrece una interfaz intuitiva que permite a los usuarios crear campañas de marketing automatizadas mientras reciben tutoriales y recursos sobre estrategias de marketing efectivas. La plataforma incluye herramientas para gestión de redes sociales, email marketing, y análisis de datos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-21T04:53:46.429496"
     }
   ],
   "nombres_usados": [
@@ -745,6 +752,7 @@
     "FinOptima",
     "SocialConnect",
     "CreaFlow",
-    "PymeMarketer"
+    "PymeMarketer",
+    "EduMarketer"
   ]
 }
