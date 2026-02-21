@@ -80,6 +80,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260221175438",
+    "nombre": "FocusConnect",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo y productividad que incluye un componente social para mantener la motivación y conexión entre trabajadores remoto...",
+    "score": 75,
+    "landing_url": "IDEA-20260221175438.html"
+  },
+  {
     "id": "IDEA-20260221165951",
     "nombre": "TimeCraft",
     "tipo": "SaaS",

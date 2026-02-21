@@ -741,6 +741,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-21T17:54:39.000247"
+    },
+    {
+      "nombre": "FitTrack AI",
+      "descripcion": "FitTrack AI es una aplicación que combina tecnología de IA con datos personales del usuario para crear planes de entrenamiento y nutrición adaptativos. Los usuarios podrán recibir recomendaciones en tiempo real basadas en su actividad física, progreso y preferencias personales, fomentando así un compromiso constante con sus metas de fitness.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-21T19:04:54.842513"
     }
   ],
   "nombres_usados": [
@@ -849,6 +856,7 @@
     "ReputaPyme",
     "CreativFlow",
     "TimeCraft",
-    "FocusConnect"
+    "FocusConnect",
+    "FitTrack AI"
   ]
 }
