@@ -762,6 +762,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-21T20:50:27.058855"
+    },
+    {
+      "nombre": "CollaboSphere",
+      "descripcion": "CollaboSphere permite a los equipos trabajar juntos de manera más eficaz al integrar herramientas de gestión de proyectos, videoconferencias y chat en tiempo real. Ofrece una experiencia de usuario fluida y simplificada, eliminando la necesidad de usar múltiples herramientas y ayudando a los equipos a mantenerse conectados y productivos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-21T21:44:02.018124"
     }
   ],
   "nombres_usados": [
@@ -873,6 +880,7 @@
     "FocusConnect",
     "FitTrack AI",
     "TeamFusion",
-    "CollabWorks"
+    "CollabWorks",
+    "CollaboSphere"
   ]
 }
