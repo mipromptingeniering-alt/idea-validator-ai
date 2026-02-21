@@ -713,6 +713,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-21T13:54:41.207467"
+    },
+    {
+      "nombre": "ReputaPyme",
+      "descripcion": "ReputaPyme es una herramienta que permite a las pequeñas y medianas empresas monitorizar sus reseñas, gestionar su presencia en redes sociales y recibir recomendaciones personalizadas para mejorar su reputación online. Con un enfoque fácil de usar, permite a las PYMES enfocarse en lo que saben hacer mejor: su negocio, mientras se preocupan menos por su imagen en línea.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-21T14:56:21.397034"
     }
   ],
   "nombres_usados": [
@@ -817,6 +824,7 @@
     "FactuSmart",
     "SocialSynergy",
     "RemoteSync",
-    "CreativeSpectrum"
+    "CreativeSpectrum",
+    "ReputaPyme"
   ]
 }
