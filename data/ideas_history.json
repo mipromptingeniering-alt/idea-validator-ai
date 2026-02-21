@@ -776,6 +776,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-21T21:59:13.845443"
+    },
+    {
+      "nombre": "PsychManage",
+      "descripcion": "PsychManage es un software en la nube para terapeutas y consejeros que ofrece programación de citas, gestión de historias clínicas, facturación y herramientas de telemedicina, todo en un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-21T22:55:46.789239"
     }
   ],
   "nombres_usados": [
@@ -889,6 +896,7 @@
     "TeamFusion",
     "CollabWorks",
     "CollaboSphere",
-    "SMB Digital Suite"
+    "SMB Digital Suite",
+    "PsychManage"
   ]
 }

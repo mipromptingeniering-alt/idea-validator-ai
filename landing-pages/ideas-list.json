@@ -80,6 +80,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260221215913",
+    "nombre": "SMB Digital Suite",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integrada que permite a las PYMES gestionar su presencia online, incluyendo redes sociales, sitio web y analítica en un solo lugar....",
+    "score": 75,
+    "landing_url": "IDEA-20260221215913.html"
+  },
+  {
     "id": "IDEA-20260221214401",
     "nombre": "CollaboSphere",
     "tipo": "SaaS",
