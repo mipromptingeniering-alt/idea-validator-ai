@@ -734,6 +734,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-21T16:59:51.112591"
+    },
+    {
+      "nombre": "FocusConnect",
+      "descripcion": "FocusConnect es una herramienta que permite a los trabajadores remotos y freelancers gestionar su tiempo de forma efectiva, establecer metas, y conectar con otros profesionales para compartir experiencias y motivación. La plataforma incluye seguimiento de tareas, sesiones de trabajo en grupo y recursos de mejora personal.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-21T17:54:39.000247"
     }
   ],
   "nombres_usados": [
@@ -841,6 +848,7 @@
     "CreativeSpectrum",
     "ReputaPyme",
     "CreativFlow",
-    "TimeCraft"
+    "TimeCraft",
+    "FocusConnect"
   ]
 }
