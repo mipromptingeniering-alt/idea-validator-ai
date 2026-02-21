@@ -40,6 +40,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260221115732",
+    "nombre": "RemoteSync",
+    "tipo": "SaaS",
+    "resumen": "RemoteSync es una plataforma integral que optimiza la productividad del trabajo remoto combinando gestión del tiempo, tareas, y comunicación en un sol...",
+    "score": 76,
+    "landing_url": "IDEA-20260221115732.html"
+  },
+  {
     "id": "IDEA-20260219180757",
     "nombre": "FreelancePay",
     "tipo": "SaaS",

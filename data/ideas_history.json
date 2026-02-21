@@ -706,6 +706,13 @@
       "tipo": "SaaS",
       "score": 76,
       "fecha": "2026-02-21T11:57:32.452926"
+    },
+    {
+      "nombre": "CreativeSpectrum",
+      "descripcion": "CreativeSpectrum permite a los usuarios crear portafolios personalizados y recibir comentarios de otros profesionales en un espacio seguro y centrado. Incorpora herramientas para colaborar en tiempo real y permite a los usuarios ver el impacto de sus trabajos en diferentes métricas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-21T13:54:41.207467"
     }
   ],
   "nombres_usados": [
@@ -809,6 +816,7 @@
     "SocialScribe",
     "FactuSmart",
     "SocialSynergy",
-    "RemoteSync"
+    "RemoteSync",
+    "CreativeSpectrum"
   ]
 }
