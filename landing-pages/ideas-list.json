@@ -72,6 +72,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260221045346",
+    "nombre": "EduMarketer",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de marketing digital accesible que educa a las PYMES mientras automatiza sus campañas....",
+    "score": 75,
+    "landing_url": "IDEA-20260221045346.html"
+  },
+  {
     "id": "IDEA-20260220225956",
     "nombre": "CreaFlow",
     "tipo": "SaaS",

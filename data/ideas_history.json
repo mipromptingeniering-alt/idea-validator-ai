@@ -657,6 +657,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-21T04:53:46.429496"
+    },
+    {
+      "nombre": "TheraManage",
+      "descripcion": "TheraManage es una plataforma SaaS diseñada específicamente para terapeutas y consejeros que permite la gestión de citas, la documentación de sesiones, el seguimiento del progreso del paciente y la comunicación segura a través de un chat integrado. La solución también ofrece herramientas de análisis para ayudar a los profesionales a evaluar la efectividad de sus intervenciones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-21T07:07:05.124625"
     }
   ],
   "nombres_usados": [
@@ -753,6 +760,7 @@
     "SocialConnect",
     "CreaFlow",
     "PymeMarketer",
-    "EduMarketer"
+    "EduMarketer",
+    "TheraManage"
   ]
 }
