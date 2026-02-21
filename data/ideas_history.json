@@ -664,6 +664,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-21T07:07:05.124625"
+    },
+    {
+      "nombre": "SocialManagePro",
+      "descripcion": "SocialManagePro es una solución en la nube que centraliza la gestión de redes sociales, permitiendo a las pequeñas y medianas empresas programar publicaciones, analizar su rendimiento y recibir recomendaciones para mejorar su alcance y engagement. Con una interfaz intuitiva y fácil de usar, la plataforma está diseñada específicamente para quienes no tienen experiencia previa en marketing digital.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-21T07:56:07.348901"
     }
   ],
   "nombres_usados": [
@@ -761,6 +768,7 @@
     "CreaFlow",
     "PymeMarketer",
     "EduMarketer",
-    "TheraManage"
+    "TheraManage",
+    "SocialManagePro"
   ]
 }

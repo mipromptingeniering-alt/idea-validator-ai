@@ -72,6 +72,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260221070705",
+    "nombre": "TheraManage",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para la gestión de prácticas de terapia que ayuda a los profesionales de la salud mental a organizar sus citas, registros y co...",
+    "score": 75,
+    "landing_url": "IDEA-20260221070705.html"
+  },
+  {
     "id": "IDEA-20260221045346",
     "nombre": "EduMarketer",
     "tipo": "SaaS",
