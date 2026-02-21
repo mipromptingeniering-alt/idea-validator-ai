@@ -755,6 +755,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-21T19:48:58.308399"
+    },
+    {
+      "nombre": "CollabWorks",
+      "descripcion": "CollabWorks es una solución SaaS que integra la gestión de tareas, la calendarización y herramientas de comunicación en un solo lugar, facilitando la colaboración en equipos remotos y mejorando la eficiencia en la gestión del tiempo y las responsabilidades.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-21T20:50:27.058855"
     }
   ],
   "nombres_usados": [
@@ -865,6 +872,7 @@
     "TimeCraft",
     "FocusConnect",
     "FitTrack AI",
-    "TeamFusion"
+    "TeamFusion",
+    "CollabWorks"
   ]
 }

@@ -80,6 +80,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260221194858",
+    "nombre": "TeamFusion",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma todo en uno para equipos remotos que combina comunicación, gestión de proyectos y dinámicas de team-building....",
+    "score": 75,
+    "landing_url": "IDEA-20260221194858.html"
+  },
+  {
     "id": "IDEA-20260221190454",
     "nombre": "FitTrack AI",
     "tipo": "SaaS",
