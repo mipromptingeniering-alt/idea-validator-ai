@@ -853,6 +853,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-22T14:57:16.050363"
+    },
+    {
+      "nombre": "EduTime",
+      "descripcion": "EduTime permite a los padres crear horarios personalizados que incorporan tiempo de estudio, tareas y actividades recreativas. Con incentivos gamificados y un enfoque en la colaboración familiar, los padres pueden administrar y hacer seguimiento del progreso de sus hijos de manera efectiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-22T15:51:44.042937"
     }
   ],
   "nombres_usados": [
@@ -977,6 +984,7 @@
     "TaskNest",
     "SocialSimplify",
     "TimeQuest",
-    "PymePro"
+    "PymePro",
+    "EduTime"
   ]
 }

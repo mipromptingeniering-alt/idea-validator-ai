@@ -80,6 +80,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260222145715",
+    "nombre": "PymePro",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de proyectos y colaboración diseñada para pymes que mejora la eficiencia operacional y la comunicación del equipo....",
+    "score": 75,
+    "landing_url": "IDEA-20260222145715.html"
+  },
+  {
     "id": "IDEA-20260222135550",
     "nombre": "TimeQuest",
     "tipo": "SaaS",
