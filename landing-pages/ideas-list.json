@@ -16,6 +16,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260222205455",
+    "nombre": "Marketing Simplificado",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de marketing digital automatizada y educativa para pequeñas y medianas empresas....",
+    "score": 78,
+    "landing_url": "IDEA-20260222205455.html"
+  },
+  {
     "id": "IDEA-20260220235611",
     "nombre": "PymeMarketer",
     "tipo": "SaaS",

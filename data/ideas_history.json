@@ -895,6 +895,13 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-02-22T20:54:55.512854"
+    },
+    {
+      "nombre": "Empresario Smart",
+      "descripcion": "Empresario Smart es una herramienta que permite a las PYMEs gestionar campañas de marketing, redes sociales, correos electrónicos y análisis de manera sencilla y efectiva, sin necesidad de conocimientos técnicos avanzados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-22T21:49:59.181523"
     }
   ],
   "nombres_usados": [
@@ -1025,6 +1032,7 @@
     "Financio",
     "SocialFlow",
     "TaskQuest",
-    "Marketing Simplificado"
+    "Marketing Simplificado",
+    "Empresario Smart"
   ]
 }
