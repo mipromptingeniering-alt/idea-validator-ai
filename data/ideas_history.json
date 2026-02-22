@@ -874,6 +874,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-22T17:54:17.735321"
+    },
+    {
+      "nombre": "SocialFlow",
+      "descripcion": "SocialFlow permite a los usuarios gestionar múltiples cuentas de redes sociales desde un solo lugar. Con funcionalidades de programación de publicaciones, análisis de rendimiento y recomendaciones personalizadas, los usuarios pueden optimizar su estrategia de contenido sin necesidad de ser expertos en marketing digital.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-22T19:04:45.719691"
     }
   ],
   "nombres_usados": [
@@ -1001,6 +1008,7 @@
     "PymePro",
     "EduTime",
     "AdFusion",
-    "Financio"
+    "Financio",
+    "SocialFlow"
   ]
 }

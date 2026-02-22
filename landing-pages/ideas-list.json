@@ -80,6 +80,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260222175417",
+    "nombre": "Financio",
+    "tipo": "SaaS",
+    "resumen": "Financio es una plataforma de gestión financiera diseñada específicamente para emprendedores y freelancers, que combina herramientas de contabilidad e...",
+    "score": 75,
+    "landing_url": "IDEA-20260222175417.html"
+  },
+  {
     "id": "IDEA-20260222170017",
     "nombre": "AdFusion",
     "tipo": "SaaS",
