@@ -902,6 +902,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-22T21:49:59.181523"
+    },
+    {
+      "nombre": "TaskFlow",
+      "descripcion": "TaskFlow es una herramienta SaaS que combina la gestión de tareas, la planificación de proyectos y la comunicación en un solo lugar. Diseñada especialmente para PYMEs, su interfaz intuitiva y sus funciones adaptadas a equipos pequeños facilitan una gestión más eficiente del tiempo y los recursos.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-02-22T22:56:28.452846"
     }
   ],
   "nombres_usados": [
@@ -1033,6 +1040,7 @@
     "SocialFlow",
     "TaskQuest",
     "Marketing Simplificado",
-    "Empresario Smart"
+    "Empresario Smart",
+    "TaskFlow"
   ]
 }
