@@ -80,6 +80,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260222135550",
+    "nombre": "TimeQuest",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo basada en gamificación que transforma la productividad en un juego....",
+    "score": 75,
+    "landing_url": "IDEA-20260222135550.html"
+  },
+  {
     "id": "IDEA-20260222115817",
     "nombre": "SocialSimplify",
     "tipo": "SaaS",

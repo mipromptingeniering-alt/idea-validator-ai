@@ -846,6 +846,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-22T13:55:50.108257"
+    },
+    {
+      "nombre": "PymePro",
+      "descripcion": "PymePro es una plataforma SaaS que permite a las pequeñas y medianas empresas gestionar sus proyectos, tareas y equipos de trabajo de forma efectiva. Ofrece funciones de planificación, seguimiento de tareas, comunicación interna y análisis de rendimiento en tiempo real, todo en un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-22T14:57:16.050363"
     }
   ],
   "nombres_usados": [
@@ -969,6 +976,7 @@
     "MotivaTeam",
     "TaskNest",
     "SocialSimplify",
-    "TimeQuest"
+    "TimeQuest",
+    "PymePro"
   ]
 }
