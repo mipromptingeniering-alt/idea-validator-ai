@@ -839,6 +839,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-22T11:58:17.439191"
+    },
+    {
+      "nombre": "TimeQuest",
+      "descripcion": "TimeQuest permite a los usuarios establecer tareas y plazos, ganar puntos y recompensas por completar objetivos, y competir con amigos o colegas. La plataforma incluirá cronómetros, recordatorios y estadísticas de productividad personal.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-22T13:55:50.108257"
     }
   ],
   "nombres_usados": [
@@ -961,6 +968,7 @@
     "GastosOptimiza",
     "MotivaTeam",
     "TaskNest",
-    "SocialSimplify"
+    "SocialSimplify",
+    "TimeQuest"
   ]
 }

@@ -80,6 +80,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260222115817",
+    "nombre": "SocialSimplify",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de redes sociales diseñada especialmente para pequeñas y medianas empresas, que ofrece herramientas sencillas para programar...",
+    "score": 75,
+    "landing_url": "IDEA-20260222115817.html"
+  },
+  {
     "id": "IDEA-20260222095749",
     "nombre": "MotivaTeam",
     "tipo": "SaaS",
