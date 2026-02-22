@@ -864,6 +864,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260222105541",
+    "nombre": "TaskNest",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de tareas diseñada exclusivamente para freelancers y pequeños equipos, que facilita la organización de proyectos y la colab...",
+    "score": 70,
+    "landing_url": "IDEA-20260222105541.html"
+  },
+  {
     "id": "IDEA-20260222090226",
     "nombre": "GastosOptimiza",
     "tipo": "SaaS",

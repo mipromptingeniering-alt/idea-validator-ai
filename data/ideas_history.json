@@ -832,6 +832,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-02-22T10:55:41.955193"
+    },
+    {
+      "nombre": "SocialSimplify",
+      "descripcion": "SocialSimplify permite a las PYMEs gestionar múltiples cuentas de redes sociales desde un solo lugar, programar publicaciones, analizar el rendimiento de sus anuncios y obtener recomendaciones personalizadas basadas en su audiencia y sector.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-22T11:58:17.439191"
     }
   ],
   "nombres_usados": [
@@ -953,6 +960,7 @@
     "Taskify Pro",
     "GastosOptimiza",
     "MotivaTeam",
-    "TaskNest"
+    "TaskNest",
+    "SocialSimplify"
   ]
 }
