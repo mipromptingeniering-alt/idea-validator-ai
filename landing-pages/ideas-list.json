@@ -80,6 +80,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260222051051",
+    "nombre": "Freelance Connect",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que integra la gestión de proyectos y networking para freelancers....",
+    "score": 75,
+    "landing_url": "IDEA-20260222051051.html"
+  },
+  {
     "id": "IDEA-20260221234542",
     "nombre": "WorkSync",
     "tipo": "SaaS",

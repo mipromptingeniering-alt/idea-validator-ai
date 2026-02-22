@@ -797,6 +797,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-22T05:10:51.290250"
+    },
+    {
+      "nombre": "DataSnap",
+      "descripcion": "DataSnap permite a los profesionales del marketing digital monitorear y analizar el rendimiento de diversas plataformas en un solo lugar. Con integración con redes sociales, Google Analytics y otras herramientas, los usuarios pueden visualizar métricas clave y realizar informes personalizados con facilidad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-22T07:27:38.247544"
     }
   ],
   "nombres_usados": [
@@ -913,6 +920,7 @@
     "SMB Digital Suite",
     "PsychManage",
     "WorkSync",
-    "Freelance Connect"
+    "Freelance Connect",
+    "DataSnap"
   ]
 }
