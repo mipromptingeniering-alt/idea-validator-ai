@@ -790,6 +790,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-21T23:45:42.501851"
+    },
+    {
+      "nombre": "Freelance Connect",
+      "descripcion": "Freelance Connect permite a los freelancers gestionar sus proyectos, tareas y clientes de manera efectiva, a la vez que les proporciona herramientas para conectarse, colaborar y establecer relaciones comerciales dentro de su red profesional.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-22T05:10:51.290250"
     }
   ],
   "nombres_usados": [
@@ -905,6 +912,7 @@
     "CollaboSphere",
     "SMB Digital Suite",
     "PsychManage",
-    "WorkSync"
+    "WorkSync",
+    "Freelance Connect"
   ]
 }
