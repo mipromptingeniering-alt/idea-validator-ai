@@ -811,6 +811,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-22T08:00:26.992481"
+    },
+    {
+      "nombre": "GastosOptimiza",
+      "descripcion": "GastosOptimiza es una herramienta que permite a las pymes registrar y analizar sus gastos en diferentes categorías. Ofrece recomendaciones personalizadas para reducir costos y maximizar la eficiencia financiera, basado en datos de la industria y comparativas con competidores.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-02-22T09:02:26.756940"
     }
   ],
   "nombres_usados": [
@@ -929,6 +936,7 @@
     "WorkSync",
     "Freelance Connect",
     "DataSnap",
-    "Taskify Pro"
+    "Taskify Pro",
+    "GastosOptimiza"
   ]
 }

@@ -80,6 +80,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260222080026",
+    "nombre": "Taskify Pro",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de proyectos diseñada específicamente para freelancers y pequeños emprendedores....",
+    "score": 75,
+    "landing_url": "IDEA-20260222080026.html"
+  },
+  {
     "id": "IDEA-20260222072738",
     "nombre": "DataSnap",
     "tipo": "SaaS",
