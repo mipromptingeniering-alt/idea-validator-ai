@@ -881,6 +881,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-22T19:04:45.719691"
+    },
+    {
+      "nombre": "TaskQuest",
+      "descripcion": "TaskQuest combina la gestión de tareas, seguimiento de proyectos y herramientas de comunicación en una interfaz intuitiva que incorpora elementos de juego. Los usuarios pueden ganar puntos, completar misiones y desbloquear recompensas al avanzar en sus proyectos, fomentando un ambiente de trabajo colaborativo y divertido.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-22T19:49:45.852448"
     }
   ],
   "nombres_usados": [
@@ -1009,6 +1016,7 @@
     "EduTime",
     "AdFusion",
     "Financio",
-    "SocialFlow"
+    "SocialFlow",
+    "TaskQuest"
   ]
 }

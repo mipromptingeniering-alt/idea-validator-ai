@@ -80,6 +80,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260222190445",
+    "nombre": "SocialFlow",
+    "tipo": "SaaS",
+    "resumen": "SocialFlow es una plataforma de gestión de redes sociales diseñada para pequeñas empresas y emprendedores, que ayuda en la planificación, publicación ...",
+    "score": 75,
+    "landing_url": "IDEA-20260222190445.html"
+  },
+  {
     "id": "IDEA-20260222175417",
     "nombre": "Financio",
     "tipo": "SaaS",
