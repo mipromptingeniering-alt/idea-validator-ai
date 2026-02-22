@@ -888,6 +888,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-22T19:49:45.852448"
+    },
+    {
+      "nombre": "Marketing Simplificado",
+      "descripcion": "Marketing Simplificado es una herramienta SaaS que ofrece a las PYMEs un asistente automatizado para crear, ejecutar y optimizar campañas de marketing digital. Además, proporciona tutoriales y recursos educativos que permiten a los usuarios entender mejor el marketing digital y así, mejorar sus estrategias.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-02-22T20:54:55.512854"
     }
   ],
   "nombres_usados": [
@@ -1017,6 +1024,7 @@
     "AdFusion",
     "Financio",
     "SocialFlow",
-    "TaskQuest"
+    "TaskQuest",
+    "Marketing Simplificado"
   ]
 }

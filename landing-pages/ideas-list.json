@@ -80,6 +80,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260222194945",
+    "nombre": "TaskQuest",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de tareas que utiliza gamificación para mejorar la colaboración y la productividad en equipos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260222194945.html"
+  },
+  {
     "id": "IDEA-20260222190445",
     "nombre": "SocialFlow",
     "tipo": "SaaS",
