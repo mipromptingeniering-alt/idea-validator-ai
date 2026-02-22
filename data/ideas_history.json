@@ -818,6 +818,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-02-22T09:02:26.756940"
+    },
+    {
+      "nombre": "MotivaTeam",
+      "descripcion": "MotivaTeam es una solución SaaS diseñada para equipos remotos, que busca aumentar la motivación y la productividad a través de la gamificación y actividades bien estructuradas de bienestar. Los usuarios pueden gestionar proyectos, establecer metas, participar en retos grupales y acceder a recursos de bienestar mental y físico, todo dentro de la misma plataforma.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-22T09:57:49.788820"
     }
   ],
   "nombres_usados": [
@@ -937,6 +944,7 @@
     "Freelance Connect",
     "DataSnap",
     "Taskify Pro",
-    "GastosOptimiza"
+    "GastosOptimiza",
+    "MotivaTeam"
   ]
 }

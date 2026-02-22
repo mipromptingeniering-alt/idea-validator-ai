@@ -856,6 +856,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260222090226",
+    "nombre": "GastosOptimiza",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS destinada a ayudar a las pymes a analizar y optimizar sus gastos mensuales....",
+    "score": 70,
+    "landing_url": "IDEA-20260222090226.html"
+  },
+  {
     "id": "IDEA-20260221154934",
     "nombre": "CreativFlow",
     "tipo": "SaaS",
