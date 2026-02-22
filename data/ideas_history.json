@@ -860,6 +860,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-22T15:51:44.042937"
+    },
+    {
+      "nombre": "AdFusion",
+      "descripcion": "AdFusion proporciona un dashboard unificado que permite a los marketers visualizar, analizar y optimizar sus campañas publicitarias de diferentes plataformas de forma simultánea, ahorrando tiempo y recursos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-22T17:00:17.339255"
     }
   ],
   "nombres_usados": [
@@ -985,6 +992,7 @@
     "SocialSimplify",
     "TimeQuest",
     "PymePro",
-    "EduTime"
+    "EduTime",
+    "AdFusion"
   ]
 }

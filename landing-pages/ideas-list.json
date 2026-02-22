@@ -80,6 +80,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260222155144",
+    "nombre": "EduTime",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma para ayudar a los padres a gestionar el tiempo de estudio y ocio de sus hijos mediante una interfaz gamificada....",
+    "score": 75,
+    "landing_url": "IDEA-20260222155144.html"
+  },
+  {
     "id": "IDEA-20260222145715",
     "nombre": "PymePro",
     "tipo": "SaaS",
