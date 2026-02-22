@@ -944,6 +944,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260222225628",
+    "nombre": "TaskFlow",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de tareas y proyectos diseñada para pequeñas y medianas empresas que integra comunicación y planificación....",
+    "score": 70,
+    "landing_url": "IDEA-20260222225628.html"
+  },
+  {
     "id": "IDEA-20260222105541",
     "nombre": "TaskNest",
     "tipo": "SaaS",

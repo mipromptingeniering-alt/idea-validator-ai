@@ -909,6 +909,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-02-22T22:56:28.452846"
+    },
+    {
+      "nombre": "ClienteConectado",
+      "descripcion": "ClienteConectado proporciona a las PYMEs una plataforma fácil de usar para gestionar la comunicación con sus clientes. Incluye herramientas para realizar seguimientos automáticos, enviar recordatorios y personalizar la comunicación en base a las interacciones previas. Además, ofrece análisis de satisfacción del cliente y recomendaciones para mejorar la fidelización.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-22T23:52:52.448688"
     }
   ],
   "nombres_usados": [
@@ -1041,6 +1048,7 @@
     "TaskQuest",
     "Marketing Simplificado",
     "Empresario Smart",
-    "TaskFlow"
+    "TaskFlow",
+    "ClienteConectado"
   ]
 }
