@@ -825,6 +825,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-22T09:57:49.788820"
+    },
+    {
+      "nombre": "TaskNest",
+      "descripcion": "TaskNest permitirá a los usuarios crear tareas, asignarlas, establecer plazos y colaborar en proyectos directamente desde una interfaz intuitiva. La plataforma incluirá integraciones con apps populares como Google Drive y Slack, así como una función de seguimiento del tiempo trabajada en cada tarea.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-02-22T10:55:41.955193"
     }
   ],
   "nombres_usados": [
@@ -945,6 +952,7 @@
     "DataSnap",
     "Taskify Pro",
     "GastosOptimiza",
-    "MotivaTeam"
+    "MotivaTeam",
+    "TaskNest"
   ]
 }

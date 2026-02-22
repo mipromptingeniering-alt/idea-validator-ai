@@ -80,6 +80,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260222095749",
+    "nombre": "MotivaTeam",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de proyectos que incorpora gamificación y actividades de bienestar para mejorar la motivación y la cohesión del equipo remot...",
+    "score": 75,
+    "landing_url": "IDEA-20260222095749.html"
+  },
+  {
     "id": "IDEA-20260222080026",
     "nombre": "Taskify Pro",
     "tipo": "SaaS",
