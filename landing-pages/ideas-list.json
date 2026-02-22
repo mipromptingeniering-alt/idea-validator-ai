@@ -80,6 +80,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260222170017",
+    "nombre": "AdFusion",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que unifica y optimiza el análisis de campañas publicitarias en múltiples plataformas de marketing digital....",
+    "score": 75,
+    "landing_url": "IDEA-20260222170017.html"
+  },
+  {
     "id": "IDEA-20260222155144",
     "nombre": "EduTime",
     "tipo": "SaaS",

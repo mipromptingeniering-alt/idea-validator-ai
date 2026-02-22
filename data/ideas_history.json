@@ -867,6 +867,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-22T17:00:17.339255"
+    },
+    {
+      "nombre": "Financio",
+      "descripcion": "Financio permite a los usuarios gestionar sus ingresos y gastos, crear presupuestos personalizados y recibir consejos financieros específicos para su situación, fomentando una mejor toma de decisiones y una planificación efectiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-22T17:54:17.735321"
     }
   ],
   "nombres_usados": [
@@ -993,6 +1000,7 @@
     "TimeQuest",
     "PymePro",
     "EduTime",
-    "AdFusion"
+    "AdFusion",
+    "Financio"
   ]
 }
