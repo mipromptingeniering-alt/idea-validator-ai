@@ -804,6 +804,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-22T07:27:38.247544"
+    },
+    {
+      "nombre": "Taskify Pro",
+      "descripcion": "Taskify Pro permite a los usuarios gestionar sus tareas, proyectos y tiempo de forma sencilla y colaborativa. Ofrece funcionalidades como gestión de tareas, seguimiento del tiempo, y reportes de productividad, todo en un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-22T08:00:26.992481"
     }
   ],
   "nombres_usados": [
@@ -921,6 +928,7 @@
     "PsychManage",
     "WorkSync",
     "Freelance Connect",
-    "DataSnap"
+    "DataSnap",
+    "Taskify Pro"
   ]
 }

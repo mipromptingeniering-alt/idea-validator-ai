@@ -80,6 +80,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260222072738",
+    "nombre": "DataSnap",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de análisis de datos que centraliza métricas de diversas plataformas de marketing en un solo panel de control intuitivo....",
+    "score": 75,
+    "landing_url": "IDEA-20260222072738.html"
+  },
+  {
     "id": "IDEA-20260222051051",
     "nombre": "Freelance Connect",
     "tipo": "SaaS",
