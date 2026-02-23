@@ -88,6 +88,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260223200618",
+    "nombre": "MindfulTime",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo que combina técnicas de productividad y mindfulness para ayudar a los usuarios a mejorar su rendimiento personal ...",
+    "score": 75,
+    "landing_url": "IDEA-20260223200618.html"
+  },
+  {
     "id": "IDEA-20260223175115",
     "nombre": "BizManager",
     "tipo": "SaaS",

@@ -958,6 +958,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-23T20:06:19.017028"
+    },
+    {
+      "nombre": "Digital StartHub",
+      "descripcion": "Digital StartHub permite a emprendedores y pequeños negocios construir su sitio web, gestionar sus redes sociales y realizar campañas de email marketing desde una única interfaz fácil de usar. La solución está diseñada para aquellos que no tienen experiencia técnica, proporcionando tutoriales, plantillas y un soporte accesible.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-23T22:17:41.549635"
     }
   ],
   "nombres_usados": [
@@ -1097,6 +1104,7 @@
     "TeamWell",
     "FinanzApp Autónomos",
     "BizManager",
-    "MindfulTime"
+    "MindfulTime",
+    "Digital StartHub"
   ]
 }
