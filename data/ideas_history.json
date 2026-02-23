@@ -923,6 +923,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-23T05:20:09.088727"
+    },
+    {
+      "nombre": "CreatiMentor",
+      "descripcion": "CreatiMentor es una herramienta que ayuda a los profesionales creativos a superar bloqueos y mejorar su creatividad a través de ejercicios interactivos, meditaciones guiadas, y una comunidad de apoyo. Los usuarios pueden realizar un seguimiento de su progreso personal y recibir recomendaciones personalizadas basadas en sus intereses y desafíos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-23T08:04:17.339176"
     }
   ],
   "nombres_usados": [
@@ -1057,6 +1064,7 @@
     "Empresario Smart",
     "TaskFlow",
     "ClienteConectado",
-    "UniPlan"
+    "UniPlan",
+    "CreatiMentor"
   ]
 }

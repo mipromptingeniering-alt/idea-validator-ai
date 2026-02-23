@@ -88,6 +88,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260223052008",
+    "nombre": "UniPlan",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de tiempo y tareas para estudiantes universitarios que integra herramientas de colaboración....",
+    "score": 75,
+    "landing_url": "IDEA-20260223052008.html"
+  },
+  {
     "id": "IDEA-20260222235252",
     "nombre": "ClienteConectado",
     "tipo": "SaaS",
