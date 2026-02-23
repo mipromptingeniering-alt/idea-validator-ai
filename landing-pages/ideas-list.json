@@ -88,6 +88,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260223111039",
+    "nombre": "TeamWell",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma digital que combina herramientas de trabajo colaborativo con actividades de bienestar para equipos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260223111039.html"
+  },
+  {
     "id": "IDEA-20260223080417",
     "nombre": "CreatiMentor",
     "tipo": "SaaS",
