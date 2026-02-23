@@ -976,6 +976,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260223141653",
+    "nombre": "FinanzApp Autónomos",
+    "tipo": "MicroSaaS",
+    "resumen": "Una aplicación web sencilla para la gestión financiera de autónomos....",
+    "score": 70,
+    "landing_url": "IDEA-20260223141653.html"
+  },
+  {
     "id": "IDEA-20260222225628",
     "nombre": "TaskFlow",
     "tipo": "SaaS",

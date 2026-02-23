@@ -944,6 +944,13 @@
       "tipo": "MicroSaaS",
       "score": 70,
       "fecha": "2026-02-23T14:16:53.534659"
+    },
+    {
+      "nombre": "BizManager",
+      "descripcion": "BizManager es un software como servicio que permite a los emprendedores gestionar sus negocios de manera eficiente. Ofrece funciones como contabilidad básica, gestión de clientes, seguimiento de ventas y campañas de marketing digital, todo en una interfaz fácil de usar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-23T17:51:15.777593"
     }
   ],
   "nombres_usados": [
@@ -1081,6 +1088,7 @@
     "UniPlan",
     "CreatiMentor",
     "TeamWell",
-    "FinanzApp Autónomos"
+    "FinanzApp Autónomos",
+    "BizManager"
   ]
 }
