@@ -930,6 +930,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-23T08:04:17.339176"
+    },
+    {
+      "nombre": "TeamWell",
+      "descripcion": "TeamWell es un espacio virtual diseñado específicamente para trabajadores remotos, donde pueden colaborar en proyectos mientras participan en actividades que promueven el bienestar y la cohesión del equipo. Desde videoconferencias hasta juegos y sesiones de meditación, TeamWell busca equilibrar la productividad y el bienestar de los empleados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-23T11:10:39.593971"
     }
   ],
   "nombres_usados": [
@@ -1065,6 +1072,7 @@
     "TaskFlow",
     "ClienteConectado",
     "UniPlan",
-    "CreatiMentor"
+    "CreatiMentor",
+    "TeamWell"
   ]
 }

@@ -88,6 +88,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260223080417",
+    "nombre": "CreatiMentor",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que ofrece ejercicios y recursos para superar bloqueos creativos y fomentar la creatividad, combinando técnicas de autoconocimiento con...",
+    "score": 75,
+    "landing_url": "IDEA-20260223080417.html"
+  },
+  {
     "id": "IDEA-20260223052008",
     "nombre": "UniPlan",
     "tipo": "SaaS",
