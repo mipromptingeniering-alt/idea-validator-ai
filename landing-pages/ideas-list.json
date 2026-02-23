@@ -88,6 +88,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260223221741",
+    "nombre": "Digital StartHub",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para emprendedores que facilita la creación y gestión de su presencia digital....",
+    "score": 75,
+    "landing_url": "IDEA-20260223221741.html"
+  },
+  {
     "id": "IDEA-20260223200618",
     "nombre": "MindfulTime",
     "tipo": "SaaS",

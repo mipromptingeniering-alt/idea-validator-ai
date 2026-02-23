@@ -965,6 +965,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-23T22:17:41.549635"
+    },
+    {
+      "nombre": "PymeBoost",
+      "descripcion": "PymeBoost es un software como servicio que ofrece a las PYMES las herramientas necesarias para gestionar sus campañas de marketing digital de manera eficaz y asequible. La plataforma incluye tutoriales guiados, plantillas personalizables y un análisis de datos sencillo, lo que permite a los empresarios ejecutar posteriormente estrategias de marketing exitosas sin necesidad de conocimientos técnicos avanzados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-23T23:53:31.379374"
     }
   ],
   "nombres_usados": [
@@ -1105,6 +1112,7 @@
     "FinanzApp Autónomos",
     "BizManager",
     "MindfulTime",
-    "Digital StartHub"
+    "Digital StartHub",
+    "PymeBoost"
   ]
 }
