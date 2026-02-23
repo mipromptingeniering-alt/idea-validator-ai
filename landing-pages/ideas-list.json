@@ -88,6 +88,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260222235252",
+    "nombre": "ClienteConectado",
+    "tipo": "SaaS",
+    "resumen": "Un software de gestión de relaciones con clientes (CRM) enfocado en pequeñas y medianas empresas que facilita la atención post-venta y la fidelización...",
+    "score": 75,
+    "landing_url": "IDEA-20260222235252.html"
+  },
+  {
     "id": "IDEA-20260222214959",
     "nombre": "Empresario Smart",
     "tipo": "SaaS",

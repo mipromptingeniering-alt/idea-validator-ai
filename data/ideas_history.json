@@ -916,6 +916,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-22T23:52:52.448688"
+    },
+    {
+      "nombre": "UniPlan",
+      "descripcion": "UniPlan es una herramienta de planificación diseñada específicamente para estudiantes universitarios. Permite a los usuarios crear horarios, establecer recordatorios y organizar tareas individuales y grupales, así como colaborar en proyectos mediante funciones de calendario compartido y listas de tareas. Además, la plataforma ofrece análisis de productividad para ayudar a los usuarios a identificar áreas de mejora.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-23T05:20:09.088727"
     }
   ],
   "nombres_usados": [
@@ -1049,6 +1056,7 @@
     "Marketing Simplificado",
     "Empresario Smart",
     "TaskFlow",
-    "ClienteConectado"
+    "ClienteConectado",
+    "UniPlan"
   ]
 }
