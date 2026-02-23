@@ -88,6 +88,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260223175115",
+    "nombre": "BizManager",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión integral para emprendedores que centraliza tareas administrativas, financieras y de marketing....",
+    "score": 75,
+    "landing_url": "IDEA-20260223175115.html"
+  },
+  {
     "id": "IDEA-20260223111039",
     "nombre": "TeamWell",
     "tipo": "SaaS",
