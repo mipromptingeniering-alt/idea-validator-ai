@@ -88,6 +88,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260224051454",
+    "nombre": "FinanciaPlus",
+    "tipo": "SaaS",
+    "resumen": "FinanciaPlus es una herramienta de gestión financiera en la nube diseñada específicamente para PYMEs, que permite un manejo fácil de presupuestos, gas...",
+    "score": 75,
+    "landing_url": "IDEA-20260224051454.html"
+  },
+  {
     "id": "IDEA-20260223235331",
     "nombre": "PymeBoost",
     "tipo": "SaaS",

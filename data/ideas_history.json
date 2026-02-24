@@ -979,6 +979,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-24T05:14:54.427723"
+    },
+    {
+      "nombre": "DataSmart Marketing",
+      "descripcion": "DataSmart Marketing permite a las empresas conectar múltiples fuentes de datos de marketing y utilizar inteligencia artificial para obtener insights y recomendaciones personalizadas que optimizan el rendimiento de las campañas. Los usuarios pueden visualizar métricas clave y recibir alertas sobre acciones que deberían tomar para mejorar su retorno de inversión.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-24T07:58:25.006940"
     }
   ],
   "nombres_usados": [
@@ -1121,6 +1128,7 @@
     "MindfulTime",
     "Digital StartHub",
     "PymeBoost",
-    "FinanciaPlus"
+    "FinanciaPlus",
+    "DataSmart Marketing"
   ]
 }
