@@ -986,6 +986,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-24T07:58:25.006940"
+    },
+    {
+      "nombre": "ContentMaster",
+      "descripcion": "ContentMaster permite a los creadores de contenido gestionar sus publicaciones, programar contenido, analizar su rendimiento y acceder a oportunidades de monetización en diversas plataformas, todo desde un solo lugar. Además, ofrece análisis detallados que ayudan a entender mejor la audiencia y optimizar el contenido.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-24T12:06:02.398951"
     }
   ],
   "nombres_usados": [
@@ -1129,6 +1136,7 @@
     "Digital StartHub",
     "PymeBoost",
     "FinanciaPlus",
-    "DataSmart Marketing"
+    "DataSmart Marketing",
+    "ContentMaster"
   ]
 }
