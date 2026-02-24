@@ -88,6 +88,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260224181232",
+    "nombre": "DigiManage",
+    "tipo": "SaaS",
+    "resumen": "DigiManage es una plataforma que centraliza la gestión de redes sociales, permite programar publicaciones, y ofrece análisis de desempeño en tiempo re...",
+    "score": 75,
+    "landing_url": "IDEA-20260224181232.html"
+  },
+  {
     "id": "IDEA-20260224151348",
     "nombre": "CampaignSync",
     "tipo": "SaaS",

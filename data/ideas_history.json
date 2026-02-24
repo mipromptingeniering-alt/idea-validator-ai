@@ -1007,6 +1007,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-24T18:12:32.109586"
+    },
+    {
+      "nombre": "FinSmart",
+      "descripcion": "FinSmart es una herramienta SaaS que permite a emprendedores y freelancers gestionar sus finanzas personales y de negocio de manera eficiente, integrando facturación, seguimiento de gastos y planificación financiera. Utiliza inteligencia artificial para automatizar la categorización de gastos y generar informes personalizados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-24T19:55:55.690755"
     }
   ],
   "nombres_usados": [
@@ -1153,6 +1160,7 @@
     "DataSmart Marketing",
     "ContentMaster",
     "CampaignSync",
-    "DigiManage"
+    "DigiManage",
+    "FinSmart"
   ]
 }
