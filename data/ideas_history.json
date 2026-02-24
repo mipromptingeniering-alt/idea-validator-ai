@@ -993,6 +993,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-24T12:06:02.398951"
+    },
+    {
+      "nombre": "CampaignSync",
+      "descripcion": "CampaignSync permite a los profesionales del marketing unir sus campañas de diferentes plataformas (Google Ads, Facebook, Instagram, etc.) en un solo lugar, obteniendo análisis de rendimiento en tiempo real y recomendaciones personalizadas para mejorar la efectividad de sus esfuerzos de marketing.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-24T15:13:48.490293"
     }
   ],
   "nombres_usados": [
@@ -1137,6 +1144,7 @@
     "PymeBoost",
     "FinanciaPlus",
     "DataSmart Marketing",
-    "ContentMaster"
+    "ContentMaster",
+    "CampaignSync"
   ]
 }
