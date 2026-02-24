@@ -1014,6 +1014,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-24T19:55:55.690755"
+    },
+    {
+      "nombre": "EasyHR",
+      "descripcion": "EasyHR permite a las pequeñas y medianas empresas gestionar el ciclo completo de recursos humanos a través de un solo software. Incluye funciones para la publicación de trabajos, seguimiento de candidaturas, incorporación de empleados y gestión de feedback, todo en una interfaz intuitiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-24T21:52:29.397016"
     }
   ],
   "nombres_usados": [
@@ -1161,6 +1168,7 @@
     "ContentMaster",
     "CampaignSync",
     "DigiManage",
-    "FinSmart"
+    "FinSmart",
+    "EasyHR"
   ]
 }
