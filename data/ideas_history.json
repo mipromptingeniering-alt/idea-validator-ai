@@ -972,6 +972,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-23T23:53:31.379374"
+    },
+    {
+      "nombre": "FinanciaPlus",
+      "descripcion": "FinanciaPlus permite a las pequeñas y medianas empresas gestionar sus finanzas de manera sencilla, con herramientas de presupuestación, seguimiento de gastos, generación de informes financieros y integración con cuentas bancarias. Su diseño impulsado por la experiencia del usuario facilita la adaptación y uso rápido por parte de cualquier miembro del equipo, sin necesidad de conocimientos contables previos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-24T05:14:54.427723"
     }
   ],
   "nombres_usados": [
@@ -1113,6 +1120,7 @@
     "BizManager",
     "MindfulTime",
     "Digital StartHub",
-    "PymeBoost"
+    "PymeBoost",
+    "FinanciaPlus"
   ]
 }
