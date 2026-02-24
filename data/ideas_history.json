@@ -1021,6 +1021,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-24T21:52:29.397016"
+    },
+    {
+      "nombre": "Data3SME",
+      "descripcion": "Data3SME es una herramienta de análisis de datos diseñada específicamente para que las pequeñas y medianas empresas puedan acceder a insights claves sobre su rendimiento, ventas, y comportamiento del cliente, sin la necesidad de personal especializado o grandes inversiones.",
+      "tipo": "SaaS",
+      "score": 76,
+      "fecha": "2026-02-24T23:05:09.512488"
     }
   ],
   "nombres_usados": [
@@ -1169,6 +1176,7 @@
     "CampaignSync",
     "DigiManage",
     "FinSmart",
-    "EasyHR"
+    "EasyHR",
+    "Data3SME"
   ]
 }
