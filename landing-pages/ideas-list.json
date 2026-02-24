@@ -88,6 +88,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260224151348",
+    "nombre": "CampaignSync",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que integra y optimiza campañas de marketing digital en diferentes canales, utilizando inteligencia artificial para análisis y recomend...",
+    "score": 75,
+    "landing_url": "IDEA-20260224151348.html"
+  },
+  {
     "id": "IDEA-20260224120602",
     "nombre": "ContentMaster",
     "tipo": "SaaS",
