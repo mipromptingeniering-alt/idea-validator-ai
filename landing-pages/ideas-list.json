@@ -1112,6 +1112,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260225181512",
+    "nombre": "Atención Pro",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de gestión de atención al cliente unificada para pequeñas y medianas empresas....",
+    "score": 70,
+    "landing_url": "IDEA-20260225181512.html"
+  },
+  {
     "id": "IDEA-20260223141653",
     "nombre": "FinanzApp Autónomos",
     "tipo": "MicroSaaS",

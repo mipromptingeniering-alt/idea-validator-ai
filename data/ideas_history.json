@@ -1070,6 +1070,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-02-25T18:15:12.405172"
+    },
+    {
+      "nombre": "DataWise",
+      "descripcion": "DataWise permite a las PYMEs recolectar, procesar y visualizar sus datos de ventas en tiempo real, proporcionando recomendaciones estratégicas basadas en la analítica de datos, todo en una interfaz fácil de usar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-25T19:59:10.264455"
     }
   ],
   "nombres_usados": [
@@ -1225,6 +1232,7 @@
     "FinEasy",
     "DigitalEase",
     "FaktuRate",
-    "Atención Pro"
+    "Atención Pro",
+    "DataWise"
   ]
 }
