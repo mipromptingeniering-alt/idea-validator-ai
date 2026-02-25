@@ -1042,6 +1042,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-25T05:24:59.539295"
+    },
+    {
+      "nombre": "FinEasy",
+      "descripcion": "FinEasy permite a las PYMES gestionar sus finanzas de manera sencilla y efectiva. Con funciones de contabilidad automatizada, gestión de gastos mediante escaneo de recibos y proyecciones de flujo de caja a largo plazo, las empresas podrán tomar decisiones financieras informadas con facilidad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-25T08:03:49.702496"
     }
   ],
   "nombres_usados": [
@@ -1193,6 +1200,7 @@
     "EasyHR",
     "Data3SME",
     "FinanciaSmart",
-    "SmartMarket"
+    "SmartMarket",
+    "FinEasy"
   ]
 }

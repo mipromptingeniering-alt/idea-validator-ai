@@ -96,6 +96,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260225052459",
+    "nombre": "SmartMarket",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de marketing digital todo en uno diseñada para PYMEs que automatiza campañas y proporciona análisis de datos accesibles....",
+    "score": 75,
+    "landing_url": "IDEA-20260225052459.html"
+  },
+  {
     "id": "IDEA-20260225000149",
     "nombre": "FinanciaSmart",
     "tipo": "SaaS",
