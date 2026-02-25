@@ -1035,6 +1035,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-25T00:01:49.776123"
+    },
+    {
+      "nombre": "SmartMarket",
+      "descripcion": "SmartMarket permite a las pequeñas y medianas empresas crear, ejecutar y analizar campañas de marketing digital sin necesidad de experiencia previa. La plataforma incluye herramientas para el email marketing, gestión de redes sociales, SEO, y análisis de rendimiento centralizado, todo en una interfaz fácil de utilizar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-25T05:24:59.539295"
     }
   ],
   "nombres_usados": [
@@ -1185,6 +1192,7 @@
     "FinSmart",
     "EasyHR",
     "Data3SME",
-    "FinanciaSmart"
+    "FinanciaSmart",
+    "SmartMarket"
   ]
 }
