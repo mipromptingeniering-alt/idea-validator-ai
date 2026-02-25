@@ -1077,6 +1077,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-25T19:59:10.264455"
+    },
+    {
+      "nombre": "Marketing Fácil",
+      "descripcion": "Marketing Fácil es una herramienta SaaS que permite a las pequeñas y medianas empresas gestionar sus campañas de marketing digital desde una interfaz intuitiva. Ofrece funcionalidades como la creación de campañas publicitarias, gestión de redes sociales, y análisis de rendimiento, todo en un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-25T21:50:17.693972"
     }
   ],
   "nombres_usados": [
@@ -1233,6 +1240,7 @@
     "DigitalEase",
     "FaktuRate",
     "Atención Pro",
-    "DataWise"
+    "DataWise",
+    "Marketing Fácil"
   ]
 }

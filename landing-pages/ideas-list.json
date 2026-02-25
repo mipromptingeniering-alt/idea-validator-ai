@@ -96,6 +96,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260225195910",
+    "nombre": "DataWise",
+    "tipo": "SaaS",
+    "resumen": "Herramienta de análisis de datos diseñada específicamente para pequeñas y medianas empresas para optimizar decisiones de venta y marketing....",
+    "score": 75,
+    "landing_url": "IDEA-20260225195910.html"
+  },
+  {
     "id": "IDEA-20260225143510",
     "nombre": "FaktuRate",
     "tipo": "SaaS",
