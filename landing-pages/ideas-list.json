@@ -48,6 +48,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260224230509",
+    "nombre": "Data3SME",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de análisis de datos accesible y asequible para pequeñas y medianas empresas....",
+    "score": 76,
+    "landing_url": "IDEA-20260224230509.html"
+  },
+  {
     "id": "IDEA-20260221115732",
     "nombre": "RemoteSync",
     "tipo": "SaaS",

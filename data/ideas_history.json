@@ -1028,6 +1028,13 @@
       "tipo": "SaaS",
       "score": 76,
       "fecha": "2026-02-24T23:05:09.512488"
+    },
+    {
+      "nombre": "FinanciaSmart",
+      "descripcion": "FinanciaSmart permite a los usuarios registrar sus ingresos y gastos de manera intuitiva, ofreciendo un análisis de datos en tiempo real y recomendaciones personalizadas a través de un asistente de inteligencia artificial. Los usuarios pueden generar reportes financieros fácilmente y recibir alertas sobre su situación financiera.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-25T00:01:49.776123"
     }
   ],
   "nombres_usados": [
@@ -1177,6 +1184,7 @@
     "DigiManage",
     "FinSmart",
     "EasyHR",
-    "Data3SME"
+    "Data3SME",
+    "FinanciaSmart"
   ]
 }
