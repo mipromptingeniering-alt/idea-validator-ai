@@ -96,6 +96,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260225080349",
+    "nombre": "FinEasy",
+    "tipo": "SaaS",
+    "resumen": "FinEasy es una plataforma de gestión financiera diseñada específicamente para pequeñas y medianas empresas, que ayuda a simplificar la contabilidad, l...",
+    "score": 75,
+    "landing_url": "IDEA-20260225080349.html"
+  },
+  {
     "id": "IDEA-20260225052459",
     "nombre": "SmartMarket",
     "tipo": "SaaS",
