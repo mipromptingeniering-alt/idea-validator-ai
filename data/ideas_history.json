@@ -1056,6 +1056,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-25T11:12:29.763996"
+    },
+    {
+      "nombre": "FaktuRate",
+      "descripcion": "FaktuRate simplifica el proceso de facturación mediante plantillas personalizables, seguimiento del estado de los pagos y recordatorios automáticos para los clientes, todo dentro de una interfaz intuitiva y amigable.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-25T14:35:10.570005"
     }
   ],
   "nombres_usados": [
@@ -1209,6 +1216,7 @@
     "FinanciaSmart",
     "SmartMarket",
     "FinEasy",
-    "DigitalEase"
+    "DigitalEase",
+    "FaktuRate"
   ]
 }
