@@ -1084,6 +1084,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-25T21:50:17.693972"
+    },
+    {
+      "nombre": "FinanceFlow",
+      "descripcion": "FinanceFlow permite a los usuarios gestionar sus finanzas de manera eficiente mediante un tablero intuitivo que muestra informes en tiempo real, categorización automática de transacciones y sugerencias personalizadas para mejorar la salud financiera del negocio. Además, ofrece tutoriales interactivos para capacitar a los usuarios en el uso de la plataforma y en conceptos básicos de finanzas.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-02-25T23:05:27.219954"
     }
   ],
   "nombres_usados": [
@@ -1241,6 +1248,7 @@
     "FaktuRate",
     "Atención Pro",
     "DataWise",
-    "Marketing Fácil"
+    "Marketing Fácil",
+    "FinanceFlow"
   ]
 }

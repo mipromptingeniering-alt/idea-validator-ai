@@ -96,6 +96,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260225215017",
+    "nombre": "Marketing Fácil",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de marketing digital sencilla y accesible para PYMEs....",
+    "score": 75,
+    "landing_url": "IDEA-20260225215017.html"
+  },
+  {
     "id": "IDEA-20260225195910",
     "nombre": "DataWise",
     "tipo": "SaaS",
