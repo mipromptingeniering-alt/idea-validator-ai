@@ -1133,6 +1133,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-26T15:08:38.519235"
+    },
+    {
+      "nombre": "FinEduca",
+      "descripcion": "FinEduca ofrece a los usuarios un panel donde pueden ingresar sus ingresos y gastos, recibir alertas sobre sus obligaciones fiscales y acceder a tutoriales y recursos que les permitan entender las implicaciones financieras de su actividad. Además, la plataforma utiliza automatización para generar informes y recordatorios personalizados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-26T18:06:32.322048"
     }
   ],
   "nombres_usados": [
@@ -1297,6 +1304,7 @@
     "TaskFlowEase",
     "SocialBee",
     "EmprenDesk",
-    "FocusGamify"
+    "FocusGamify",
+    "FinEduca"
   ]
 }
