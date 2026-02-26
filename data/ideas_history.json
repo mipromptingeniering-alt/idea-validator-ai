@@ -1112,6 +1112,13 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-02-26T07:58:57.476986"
+    },
+    {
+      "nombre": "SocialBee",
+      "descripcion": "SocialBee es una plataforma que permite a las pequeñas y medianas empresas programar sus publicaciones en varias redes sociales, analizar su rendimiento y recibir recomendaciones sobre el contenido a publicar. La herramienta estará optimizada para facilitar la creación de contenido atractivo y relevante, ayudando a aumentar el engagement y atraer más clientes potenciales.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-26T10:31:43.070903"
     }
   ],
   "nombres_usados": [
@@ -1273,6 +1280,7 @@
     "FinanceFlow",
     "SocialContentAI",
     "ChronosEase",
-    "TaskFlowEase"
+    "TaskFlowEase",
+    "SocialBee"
   ]
 }
