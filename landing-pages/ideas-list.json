@@ -96,6 +96,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260226051327",
+    "nombre": "ChronosEase",
+    "tipo": "MicroSaaS",
+    "resumen": "Una herramienta de gestión del tiempo personalizada para autónomos y pequeños emprendedores....",
+    "score": 75,
+    "landing_url": "IDEA-20260226051327.html"
+  },
+  {
     "id": "IDEA-20260226000033",
     "nombre": "SocialContentAI",
     "tipo": "SaaS",

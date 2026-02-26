@@ -1105,6 +1105,13 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-02-26T05:13:28.019054"
+    },
+    {
+      "nombre": "TaskFlowEase",
+      "descripcion": "TaskFlowEase permite a pequeñas y medianas empresas gestionar sus proyectos y tareas de manera eficiente, eliminando la complejidad de las herramientas existentes. Ofrecemos integraciones con aplicaciones populares y automatizaciones personalizables para aumentar la productividad.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-02-26T07:58:57.476986"
     }
   ],
   "nombres_usados": [
@@ -1265,6 +1272,7 @@
     "Marketing Fácil",
     "FinanceFlow",
     "SocialContentAI",
-    "ChronosEase"
+    "ChronosEase",
+    "TaskFlowEase"
   ]
 }
