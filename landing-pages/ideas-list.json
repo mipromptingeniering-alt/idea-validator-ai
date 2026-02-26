@@ -1192,6 +1192,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260226214823",
+    "nombre": "RemoteWell",
+    "tipo": "SaaS",
+    "resumen": "RemoteWell es una plataforma de productividad que integra gestión de tareas y bienestar emocional para equipos remotos....",
+    "score": 70,
+    "landing_url": "IDEA-20260226214823.html"
+  },
+  {
     "id": "IDEA-20260225230527",
     "nombre": "FinanceFlow",
     "tipo": "SaaS",

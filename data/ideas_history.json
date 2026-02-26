@@ -1154,6 +1154,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-02-26T21:48:23.531494"
+    },
+    {
+      "nombre": "WorkPlay",
+      "descripcion": "WorkPlay combina la gestión de proyectos con un sistema de recompensas y desafíos que fomenta la colaboración, la participación y el bienestar emocional de los empleados. Ofrece herramientas de comunicación, seguimiento de objetivos y actividades lúdicas para que los equipos se mantengan motivados e involucrados.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-02-26T23:04:18.491735"
     }
   ],
   "nombres_usados": [
@@ -1321,6 +1328,7 @@
     "FocusGamify",
     "FinEduca",
     "SocialPro PYME",
-    "RemoteWell"
+    "RemoteWell",
+    "WorkPlay"
   ]
 }
