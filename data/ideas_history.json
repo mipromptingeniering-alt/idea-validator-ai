@@ -1147,6 +1147,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-26T20:00:13.713485"
+    },
+    {
+      "nombre": "RemoteWell",
+      "descripcion": "RemoteWell permite a los equipos gestionar proyectos mientras promueve actividades de bienestar y conexiones sociales a través de retos, sesiones de bienestar y actividades grupales virtuales. La plataforma incluye tableros de tareas, seguimiento del estado de ánimo y funcionalidades para fomentar la interacción entre miembros del equipo.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-02-26T21:48:23.531494"
     }
   ],
   "nombres_usados": [
@@ -1313,6 +1320,7 @@
     "EmprenDesk",
     "FocusGamify",
     "FinEduca",
-    "SocialPro PYME"
+    "SocialPro PYME",
+    "RemoteWell"
   ]
 }

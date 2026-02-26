@@ -96,6 +96,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260226200013",
+    "nombre": "SocialPro PYME",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma accesible de gestión de redes sociales que optimiza la presencia digital de PYMEs....",
+    "score": 75,
+    "landing_url": "IDEA-20260226200013.html"
+  },
+  {
     "id": "IDEA-20260226180632",
     "nombre": "FinEduca",
     "tipo": "SaaS",
