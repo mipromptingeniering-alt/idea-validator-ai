@@ -96,6 +96,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260226103142",
+    "nombre": "SocialBee",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de redes sociales diseñada específicamente para pequeñas y medianas empresas, que simplifica la programación y análisis del...",
+    "score": 75,
+    "landing_url": "IDEA-20260226103142.html"
+  },
+  {
     "id": "IDEA-20260226075857",
     "nombre": "TaskFlowEase",
     "tipo": "MicroSaaS",

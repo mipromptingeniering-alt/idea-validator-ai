@@ -1119,6 +1119,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-26T10:31:43.070903"
+    },
+    {
+      "nombre": "EmprenDesk",
+      "descripcion": "EmprenDesk permite a los emprendedores y freelancers gestionar sus tareas diarias, desde la captación de clientes hasta el seguimiento de gastos e ingresos, en una única interfaz intuitiva. La herramienta incluye características como recordatorios de tareas, plantillas de presupuestos, y seguimiento automático del tiempo, facilitando la organización y eficiencia.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-26T12:06:16.918030"
     }
   ],
   "nombres_usados": [
@@ -1281,6 +1288,7 @@
     "SocialContentAI",
     "ChronosEase",
     "TaskFlowEase",
-    "SocialBee"
+    "SocialBee",
+    "EmprenDesk"
   ]
 }
