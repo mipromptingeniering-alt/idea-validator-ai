@@ -1091,6 +1091,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-02-25T23:05:27.219954"
+    },
+    {
+      "nombre": "SocialContentAI",
+      "descripcion": "SocialContentAI es una herramienta en línea que permite a emprendedores y pequeñas empresas crear contenido de redes sociales fácilmente. A través de algoritmos de inteligencia artificial, la plataforma genera publicaciones personalizadas basadas en tendencias actuales y el historial de publicaciones del usuario, además de ofrecer análisis detallados para optimizar el rendimiento de las publicaciones en diferentes plataformas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-26T00:00:33.161005"
     }
   ],
   "nombres_usados": [
@@ -1249,6 +1256,7 @@
     "Atención Pro",
     "DataWise",
     "Marketing Fácil",
-    "FinanceFlow"
+    "FinanceFlow",
+    "SocialContentAI"
   ]
 }

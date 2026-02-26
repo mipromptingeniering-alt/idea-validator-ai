@@ -1128,6 +1128,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260225230527",
+    "nombre": "FinanceFlow",
+    "tipo": "SaaS",
+    "resumen": "FinanceFlow es una herramienta de gestión financiera integrativa diseñada específicamente para pequeñas y medianas empresas, que facilita el seguimien...",
+    "score": 70,
+    "landing_url": "IDEA-20260225230527.html"
+  },
+  {
     "id": "IDEA-20260225181512",
     "nombre": "Atención Pro",
     "tipo": "SaaS",
