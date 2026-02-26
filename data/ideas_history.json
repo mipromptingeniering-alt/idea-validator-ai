@@ -1098,6 +1098,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-26T00:00:33.161005"
+    },
+    {
+      "nombre": "ChronosEase",
+      "descripcion": "ChronosEase permite a los usuarios gestionar sus tareas diarias, establecer prioridades y recibir recordatorios personalizados, todo en una interfaz simple y fácil de usar. Integra métodos de productividad como Pomodoro y Kanban, adaptándose a las preferencias del usuario.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-02-26T05:13:28.019054"
     }
   ],
   "nombres_usados": [
@@ -1257,6 +1264,7 @@
     "DataWise",
     "Marketing Fácil",
     "FinanceFlow",
-    "SocialContentAI"
+    "SocialContentAI",
+    "ChronosEase"
   ]
 }

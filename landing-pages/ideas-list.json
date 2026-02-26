@@ -96,6 +96,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260226000033",
+    "nombre": "SocialContentAI",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que utiliza inteligencia artificial para generar contenido atractivo para redes sociales y proporciona análisis en tiempo real sobre su...",
+    "score": 75,
+    "landing_url": "IDEA-20260226000033.html"
+  },
+  {
     "id": "IDEA-20260225215017",
     "nombre": "Marketing Fácil",
     "tipo": "SaaS",
