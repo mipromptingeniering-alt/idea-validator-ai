@@ -96,6 +96,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260226180632",
+    "nombre": "FinEduca",
+    "tipo": "SaaS",
+    "resumen": "FinEduca es una plataforma en línea que ayuda a emprendedores y freelancers a gestionar sus finanzas de forma sencilla, combinando herramientas contab...",
+    "score": 75,
+    "landing_url": "IDEA-20260226180632.html"
+  },
+  {
     "id": "IDEA-20260226150838",
     "nombre": "FocusGamify",
     "tipo": "SaaS",

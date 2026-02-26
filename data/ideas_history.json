@@ -1140,6 +1140,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-26T18:06:32.322048"
+    },
+    {
+      "nombre": "SocialPro PYME",
+      "descripcion": "SocialPro PYME permite a las pequeñas y medianas empresas gestionar, programar y analizar su contenido en redes sociales de forma sencilla y efectiva, con herramientas automatizadas y recomendaciones personalizadas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-26T20:00:13.713485"
     }
   ],
   "nombres_usados": [
@@ -1305,6 +1312,7 @@
     "SocialBee",
     "EmprenDesk",
     "FocusGamify",
-    "FinEduca"
+    "FinEduca",
+    "SocialPro PYME"
   ]
 }
