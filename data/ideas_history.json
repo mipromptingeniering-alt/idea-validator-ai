@@ -1126,6 +1126,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-26T12:06:16.918030"
+    },
+    {
+      "nombre": "FocusGamify",
+      "descripcion": "FocusGamify es una herramienta en línea que permite a los trabajadores remotos organizar su jornada laboral mediante métodos de gestión del tiempo y elementos de juego. Los usuarios pueden establecer metas diarias, recibir recompensas virtuales y participar en desafíos con colegas para fomentar un entorno competitivo y motivador.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-26T15:08:38.519235"
     }
   ],
   "nombres_usados": [
@@ -1289,6 +1296,7 @@
     "ChronosEase",
     "TaskFlowEase",
     "SocialBee",
-    "EmprenDesk"
+    "EmprenDesk",
+    "FocusGamify"
   ]
 }
