@@ -1196,6 +1196,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-27T11:47:59.993512"
+    },
+    {
+      "nombre": "EasyWebPro",
+      "descripcion": "EasyWebPro permite a los usuarios crear y gestionar sus propios sitios web de manera intuitiva, con plantillas personalizables y herramientas de marketing integradas, como gestión de redes sociales, email marketing y análisis de tráfico.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-27T14:10:25.371854"
     }
   ],
   "nombres_usados": [
@@ -1369,6 +1376,7 @@
     "TeamConnect",
     "Productivity Buddy",
     "EasyCRM",
-    "Campaña Maestro"
+    "Campaña Maestro",
+    "EasyWebPro"
   ]
 }

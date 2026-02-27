@@ -104,6 +104,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260227114759",
+    "nombre": "Campaña Maestro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que centraliza la gestión de campañas de marketing digital en una sola interfaz, optimizando recursos y mejorando el rendimiento....",
+    "score": 75,
+    "landing_url": "IDEA-20260227114759.html"
+  },
+  {
     "id": "IDEA-20260227100442",
     "nombre": "EasyCRM",
     "tipo": "SaaS",
