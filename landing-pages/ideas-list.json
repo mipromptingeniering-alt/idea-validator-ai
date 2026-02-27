@@ -104,6 +104,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260227141025",
+    "nombre": "EasyWebPro",
+    "tipo": "SaaS",
+    "resumen": "EasyWebPro es una plataforma de creación de sitios web dirigida a emprendedores y pequeñas empresas, que incluye herramientas de marketing automatizad...",
+    "score": 75,
+    "landing_url": "IDEA-20260227141025.html"
+  },
+  {
     "id": "IDEA-20260227114759",
     "nombre": "Campaña Maestro",
     "tipo": "SaaS",

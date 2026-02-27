@@ -1203,6 +1203,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-27T14:10:25.371854"
+    },
+    {
+      "nombre": "WellPro",
+      "descripcion": "WellPro es una aplicación SaaS diseñada para ayudar a los trabajadores remotos a gestionar su tiempo y tareas mientras cuida de su bienestar físico y mental. Utiliza inteligencia artificial para ofrecer recomendaciones adaptadas a las necesidades del usuario, fomentando pausas activas, meditación y ejercicios de estiramiento durante la jornada laboral.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-27T15:55:33.229963"
     }
   ],
   "nombres_usados": [
@@ -1377,6 +1384,7 @@
     "Productivity Buddy",
     "EasyCRM",
     "Campaña Maestro",
-    "EasyWebPro"
+    "EasyWebPro",
+    "WellPro"
   ]
 }
