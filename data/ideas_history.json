@@ -1217,6 +1217,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-02-27T17:55:52.740822"
+    },
+    {
+      "nombre": "FlexiManage",
+      "descripcion": "FlexiManage permite a los freelancers y pequeñas empresas gestionar sus proyectos de manera efectiva, llevar un control del tiempo trabajado y generar facturas automáticamente, todo en una sola plataforma. Con una interfaz intuitiva, notificaciones automáticas y reportes detallados, los usuarios pueden optimizar su tiempo y mejorar sus ingresos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-27T19:48:26.602379"
     }
   ],
   "nombres_usados": [
@@ -1393,6 +1400,7 @@
     "Campaña Maestro",
     "EasyWebPro",
     "WellPro",
-    "ChatConnect AI"
+    "ChatConnect AI",
+    "FlexiManage"
   ]
 }

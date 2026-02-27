@@ -1256,6 +1256,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260227175552",
+    "nombre": "ChatConnect AI",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de comunicación que integra chat, email y redes sociales usando inteligencia artificial para mejorar la atención al cliente en PYMEs....",
+    "score": 70,
+    "landing_url": "IDEA-20260227175552.html"
+  },
+  {
     "id": "IDEA-20260226214823",
     "nombre": "RemoteWell",
     "tipo": "SaaS",
