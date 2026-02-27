@@ -1238,6 +1238,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-27T21:54:56.001848"
+    },
+    {
+      "nombre": "MindTime",
+      "descripcion": "MindTime ayuda a los usuarios a planificar su día de trabajo de manera efectiva al mismo tiempo que les recuerda tomar descansos regulares y practicar mindfulness. A través de un algoritmo, sugerimos bloques de trabajo y pausas que optimizan la concentración y reducen el estrés.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-27T22:54:19.765743"
     }
   ],
   "nombres_usados": [
@@ -1417,6 +1424,7 @@
     "ChatConnect AI",
     "FlexiManage",
     "FacturaFácil",
-    "TimeConnect"
+    "TimeConnect",
+    "MindTime"
   ]
 }

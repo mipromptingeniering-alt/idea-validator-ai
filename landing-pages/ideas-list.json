@@ -104,6 +104,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260227215455",
+    "nombre": "TimeConnect",
+    "tipo": "SaaS",
+    "resumen": "TimeConnect es una plataforma que ayuda a los trabajadores remotos a gestionar su tiempo de manera efectiva mientras fomenta su bienestar mental y emo...",
+    "score": 75,
+    "landing_url": "IDEA-20260227215455.html"
+  },
+  {
     "id": "IDEA-20260227205756",
     "nombre": "FacturaFácil",
     "tipo": "SaaS",
