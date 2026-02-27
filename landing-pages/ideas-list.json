@@ -104,6 +104,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260227155533",
+    "nombre": "WellPro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de bienestar que integra productividad con sugerencias personalizadas para el cuidado del bienestar de los trabajadores remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260227155533.html"
+  },
+  {
     "id": "IDEA-20260227141025",
     "nombre": "EasyWebPro",
     "tipo": "SaaS",
