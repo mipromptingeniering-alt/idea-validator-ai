@@ -16,6 +16,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260226230418",
+    "nombre": "WorkPlay",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de gestión de tareas gamificada que promueve la productividad y el bienestar de los empleados remotos....",
+    "score": 78,
+    "landing_url": "IDEA-20260226230418.html"
+  },
+  {
     "id": "IDEA-20260222205455",
     "nombre": "Marketing Simplificado",
     "tipo": "SaaS",

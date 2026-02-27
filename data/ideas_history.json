@@ -1161,6 +1161,13 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-02-26T23:04:18.491735"
+    },
+    {
+      "nombre": "Freelance Finance Manager",
+      "descripcion": "Freelance Finance Manager es una plataforma que permite a los freelancers registrar sus ingresos y gastos de manera sencilla, a la vez que ofrece reportes visuales sobre su flujo de caja y herramientas para la planificación de impuestos. Incluye recordatorios de fechas límite y la posibilidad de conectarse con cuentas bancarias para facilitar la gestión.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-02-27T00:00:00.516650"
     }
   ],
   "nombres_usados": [
@@ -1329,6 +1336,7 @@
     "FinEduca",
     "SocialPro PYME",
     "RemoteWell",
-    "WorkPlay"
+    "WorkPlay",
+    "Freelance Finance Manager"
   ]
 }
