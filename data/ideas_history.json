@@ -1189,6 +1189,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-27T10:04:42.711117"
+    },
+    {
+      "nombre": "Campaña Maestro",
+      "descripcion": "Campaña Maestro permite a los especialistas en marketing crear, gestionar y optimizar campañas en múltiples plataformas desde un solo lugar. La herramienta incluye funciones de análisis de rendimiento en tiempo real y recomendaciones automatizadas para mejorar el ROI de las campañas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-27T11:47:59.993512"
     }
   ],
   "nombres_usados": [
@@ -1361,6 +1368,7 @@
     "Freelance Finance Manager",
     "TeamConnect",
     "Productivity Buddy",
-    "EasyCRM"
+    "EasyCRM",
+    "Campaña Maestro"
   ]
 }
