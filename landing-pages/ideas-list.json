@@ -1168,6 +1168,14 @@
     "landing_url": "IDEA-20260216160937.html"
   },
   {
+    "id": "IDEA-20260227000000",
+    "nombre": "Freelance Finance Manager",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión financiera diseñada específicamente para freelancers, que ayuda a monitorear ingresos, gastos y a planificar impuestos....",
+    "score": 72,
+    "landing_url": "IDEA-20260227000000.html"
+  },
+  {
     "id": "IDEA-20260220050821",
     "nombre": "AdminEase",
     "tipo": "SaaS",
