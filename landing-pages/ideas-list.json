@@ -1176,6 +1176,14 @@
     "landing_url": "IDEA-20260216160937.html"
   },
   {
+    "id": "IDEA-20260227075255",
+    "nombre": "Productivity Buddy",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta basada en la web que combina gestión de tareas y recordatorios de descanso para trabajadores remotos....",
+    "score": 72,
+    "landing_url": "IDEA-20260227075255.html"
+  },
+  {
     "id": "IDEA-20260227000000",
     "nombre": "Freelance Finance Manager",
     "tipo": "SaaS",

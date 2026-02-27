@@ -1182,6 +1182,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-02-27T07:52:55.932011"
+    },
+    {
+      "nombre": "EasyCRM",
+      "descripcion": "EasyCRM es una plataforma de gestión de relaciones con clientes que simplifica el seguimiento de interacciones y oportunidades de ventas para PYMEs. Ofrece una interfaz amigable y funciones específicas que permiten a los usuarios gestionar sus contactos, establecer recordatorios de seguimiento y visualizar pipelines de ventas de forma clara.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-27T10:04:42.711117"
     }
   ],
   "nombres_usados": [
@@ -1353,6 +1360,7 @@
     "WorkPlay",
     "Freelance Finance Manager",
     "TeamConnect",
-    "Productivity Buddy"
+    "Productivity Buddy",
+    "EasyCRM"
   ]
 }
