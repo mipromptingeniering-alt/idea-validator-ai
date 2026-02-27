@@ -1231,6 +1231,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-27T20:57:56.406681"
+    },
+    {
+      "nombre": "TimeConnect",
+      "descripcion": "TimeConnect combina la gestión de tareas con herramientas de autoayuda y bienestar, como meditación guiada, ejercicios de respiración y espacios de encuentro virtual para fomentar la conexión social entre trabajadores remotos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-27T21:54:56.001848"
     }
   ],
   "nombres_usados": [
@@ -1409,6 +1416,7 @@
     "WellPro",
     "ChatConnect AI",
     "FlexiManage",
-    "FacturaFácil"
+    "FacturaFácil",
+    "TimeConnect"
   ]
 }

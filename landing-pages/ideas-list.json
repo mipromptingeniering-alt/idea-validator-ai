@@ -104,6 +104,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260227205756",
+    "nombre": "FacturaFácil",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma intuitiva que facilita la generación de facturas, seguimiento de pagos y gestión de flujo de caja para freelancers y pequeñas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260227205756.html"
+  },
+  {
     "id": "IDEA-20260227194826",
     "nombre": "FlexiManage",
     "tipo": "SaaS",
