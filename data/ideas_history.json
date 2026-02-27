@@ -1245,6 +1245,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-27T22:54:19.765743"
+    },
+    {
+      "nombre": "ContaFácil",
+      "descripcion": "ContaFácil es una herramienta de contabilidad basada en la nube diseñada especialmente para pequeñas empresas que no tienen personal contable. Permite a los usuarios gestionar sus finanzas mediante una interfaz intuitiva, con integración a plataformas de comercio electrónico y generación automática de informes fiscales.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-27T23:48:33.117635"
     }
   ],
   "nombres_usados": [
@@ -1425,6 +1432,7 @@
     "FlexiManage",
     "FacturaFácil",
     "TimeConnect",
-    "MindTime"
+    "MindTime",
+    "ContaFácil"
   ]
 }
