@@ -1175,6 +1175,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-27T05:07:28.439930"
+    },
+    {
+      "nombre": "Productivity Buddy",
+      "descripcion": "Productivity Buddy permite a los usuarios planificar sus tareas diarias y asignar descansos estratégicos, optimizando así la productividad y el bienestar en un entorno de trabajo remoto.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-02-27T07:52:55.932011"
     }
   ],
   "nombres_usados": [
@@ -1345,6 +1352,7 @@
     "RemoteWell",
     "WorkPlay",
     "Freelance Finance Manager",
-    "TeamConnect"
+    "TeamConnect",
+    "Productivity Buddy"
   ]
 }
