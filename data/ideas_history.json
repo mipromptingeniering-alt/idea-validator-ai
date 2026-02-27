@@ -1224,6 +1224,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-27T19:48:26.602379"
+    },
+    {
+      "nombre": "FacturaFácil",
+      "descripcion": "FacturaFácil es una solución en la nube que permite a los usuarios crear y enviar facturas personalizadas, seguir el estado de los pagos y obtener reportes de flujo de caja, todo en un entorno fácil de usar, sin necesidad de conocimientos técnicos avanzados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-27T20:57:56.406681"
     }
   ],
   "nombres_usados": [
@@ -1401,6 +1408,7 @@
     "EasyWebPro",
     "WellPro",
     "ChatConnect AI",
-    "FlexiManage"
+    "FlexiManage",
+    "FacturaFácil"
   ]
 }
