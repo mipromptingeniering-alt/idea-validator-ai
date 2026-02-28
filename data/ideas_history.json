@@ -1308,6 +1308,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-28T13:49:08.129475"
+    },
+    {
+      "nombre": "SimplifyCRM",
+      "descripcion": "SimplifyCRM ofrece a las pequeñas empresas una herramienta intuitiva para gestionar contactos, seguimiento de interacciones y automatización de correos electrónicos, todo en un solo lugar. Se centra en la facilidad de uso y en funcionalidades vitales que realmente importan a las pequeñas empresas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-28T14:47:46.323585"
     }
   ],
   "nombres_usados": [
@@ -1497,6 +1504,7 @@
     "TaskTime",
     "SmartMarket Pro",
     "TheraSync",
-    "EmpreTech"
+    "EmpreTech",
+    "SimplifyCRM"
   ]
 }

@@ -112,6 +112,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260228134908",
+    "nombre": "EmpreTech",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS que ofrece recursos interactivos y personalizados para emprendedores, facilitando la creación y gestión de negocios digitales....",
+    "score": 75,
+    "landing_url": "IDEA-20260228134908.html"
+  },
+  {
     "id": "IDEA-20260228113412",
     "nombre": "TheraSync",
     "tipo": "SaaS",
