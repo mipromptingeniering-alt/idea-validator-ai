@@ -1287,6 +1287,13 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-02-28T09:48:20.604392"
+    },
+    {
+      "nombre": "SmartMarket Pro",
+      "descripcion": "SmartMarket Pro ofrece una plataforma integral donde las pequeñas empresas pueden planificar, ejecutar y medir campañas de marketing digital. La herramienta incluye plantillas personalizables, análisis de rendimiento y recomendaciones automatizadas basadas en IA para optimizar las campañas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-28T10:49:23.965612"
     }
   ],
   "nombres_usados": [
@@ -1473,6 +1480,7 @@
     "PortfolioCraft",
     "TeamSphere",
     "WellnessWork",
-    "TaskTime"
+    "TaskTime",
+    "SmartMarket Pro"
   ]
 }
