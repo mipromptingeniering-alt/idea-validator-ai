@@ -1343,6 +1343,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-28T17:41:39.904623"
+    },
+    {
+      "nombre": "Cita Saludable",
+      "descripcion": "Cita Saludable es un software como servicio que permite a los médicos y terapeutas gestionar sus citas, enviar recordatorios automáticos a los pacientes y realizar seguimientos post-cita de manera sencilla y efectiva.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-02-28T17:55:59.346692"
     }
   ],
   "nombres_usados": [
@@ -1537,6 +1544,7 @@
     "Finanzify",
     "Planify",
     "TimeMinder",
-    "MoodFlix"
+    "MoodFlix",
+    "Cita Saludable"
   ]
 }

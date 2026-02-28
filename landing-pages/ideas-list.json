@@ -112,6 +112,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260228174139",
+    "nombre": "MoodFlix",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de recomendación de contenido de streaming que personaliza sugerencias basadas en el estado de ánimo del usuario....",
+    "score": 75,
+    "landing_url": "IDEA-20260228174139.html"
+  },
+  {
     "id": "IDEA-20260228155712",
     "nombre": "Planify",
     "tipo": "SaaS",
