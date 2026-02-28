@@ -1336,6 +1336,13 @@
       "tipo": "MicroSaaS",
       "score": 72,
       "fecha": "2026-02-28T16:52:27.901291"
+    },
+    {
+      "nombre": "MoodFlix",
+      "descripcion": "MoodFlix permite a los usuarios seleccionar su estado de ánimo y preferencias, y utiliza algoritmos de inteligencia artificial para analizar el contenido disponible en diversas plataformas de streaming, ofreciendo recomendaciones altamente personalizadas que se ajustan a esos estados emocionales.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-28T17:41:39.904623"
     }
   ],
   "nombres_usados": [
@@ -1529,6 +1536,7 @@
     "SimplifyCRM",
     "Finanzify",
     "Planify",
-    "TimeMinder"
+    "TimeMinder",
+    "MoodFlix"
   ]
 }

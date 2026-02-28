@@ -1328,6 +1328,14 @@
     "landing_url": "IDEA-20260216160937.html"
   },
   {
+    "id": "IDEA-20260228165227",
+    "nombre": "TimeMinder",
+    "tipo": "MicroSaaS",
+    "resumen": "Una plataforma de gestión del tiempo y tareas, personalizable para cada usuario, que combina técnicas de productividad y seguimiento del tiempo....",
+    "score": 72,
+    "landing_url": "IDEA-20260228165227.html"
+  },
+  {
     "id": "IDEA-20260227075255",
     "nombre": "Productivity Buddy",
     "tipo": "SaaS",
