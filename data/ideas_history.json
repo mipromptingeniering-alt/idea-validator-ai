@@ -1378,6 +1378,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-28T20:49:31.905967"
+    },
+    {
+      "nombre": "FinanciaSimplify",
+      "descripcion": "FinanciaSimplify es una herramienta en línea diseñada para facilitar la gestión de las finanzas de pequeñas empresas y freelancers. Utiliza IA para automatizar tareas repetitivas, como la categorización de gastos, la emisión de facturas y la generación de informes financieros, permitiendo a los usuarios concentrarse en hacer crecer su negocio.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-28T21:39:46.286343"
     }
   ],
   "nombres_usados": [
@@ -1577,6 +1584,7 @@
     "MindTrack",
     "TimeMaster: Gamifying Productivity",
     "EasiMarketing",
-    "StreamCrafters"
+    "StreamCrafters",
+    "FinanciaSimplify"
   ]
 }
