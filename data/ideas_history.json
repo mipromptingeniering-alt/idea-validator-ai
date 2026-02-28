@@ -1280,6 +1280,13 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-02-28T08:55:44.653055"
+    },
+    {
+      "nombre": "TaskTime",
+      "descripcion": "TaskTime permite a los usuarios organizar sus proyectos y tareas mediante una interfaz intuitiva, establecer plazos y prioridades, y realizar un seguimiento del tiempo invertido en cada tarea, todo en una misma plataforma eficaz y accesible.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-02-28T09:48:20.604392"
     }
   ],
   "nombres_usados": [
@@ -1465,6 +1472,7 @@
     "MonetizAR",
     "PortfolioCraft",
     "TeamSphere",
-    "WellnessWork"
+    "WellnessWork",
+    "TaskTime"
   ]
 }
