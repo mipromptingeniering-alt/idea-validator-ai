@@ -112,6 +112,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260228215337",
+    "nombre": "SyncFlow",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de proyectos que integra tareas, comunicación y seguimiento en una plataforma sencilla y accesible....",
+    "score": 75,
+    "landing_url": "IDEA-20260228215337.html"
+  },
+  {
     "id": "IDEA-20260228213946",
     "nombre": "FinanciaSimplify",
     "tipo": "SaaS",

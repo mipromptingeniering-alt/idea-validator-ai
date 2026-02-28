@@ -1392,6 +1392,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-28T21:53:37.837263"
+    },
+    {
+      "nombre": "WebEasy",
+      "descripcion": "WebEasy es una plataforma SaaS que ofrece herramientas de arrastrar y soltar, plantillas personalizables y asistencia técnica 24/7 para ayudar a pequeñas empresas a establecer su presencia online. Proporciona plantillas específicas para distintas industrias y un asistente virtual que guía al usuario a través del proceso de creación.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-28T22:48:19.317496"
     }
   ],
   "nombres_usados": [
@@ -1593,6 +1600,7 @@
     "EasiMarketing",
     "StreamCrafters",
     "FinanciaSimplify",
-    "SyncFlow"
+    "SyncFlow",
+    "WebEasy"
   ]
 }
