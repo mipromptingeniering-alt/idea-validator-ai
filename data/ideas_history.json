@@ -1273,6 +1273,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-28T07:50:23.731946"
+    },
+    {
+      "nombre": "WellnessWork",
+      "descripcion": "WellnessWork es una plataforma SaaS que ofrece herramientas integradas para la gestión del tiempo y el bienestar personal. La aplicación proporcionará planeadores de tiempo, recordatorios para descansos, meditaciones guiadas y recomendaciones personalizadas basadas en el uso y las preferencias del usuario.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-02-28T08:55:44.653055"
     }
   ],
   "nombres_usados": [
@@ -1457,6 +1464,7 @@
     "ContaFácil",
     "MonetizAR",
     "PortfolioCraft",
-    "TeamSphere"
+    "TeamSphere",
+    "WellnessWork"
   ]
 }

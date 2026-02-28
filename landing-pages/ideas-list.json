@@ -104,6 +104,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260228075023",
+    "nombre": "TeamSphere",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma diseñada para mejorar la conexión social y la colaboración en equipos remotos a través de actividades interactivas y recreativas....",
+    "score": 75,
+    "landing_url": "IDEA-20260228075023.html"
+  },
+  {
     "id": "IDEA-20260228055812",
     "nombre": "PortfolioCraft",
     "tipo": "SaaS",
