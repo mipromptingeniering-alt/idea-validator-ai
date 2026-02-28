@@ -112,6 +112,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260228195240",
+    "nombre": "EasiMarketing",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral de marketing digital diseñada específicamente para pequeñas y medianas empresas, que automatiza la creación y gestión de campa...",
+    "score": 75,
+    "landing_url": "IDEA-20260228195240.html"
+  },
+  {
     "id": "IDEA-20260228193815",
     "nombre": "TimeMaster: Gamifying Productivity",
     "tipo": "SaaS",

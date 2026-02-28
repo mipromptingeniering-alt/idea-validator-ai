@@ -1371,6 +1371,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-28T19:52:40.302990"
+    },
+    {
+      "nombre": "StreamCrafters",
+      "descripcion": "StreamCrafters es un servicio que utiliza inteligencia artificial para ofrecer recomendaciones personalizadas de series y películas, adaptándose constantemente a las preferencias del usuario y las tendencias actuales. A través de un simple dashboard, los usuarios pueden descubrir contenido que realmente les interese y compartir sus descubrimientos con amigos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-28T20:49:31.905967"
     }
   ],
   "nombres_usados": [
@@ -1569,6 +1576,7 @@
     "Cita Saludable",
     "MindTrack",
     "TimeMaster: Gamifying Productivity",
-    "EasiMarketing"
+    "EasiMarketing",
+    "StreamCrafters"
   ]
 }
