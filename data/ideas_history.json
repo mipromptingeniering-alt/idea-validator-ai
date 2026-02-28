@@ -1350,6 +1350,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-02-28T17:55:59.346692"
+    },
+    {
+      "nombre": "MindTrack",
+      "descripcion": "MindTrack es una herramienta que permite a los terapeutas interactuar con sus pacientes fuera de las sesiones, utilizando un sistema de registro emocional y de metas que puede ser monitoreado y ajustado en tiempo real. La comunicación segura y la recopilación de datos permitirán a los terapeutas tener una visión más clara del progreso del paciente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-28T18:59:24.163151"
     }
   ],
   "nombres_usados": [
@@ -1545,6 +1552,7 @@
     "Planify",
     "TimeMinder",
     "MoodFlix",
-    "Cita Saludable"
+    "Cita Saludable",
+    "MindTrack"
   ]
 }
