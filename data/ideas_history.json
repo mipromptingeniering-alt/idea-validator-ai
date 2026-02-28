@@ -1399,6 +1399,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-28T22:48:19.317496"
+    },
+    {
+      "nombre": "WellConnect",
+      "descripcion": "WellConnect es una plataforma SaaS diseñada para ayudar a los empleados a mantenerse productivos y emocionalmente conectados mientras trabajan de forma remota. Ofrece herramientas para gestionar tareas y proyectos, junto con actividades sociales virtuales, retos de bienestar y recursos de salud mental.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-28T23:40:16.521731"
     }
   ],
   "nombres_usados": [
@@ -1601,6 +1608,7 @@
     "StreamCrafters",
     "FinanciaSimplify",
     "SyncFlow",
-    "WebEasy"
+    "WebEasy",
+    "WellConnect"
   ]
 }

@@ -112,6 +112,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260228224819",
+    "nombre": "WebEasy",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que permite a pequeñas empresas y emprendedores crear y gestionar su propia página web de forma sencilla y rápida, sin necesidad de sab...",
+    "score": 75,
+    "landing_url": "IDEA-20260228224819.html"
+  },
+  {
     "id": "IDEA-20260228215337",
     "nombre": "SyncFlow",
     "tipo": "SaaS",
