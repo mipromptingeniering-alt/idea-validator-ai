@@ -1322,6 +1322,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-28T15:41:39.838452"
+    },
+    {
+      "nombre": "Planify",
+      "descripcion": "Planify es una plataforma en línea que ayuda a los emprendedores a estructurar y desarrollar su plan de negocio. Ofrece plantillas específicas, ejemplos relevantes y guías interactivas para facilitar el proceso. Además, incluye herramientas para evaluación financiera y proyecciones de crecimiento, proporcionando un enfoque integral para la planificación empresarial.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-28T15:57:12.767273"
     }
   ],
   "nombres_usados": [
@@ -1513,6 +1520,7 @@
     "TheraSync",
     "EmpreTech",
     "SimplifyCRM",
-    "Finanzify"
+    "Finanzify",
+    "Planify"
   ]
 }

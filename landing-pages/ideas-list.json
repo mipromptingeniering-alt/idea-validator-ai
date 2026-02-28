@@ -112,6 +112,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260228154139",
+    "nombre": "Finanzify",
+    "tipo": "SaaS",
+    "resumen": "Finanzify es una herramienta de gestión financiera diseñada para pequeñas empresas y freelancers que simplifica la contabilidad y mejora el flujo de c...",
+    "score": 75,
+    "landing_url": "IDEA-20260228154139.html"
+  },
+  {
     "id": "IDEA-20260228144746",
     "nombre": "SimplifyCRM",
     "tipo": "SaaS",
