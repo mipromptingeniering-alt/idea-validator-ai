@@ -1385,6 +1385,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-28T21:39:46.286343"
+    },
+    {
+      "nombre": "SyncFlow",
+      "descripcion": "SyncFlow permite a los equipos remotos gestionar proyectos y tareas de manera efectiva, combinando un sistema de gestión de tareas con funciones de chat y videollamada, lo que facilita la comunicación y el seguimiento de actividades en tiempo real.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-28T21:53:37.837263"
     }
   ],
   "nombres_usados": [
@@ -1585,6 +1592,7 @@
     "TimeMaster: Gamifying Productivity",
     "EasiMarketing",
     "StreamCrafters",
-    "FinanciaSimplify"
+    "FinanciaSimplify",
+    "SyncFlow"
   ]
 }

@@ -112,6 +112,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260228213946",
+    "nombre": "FinanciaSimplify",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma simple de contabilidad y gestión financiera para pequeñas empresas y autónomos....",
+    "score": 75,
+    "landing_url": "IDEA-20260228213946.html"
+  },
+  {
     "id": "IDEA-20260228204931",
     "nombre": "StreamCrafters",
     "tipo": "SaaS",
