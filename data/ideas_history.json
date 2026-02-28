@@ -1329,6 +1329,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-28T15:57:12.767273"
+    },
+    {
+      "nombre": "TimeMinder",
+      "descripcion": "TimeMinder es una herramienta de productividad diseñada para ayudar a emprendedores y freelancers a maximizar su eficiencia. Ofrece características como gestión de tareas, seguimiento del tiempo y técnicas de productividad basadas en la metodología Pomodoro, todo en un solo lugar. Los usuarios pueden personalizar su panel de control para mostrar las herramientas que más utilizan.",
+      "tipo": "MicroSaaS",
+      "score": 72,
+      "fecha": "2026-02-28T16:52:27.901291"
     }
   ],
   "nombres_usados": [
@@ -1521,6 +1528,7 @@
     "EmpreTech",
     "SimplifyCRM",
     "Finanzify",
-    "Planify"
+    "Planify",
+    "TimeMinder"
   ]
 }

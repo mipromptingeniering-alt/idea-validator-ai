@@ -112,6 +112,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260228155712",
+    "nombre": "Planify",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta digital que guía a los emprendedores en la creación de planes de negocio personalizados, con plantillas adaptadas a diferentes sectore...",
+    "score": 75,
+    "landing_url": "IDEA-20260228155712.html"
+  },
+  {
     "id": "IDEA-20260228154139",
     "nombre": "Finanzify",
     "tipo": "SaaS",
