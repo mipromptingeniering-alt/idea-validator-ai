@@ -1259,6 +1259,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-02-28T04:35:46.615679"
+    },
+    {
+      "nombre": "PortfolioCraft",
+      "descripcion": "PortfolioCraft empodera a los profesionales creativos para que creen un portafolio impresionante con una interfaz fácil de usar, plantillas personalizables y opciones de SEO que ayudan a aumentar la visibilidad en motores de búsqueda.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-28T05:58:12.331967"
     }
   ],
   "nombres_usados": [
@@ -1441,6 +1448,7 @@
     "TimeConnect",
     "MindTime",
     "ContaFácil",
-    "MonetizAR"
+    "MonetizAR",
+    "PortfolioCraft"
   ]
 }

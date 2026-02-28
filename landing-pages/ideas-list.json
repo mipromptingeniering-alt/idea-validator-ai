@@ -1296,6 +1296,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260228043546",
+    "nombre": "MonetizAR",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que ayuda a creadores de contenido a monetizar sus audiencias mediante suscripciones, merchandising, y contenido premium....",
+    "score": 70,
+    "landing_url": "IDEA-20260228043546.html"
+  },
+  {
     "id": "IDEA-20260227175552",
     "nombre": "ChatConnect AI",
     "tipo": "SaaS",
