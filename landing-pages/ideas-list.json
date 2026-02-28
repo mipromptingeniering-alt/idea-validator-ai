@@ -112,6 +112,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260228193815",
+    "nombre": "TimeMaster: Gamifying Productivity",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que permite a los usuarios gestionar su tiempo y tareas mediante técnicas de productividad y elementos de gamificación....",
+    "score": 75,
+    "landing_url": "IDEA-20260228193815.html"
+  },
+  {
     "id": "IDEA-20260228185924",
     "nombre": "MindTrack",
     "tipo": "SaaS",

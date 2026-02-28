@@ -1364,6 +1364,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-28T19:38:16.008015"
+    },
+    {
+      "nombre": "EasiMarketing",
+      "descripcion": "EasiMarketing permite a las PYMES crear y gestionar sus campañas de marketing digital a través de una interfaz intuitiva. Ofrece herramientas para la creación de contenido, gestión de redes sociales, email marketing y análisis de rendimiento, todo en un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-28T19:52:40.302990"
     }
   ],
   "nombres_usados": [
@@ -1561,6 +1568,7 @@
     "MoodFlix",
     "Cita Saludable",
     "MindTrack",
-    "TimeMaster: Gamifying Productivity"
+    "TimeMaster: Gamifying Productivity",
+    "EasiMarketing"
   ]
 }
