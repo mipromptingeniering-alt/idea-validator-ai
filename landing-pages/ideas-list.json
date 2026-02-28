@@ -112,6 +112,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260228185924",
+    "nombre": "MindTrack",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma para terapeutas que permite el seguimiento del bienestar emocional de los pacientes y la gestión de objetivos de manera efectiva entre ...",
+    "score": 75,
+    "landing_url": "IDEA-20260228185924.html"
+  },
+  {
     "id": "IDEA-20260228174139",
     "nombre": "MoodFlix",
     "tipo": "SaaS",
