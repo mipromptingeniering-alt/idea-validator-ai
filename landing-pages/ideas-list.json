@@ -104,6 +104,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260227234833",
+    "nombre": "ContaFácil",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de contabilidad simplificada para pequeñas empresas que automatiza el seguimiento de ingresos y gastos....",
+    "score": 75,
+    "landing_url": "IDEA-20260227234833.html"
+  },
+  {
     "id": "IDEA-20260227225419",
     "nombre": "MindTime",
     "tipo": "SaaS",

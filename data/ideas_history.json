@@ -1252,6 +1252,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-27T23:48:33.117635"
+    },
+    {
+      "nombre": "MonetizAR",
+      "descripcion": "MonetizAR es una plataforma que ofrece a creadores de contenido la posibilidad de gestionar sus seguidores, ofrecer contenido exclusivo a través de suscripciones, y vender productos relacionados, todo desde un solo lugar. Incluye herramientas analíticas que permiten entender mejor a la audiencia y optimizar las estrategias de monetización.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-02-28T04:35:46.615679"
     }
   ],
   "nombres_usados": [
@@ -1433,6 +1440,7 @@
     "FacturaFácil",
     "TimeConnect",
     "MindTime",
-    "ContaFácil"
+    "ContaFácil",
+    "MonetizAR"
   ]
 }
