@@ -1301,6 +1301,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-28T11:34:12.720954"
+    },
+    {
+      "nombre": "EmpreTech",
+      "descripcion": "EmpreTech permite a los emprendedores acceder a plantillas, tutoriales, y herramientas de gestión de proyectos, todo adaptado a sus necesidades específicas y al tipo de negocio que desean desarrollar, asegurando un enfoque práctico y efectivo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-28T13:49:08.129475"
     }
   ],
   "nombres_usados": [
@@ -1489,6 +1496,7 @@
     "WellnessWork",
     "TaskTime",
     "SmartMarket Pro",
-    "TheraSync"
+    "TheraSync",
+    "EmpreTech"
   ]
 }

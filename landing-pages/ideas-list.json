@@ -112,6 +112,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260228113412",
+    "nombre": "TheraSync",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de gestión de terapia que conecta terapeutas y pacientes, facilitando la programación de citas, seguimiento de progreso y recursos personal...",
+    "score": 75,
+    "landing_url": "IDEA-20260228113412.html"
+  },
+  {
     "id": "IDEA-20260228104923",
     "nombre": "SmartMarket Pro",
     "tipo": "SaaS",
