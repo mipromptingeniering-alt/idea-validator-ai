@@ -104,6 +104,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260228055812",
+    "nombre": "PortfolioCraft",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta en línea que permite a los creativos construir y gestionar su portafolio profesional de manera fácil y efectiva....",
+    "score": 75,
+    "landing_url": "IDEA-20260228055812.html"
+  },
+  {
     "id": "IDEA-20260227234833",
     "nombre": "ContaFácil",
     "tipo": "SaaS",

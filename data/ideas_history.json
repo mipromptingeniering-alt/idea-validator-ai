@@ -1266,6 +1266,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-28T05:58:12.331967"
+    },
+    {
+      "nombre": "TeamSphere",
+      "descripcion": "TeamSphere permite a los equipos remotos participar en actividades como juegos virtuales, sesiones de equipo informales y retos de colaboración, todo en un entorno accesible y fácil de usar. Además, la plataforma incluye herramientas de gestión de proyectos integradas para asegurar que las tareas se pueden realizar de manera fluida mientras los empleados socializan.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-28T07:50:23.731946"
     }
   ],
   "nombres_usados": [
@@ -1449,6 +1456,7 @@
     "MindTime",
     "ContaFácil",
     "MonetizAR",
-    "PortfolioCraft"
+    "PortfolioCraft",
+    "TeamSphere"
   ]
 }
