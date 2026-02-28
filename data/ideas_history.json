@@ -1294,6 +1294,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-28T10:49:23.965612"
+    },
+    {
+      "nombre": "TheraSync",
+      "descripcion": "TheraSync es una herramienta diseñada para profesionales de la salud mental que permite la gestión eficiente de la práctica. Ofrece funcionalidades para programar citas, enviar recordatorios automáticos, realizar seguimiento del progreso del paciente a través de métricas, y proporciona acceso a recursos educativos personalizados para cada paciente. Esta plataforma busca mejorar la comunicación y la adherencia al tratamiento, maximizando la efectividad de la terapia.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-28T11:34:12.720954"
     }
   ],
   "nombres_usados": [
@@ -1481,6 +1488,7 @@
     "TeamSphere",
     "WellnessWork",
     "TaskTime",
-    "SmartMarket Pro"
+    "SmartMarket Pro",
+    "TheraSync"
   ]
 }
