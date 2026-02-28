@@ -112,6 +112,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260228234016",
+    "nombre": "WellConnect",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que combina herramientas de productividad con actividades de bienestar social y emocional para trabajadores remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260228234016.html"
+  },
+  {
     "id": "IDEA-20260228224819",
     "nombre": "WebEasy",
     "tipo": "SaaS",

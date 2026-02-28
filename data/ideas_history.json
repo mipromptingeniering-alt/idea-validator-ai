@@ -1406,6 +1406,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-28T23:40:16.521731"
+    },
+    {
+      "nombre": "Mindful Productivity",
+      "descripcion": "Mindful Productivity permite a los usuarios gestionar sus tareas diarias y proyectos mientras integra prácticas de bienestar mental, como ejercicios de respiración y pausas programadas para la meditación, ayudando a mantener el enfoque y reducir el estrés.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-28T23:55:46.595076"
     }
   ],
   "nombres_usados": [
@@ -1609,6 +1616,7 @@
     "FinanciaSimplify",
     "SyncFlow",
     "WebEasy",
-    "WellConnect"
+    "WellConnect",
+    "Mindful Productivity"
   ]
 }
