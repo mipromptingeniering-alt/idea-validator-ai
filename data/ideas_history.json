@@ -1315,6 +1315,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-28T14:47:46.323585"
+    },
+    {
+      "nombre": "Finanzify",
+      "descripcion": "Finanzify permite a los usuarios gestionar sus ingresos y gastos de manera sencilla, generar reportes personalizados y recibir asesoramiento financiero adaptado a sus necesidades. La plataforma incluye integración con cuentas bancarias y herramientas de automatización para minimizar el tiempo dedicado a tareas financieras.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-02-28T15:41:39.838452"
     }
   ],
   "nombres_usados": [
@@ -1505,6 +1512,7 @@
     "SmartMarket Pro",
     "TheraSync",
     "EmpreTech",
-    "SimplifyCRM"
+    "SimplifyCRM",
+    "Finanzify"
   ]
 }

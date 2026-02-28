@@ -112,6 +112,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260228144746",
+    "nombre": "SimplifyCRM",
+    "tipo": "SaaS",
+    "resumen": "Un CRM accesible diseñado específicamente para pequeñas empresas que buscan gestionar relaciones con clientes de forma eficaz sin complicaciones....",
+    "score": 75,
+    "landing_url": "IDEA-20260228144746.html"
+  },
+  {
     "id": "IDEA-20260228134908",
     "nombre": "EmpreTech",
     "tipo": "SaaS",
