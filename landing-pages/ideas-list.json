@@ -120,6 +120,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260301113907",
+    "nombre": "PayEase",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que centraliza la gestión de pagos y facturación para freelancers y pequeños emprendedores....",
+    "score": 75,
+    "landing_url": "IDEA-20260301113907.html"
+  },
+  {
     "id": "IDEA-20260301072320",
     "nombre": "WorkLife Harmony",
     "tipo": "SaaS",

@@ -1448,6 +1448,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-01T11:39:07.311944"
+    },
+    {
+      "nombre": "TaskWave",
+      "descripcion": "TaskWave es una plataforma que permite a los equipos remotos crear, asignar y priorizar tareas de manera sencilla, con un enfoque en la colaboración visual. Incluye plantillas específicas para diferentes tipos de proyectos creativos y se integra fácilmente con herramientas como Slack y Google Drive.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-01T11:54:41.375969"
     }
   ],
   "nombres_usados": [
@@ -1657,6 +1664,7 @@
     "WorkLife Harmony",
     "MindfulBalance",
     "ContabiliEasy",
-    "PayEase"
+    "PayEase",
+    "TaskWave"
   ]
 }
