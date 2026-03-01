@@ -1511,6 +1511,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-01T19:56:54.514145"
+    },
+    {
+      "nombre": "CreatorSync",
+      "descripcion": "CreatorSync permite a los creadores de contenido subir, programar y analizar su contenido para diversas plataformas sociales, además de ofrecer herramientas para la monetización y la optimización de su audiencia.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-01T20:53:12.953884"
     }
   ],
   "nombres_usados": [
@@ -1729,6 +1736,7 @@
     "SociaLink",
     "EasyInvoice",
     "SimplifyProject",
-    "FinanSync"
+    "FinanSync",
+    "CreatorSync"
   ]
 }
