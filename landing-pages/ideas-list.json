@@ -112,6 +112,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260301051108",
+    "nombre": "Mindful Project Manager",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que combina la gestión de proyectos y el seguimiento del tiempo con herramientas de bienestar y mindfulness para freelancers y pequeños...",
+    "score": 75,
+    "landing_url": "IDEA-20260301051108.html"
+  },
+  {
     "id": "IDEA-20260228235546",
     "nombre": "Mindful Productivity",
     "tipo": "SaaS",

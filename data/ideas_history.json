@@ -1420,6 +1420,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-01T05:11:08.847586"
+    },
+    {
+      "nombre": "WorkLife Harmony",
+      "descripcion": "WorkLife Harmony es una aplicación que combina herramientas de gestión de tareas y tiempo con prácticas de bienestar mental. Los usuarios podrán establecer metas diarias, programar descansos para meditación y recibir informes sobre su productividad y bienestar emocional.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-01T07:23:20.714290"
     }
   ],
   "nombres_usados": [
@@ -1625,6 +1632,7 @@
     "WebEasy",
     "WellConnect",
     "Mindful Productivity",
-    "Mindful Project Manager"
+    "Mindful Project Manager",
+    "WorkLife Harmony"
   ]
 }
