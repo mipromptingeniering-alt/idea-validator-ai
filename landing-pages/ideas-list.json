@@ -16,6 +16,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260301174819",
+    "nombre": "EasyInvoice",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de facturación sencilla y accesible para freelancers y pequeñas empresas que facilita la gestión de facturas y pagos....",
+    "score": 78,
+    "landing_url": "IDEA-20260301174819.html"
+  },
+  {
     "id": "IDEA-20260301085927",
     "nombre": "MindfulBalance",
     "tipo": "SaaS",

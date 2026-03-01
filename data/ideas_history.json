@@ -1497,6 +1497,13 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-03-01T17:48:19.181104"
+    },
+    {
+      "nombre": "SimplifyProject",
+      "descripcion": "SimplifyProject es una plataforma SaaS diseñada para ayudar a pequeñas empresas y freelancers a gestionar sus proyectos de manera eficiente. Ofrece funcionalidades clave en una interfaz intuitiva, incluyendo gestión de tareas, colaboración en equipo y seguimiento de progreso.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-01T19:00:30.374149"
     }
   ],
   "nombres_usados": [
@@ -1713,6 +1720,7 @@
     "Finanzas al Día",
     "CashFlow Genie",
     "SociaLink",
-    "EasyInvoice"
+    "EasyInvoice",
+    "SimplifyProject"
   ]
 }
