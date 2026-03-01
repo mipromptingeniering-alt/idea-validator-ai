@@ -1462,6 +1462,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-01T13:51:46.461567"
+    },
+    {
+      "nombre": "ProductivityBoost",
+      "descripcion": "ProductivityBoost es una herramienta diseñada específicamente para ayudar a las PYMES a gestionar mejor el tiempo de sus empleados, proporcionando funcionalidades como seguimiento del tiempo, planificación de tareas, análisis de productividad y recomendaciones personalizadas basadas en inteligencia artificial.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-01T14:52:49.125573"
     }
   ],
   "nombres_usados": [
@@ -1673,6 +1680,7 @@
     "ContabiliEasy",
     "PayEase",
     "TaskWave",
-    "Marketify"
+    "Marketify",
+    "ProductivityBoost"
   ]
 }
