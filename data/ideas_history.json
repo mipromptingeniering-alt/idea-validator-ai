@@ -1476,6 +1476,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-01T15:44:03.777738"
+    },
+    {
+      "nombre": "CashFlow Genie",
+      "descripcion": "CashFlow Genie permite a las pymes visualizar y gestionar su flujo de caja de manera simple, ofreciendo pronósticos precisos y consejos proactivos para mejorar su situación financiera. Integrándose con sistemas contables populares, proporciona una visión clara y práctica del estado financiero.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-01T15:59:51.592177"
     }
   ],
   "nombres_usados": [
@@ -1689,6 +1696,7 @@
     "TaskWave",
     "Marketify",
     "ProductivityBoost",
-    "Finanzas al Día"
+    "Finanzas al Día",
+    "CashFlow Genie"
   ]
 }

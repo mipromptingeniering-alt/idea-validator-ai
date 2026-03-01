@@ -120,6 +120,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260301154403",
+    "nombre": "Finanzas al Día",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión financiera para emprendedores y pequeñas empresas, que ofrece análisis predictivo y asesoramiento personalizado....",
+    "score": 75,
+    "landing_url": "IDEA-20260301154403.html"
+  },
+  {
     "id": "IDEA-20260301145249",
     "nombre": "ProductivityBoost",
     "tipo": "SaaS",
