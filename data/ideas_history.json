@@ -1532,6 +1532,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-01T21:57:14.200127"
+    },
+    {
+      "nombre": "SocialSync",
+      "descripcion": "SocialSync permite a los usuarios planificar, crear y programar su contenido en varias redes sociales desde una sola interfaz. La plataforma utiliza inteligencia artificial para analizar el rendimiento anterior y sugerir el mejor contenido y horarios para publicar, facilitando la toma de decisiones y ahorrando tiempo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-01T22:52:59.501241"
     }
   ],
   "nombres_usados": [
@@ -1753,6 +1760,7 @@
     "FinanSync",
     "CreatorSync",
     "QuickTasker",
-    "EcoBusiness Guide"
+    "EcoBusiness Guide",
+    "SocialSync"
   ]
 }

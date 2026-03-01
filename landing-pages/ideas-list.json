@@ -1568,6 +1568,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260301215714",
+    "nombre": "EcoBusiness Guide",
+    "tipo": "SaaS",
+    "resumen": "Plataforma que ofrece asesoría y recursos personalizados para implementar prácticas sostenibles en pequeñas y medianas empresas....",
+    "score": 70,
+    "landing_url": "IDEA-20260301215714.html"
+  },
+  {
     "id": "IDEA-20260301135146",
     "nombre": "Marketify",
     "tipo": "SaaS",
