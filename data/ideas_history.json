@@ -1441,6 +1441,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-01T09:54:24.694677"
+    },
+    {
+      "nombre": "PayEase",
+      "descripcion": "PayEase es una herramienta SaaS que permite a los freelancers y emprendedores gestionar todos sus pagos y facturas en un solo lugar, integrándose con plataformas populares como PayPal, Stripe y TransferWise. La aplicación no solo facilita la facturación, sino que también ofrece análisis financieros que ayudan a los usuarios a visualizar su flujo de caja y sus ingresos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-01T11:39:07.311944"
     }
   ],
   "nombres_usados": [
@@ -1649,6 +1656,7 @@
     "Mindful Project Manager",
     "WorkLife Harmony",
     "MindfulBalance",
-    "ContabiliEasy"
+    "ContabiliEasy",
+    "PayEase"
   ]
 }

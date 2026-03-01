@@ -1488,6 +1488,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260301095424",
+    "nombre": "ContabiliEasy",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de contabilidad en línea diseñada para PYMEs que simplifica la gestión financiera con un enfoque intuitivo....",
+    "score": 70,
+    "landing_url": "IDEA-20260301095424.html"
+  },
+  {
     "id": "IDEA-20260228175559",
     "nombre": "Cita Saludable",
     "tipo": "SaaS",
