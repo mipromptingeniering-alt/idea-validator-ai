@@ -16,6 +16,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260301085927",
+    "nombre": "MindfulBalance",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma digital para la gestión del bienestar mental que combina terapia, meditación y seguimiento personalizado....",
+    "score": 78,
+    "landing_url": "IDEA-20260301085927.html"
+  },
+  {
     "id": "IDEA-20260228085544",
     "nombre": "WellnessWork",
     "tipo": "SaaS",

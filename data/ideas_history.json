@@ -1434,6 +1434,13 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-03-01T08:59:27.121590"
+    },
+    {
+      "nombre": "ContabiliEasy",
+      "descripcion": "ContabiliEasy permite a las pequeñas y medianas empresas gestionar su contabilidad y finanzas de manera sencilla, generar reportes automáticos, y ofrecer integración con plataformas de venta como Shopify y WooCommerce. Con un enfoque en la usabilidad, la plataforma busca democratizar el acceso a la contabilidad profesional.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-01T09:54:24.694677"
     }
   ],
   "nombres_usados": [
@@ -1641,6 +1648,7 @@
     "Mindful Productivity",
     "Mindful Project Manager",
     "WorkLife Harmony",
-    "MindfulBalance"
+    "MindfulBalance",
+    "ContabiliEasy"
   ]
 }
