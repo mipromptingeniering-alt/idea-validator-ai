@@ -1413,6 +1413,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-02-28T23:55:46.595076"
+    },
+    {
+      "nombre": "Mindful Project Manager",
+      "descripcion": "Mindful Project Manager ayuda a los freelancers a gestionar sus proyectos y tiempo de manera eficiente mientras promueve el bienestar mental y la productividad a través de técnicas de mindfulness. Los usuarios pueden crear y organizar proyectos, asignar tareas y establecer plazos, al mismo tiempo que rastrean el tiempo dedicado a cada actividad y acceden a recursos y prácticas de mindfulness.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-01T05:11:08.847586"
     }
   ],
   "nombres_usados": [
@@ -1617,6 +1624,7 @@
     "SyncFlow",
     "WebEasy",
     "WellConnect",
-    "Mindful Productivity"
+    "Mindful Productivity",
+    "Mindful Project Manager"
   ]
 }
