@@ -120,6 +120,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260301155951",
+    "nombre": "CashFlow Genie",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de flujo de caja fácil de usar para pequeñas y medianas empresas que utiliza inteligencia artificial para prever problemas ...",
+    "score": 75,
+    "landing_url": "IDEA-20260301155951.html"
+  },
+  {
     "id": "IDEA-20260301154403",
     "nombre": "Finanzas al Día",
     "tipo": "SaaS",

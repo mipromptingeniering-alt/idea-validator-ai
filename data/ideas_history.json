@@ -1483,6 +1483,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-01T15:59:51.592177"
+    },
+    {
+      "nombre": "SociaLink",
+      "descripcion": "SociaLink permite a las pequeñas y medianas empresas gestionar sus perfiles de redes sociales desde una única plataforma. Ofrece programación de publicaciones, analíticas de rendimiento, y recomendaciones personalizadas para mejorar la interacción con la audiencia.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-01T16:56:00.632682"
     }
   ],
   "nombres_usados": [
@@ -1697,6 +1704,7 @@
     "Marketify",
     "ProductivityBoost",
     "Finanzas al Día",
-    "CashFlow Genie"
+    "CashFlow Genie",
+    "SociaLink"
   ]
 }
