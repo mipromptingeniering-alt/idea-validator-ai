@@ -1469,6 +1469,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-01T14:52:49.125573"
+    },
+    {
+      "nombre": "Finanzas al Día",
+      "descripcion": "Finanzas al Día permite a los usuarios llevar un seguimiento en tiempo real de sus ingresos, gastos y flujo de caja, utilizando inteligencia artificial para ofrecer recomendaciones y alertas que ayuden a optimizar su salud financiera.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-01T15:44:03.777738"
     }
   ],
   "nombres_usados": [
@@ -1681,6 +1688,7 @@
     "PayEase",
     "TaskWave",
     "Marketify",
-    "ProductivityBoost"
+    "ProductivityBoost",
+    "Finanzas al Día"
   ]
 }

@@ -120,6 +120,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260301145249",
+    "nombre": "ProductivityBoost",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para la gestión del tiempo y la productividad de equipos en entornos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260301145249.html"
+  },
+  {
     "id": "IDEA-20260301113907",
     "nombre": "PayEase",
     "tipo": "SaaS",
