@@ -1539,6 +1539,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-01T22:52:59.501241"
+    },
+    {
+      "nombre": "ProductiviSync",
+      "descripcion": "ProductiviSync es una herramienta que centraliza la gestión de tareas, la comunicación y el seguimiento del progreso de los proyectos, ayudando a equipos remotos a colaborar de manera más eficiente. Ofrece sugerencias basadas en inteligencia artificial para priorizar tareas y optimizar recursos, junto con análisis de rendimiento del equipo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-01T23:44:10.412847"
     }
   ],
   "nombres_usados": [
@@ -1761,6 +1768,7 @@
     "CreatorSync",
     "QuickTasker",
     "EcoBusiness Guide",
-    "SocialSync"
+    "SocialSync",
+    "ProductiviSync"
   ]
 }
