@@ -120,6 +120,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260301165600",
+    "nombre": "SociaLink",
+    "tipo": "SaaS",
+    "resumen": "SociaLink es una herramienta de gestión de redes sociales diseñada específicamente para pymes que permite una gestión sencilla y efectiva de múltiples...",
+    "score": 75,
+    "landing_url": "IDEA-20260301165600.html"
+  },
+  {
     "id": "IDEA-20260301155951",
     "nombre": "CashFlow Genie",
     "tipo": "SaaS",
