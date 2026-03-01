@@ -1518,6 +1518,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-01T20:53:12.953884"
+    },
+    {
+      "nombre": "QuickTasker",
+      "descripcion": "QuickTasker es una aplicación de gestión de proyectos diseñada específicamente para trabajadores independientes. Ofrece una interfaz intuitiva y características como gestión de tareas, recordatorios, y una función de IA que sugiere prioridades. Todo esto con un enfoque en mantener todo sencillo y accesible.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-01T21:42:08.986981"
     }
   ],
   "nombres_usados": [
@@ -1737,6 +1744,7 @@
     "EasyInvoice",
     "SimplifyProject",
     "FinanSync",
-    "CreatorSync"
+    "CreatorSync",
+    "QuickTasker"
   ]
 }
