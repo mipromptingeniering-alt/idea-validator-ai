@@ -112,6 +112,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260301072320",
+    "nombre": "WorkLife Harmony",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que ayuda a los trabajadores remotos a optimizar su productividad mientras cuida de su bienestar mental....",
+    "score": 75,
+    "landing_url": "IDEA-20260301072320.html"
+  },
+  {
     "id": "IDEA-20260301051108",
     "nombre": "Mindful Project Manager",
     "tipo": "SaaS",

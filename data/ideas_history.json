@@ -1427,6 +1427,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-01T07:23:20.714290"
+    },
+    {
+      "nombre": "MindfulBalance",
+      "descripcion": "MindfulBalance es un servicio en línea que ofrece programas personalizados de salud mental, que incluyen sesiones de terapia cognitivo-conductual, meditación guiada y un registro del estado de ánimo, todo adaptado a las necesidades individuales del usuario.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-03-01T08:59:27.121590"
     }
   ],
   "nombres_usados": [
@@ -1633,6 +1640,7 @@
     "WellConnect",
     "Mindful Productivity",
     "Mindful Project Manager",
-    "WorkLife Harmony"
+    "WorkLife Harmony",
+    "MindfulBalance"
   ]
 }
