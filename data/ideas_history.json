@@ -1525,6 +1525,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-01T21:42:08.986981"
+    },
+    {
+      "nombre": "EcoBusiness Guide",
+      "descripcion": "EcoBusiness Guide es una plataforma online que permite a las pequeñas y medianas empresas recibir asesoría personalizada sobre sostenibilidad, incluyendo recomendaciones de prácticas, recursos educativos y herramientas de seguimiento para medir su impacto ambiental.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-01T21:57:14.200127"
     }
   ],
   "nombres_usados": [
@@ -1745,6 +1752,7 @@
     "SimplifyProject",
     "FinanSync",
     "CreatorSync",
-    "QuickTasker"
+    "QuickTasker",
+    "EcoBusiness Guide"
   ]
 }
