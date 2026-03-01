@@ -1455,6 +1455,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-01T11:54:41.375969"
+    },
+    {
+      "nombre": "Marketify",
+      "descripcion": "Marketify es un SaaS diseñado para ayudar a las pequeñas y medianas empresas a crear campañas de marketing digital personalizadas sin necesidad de experiencia previa. Utiliza un algoritmo de inteligencia artificial para analizar el comportamiento del cliente y sugerir automáticamente contenido y estrategias de campaña, permitiendo a las PYMEs optimizar su inversión en marketing.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-01T13:51:46.461567"
     }
   ],
   "nombres_usados": [
@@ -1665,6 +1672,7 @@
     "MindfulBalance",
     "ContabiliEasy",
     "PayEase",
-    "TaskWave"
+    "TaskWave",
+    "Marketify"
   ]
 }

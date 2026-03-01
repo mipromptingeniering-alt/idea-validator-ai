@@ -1496,6 +1496,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260301115441",
+    "nombre": "TaskWave",
+    "tipo": "SaaS",
+    "resumen": "Herramienta de gestión de tareas intuitiva y centrada en equipos creativos en entornos remotos....",
+    "score": 70,
+    "landing_url": "IDEA-20260301115441.html"
+  },
+  {
     "id": "IDEA-20260301095424",
     "nombre": "ContabiliEasy",
     "tipo": "SaaS",
