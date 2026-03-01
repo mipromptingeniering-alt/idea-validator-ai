@@ -1546,6 +1546,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-01T23:44:10.412847"
+    },
+    {
+      "nombre": "HealthGuardian",
+      "descripcion": "HealthGuardian es una plataforma que permite a los usuarios rastrear la toma de medicamentos, programar y recordar citas médicas, y almacenar información de salud relevante de forma segura. Además, ofrecerá recordatorios inteligentes según el patrón de salud del usuario.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-01T23:59:34.905477"
     }
   ],
   "nombres_usados": [
@@ -1769,6 +1776,7 @@
     "QuickTasker",
     "EcoBusiness Guide",
     "SocialSync",
-    "ProductiviSync"
+    "ProductiviSync",
+    "HealthGuardian"
   ]
 }
