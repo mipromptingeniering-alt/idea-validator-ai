@@ -1504,6 +1504,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-01T19:00:30.374149"
+    },
+    {
+      "nombre": "FinanSync",
+      "descripcion": "FinanSync facilita la gestión de las finanzas personales y empresariales al ofrecer una interfaz intuitiva para seguir gastos, generar facturas, establecer presupuestos y proyectar flujos de caja. La aplicación permite integrar cuentas bancarias y otras plataformas financieras para una visión completa de las finanzas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-01T19:56:54.514145"
     }
   ],
   "nombres_usados": [
@@ -1721,6 +1728,7 @@
     "CashFlow Genie",
     "SociaLink",
     "EasyInvoice",
-    "SimplifyProject"
+    "SimplifyProject",
+    "FinanSync"
   ]
 }
