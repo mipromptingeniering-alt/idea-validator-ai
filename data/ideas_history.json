@@ -1630,6 +1630,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-02T22:59:11.726587"
+    },
+    {
+      "nombre": "EasyTask",
+      "descripcion": "EasyTask permite a los profesionales independientes crear y gestionar proyectos, asignar tareas, comunicar avances a sus clientes y recibir feedback, todo en una interfaz intuitiva y fácil de usar. Además, cuenta con recordatorios y reportes automáticos para mantener a todos informados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-02T23:54:47.185536"
     }
   ],
   "nombres_usados": [
@@ -1865,6 +1872,7 @@
     "TaskSmart",
     "FinanciaPro",
     "DataSense",
-    "CashFlow Easy"
+    "CashFlow Easy",
+    "EasyTask"
   ]
 }
