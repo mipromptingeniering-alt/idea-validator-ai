@@ -1560,6 +1560,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-02T05:08:25.668849"
+    },
+    {
+      "nombre": "MindWell",
+      "descripcion": "MindWell proporciona un conjunto de herramientas para que las empresas puedan evaluar y mejorar el bienestar mental de sus empleados. A través de autoevaluaciones periódicas, el sistema ofrece recomendaciones personalizadas y notifica a los gestores sobre tendencias de bienestar en el equipo, ayudándolos a implementar estrategias de mejora.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-02T07:54:30.667410"
     }
   ],
   "nombres_usados": [
@@ -1785,6 +1792,7 @@
     "SocialSync",
     "ProductiviSync",
     "HealthGuardian",
-    "SmartSocial"
+    "SmartSocial",
+    "MindWell"
   ]
 }
