@@ -1581,6 +1581,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-02T11:50:30.280253"
+    },
+    {
+      "nombre": "ProyecPlus",
+      "descripcion": "ProyecPlus permite a las PYMEs gestionar sus proyectos de manera eficiente, facilitando la colaboración entre equipos, el seguimiento del progreso de las tareas y la gestión del tiempo, todo ello en una interfaz intuitiva y fácil de usar. Además, se integrará con aplicaciones populares como Google Drive y Slack para optimizar la experiencia del usuario.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-02T14:29:54.620567"
     }
   ],
   "nombres_usados": [
@@ -1809,6 +1816,7 @@
     "SmartSocial",
     "MindWell",
     "LearnTrack",
-    "DataEase"
+    "DataEase",
+    "ProyecPlus"
   ]
 }
