@@ -1595,6 +1595,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-02T16:07:36.484999"
+    },
+    {
+      "nombre": "SocialMaster",
+      "descripcion": "SocialMaster permite a las pequeñas y medianas empresas gestionar su presencia en redes sociales de manera efectiva, proporcionando análisis de rendimiento, generación de contenido basado en tendencias actuales y programación automática de publicaciones, todo en una sola plataforma intuitiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-02T18:06:14.864222"
     }
   ],
   "nombres_usados": [
@@ -1825,6 +1832,7 @@
     "LearnTrack",
     "DataEase",
     "ProyecPlus",
-    "SocialOptimizer"
+    "SocialOptimizer",
+    "SocialMaster"
   ]
 }
