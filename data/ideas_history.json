@@ -1574,6 +1574,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-02T10:31:15.204688"
+    },
+    {
+      "nombre": "DataEase",
+      "descripcion": "DataEase permite a las PyMEs importar sus datos de ventas y clientes de manera sencilla, generando informes visuales intuitivos que facilitan la toma de decisiones estratégicas. No se requiere experiencia en análisis de datos para utilizar la plataforma.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-02T11:50:30.280253"
     }
   ],
   "nombres_usados": [
@@ -1801,6 +1808,7 @@
     "HealthGuardian",
     "SmartSocial",
     "MindWell",
-    "LearnTrack"
+    "LearnTrack",
+    "DataEase"
   ]
 }
