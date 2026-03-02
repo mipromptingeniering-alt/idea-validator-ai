@@ -1553,6 +1553,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-01T23:59:34.905477"
+    },
+    {
+      "nombre": "SmartSocial",
+      "descripcion": "SmartSocial permite a las pequeñas y medianas empresas gestionar sus cuentas de redes sociales en un solo lugar. La plataforma ofrece recomendaciones de contenido, programación automatizada y análisis de rendimiento basado en un aprendizaje continuo de la interacción y preferencias de los seguidores.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-02T05:08:25.668849"
     }
   ],
   "nombres_usados": [
@@ -1777,6 +1784,7 @@
     "EcoBusiness Guide",
     "SocialSync",
     "ProductiviSync",
-    "HealthGuardian"
+    "HealthGuardian",
+    "SmartSocial"
   ]
 }

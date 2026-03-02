@@ -1584,6 +1584,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260301235934",
+    "nombre": "HealthGuardian",
+    "tipo": "SaaS",
+    "resumen": "Una aplicación que ayuda a las personas a gestionar su salud, recordando medicamentos y citas médicas, integrándose con dispositivos de salud....",
+    "score": 70,
+    "landing_url": "IDEA-20260301235934.html"
+  },
+  {
     "id": "IDEA-20260301215714",
     "nombre": "EcoBusiness Guide",
     "tipo": "SaaS",
