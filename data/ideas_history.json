@@ -1616,6 +1616,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-02T21:06:23.231018"
+    },
+    {
+      "nombre": "DataSense",
+      "descripcion": "DataSense permite a las pymes integrar y analizar datos de diversas fuentes (ventas, marketing, finanzas) a través de una interfaz sencilla y amigable, facilitando la toma de decisiones basadas en datos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-02T22:03:04.121320"
     }
   ],
   "nombres_usados": [
@@ -1849,6 +1856,7 @@
     "SocialOptimizer",
     "SocialMaster",
     "TaskSmart",
-    "FinanciaPro"
+    "FinanciaPro",
+    "DataSense"
   ]
 }
