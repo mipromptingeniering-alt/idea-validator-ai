@@ -1567,6 +1567,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-02T07:54:30.667410"
+    },
+    {
+      "nombre": "LearnTrack",
+      "descripcion": "LearnTrack es una aplicación web que permite a los estudiantes planificar sus horarios de estudio, establecer metas, realizar seguimientos de su progreso y mantener la motivación a través de recompensas y logros. Incorpora herramientas de análisis que permiten a los usuarios ver su rendimiento y ajustar su plan de estudio.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-02T10:31:15.204688"
     }
   ],
   "nombres_usados": [
@@ -1793,6 +1800,7 @@
     "ProductiviSync",
     "HealthGuardian",
     "SmartSocial",
-    "MindWell"
+    "MindWell",
+    "LearnTrack"
   ]
 }
