@@ -1602,6 +1602,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-02T18:06:14.864222"
+    },
+    {
+      "nombre": "TaskSmart",
+      "descripcion": "TaskSmart ofrece a los usuarios un dashboard intuitivo donde pueden ingresar sus tareas diarias. La plataforma utiliza algoritmos de inteligencia artificial para analizar las tareas y sugerir un horario óptimo, priorizando las actividades según plazos y niveles de importancia. Además, se integra con calendarios existentes para una mejor sincronización.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-02T19:53:54.450541"
     }
   ],
   "nombres_usados": [
@@ -1833,6 +1840,7 @@
     "DataEase",
     "ProyecPlus",
     "SocialOptimizer",
-    "SocialMaster"
+    "SocialMaster",
+    "TaskSmart"
   ]
 }
