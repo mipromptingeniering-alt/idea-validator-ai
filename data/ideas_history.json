@@ -1588,6 +1588,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-02T14:29:54.620567"
+    },
+    {
+      "nombre": "SocialOptimizer",
+      "descripcion": "SocialOptimizer permite a las pequeñas empresas gestionar sus cuentas de redes sociales en un solo lugar. Ofrece recomendaciones personalizadas de contenido, programación automática de publicaciones y análisis de rendimiento en tiempo real, todo a través de una interfaz amigable.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-02T16:07:36.484999"
     }
   ],
   "nombres_usados": [
@@ -1817,6 +1824,7 @@
     "MindWell",
     "LearnTrack",
     "DataEase",
-    "ProyecPlus"
+    "ProyecPlus",
+    "SocialOptimizer"
   ]
 }
