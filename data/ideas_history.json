@@ -1623,6 +1623,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-02T22:03:04.121320"
+    },
+    {
+      "nombre": "CashFlow Easy",
+      "descripcion": "CashFlow Easy es una plataforma de gestión financiera en línea diseñada específicamente para pequeñas empresas y emprendedores. Ofrecemos una interfaz intuitiva que permite a los usuarios registrar ingresos, gastos y previsiones de flujo de caja de manera rápida y sencilla. Además, proporciona informes visuales para ayudar a los usuarios a comprender mejor su situación financiera.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-02T22:59:11.726587"
     }
   ],
   "nombres_usados": [
@@ -1857,6 +1864,7 @@
     "SocialMaster",
     "TaskSmart",
     "FinanciaPro",
-    "DataSense"
+    "DataSense",
+    "CashFlow Easy"
   ]
 }
