@@ -1609,6 +1609,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-02T19:53:54.450541"
+    },
+    {
+      "nombre": "FinanciaPro",
+      "descripcion": "FinanciaPro ofrece una interfaz amigable que permite a las PYMES gestionar sus cuentas, emitir y rastrear facturas, y obtener informes de flujo de caja automáticos con solo unos clics. La plataforma integra funciones de aprendizaje automático para predecir las tendencias financieras basadas en datos históricos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-02T21:06:23.231018"
     }
   ],
   "nombres_usados": [
@@ -1841,6 +1848,7 @@
     "ProyecPlus",
     "SocialOptimizer",
     "SocialMaster",
-    "TaskSmart"
+    "TaskSmart",
+    "FinanciaPro"
   ]
 }
