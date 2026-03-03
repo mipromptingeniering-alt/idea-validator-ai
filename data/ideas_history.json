@@ -1651,6 +1651,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-03T07:33:12.295640"
+    },
+    {
+      "nombre": "Finanzia",
+      "descripcion": "Finanzia es una plataforma en línea que ayuda a autónomos y pequeños empresarios a gestionar su contabilidad y finanzas de forma simple y eficiente, ofreciendo herramientas para la facturación, seguimiento de gastos y generación de reportes financieros sin necesidad de conocimientos contables avanzados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-03T10:03:59.723215"
     }
   ],
   "nombres_usados": [
@@ -1889,6 +1896,7 @@
     "CashFlow Easy",
     "EasyTask",
     "KidActivity Hub",
-    "Planify AI"
+    "Planify AI",
+    "Finanzia"
   ]
 }
