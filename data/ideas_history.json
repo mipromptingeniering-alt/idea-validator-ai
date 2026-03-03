@@ -1644,6 +1644,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-03T05:06:50.318430"
+    },
+    {
+      "nombre": "Planify AI",
+      "descripcion": "Planify AI es una herramienta online que guía a los emprendedores a través de un proceso interactivo de creación de planes de negocio, adaptando las recomendaciones y plantillas de acuerdo a la industria y necesidades del usuario. Los usuarios pueden crear, editar y recibir feedback en tiempo real, además de acceder a recursos de validación de ideas y modelos de financiamiento.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-03T07:33:12.295640"
     }
   ],
   "nombres_usados": [
@@ -1881,6 +1888,7 @@
     "DataSense",
     "CashFlow Easy",
     "EasyTask",
-    "KidActivity Hub"
+    "KidActivity Hub",
+    "Planify AI"
   ]
 }
