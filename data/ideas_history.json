@@ -1693,6 +1693,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-03T20:58:35.250256"
+    },
+    {
+      "nombre": "ContentFlow",
+      "descripcion": "ContentFlow es un software que permite a los creadores de contenido gestionar sus publicaciones en diferentes redes sociales desde un solo lugar, optimizando el tiempo y mejorando la eficiencia. Proporciona análisis en tiempo real y recomendaciones para aumentar el alcance y la interacción de las publicaciones.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-03T21:59:37.411051"
     }
   ],
   "nombres_usados": [
@@ -1937,6 +1944,7 @@
     "Creative Workspace Pro",
     "CollabBoost",
     "InvControl",
-    "TimeMaster Pro"
+    "TimeMaster Pro",
+    "ContentFlow"
   ]
 }
