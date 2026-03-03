@@ -1704,6 +1704,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260303143146",
+    "nombre": "Creative Workspace Pro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma digital que proporciona un espacio de trabajo personalizable para profesionales creativos, combinando herramientas de gestión de proyec...",
+    "score": 70,
+    "landing_url": "IDEA-20260303143146.html"
+  },
+  {
     "id": "IDEA-20260303050650",
     "nombre": "KidActivity Hub",
     "tipo": "SaaS",

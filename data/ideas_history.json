@@ -1672,6 +1672,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-03T14:31:46.530058"
+    },
+    {
+      "nombre": "CollabBoost",
+      "descripcion": "CollabBoost permite a los equipos gestionar sus tareas, comunicarse y recibir recomendaciones personalizadas para mejorar su productividad, todo desde una única interfaz. Utiliza IA para analizar patrones de trabajo y ofrecer sugerencias específicas a los equipos.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-03T17:11:34.126803"
     }
   ],
   "nombres_usados": [
@@ -1913,6 +1920,7 @@
     "Planify AI",
     "Finanzia",
     "TeamCohesion",
-    "Creative Workspace Pro"
+    "Creative Workspace Pro",
+    "CollabBoost"
   ]
 }
