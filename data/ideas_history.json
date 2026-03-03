@@ -1665,6 +1665,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-03T11:49:16.595976"
+    },
+    {
+      "nombre": "Creative Workspace Pro",
+      "descripcion": "Creative Workspace Pro es una solución en línea que permite a diseñadores, escritores y músicos crear su propio espacio de trabajo digital, integrando herramientas que van desde la gestión de proyectos, hasta editores de texto y tableros de ideas, todo en una interfaz intuitiva y personalizable.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-03T14:31:46.530058"
     }
   ],
   "nombres_usados": [
@@ -1905,6 +1912,7 @@
     "KidActivity Hub",
     "Planify AI",
     "Finanzia",
-    "TeamCohesion"
+    "TeamCohesion",
+    "Creative Workspace Pro"
   ]
 }
