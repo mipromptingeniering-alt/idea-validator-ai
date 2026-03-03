@@ -1707,6 +1707,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-03T22:56:50.188563"
+    },
+    {
+      "nombre": "HealthScheduler",
+      "descripcion": "HealthScheduler permite a los profesionales gestionar sus citas, enviar recordatorios automáticos a los pacientes y rastrear el historial de atención de los clientes. Además, ofrece un análisis de desempeño para ayudar a los profesionales a entender mejor sus prácticas y mejorar la satisfacción del cliente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-03T23:53:24.996272"
     }
   ],
   "nombres_usados": [
@@ -1953,6 +1960,7 @@
     "InvControl",
     "TimeMaster Pro",
     "ContentFlow",
-    "ProjectEase"
+    "ProjectEase",
+    "HealthScheduler"
   ]
 }
