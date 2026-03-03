@@ -1658,6 +1658,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-03T10:03:59.723215"
+    },
+    {
+      "nombre": "TeamCohesion",
+      "descripcion": "TeamCohesion es una plataforma SaaS que integra funciones de gestión de tareas y proyectos con actividades de bienestar y conexión social, permitiendo a los equipos remotos interactuar, colaborar y mantener su motivación y bienestar emocional.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-03T11:49:16.595976"
     }
   ],
   "nombres_usados": [
@@ -1897,6 +1904,7 @@
     "EasyTask",
     "KidActivity Hub",
     "Planify AI",
-    "Finanzia"
+    "Finanzia",
+    "TeamCohesion"
   ]
 }
