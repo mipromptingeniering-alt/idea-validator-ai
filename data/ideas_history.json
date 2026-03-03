@@ -1686,6 +1686,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-03T19:30:32.827077"
+    },
+    {
+      "nombre": "TimeMaster Pro",
+      "descripcion": "TimeMaster Pro es una herramienta que permite a los profesionales autónomos gestionar sus tareas, proyectos, y tiempo de manera eficiente. Utiliza inteligencia artificial para adaptar las prioridades y recordatorios según las preferencias y patrones de trabajo del usuario, ayudando a maximizar la productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-03T20:58:35.250256"
     }
   ],
   "nombres_usados": [
@@ -1929,6 +1936,7 @@
     "TeamCohesion",
     "Creative Workspace Pro",
     "CollabBoost",
-    "InvControl"
+    "InvControl",
+    "TimeMaster Pro"
   ]
 }
