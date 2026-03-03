@@ -1720,6 +1720,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260303215937",
+    "nombre": "ContentFlow",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de contenido para creadores que optimiza la publicación y análisis en múltiples plataformas....",
+    "score": 70,
+    "landing_url": "IDEA-20260303215937.html"
+  },
+  {
     "id": "IDEA-20260303171134",
     "nombre": "CollabBoost",
     "tipo": "SaaS",

@@ -1700,6 +1700,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-03T21:59:37.411051"
+    },
+    {
+      "nombre": "ProjectEase",
+      "descripcion": "ProjectEase es una herramienta de gestión de proyectos diseñada especialmente para pequeñas y medianas empresas, que permite a los equipos planificar, seguir y colaborar en sus proyectos de manera sencilla y adaptada a sus necesidades específicas. Con una interfaz intuitiva y herramientas de personalización, ProjectEase se convierte en la solución ideal para el trabajo en equipo efectivo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-03T22:56:50.188563"
     }
   ],
   "nombres_usados": [
@@ -1945,6 +1952,7 @@
     "CollabBoost",
     "InvControl",
     "TimeMaster Pro",
-    "ContentFlow"
+    "ContentFlow",
+    "ProjectEase"
   ]
 }
