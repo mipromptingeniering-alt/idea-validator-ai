@@ -1679,6 +1679,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-03T17:11:34.126803"
+    },
+    {
+      "nombre": "InvControl",
+      "descripcion": "InvControl permite a las pequeñas y medianas empresas gestionar su inventario de forma eficiente a través de una plataforma intuitiva que ofrece seguimiento en tiempo real, alertas de stock bajo, y análisis de ventas para prever necesidades futuras.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-03T19:30:32.827077"
     }
   ],
   "nombres_usados": [
@@ -1921,6 +1928,7 @@
     "Finanzia",
     "TeamCohesion",
     "Creative Workspace Pro",
-    "CollabBoost"
+    "CollabBoost",
+    "InvControl"
   ]
 }
