@@ -1637,6 +1637,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-02T23:54:47.185536"
+    },
+    {
+      "nombre": "KidActivity Hub",
+      "descripcion": "KidActivity Hub permite a los padres buscar, comparar y gestionar actividades extracurriculares para sus hijos en una sola plataforma. Ofrece recomendaciones personalizadas y un sistema de pago simplificado, garantizando que los padres puedan encontrar lo mejor para sus hijos sin complicaciones.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-03T05:06:50.318430"
     }
   ],
   "nombres_usados": [
@@ -1873,6 +1880,7 @@
     "FinanciaPro",
     "DataSense",
     "CashFlow Easy",
-    "EasyTask"
+    "EasyTask",
+    "KidActivity Hub"
   ]
 }
