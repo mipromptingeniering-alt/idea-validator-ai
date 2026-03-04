@@ -1749,6 +1749,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-03-04T11:57:28.430548"
+    },
+    {
+      "nombre": "TaskSync",
+      "descripcion": "TaskSync permite a los equipos de pequeñas empresas gestionar sus tareas diarias de manera eficiente al integrar funciones de colaboración y comunicación, junto con una inteligencia artificial que ayuda a priorizar lo que realmente importa. Facilita la asignación de tareas, el seguimiento del progreso y la mejora de la coordinación entre los miembros del equipo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-04T14:10:51.788406"
     }
   ],
   "nombres_usados": [
@@ -2001,6 +2008,7 @@
     "SocialRise",
     "TaskMaster AI",
     "CreatiTask",
-    "TimeTailor"
+    "TimeTailor",
+    "TaskSync"
   ]
 }

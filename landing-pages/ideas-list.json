@@ -1712,6 +1712,14 @@
     "landing_url": "IDEA-20260216160937.html"
   },
   {
+    "id": "IDEA-20260304115728",
+    "nombre": "TimeTailor",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo personalizada que utiliza inteligencia artificial para optimizar la productividad....",
+    "score": 72,
+    "landing_url": "IDEA-20260304115728.html"
+  },
+  {
     "id": "IDEA-20260228165227",
     "nombre": "TimeMinder",
     "tipo": "MicroSaaS",
