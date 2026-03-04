@@ -1742,6 +1742,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-04T11:04:14.277796"
+    },
+    {
+      "nombre": "TimeTailor",
+      "descripcion": "TimeTailor es una aplicación que evalúa las rutinas diarias de los usuarios y les sugiere un calendario optimizado, incluyendo pausas, tareas, y tiempo para el autocuidado, adaptándose a su estilo de vida. Ofrece insights basados en datos para ayudar a los usuarios a mejorar su gestión del tiempo y reducir el estrés.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-03-04T11:57:28.430548"
     }
   ],
   "nombres_usados": [
@@ -1993,6 +2000,7 @@
     "PymeSmart",
     "SocialRise",
     "TaskMaster AI",
-    "CreatiTask"
+    "CreatiTask",
+    "TimeTailor"
   ]
 }
