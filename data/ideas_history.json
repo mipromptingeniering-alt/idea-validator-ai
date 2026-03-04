@@ -1721,6 +1721,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-04T04:57:29.529914"
+    },
+    {
+      "nombre": "SocialRise",
+      "descripcion": "SocialRise es una solución integral para la gestión de redes sociales enfocada en PYMES, que les permite programar publicaciones, analizar métricas de rendimiento en tiempo real, y recibir recomendaciones personalizadas basadas en su sector. La plataforma está diseñada para ser intuitiva y fácil de usar, de modo que no se requiera experiencia previa en marketing digital.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-04T07:27:14.342527"
     }
   ],
   "nombres_usados": [
@@ -1969,6 +1976,7 @@
     "ContentFlow",
     "ProjectEase",
     "HealthScheduler",
-    "PymeSmart"
+    "PymeSmart",
+    "SocialRise"
   ]
 }
