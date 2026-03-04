@@ -1777,6 +1777,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-04T19:53:57.528278"
+    },
+    {
+      "nombre": "SociaMente",
+      "descripcion": "SociaMente permitirá a las pymes gestionar sus cuentas de redes sociales desde un solo lugar, automatizando la publicación y ofreciendo recomendaciones de contenido adaptadas a su mercado y audiencia objetivo. La plataforma incluirá análisis de rendimiento y sugerencias para optimizar la presencia en línea.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-04T21:02:11.896804"
     }
   ],
   "nombres_usados": [
@@ -2033,6 +2040,7 @@
     "TaskSync",
     "Marketero Pro",
     "FocusQuest",
-    "SocioSocial"
+    "SocioSocial",
+    "SociaMente"
   ]
 }

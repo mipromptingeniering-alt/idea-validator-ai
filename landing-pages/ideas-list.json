@@ -1792,6 +1792,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260304195357",
+    "nombre": "SocioSocial",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que genera automáticamente publicaciones para redes sociales basadas en tendencias actuales y en el historial de interacción del negoci...",
+    "score": 70,
+    "landing_url": "IDEA-20260304195357.html"
+  },
+  {
     "id": "IDEA-20260304180458",
     "nombre": "FocusQuest",
     "tipo": "SaaS",
