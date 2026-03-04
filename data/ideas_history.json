@@ -1728,6 +1728,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-04T07:27:14.342527"
+    },
+    {
+      "nombre": "TaskMaster AI",
+      "descripcion": "TaskMaster AI es una herramienta de gestión de proyectos que utiliza inteligencia artificial para personalizar la organización y priorización de tareas. Permite a los usuarios gestionar su carga de trabajo, colaborar con otros y recibir sugerencias adaptadas a su forma de trabajar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-04T09:08:20.447366"
     }
   ],
   "nombres_usados": [
@@ -1977,6 +1984,7 @@
     "ProjectEase",
     "HealthScheduler",
     "PymeSmart",
-    "SocialRise"
+    "SocialRise",
+    "TaskMaster AI"
   ]
 }
