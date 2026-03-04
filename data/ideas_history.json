@@ -1714,6 +1714,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-03T23:53:24.996272"
+    },
+    {
+      "nombre": "PymeSmart",
+      "descripcion": "PymeSmart ofrece una serie de herramientas que permiten a las pequeñas y medianas empresas crear campañas de marketing digital de manera sencilla y efectiva, utilizando recomendaciones personalizadas basadas en datos y análisis de mercado.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-04T04:57:29.529914"
     }
   ],
   "nombres_usados": [
@@ -1961,6 +1968,7 @@
     "TimeMaster Pro",
     "ContentFlow",
     "ProjectEase",
-    "HealthScheduler"
+    "HealthScheduler",
+    "PymeSmart"
   ]
 }
