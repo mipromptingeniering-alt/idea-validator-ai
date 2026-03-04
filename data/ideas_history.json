@@ -1763,6 +1763,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-04T16:05:53.204711"
+    },
+    {
+      "nombre": "FocusQuest",
+      "descripcion": "FocusQuest utiliza elementos de juego para motivar a los usuarios a completar tareas y mantenerse enfocados. Los usuarios pueden establecer metas, ganar puntos, desbloquear recompensas y competir con amigos o colegas en desafíos de productividad.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-04T18:04:58.195153"
     }
   ],
   "nombres_usados": [
@@ -2017,6 +2024,7 @@
     "CreatiTask",
     "TimeTailor",
     "TaskSync",
-    "Marketero Pro"
+    "Marketero Pro",
+    "FocusQuest"
   ]
 }
