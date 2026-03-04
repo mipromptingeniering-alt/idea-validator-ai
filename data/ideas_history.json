@@ -1756,6 +1756,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-04T14:10:51.788406"
+    },
+    {
+      "nombre": "Marketero Pro",
+      "descripcion": "Marketero Pro es una solución integral de marketing digital que permite a las PYMES gestionar sus redes sociales, campañas de correo electrónico y anuncios en línea, todo en un solo lugar. Además, ofrece un sistema de tutoriales y soporte que ayuda a los usuarios a entender y aplicar estrategias de marketing efectivas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-04T16:05:53.204711"
     }
   ],
   "nombres_usados": [
@@ -2009,6 +2016,7 @@
     "TaskMaster AI",
     "CreatiTask",
     "TimeTailor",
-    "TaskSync"
+    "TaskSync",
+    "Marketero Pro"
   ]
 }
