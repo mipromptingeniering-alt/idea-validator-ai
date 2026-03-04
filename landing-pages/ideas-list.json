@@ -1792,6 +1792,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260304180458",
+    "nombre": "FocusQuest",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de productividad gamificada para trabajadores remotos que transforma el enfoque diario en una experiencia de juego....",
+    "score": 70,
+    "landing_url": "IDEA-20260304180458.html"
+  },
+  {
     "id": "IDEA-20260303215937",
     "nombre": "ContentFlow",
     "tipo": "SaaS",
