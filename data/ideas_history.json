@@ -1798,6 +1798,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-04T23:04:16.357871"
+    },
+    {
+      "nombre": "Finanzas Simples",
+      "descripcion": "Finanzas Simples permite a las PYMEs gestionar sus finanzas de manera simple y efectiva, ofreciendo un panel de control intuitivo que integra ingresos, gastos y previsión de flujo de caja. Proporciona reportes personalizados y alertas sobre el estado financiero.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-04T23:58:17.026880"
     }
   ],
   "nombres_usados": [
@@ -2057,6 +2064,7 @@
     "SocioSocial",
     "SociaMente",
     "SocialSync Pro",
-    "SocialContentPro"
+    "SocialContentPro",
+    "Finanzas Simples"
   ]
 }
