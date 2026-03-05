@@ -128,6 +128,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260304235816",
+    "nombre": "Finanzas Simples",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión financiera accesible para pequeñas y medianas empresas, que simplifica la planificación y gestión del flujo de caja....",
+    "score": 75,
+    "landing_url": "IDEA-20260304235816.html"
+  },
+  {
     "id": "IDEA-20260304230416",
     "nombre": "SocialContentPro",
     "tipo": "SaaS",

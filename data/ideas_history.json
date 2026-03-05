@@ -1805,6 +1805,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-04T23:58:17.026880"
+    },
+    {
+      "nombre": "MindTasker",
+      "descripcion": "MindTasker es una aplicación web que ayuda a los usuarios a gestionar sus tareas diarias mientras incorpora prácticas de mindfulness. A través de recordatorios de pausas saludables, meditación guiada y métricas de bienestar, los usuarios pueden aumentar su productividad sin sacrificar su salud mental.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-05T05:05:48.663572"
     }
   ],
   "nombres_usados": [
@@ -2065,6 +2072,7 @@
     "SociaMente",
     "SocialSync Pro",
     "SocialContentPro",
-    "Finanzas Simples"
+    "Finanzas Simples",
+    "MindTasker"
   ]
 }
