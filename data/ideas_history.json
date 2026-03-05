@@ -1833,6 +1833,13 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-03-05T11:50:53.327655"
+    },
+    {
+      "nombre": "TaskWell",
+      "descripcion": "TaskWell es una plataforma de gestión de tareas que permite a los usuarios organizar su trabajo de manera eficiente, al mismo tiempo que incorpora prácticas de bienestar, como pausas programadas y reflexiones diarias.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-05T19:03:05.930770"
     }
   ],
   "nombres_usados": [
@@ -2097,6 +2104,7 @@
     "MindTasker",
     "TherapEase",
     "MarketerFusion",
-    "CollabWell"
+    "CollabWell",
+    "TaskWell"
   ]
 }
