@@ -1826,6 +1826,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-03-05T10:05:11.323543"
+    },
+    {
+      "nombre": "CollabWell",
+      "descripcion": "CollabWell es una plataforma SaaS que integra la gestión de proyectos con herramientas de cuidado del bienestar emocional de los empleados, proporcionando chequeos regulares de salud mental, espacios para compartir sentimientos y herramientas para fomentar la conexión entre equipos.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-03-05T11:50:53.327655"
     }
   ],
   "nombres_usados": [
@@ -2089,6 +2096,7 @@
     "Finanzas Simples",
     "MindTasker",
     "TherapEase",
-    "MarketerFusion"
+    "MarketerFusion",
+    "CollabWell"
   ]
 }
