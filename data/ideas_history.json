@@ -1840,6 +1840,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-05T19:03:05.930770"
+    },
+    {
+      "nombre": "FinanzApp",
+      "descripcion": "FinanzApp es una solución de software como servicio que permite a las pequeñas y medianas empresas gestionar su contabilidad y finanzas de manera simple e intuitiva, ofreciendo herramientas de seguimiento de gastos, facturación, y generación de reportes financieros.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-05T21:00:49.578498"
     }
   ],
   "nombres_usados": [
@@ -2105,6 +2112,7 @@
     "TherapEase",
     "MarketerFusion",
     "CollabWell",
-    "TaskWell"
+    "TaskWell",
+    "FinanzApp"
   ]
 }

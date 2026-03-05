@@ -136,6 +136,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260305190305",
+    "nombre": "TaskWell",
+    "tipo": "SaaS",
+    "resumen": "Gestiona tus tareas mientras cuidas tu bienestar....",
+    "score": 75,
+    "landing_url": "IDEA-20260305190305.html"
+  },
+  {
     "id": "IDEA-20260305073300",
     "nombre": "TherapEase",
     "tipo": "SaaS",
