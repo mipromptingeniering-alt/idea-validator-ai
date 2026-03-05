@@ -1819,6 +1819,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-05T07:33:00.999369"
+    },
+    {
+      "nombre": "MarketerFusion",
+      "descripcion": "MarketerFusion permite a los profesionales del marketing gestionar múltiples campañas a través de un único dashboard, integrando herramientas de redes sociales, email marketing y analítica. Ofrece un sistema de automatización que optimiza las campañas en función del rendimiento en tiempo real.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-03-05T10:05:11.323543"
     }
   ],
   "nombres_usados": [
@@ -2081,6 +2088,7 @@
     "SocialContentPro",
     "Finanzas Simples",
     "MindTasker",
-    "TherapEase"
+    "TherapEase",
+    "MarketerFusion"
   ]
 }
