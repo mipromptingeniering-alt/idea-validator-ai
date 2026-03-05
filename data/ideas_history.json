@@ -1812,6 +1812,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-05T05:05:48.663572"
+    },
+    {
+      "nombre": "TherapEase",
+      "descripcion": "TherapEase es una solución SaaS que permite a psicólogos y terapeutas gestionar citas, realizar seguimiento del progreso de sus pacientes y acceder a una biblioteca de recursos educativos para mejorar su práctica. Los profesionales pueden personalizar los recordatorios para sus pacientes, llevar un registro de las sesiones y coordinar la comunicación de manera segura.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-05T07:33:00.999369"
     }
   ],
   "nombres_usados": [
@@ -2073,6 +2080,7 @@
     "SocialSync Pro",
     "SocialContentPro",
     "Finanzas Simples",
-    "MindTasker"
+    "MindTasker",
+    "TherapEase"
   ]
 }
