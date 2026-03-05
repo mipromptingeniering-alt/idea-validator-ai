@@ -1847,6 +1847,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-05T21:00:49.578498"
+    },
+    {
+      "nombre": "FinanzasSimplicidad",
+      "descripcion": "FinanzasSimplicidad es un software de contabilidad en línea que permite a las pequeñas empresas monitorear sus finanzas de forma sencilla, generar reportes de ingresos y gastos, y planificar su flujo de caja. La plataforma cuenta con integraciones a herramientas populares y una interfaz de usuario amigable, haciendo que la gestión financiera sea accesible incluso para quienes no tienen experiencia contable.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-05T22:01:47.647008"
     }
   ],
   "nombres_usados": [
@@ -2113,6 +2120,7 @@
     "MarketerFusion",
     "CollabWell",
     "TaskWell",
-    "FinanzApp"
+    "FinanzApp",
+    "FinanzasSimplicidad"
   ]
 }
