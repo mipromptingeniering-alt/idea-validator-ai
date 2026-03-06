@@ -136,6 +136,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260306160124",
+    "nombre": "SociManage",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión simplificada de redes sociales diseñada específicamente para pequeñas y medianas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260306160124.html"
+  },
+  {
     "id": "IDEA-20260306120249",
     "nombre": "DigiBuilder",
     "tipo": "SaaS",
