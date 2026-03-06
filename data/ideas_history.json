@@ -1875,6 +1875,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-06T07:30:03.750923"
+    },
+    {
+      "nombre": "TaskFlow Customizer",
+      "descripcion": "TaskFlow Customizer permite a las pequeñas empresas y a equipos de trabajo ajustar la herramienta según sus flujos de trabajo únicos. Desde la creación de tableros visuales, hasta la integración de herramientas que ya utilizan, esta plataforma busca mejorar la productividad de sus usuarios.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-06T09:06:32.823025"
     }
   ],
   "nombres_usados": [
@@ -2145,6 +2152,7 @@
     "FinanzasSimplicidad",
     "FinanceEasy",
     "ConnectWell",
-    "HR Simplify"
+    "HR Simplify",
+    "TaskFlow Customizer"
   ]
 }

@@ -1896,6 +1896,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260306073003",
+    "nombre": "HR Simplify",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS que permite a las pymes gestionar sus recursos humanos de manera eficiente y asequible....",
+    "score": 70,
+    "landing_url": "IDEA-20260306073003.html"
+  },
+  {
     "id": "IDEA-20260304195357",
     "nombre": "SocioSocial",
     "tipo": "SaaS",
