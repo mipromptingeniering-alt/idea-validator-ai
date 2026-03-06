@@ -136,6 +136,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260306050334",
+    "nombre": "ConnectWell",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de colaboración que prioriza el bienestar del equipo y mejora la conexión entre trabajadores remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260306050334.html"
+  },
+  {
     "id": "IDEA-20260306000400",
     "nombre": "FinanceEasy",
     "tipo": "SaaS",

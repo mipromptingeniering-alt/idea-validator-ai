@@ -1868,6 +1868,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-06T05:03:34.615710"
+    },
+    {
+      "nombre": "HR Simplify",
+      "descripcion": "HR Simplify ofrece herramientas para la gestión de nóminas, seguimiento de la contratación, evaluación del desempeño y una base de datos centralizada para todos los empleados, todo en un solo lugar.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-06T07:30:03.750923"
     }
   ],
   "nombres_usados": [
@@ -2137,6 +2144,7 @@
     "FinanzApp",
     "FinanzasSimplicidad",
     "FinanceEasy",
-    "ConnectWell"
+    "ConnectWell",
+    "HR Simplify"
   ]
 }
