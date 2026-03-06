@@ -1861,6 +1861,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-06T00:04:01.035514"
+    },
+    {
+      "nombre": "ConnectWell",
+      "descripcion": "ConnectWell es una plataforma que permite a los equipos remotos colaborar en tiempo real, realizar videoconferencias, y participar en actividades de bienestar programadas, como pausas grupales y ejercicios de team-building. Integrando herramientas de gestión de tareas y seguimiento de proyectos, los usuarios pueden mantenerse enfocados y conectados, mientras priorizan su salud mental y emocional.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-06T05:03:34.615710"
     }
   ],
   "nombres_usados": [
@@ -2129,6 +2136,7 @@
     "TaskWell",
     "FinanzApp",
     "FinanzasSimplicidad",
-    "FinanceEasy"
+    "FinanceEasy",
+    "ConnectWell"
   ]
 }

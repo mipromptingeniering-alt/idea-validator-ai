@@ -136,6 +136,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260306000400",
+    "nombre": "FinanceEasy",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión financiera y facturación simplificada para freelancers y pequeños emprendedores....",
+    "score": 75,
+    "landing_url": "IDEA-20260306000400.html"
+  },
+  {
     "id": "IDEA-20260305220147",
     "nombre": "FinanzasSimplicidad",
     "tipo": "SaaS",
