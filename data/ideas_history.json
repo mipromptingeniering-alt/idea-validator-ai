@@ -1917,6 +1917,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-06T17:55:21.406539"
+    },
+    {
+      "nombre": "WellProductive",
+      "descripcion": "WellProductive es una herramienta SaaS que ayuda a los empleados a gestionar su tiempo mientras se les proporciona acceso a recursos de salud mental y ejercicios de relajación. Ofrece planificación de tareas, seguimiento del tiempo, y recursos como meditación guiada y ejercicios de respiración.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-06T20:59:23.183938"
     }
   ],
   "nombres_usados": [
@@ -2193,6 +2200,7 @@
     "DigiBuilder",
     "PymeConnect",
     "SociManage",
-    "EcomEase"
+    "EcomEase",
+    "WellProductive"
   ]
 }
