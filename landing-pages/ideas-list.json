@@ -136,6 +136,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260306120249",
+    "nombre": "DigiBuilder",
+    "tipo": "SaaS",
+    "resumen": "DigiBuilder es una plataforma todo-en-uno que permite a pequeñas empresas y profesionales crear y gestionar su presencia digital sin necesidad de cono...",
+    "score": 75,
+    "landing_url": "IDEA-20260306120249.html"
+  },
+  {
     "id": "IDEA-20260306110221",
     "nombre": "TimeEase",
     "tipo": "SaaS",

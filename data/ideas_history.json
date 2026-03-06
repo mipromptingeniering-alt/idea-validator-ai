@@ -1896,6 +1896,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-06T12:02:49.530211"
+    },
+    {
+      "nombre": "PymeConnect",
+      "descripcion": "PymeConnect es una solución integral que permite a las pequeñas y medianas empresas gestionar sus clientes, ventas y atención al cliente desde una única plataforma. Incluye automatización de marketing, seguimiento de ventas, y análisis de datos para ayudar a las pymes a tomar decisiones informadas y aumentar su eficiencia operativa.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-06T14:05:51.523814"
     }
   ],
   "nombres_usados": [
@@ -2169,6 +2176,7 @@
     "HR Simplify",
     "TaskFlow Customizer",
     "TimeEase",
-    "DigiBuilder"
+    "DigiBuilder",
+    "PymeConnect"
   ]
 }
