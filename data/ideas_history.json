@@ -1931,6 +1931,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-06T22:59:38.002482"
+    },
+    {
+      "nombre": "MarketingSmart",
+      "descripcion": "MarketingSmart es una herramienta de marketing digital que permite a los emprendedores y pequeñas empresas gestionar sus campañas de marketing en un solo lugar. Ofrece automatización de correos electrónicos, análisis de redes sociales, y sugerencias personalizadas basadas en inteligencia artificial para mejorar el rendimiento de las campañas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-06T23:53:22.700221"
     }
   ],
   "nombres_usados": [
@@ -2209,6 +2216,7 @@
     "SociManage",
     "EcomEase",
     "WellProductive",
-    "ContentCurator Pro"
+    "ContentCurator Pro",
+    "MarketingSmart"
   ]
 }

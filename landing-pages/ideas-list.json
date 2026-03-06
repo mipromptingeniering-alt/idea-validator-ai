@@ -136,6 +136,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260306225937",
+    "nombre": "ContentCurator Pro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de curación de contenido personalizada que utiliza inteligencia artificial para ayudar a los usuarios a encontrar información relevante...",
+    "score": 75,
+    "landing_url": "IDEA-20260306225937.html"
+  },
+  {
     "id": "IDEA-20260306205923",
     "nombre": "WellProductive",
     "tipo": "SaaS",
