@@ -136,6 +136,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260306090632",
+    "nombre": "TaskFlow Customizer",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de tareas altamente personalizable que se adapta a las necesidades específicas de cada equipo o proyecto....",
+    "score": 75,
+    "landing_url": "IDEA-20260306090632.html"
+  },
+  {
     "id": "IDEA-20260306050334",
     "nombre": "ConnectWell",
     "tipo": "SaaS",
