@@ -1854,6 +1854,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-05T22:01:47.647008"
+    },
+    {
+      "nombre": "FinanceEasy",
+      "descripcion": "FinanceEasy es una herramienta SaaS diseñada para ayudar a freelancers y emprendedores a gestionar sus finanzas de manera eficiente. Ofrece funciones de facturación, seguimiento de gastos y generación de reportes financieros, todo con un enfoque en la simplicidad y la facilidad de uso.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-06T00:04:01.035514"
     }
   ],
   "nombres_usados": [
@@ -2121,6 +2128,7 @@
     "CollabWell",
     "TaskWell",
     "FinanzApp",
-    "FinanzasSimplicidad"
+    "FinanzasSimplicidad",
+    "FinanceEasy"
   ]
 }

@@ -136,6 +136,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260305220147",
+    "nombre": "FinanzasSimplicidad",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión financiera intuitiva diseñada para pequeñas empresas que facilita el seguimiento de ingresos y gastos....",
+    "score": 75,
+    "landing_url": "IDEA-20260305220147.html"
+  },
+  {
     "id": "IDEA-20260305210049",
     "nombre": "FinanzApp",
     "tipo": "SaaS",
