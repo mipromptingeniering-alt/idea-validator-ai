@@ -1920,6 +1920,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260306140551",
+    "nombre": "PymeConnect",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS que integra CRM, gestión de ventas y atención al cliente específicamente para pymes....",
+    "score": 70,
+    "landing_url": "IDEA-20260306140551.html"
+  },
+  {
     "id": "IDEA-20260306073003",
     "nombre": "HR Simplify",
     "tipo": "SaaS",

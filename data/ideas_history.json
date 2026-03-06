@@ -1903,6 +1903,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-06T14:05:51.523814"
+    },
+    {
+      "nombre": "SociManage",
+      "descripcion": "SociManage permite a las PYMEs programar publicaciones, realizar un seguimiento de la interacción en redes sociales y analizar métricas clave de rendimiento a través de un panel intuitivo. También incluye plantillas de contenido y recomendaciones personalizadas basadas en la industria.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-06T16:01:24.383395"
     }
   ],
   "nombres_usados": [
@@ -2177,6 +2184,7 @@
     "TaskFlow Customizer",
     "TimeEase",
     "DigiBuilder",
-    "PymeConnect"
+    "PymeConnect",
+    "SociManage"
   ]
 }
