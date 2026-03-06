@@ -136,6 +136,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260306110221",
+    "nombre": "TimeEase",
+    "tipo": "SaaS",
+    "resumen": "Una aplicación SaaS que utiliza inteligencia artificial para ayudar a profesionales independientes a gestionar su tiempo y mejorar su productividad....",
+    "score": 75,
+    "landing_url": "IDEA-20260306110221.html"
+  },
+  {
     "id": "IDEA-20260306090632",
     "nombre": "TaskFlow Customizer",
     "tipo": "SaaS",

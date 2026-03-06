@@ -1889,6 +1889,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-06T11:02:21.125299"
+    },
+    {
+      "nombre": "DigiBuilder",
+      "descripcion": "DigiBuilder ofrece un conjunto de herramientas que incluye creación de sitios web, gestión de redes sociales, optimización para motores de búsqueda (SEO) y análisis de tráfico, todo desde un solo panel intuitivo. La plataforma está diseñada para que los usuarios sin experiencia técnica puedan gestionar su marketing digital de manera efectiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-06T12:02:49.530211"
     }
   ],
   "nombres_usados": [
@@ -2161,6 +2168,7 @@
     "ConnectWell",
     "HR Simplify",
     "TaskFlow Customizer",
-    "TimeEase"
+    "TimeEase",
+    "DigiBuilder"
   ]
 }
