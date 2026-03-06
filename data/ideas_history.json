@@ -1924,6 +1924,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-06T20:59:23.183938"
+    },
+    {
+      "nombre": "ContentCurator Pro",
+      "descripcion": "ContentCurator Pro es una herramienta que permite a los usuarios establecer sus intereses y recibe automáticamente artículos, vídeos y otros recursos relevantes de diversas fuentes. La plataforma utiliza algoritmos de machine learning para adaptar las recomendaciones basándose en el comportamiento del usuario y sus preferencias previas, facilitando la búsqueda de contenido útil en un mar de información.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-06T22:59:38.002482"
     }
   ],
   "nombres_usados": [
@@ -2201,6 +2208,7 @@
     "PymeConnect",
     "SociManage",
     "EcomEase",
-    "WellProductive"
+    "WellProductive",
+    "ContentCurator Pro"
   ]
 }
