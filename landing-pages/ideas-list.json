@@ -136,6 +136,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260307044528",
+    "nombre": "MarketGenie",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de marketing automatizado que utiliza inteligencia artificial para crear estrategias personalizadas para pequeñas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260307044528.html"
+  },
+  {
     "id": "IDEA-20260306235322",
     "nombre": "MarketingSmart",
     "tipo": "SaaS",

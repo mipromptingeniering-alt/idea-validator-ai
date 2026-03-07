@@ -1945,6 +1945,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-07T04:45:28.820313"
+    },
+    {
+      "nombre": "AutoGestor",
+      "descripcion": "Ofrecemos un servicio de gestión de facturación, seguimiento de gastos, y generación de informes de manera automatizada y sencilla, permitiendo que los usuarios se enfoquen en hacer crecer su negocio sin preocuparse por las tareas administrativas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-07T06:02:31.177506"
     }
   ],
   "nombres_usados": [
@@ -2225,6 +2232,7 @@
     "WellProductive",
     "ContentCurator Pro",
     "MarketingSmart",
-    "MarketGenie"
+    "MarketGenie",
+    "AutoGestor"
   ]
 }
