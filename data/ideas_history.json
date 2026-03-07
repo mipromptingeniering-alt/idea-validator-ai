@@ -2008,6 +2008,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-07T13:51:19.853366"
+    },
+    {
+      "nombre": "TaskOptimizer",
+      "descripcion": "TaskOptimizer es una plataforma que permite a los usuarios crear listas de tareas, establecer prioridades basadas en deadlines y energía personal, y proporciona recomendaciones personalizadas para maximizar la productividad diaria a través de la inteligencia artificial.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-07T14:51:31.437329"
     }
   ],
   "nombres_usados": [
@@ -2297,6 +2304,7 @@
     "SocialBoost PYMES",
     "DataSimplicity",
     "SocialSavvy",
-    "MindfulTask"
+    "MindfulTask",
+    "TaskOptimizer"
   ]
 }
