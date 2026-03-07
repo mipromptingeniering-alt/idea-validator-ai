@@ -2032,6 +2032,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260307145131",
+    "nombre": "TaskOptimizer",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta SaaS que utiliza inteligencia artificial para ayudara a autónomos y pequeñas empresas a gestionar su tiempo de manera más eficiente....",
+    "score": 70,
+    "landing_url": "IDEA-20260307145131.html"
+  },
+  {
     "id": "IDEA-20260307135119",
     "nombre": "MindfulTask",
     "tipo": "SaaS",

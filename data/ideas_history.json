@@ -2015,6 +2015,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-07T14:51:31.437329"
+    },
+    {
+      "nombre": "TaskEasy",
+      "descripcion": "TaskEasy permite a los usuarios crear tareas, asignar responsables, establecer fechas de vencimiento y realizar seguimiento del progreso con una interfaz limpia y minimalista. Además, se integra fácilmente con Google Calendar y Slack para notificaciones y recordatorios.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-03-07T15:42:58.582390"
     }
   ],
   "nombres_usados": [
@@ -2305,6 +2312,7 @@
     "DataSimplicity",
     "SocialSavvy",
     "MindfulTask",
-    "TaskOptimizer"
+    "TaskOptimizer",
+    "TaskEasy"
   ]
 }
