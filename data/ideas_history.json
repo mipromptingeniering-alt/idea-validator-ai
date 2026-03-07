@@ -2043,6 +2043,13 @@
       "tipo": "MicroSaaS",
       "score": 70,
       "fecha": "2026-03-07T17:45:19.645384"
+    },
+    {
+      "nombre": "GamifyTime",
+      "descripcion": "GamifyTime permite a freelancers y pequeños equipos gestionar sus proyectos y tareas de una manera innovadora, usando un sistema de recompensas que hace que cada tarea completada se convierta en un logro, motivando a los usuarios a ser más productivos.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-03-07T17:59:07.157779"
     }
   ],
   "nombres_usados": [
@@ -2337,6 +2344,7 @@
     "TaskEasy",
     "Marketing Insights Hub",
     "TeamBoost",
-    "ClientMate"
+    "ClientMate",
+    "GamifyTime"
   ]
 }

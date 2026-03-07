@@ -2056,6 +2056,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260307174519",
+    "nombre": "ClientMate",
+    "tipo": "MicroSaaS",
+    "resumen": "Una plataforma sencilla de CRM diseñada para pequeñas y medianas empresas que facilita el seguimiento de clientes y la gestión de relaciones....",
+    "score": 70,
+    "landing_url": "IDEA-20260307174519.html"
+  },
+  {
     "id": "IDEA-20260307145131",
     "nombre": "TaskOptimizer",
     "tipo": "SaaS",
