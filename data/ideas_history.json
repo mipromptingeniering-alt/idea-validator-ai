@@ -1994,6 +1994,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-03-07T11:38:33.554288"
+    },
+    {
+      "nombre": "SocialSavvy",
+      "descripcion": "SocialSavvy permite a los usuarios gestionar múltiples cuentas de redes sociales desde una sola interfaz, programar publicaciones, y recibir informes de rendimiento personalizados, todo con una experiencia de usuario intuitiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-07T11:55:02.858616"
     }
   ],
   "nombres_usados": [
@@ -2281,6 +2288,7 @@
     "ProjecBill",
     "EduConecta",
     "SocialBoost PYMES",
-    "DataSimplicity"
+    "DataSimplicity",
+    "SocialSavvy"
   ]
 }
