@@ -2092,6 +2092,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-07T22:51:10.136748"
+    },
+    {
+      "nombre": "CollabFlow",
+      "descripcion": "CollabFlow ofrece una solución integral que permite a los equipos remotos comunicarse y colaborar de manera efectiva mediante chat, videoconferencias, gestión de tareas y seguimiento de proyectos. Con un diseño intuitivo y características de personalización, los equipos pueden adaptar la herramienta a sus necesidades específicas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-07T23:42:12.233422"
     }
   ],
   "nombres_usados": [
@@ -2393,6 +2400,7 @@
     "FreelaHub",
     "Connect & Thrive",
     "MiniCRM",
-    "EasyWeb"
+    "EasyWeb",
+    "CollabFlow"
   ]
 }
