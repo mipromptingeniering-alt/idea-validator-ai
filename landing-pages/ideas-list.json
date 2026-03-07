@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260307190044",
+    "nombre": "SoloGestor",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma todo en uno para autónomos que facilita la gestión de proyectos, clientes y finanzas....",
+    "score": 75,
+    "landing_url": "IDEA-20260307190044.html"
+  },
+  {
     "id": "IDEA-20260307165923",
     "nombre": "TeamBoost",
     "tipo": "SaaS",

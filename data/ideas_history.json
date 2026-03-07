@@ -2057,6 +2057,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-07T19:00:44.790931"
+    },
+    {
+      "nombre": "DigitalBoost",
+      "descripcion": "DigitalBoost ofrece a las pequeñas y medianas empresas una solución todo en uno para gestionar su presencia digital. Desde la creación de un sitio web optimizado hasta la programación y gestión de publicaciones en redes sociales, todo en un solo lugar, con un análisis detallado del rendimiento.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-07T19:55:35.946503"
     }
   ],
   "nombres_usados": [
@@ -2353,6 +2360,7 @@
     "TeamBoost",
     "ClientMate",
     "GamifyTime",
-    "SoloGestor"
+    "SoloGestor",
+    "DigitalBoost"
   ]
 }
