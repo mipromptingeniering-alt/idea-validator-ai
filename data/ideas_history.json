@@ -1966,6 +1966,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-07T08:03:05.657845"
+    },
+    {
+      "nombre": "ProjecBill",
+      "descripcion": "ProjecBill permite a los usuarios gestionar proyectos, realizar un seguimiento del tiempo trabajado y generar facturas en una única interfaz intuitiva. Además, ofrece herramientas de colaboración y reportes analíticos para mejorar la toma de decisiones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-07T08:59:52.775860"
     }
   ],
   "nombres_usados": [
@@ -2249,6 +2256,7 @@
     "MarketGenie",
     "AutoGestor",
     "ProjectIQ",
-    "SocialMetrics Hub"
+    "SocialMetrics Hub",
+    "ProjecBill"
   ]
 }
