@@ -1938,6 +1938,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-06T23:53:22.700221"
+    },
+    {
+      "nombre": "MarketGenie",
+      "descripcion": "MarketGenie es un software como servicio que permite a los emprendedores generar estrategias de marketing digital adaptadas a su negocio. Utilizando AI, la plataforma ofrece recomendaciones personalizadas basadas en el análisis de datos de mercado, tendencias actuales y perfil del cliente, facilitando la implementación de campañas a través de diferentes canales, como redes sociales, email marketing y anuncios.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-07T04:45:28.820313"
     }
   ],
   "nombres_usados": [
@@ -2217,6 +2224,7 @@
     "EcomEase",
     "WellProductive",
     "ContentCurator Pro",
-    "MarketingSmart"
+    "MarketingSmart",
+    "MarketGenie"
   ]
 }

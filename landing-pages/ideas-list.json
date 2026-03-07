@@ -136,6 +136,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260306235322",
+    "nombre": "MarketingSmart",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de marketing digital fácil de usar que integra múltiples herramientas y utiliza IA para optimizar las campañas....",
+    "score": 75,
+    "landing_url": "IDEA-20260306235322.html"
+  },
+  {
     "id": "IDEA-20260306225937",
     "nombre": "ContentCurator Pro",
     "tipo": "SaaS",
