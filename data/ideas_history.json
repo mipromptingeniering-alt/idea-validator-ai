@@ -2022,6 +2022,13 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-03-07T15:42:58.582390"
+    },
+    {
+      "nombre": "Marketing Insights Hub",
+      "descripcion": "Marketing Insights Hub es una solución SaaS que permite a los profesionales del marketing conectar diversas herramientas (como Google Analytics, Facebook Ads, y herramientas de email marketing) en un solo panel. Utilizando IA, la plataforma genera informes detallados y recomendaciones para optimizar las campañas basadas en datos históricos y tendencias del mercado.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-07T16:00:10.854998"
     }
   ],
   "nombres_usados": [
@@ -2313,6 +2320,7 @@
     "SocialSavvy",
     "MindfulTask",
     "TaskOptimizer",
-    "TaskEasy"
+    "TaskEasy",
+    "Marketing Insights Hub"
   ]
 }

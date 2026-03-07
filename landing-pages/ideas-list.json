@@ -136,6 +136,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260307154258",
+    "nombre": "TaskEasy",
+    "tipo": "MicroSaaS",
+    "resumen": "Una herramienta intuitiva de gestión de tareas para emprendedores y pequeños equipos que integra funcionalidades de seguimiento de proyectos y colabor...",
+    "score": 75,
+    "landing_url": "IDEA-20260307154258.html"
+  },
+  {
     "id": "IDEA-20260307115502",
     "nombre": "SocialSavvy",
     "tipo": "SaaS",
