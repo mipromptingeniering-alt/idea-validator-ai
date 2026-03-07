@@ -136,6 +136,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260307085952",
+    "nombre": "ProjecBill",
+    "tipo": "SaaS",
+    "resumen": "ProjecBill es una plataforma todo-en-uno que ayuda a freelancers y pequeñas empresas a gestionar sus proyectos y facturación de manera eficiente....",
+    "score": 75,
+    "landing_url": "IDEA-20260307085952.html"
+  },
+  {
     "id": "IDEA-20260307080305",
     "nombre": "SocialMetrics Hub",
     "tipo": "SaaS",

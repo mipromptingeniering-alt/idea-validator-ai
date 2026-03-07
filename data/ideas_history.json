@@ -1973,6 +1973,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-07T08:59:52.775860"
+    },
+    {
+      "nombre": "EduConecta",
+      "descripcion": "EduConecta es una plataforma digital que proporciona a los padres acceso a una variedad de recursos educativos y actividades extracurriculares personalizadas, según los intereses y las necesidades de sus hijos. Los usuarios pueden buscar, comparar y reservar actividades como clases de arte, deportes, tutorías y más, todo en un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-07T09:54:02.185510"
     }
   ],
   "nombres_usados": [
@@ -2257,6 +2264,7 @@
     "AutoGestor",
     "ProjectIQ",
     "SocialMetrics Hub",
-    "ProjecBill"
+    "ProjecBill",
+    "EduConecta"
   ]
 }
