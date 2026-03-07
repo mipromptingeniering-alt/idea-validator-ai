@@ -2029,6 +2029,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-07T16:00:10.854998"
+    },
+    {
+      "nombre": "TeamBoost",
+      "descripcion": "TeamBoost permite a los equipos gestionar sus tareas diarias mientras participan en desafíos y actividades interactivas que fomentan la colaboración y la conexión emocional entre los miembros del equipo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-07T16:59:23.425840"
     }
   ],
   "nombres_usados": [
@@ -2321,6 +2328,7 @@
     "MindfulTask",
     "TaskOptimizer",
     "TaskEasy",
-    "Marketing Insights Hub"
+    "Marketing Insights Hub",
+    "TeamBoost"
   ]
 }

@@ -136,6 +136,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260307160010",
+    "nombre": "Marketing Insights Hub",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que unifica y analiza datos de múltiples herramientas de marketing, ofreciendo insights y recomendaciones basadas en IA....",
+    "score": 75,
+    "landing_url": "IDEA-20260307160010.html"
+  },
+  {
     "id": "IDEA-20260307154258",
     "nombre": "TaskEasy",
     "tipo": "MicroSaaS",
