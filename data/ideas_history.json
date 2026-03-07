@@ -2099,6 +2099,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-07T23:42:12.233422"
+    },
+    {
+      "nombre": "PymeWeb Hub",
+      "descripcion": "PymeWeb Hub permite a pequeñas y medianas empresas crear su sitio web, gestionar su inventario y ventas, y optimizar su marketing digital desde un solo lugar. Con herramientas integradas de diseño web, análisis de tráfico y marketing por correo electrónico, las pymes pueden mejorar su visibilidad y ventas sin necesidad de conocimientos técnicos avanzados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-07T23:58:30.590996"
     }
   ],
   "nombres_usados": [
@@ -2401,6 +2408,7 @@
     "Connect & Thrive",
     "MiniCRM",
     "EasyWeb",
-    "CollabFlow"
+    "CollabFlow",
+    "PymeWeb Hub"
   ]
 }

@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260307234212",
+    "nombre": "CollabFlow",
+    "tipo": "SaaS",
+    "resumen": "CollabFlow es una plataforma robusta para la gestión de comunicación y colaboración de equipos remotos, todo en un solo lugar....",
+    "score": 75,
+    "landing_url": "IDEA-20260307234212.html"
+  },
+  {
     "id": "IDEA-20260307225110",
     "nombre": "EasyWeb",
     "tipo": "SaaS",
