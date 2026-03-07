@@ -2064,6 +2064,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-07T19:55:35.946503"
+    },
+    {
+      "nombre": "FreelaHub",
+      "descripcion": "FreelaHub permite a los freelancers gestionar sus proyectos de manera eficiente, rastrear su tiempo, generar facturas personalizadas y comunicarse con sus clientes en un único lugar. Con un enfoque en la simplicidad y la usabilidad, la herramienta proporciona un espacio centralizado que minimiza la pérdida de información y maximiza la productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-07T20:50:26.486706"
     }
   ],
   "nombres_usados": [
@@ -2361,6 +2368,7 @@
     "ClientMate",
     "GamifyTime",
     "SoloGestor",
-    "DigitalBoost"
+    "DigitalBoost",
+    "FreelaHub"
   ]
 }

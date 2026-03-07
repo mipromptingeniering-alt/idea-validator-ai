@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260307195535",
+    "nombre": "DigitalBoost",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para que las PYMEs gestionen su presencia digital de forma fácil y efectiva....",
+    "score": 75,
+    "landing_url": "IDEA-20260307195535.html"
+  },
+  {
     "id": "IDEA-20260307190044",
     "nombre": "SoloGestor",
     "tipo": "SaaS",
