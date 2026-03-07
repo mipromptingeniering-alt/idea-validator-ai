@@ -136,6 +136,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260307105100",
+    "nombre": "SocialBoost PYMES",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de redes sociales diseñada específicamente para pequeñas y medianas empresas que facilita la programación, publicación y aná...",
+    "score": 75,
+    "landing_url": "IDEA-20260307105100.html"
+  },
+  {
     "id": "IDEA-20260307095402",
     "nombre": "EduConecta",
     "tipo": "SaaS",

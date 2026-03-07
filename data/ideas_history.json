@@ -1987,6 +1987,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-07T10:51:00.914522"
+    },
+    {
+      "nombre": "DataSimplicity",
+      "descripcion": "DataSimplicity es una herramienta SaaS que simplifica el análisis de datos, ofreciendo plantillas y dashboards pre-diseñados para que los dueños de pequeños negocios puedan visualizar y analizar sus datos de manera rápida y efectiva.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-03-07T11:38:33.554288"
     }
   ],
   "nombres_usados": [
@@ -2273,6 +2280,7 @@
     "SocialMetrics Hub",
     "ProjecBill",
     "EduConecta",
-    "SocialBoost PYMES"
+    "SocialBoost PYMES",
+    "DataSimplicity"
   ]
 }
