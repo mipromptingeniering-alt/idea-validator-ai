@@ -2085,6 +2085,13 @@
       "tipo": "MicroSaaS",
       "score": 70,
       "fecha": "2026-03-07T21:56:04.274220"
+    },
+    {
+      "nombre": "EasyWeb",
+      "descripcion": "EasyWeb es una herramienta en línea que guía a los usuarios a través del proceso de creación de un sitio web profesional. Ofrece plantillas personalizables, herramientas de SEO integradas y análisis de tráfico para ayudar a los usuarios a mejorar su visibilidad en línea.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-07T22:51:10.136748"
     }
   ],
   "nombres_usados": [
@@ -2385,6 +2392,7 @@
     "DigitalBoost",
     "FreelaHub",
     "Connect & Thrive",
-    "MiniCRM"
+    "MiniCRM",
+    "EasyWeb"
   ]
 }

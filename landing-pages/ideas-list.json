@@ -2096,6 +2096,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260307215604",
+    "nombre": "MiniCRM",
+    "tipo": "MicroSaaS",
+    "resumen": "MiniCRM es un CRM diseñado para pequeñas y medianas empresas que buscan una solución sencilla y asequible para gestionar sus relaciones con clientes....",
+    "score": 70,
+    "landing_url": "IDEA-20260307215604.html"
+  },
+  {
     "id": "IDEA-20260307174519",
     "nombre": "ClientMate",
     "tipo": "MicroSaaS",
