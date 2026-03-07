@@ -2071,6 +2071,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-07T20:50:26.486706"
+    },
+    {
+      "nombre": "Connect & Thrive",
+      "descripcion": "Connect & Thrive es una herramienta online que permite a los equipos remotos gestionar sus tareas laborales mientras participan en actividades de equipo, desde juegos hasta debates sobre bienestar. Esto crea un equilibrio entre productividad y conexión social, ayudando a combatir el aislamiento.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-07T21:39:53.393849"
     }
   ],
   "nombres_usados": [
@@ -2369,6 +2376,7 @@
     "GamifyTime",
     "SoloGestor",
     "DigitalBoost",
-    "FreelaHub"
+    "FreelaHub",
+    "Connect & Thrive"
   ]
 }

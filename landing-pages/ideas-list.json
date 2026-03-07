@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260307205026",
+    "nombre": "FreelaHub",
+    "tipo": "SaaS",
+    "resumen": "FreelaHub es una plataforma todo-en-uno para la gestión de proyectos, facturación y comunicación, diseñada específicamente para freelancers....",
+    "score": 75,
+    "landing_url": "IDEA-20260307205026.html"
+  },
+  {
     "id": "IDEA-20260307195535",
     "nombre": "DigitalBoost",
     "tipo": "SaaS",
