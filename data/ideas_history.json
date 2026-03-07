@@ -1980,6 +1980,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-07T09:54:02.185510"
+    },
+    {
+      "nombre": "SocialBoost PYMES",
+      "descripcion": "SocialBoost PYMES permite a las pequeñas y medianas empresas gestionar sus redes sociales desde una sola plataforma, facilitar la programación de publicaciones, y obtener análisis detallados sobre el rendimiento de su contenido, todo en un entorno intuitivo y amigable.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-07T10:51:00.914522"
     }
   ],
   "nombres_usados": [
@@ -2265,6 +2272,7 @@
     "ProjectIQ",
     "SocialMetrics Hub",
     "ProjecBill",
-    "EduConecta"
+    "EduConecta",
+    "SocialBoost PYMES"
   ]
 }

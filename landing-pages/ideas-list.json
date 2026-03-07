@@ -136,6 +136,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260307095402",
+    "nombre": "EduConecta",
+    "tipo": "SaaS",
+    "resumen": "Plataforma que conecta a padres con recursos educativos y actividades extracurriculares personalizadas para sus hijos....",
+    "score": 75,
+    "landing_url": "IDEA-20260307095402.html"
+  },
+  {
     "id": "IDEA-20260307085952",
     "nombre": "ProjecBill",
     "tipo": "SaaS",
