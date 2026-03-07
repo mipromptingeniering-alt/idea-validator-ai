@@ -2078,6 +2078,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-07T21:39:53.393849"
+    },
+    {
+      "nombre": "MiniCRM",
+      "descripcion": "MiniCRM ofrece un conjunto de herramientas intuitivas que permiten a las PYMES automatizar la gestión de clientes, seguimiento de interacciones y análisis de datos sin la necesidad de personal técnico especializado. Ofrece integraciones con aplicaciones populares como correo electrónico y gestión de proyectos.",
+      "tipo": "MicroSaaS",
+      "score": 70,
+      "fecha": "2026-03-07T21:56:04.274220"
     }
   ],
   "nombres_usados": [
@@ -2377,6 +2384,7 @@
     "SoloGestor",
     "DigitalBoost",
     "FreelaHub",
-    "Connect & Thrive"
+    "Connect & Thrive",
+    "MiniCRM"
   ]
 }

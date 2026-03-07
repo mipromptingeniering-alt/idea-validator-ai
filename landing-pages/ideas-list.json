@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260307213953",
+    "nombre": "Connect & Thrive",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que combina productividad con actividades interactivas para fomentar la conexión social entre equipos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260307213953.html"
+  },
+  {
     "id": "IDEA-20260307205026",
     "nombre": "FreelaHub",
     "tipo": "SaaS",
