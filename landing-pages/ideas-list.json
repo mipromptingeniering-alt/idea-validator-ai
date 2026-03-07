@@ -16,6 +16,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260307175907",
+    "nombre": "GamifyTime",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de proyectos que incorpora elementos de gamificación para incentivar la productividad....",
+    "score": 78,
+    "landing_url": "IDEA-20260307175907.html"
+  },
+  {
     "id": "IDEA-20260305115053",
     "nombre": "CollabWell",
     "tipo": "SaaS",

@@ -2050,6 +2050,13 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-03-07T17:59:07.157779"
+    },
+    {
+      "nombre": "SoloGestor",
+      "descripcion": "SoloGestor es una herramienta digital diseñada para trabajadores autónomos que les permite organizar sus proyectos, llevar el control de sus clientes y gestionar sus finanzas en un solo lugar. Con una interfaz intuitiva y sencilla, los usuarios pueden crear facturas, hacer seguimiento de pagos, establecer recordatorios, y gestionar su tiempo de manera eficiente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-07T19:00:44.790931"
     }
   ],
   "nombres_usados": [
@@ -2345,6 +2352,7 @@
     "Marketing Insights Hub",
     "TeamBoost",
     "ClientMate",
-    "GamifyTime"
+    "GamifyTime",
+    "SoloGestor"
   ]
 }
