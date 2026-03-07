@@ -1952,6 +1952,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-07T06:02:31.177506"
+    },
+    {
+      "nombre": "ProjectIQ",
+      "descripcion": "ProjectIQ es una herramienta de gestión de proyectos diseñada especialmente para pequeñas empresas y emprendedores. Ofrece una interfaz intuitiva y utiliza inteligencia artificial para analizar el rendimiento del equipo, sugerir la mejor asignación de tareas y prever posibles retrasos en los proyectos. Además, incluye funciones de colaboración en tiempo real, permitiendo a los equipos comunicarse sin problemas y mantenerse organizados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-07T07:44:02.399768"
     }
   ],
   "nombres_usados": [
@@ -2233,6 +2240,7 @@
     "ContentCurator Pro",
     "MarketingSmart",
     "MarketGenie",
-    "AutoGestor"
+    "AutoGestor",
+    "ProjectIQ"
   ]
 }
