@@ -136,6 +136,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260307074402",
+    "nombre": "ProjectIQ",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de proyectos impulsada por AI que ayuda a pequeñas empresas a maximizar su eficiencia y colaboración....",
+    "score": 75,
+    "landing_url": "IDEA-20260307074402.html"
+  },
+  {
     "id": "IDEA-20260307060231",
     "nombre": "AutoGestor",
     "tipo": "SaaS",

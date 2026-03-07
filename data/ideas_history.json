@@ -1959,6 +1959,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-07T07:44:02.399768"
+    },
+    {
+      "nombre": "SocialMetrics Hub",
+      "descripcion": "SocialMetrics Hub es un software como servicio que permite a los profesionales del marketing conectar sus cuentas de redes sociales y plataformas de análisis para visualizar un panel de métricas unificado. La herramienta ofrece informes personalizables y análisis de rendimiento en tiempo real, así como recomendaciones basadas en datos para mejorar las campañas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-07T08:03:05.657845"
     }
   ],
   "nombres_usados": [
@@ -2241,6 +2248,7 @@
     "MarketingSmart",
     "MarketGenie",
     "AutoGestor",
-    "ProjectIQ"
+    "ProjectIQ",
+    "SocialMetrics Hub"
   ]
 }
