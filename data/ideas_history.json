@@ -2036,6 +2036,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-07T16:59:23.425840"
+    },
+    {
+      "nombre": "ClientMate",
+      "descripcion": "ClientMate es una herramienta de CRM que permite a las pymes gestionar fácilmente sus relaciones con los clientes. A través de un dashboard intuitivo, pueden realizar seguimientos de interacciones, tareas, citas, y obtener informes simples sobre el comportamiento de sus clientes. La plataforma se ajusta a las necesidades específicas de cada negocio, permitiendo una personalización sencilla.",
+      "tipo": "MicroSaaS",
+      "score": 70,
+      "fecha": "2026-03-07T17:45:19.645384"
     }
   ],
   "nombres_usados": [
@@ -2329,6 +2336,7 @@
     "TaskOptimizer",
     "TaskEasy",
     "Marketing Insights Hub",
-    "TeamBoost"
+    "TeamBoost",
+    "ClientMate"
   ]
 }
