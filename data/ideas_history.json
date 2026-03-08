@@ -2176,6 +2176,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-08T14:52:52.534104"
+    },
+    {
+      "nombre": "SocialNiche",
+      "descripcion": "SocialNiche permite a los emprendedores y pequeñas empresas gestionar su presencia en varias redes sociales desde una única plataforma, con características que incluyen la creación automatizada de contenido basado en tendencias del nicho, programación de publicaciones, análisis de rendimiento y sugerencias de mejora.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-08T15:46:07.715627"
     }
   ],
   "nombres_usados": [
@@ -2489,6 +2496,7 @@
     "SociallySimplified",
     "SkillQuest",
     "PymeGestor",
-    "MarketInsight"
+    "MarketInsight",
+    "SocialNiche"
   ]
 }

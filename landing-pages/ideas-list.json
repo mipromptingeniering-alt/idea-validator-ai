@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260308145252",
+    "nombre": "MarketInsight",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de análisis de marketing digital que integra datos de múltiples fuentes y ofrece recomendaciones estratégicas en tiempo real....",
+    "score": 75,
+    "landing_url": "IDEA-20260308145252.html"
+  },
+  {
     "id": "IDEA-20260308135213",
     "nombre": "PymeGestor",
     "tipo": "SaaS",
