@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260308194724",
+    "nombre": "WellnessManager",
+    "tipo": "SaaS",
+    "resumen": "Una solución integral de gestión para terapeutas y coaches que optimiza la programación de citas, el seguimiento de clientes y la facturación....",
+    "score": 75,
+    "landing_url": "IDEA-20260308194724.html"
+  },
+  {
     "id": "IDEA-20260308190212",
     "nombre": "VisualSocial",
     "tipo": "SaaS",

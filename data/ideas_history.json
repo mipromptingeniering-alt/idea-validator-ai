@@ -2204,6 +2204,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-08T19:47:24.178133"
+    },
+    {
+      "nombre": "MultiMetric Analyzer",
+      "descripcion": "MultiMetric Analyzer es una plataforma en línea que permite a los profesionales de marketing conectar sus cuentas de redes sociales, herramientas de SEO y cuentas de publicidad pagada para obtener un análisis integral de su rendimiento. A través de un panel intuitivo, los usuarios pueden observar las métricas más relevantes, recibir informes automáticos y recomendaciones para mejorar sus estrategias.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-08T20:52:46.292355"
     }
   ],
   "nombres_usados": [
@@ -2521,6 +2528,7 @@
     "SocialNiche",
     "TimeChampion",
     "VisualSocial",
-    "WellnessManager"
+    "WellnessManager",
+    "MultiMetric Analyzer"
   ]
 }
