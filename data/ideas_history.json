@@ -2120,6 +2120,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-03-08T07:10:41.359536"
+    },
+    {
+      "nombre": "Marketing Metrics Hub",
+      "descripcion": "Marketing Metrics Hub es una herramienta que integra datos de diversas plataformas publicitarias y redes sociales, proporcionando a los usuarios informes claros y visuales sobre el rendimiento de sus campañas. Los usuarios pueden personalizar métricas, establecer objetivos y recibir recomendaciones automatizadas para mejorar el retorno de inversión (ROI).",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-08T07:54:14.617012"
     }
   ],
   "nombres_usados": [
@@ -2425,6 +2432,7 @@
     "CollabFlow",
     "PymeWeb Hub",
     "TaskFlow Pro",
-    "SocialPilot AI"
+    "SocialPilot AI",
+    "Marketing Metrics Hub"
   ]
 }
