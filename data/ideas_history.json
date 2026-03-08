@@ -2169,6 +2169,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-08T13:52:13.951656"
+    },
+    {
+      "nombre": "MarketInsight",
+      "descripcion": "MarketInsight ofrece a los profesionales del marketing y pequeñas empresas una herramienta integral para medir y analizar el rendimiento de sus campañas en múltiples plataformas. La solución utiliza inteligencia artificial para proporcionar recomendaciones sobre cómo optimizar el gasto y aumentar el retorno sobre la inversión.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-08T14:52:52.534104"
     }
   ],
   "nombres_usados": [
@@ -2481,6 +2488,7 @@
     "ProManage",
     "SociallySimplified",
     "SkillQuest",
-    "PymeGestor"
+    "PymeGestor",
+    "MarketInsight"
   ]
 }
