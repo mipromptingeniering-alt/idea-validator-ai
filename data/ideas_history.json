@@ -2106,6 +2106,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-07T23:58:30.590996"
+    },
+    {
+      "nombre": "TaskFlow Pro",
+      "descripcion": "TaskFlow Pro ofrece una interfaz intuitiva donde los usuarios pueden crear, gestionar y seguir tareas y proyectos, integrando metodologías ágiles de forma fácil. La personalización del flujo de trabajo permite que cada usuario adapte la herramienta a su estilo de trabajo único.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-08T05:01:42.689396"
     }
   ],
   "nombres_usados": [
@@ -2409,6 +2416,7 @@
     "MiniCRM",
     "EasyWeb",
     "CollabFlow",
-    "PymeWeb Hub"
+    "PymeWeb Hub",
+    "TaskFlow Pro"
   ]
 }

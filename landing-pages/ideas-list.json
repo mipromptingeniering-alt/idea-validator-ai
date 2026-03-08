@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260307235830",
+    "nombre": "PymeWeb Hub",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma todo-en-uno para la gestión de la presencia digital y las ventas en línea de pymes....",
+    "score": 75,
+    "landing_url": "IDEA-20260307235830.html"
+  },
+  {
     "id": "IDEA-20260307234212",
     "nombre": "CollabFlow",
     "tipo": "SaaS",
