@@ -2127,6 +2127,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-08T07:54:14.617012"
+    },
+    {
+      "nombre": "FocusBuddy",
+      "descripcion": "FocusBuddy es una herramienta digital diseñada para ayudar a los usuarios a gestionar su tiempo de manera más eficiente. Integra técnicas de productividad como Pomodoro, estableciendo metas diarias y proporcionando un ambiente gamificado que premia a los usuarios por cumplir sus objetivos.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-08T09:00:02.133319"
     }
   ],
   "nombres_usados": [
@@ -2433,6 +2440,7 @@
     "PymeWeb Hub",
     "TaskFlow Pro",
     "SocialPilot AI",
-    "Marketing Metrics Hub"
+    "Marketing Metrics Hub",
+    "FocusBuddy"
   ]
 }
