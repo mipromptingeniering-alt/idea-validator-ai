@@ -2211,6 +2211,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-08T20:52:46.292355"
+    },
+    {
+      "nombre": "CitaFácil",
+      "descripcion": "CitaFácil es una plataforma en línea que permite a los profesionales de la salud gestionar sus citas, enviar recordatorios automáticos a los pacientes y llevar un seguimiento de las interacciones, todo en un solo lugar. Su interfaz intuitiva simplifica la programación y gestión de citas, ayudando a aumentar la eficiencia y mejorar la satisfacción del paciente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-08T21:43:54.429593"
     }
   ],
   "nombres_usados": [
@@ -2529,6 +2536,7 @@
     "TimeChampion",
     "VisualSocial",
     "WellnessManager",
-    "MultiMetric Analyzer"
+    "MultiMetric Analyzer",
+    "CitaFácil"
   ]
 }
