@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260308105419",
+    "nombre": "ProManage",
+    "tipo": "SaaS",
+    "resumen": "ProManage es una plataforma de gestión de proyectos diseñada para freelancers y pequeñas empresas que integra comunicación, seguimiento de tareas y re...",
+    "score": 75,
+    "landing_url": "IDEA-20260308105419.html"
+  },
+  {
     "id": "IDEA-20260308095433",
     "nombre": "TimeHero",
     "tipo": "SaaS",
