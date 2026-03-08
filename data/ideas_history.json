@@ -2155,6 +2155,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-08T11:44:42.401391"
+    },
+    {
+      "nombre": "SkillQuest",
+      "descripcion": "SkillQuest es una plataforma de educación online que permite a los usuarios aprender habilidades digitales a través de cursos gamificados y proyectos prácticos. Cada curso se estructura en misiones que los usuarios completan para obtener badges y recompensas mientras aprenden. Esto no solo mejora el compromiso, sino que también facilita la aplicación de conocimientos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-08T11:57:20.965467"
     }
   ],
   "nombres_usados": [
@@ -2465,6 +2472,7 @@
     "FocusBuddy",
     "TimeHero",
     "ProManage",
-    "SociallySimplified"
+    "SociallySimplified",
+    "SkillQuest"
   ]
 }
