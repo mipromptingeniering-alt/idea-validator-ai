@@ -2225,6 +2225,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-08T21:58:52.607271"
+    },
+    {
+      "nombre": "TimeBill Pro",
+      "descripcion": "TimeBill Pro es una herramienta diseñada para ayudar a freelancers a gestionar su tiempo y procesos de facturación de manera eficiente, permitiendo el seguimiento de horas trabajadas, generación de facturas personalizadas y recordatorios de pagos, todo en un único lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-08T23:47:56.473921"
     }
   ],
   "nombres_usados": [
@@ -2545,6 +2552,7 @@
     "WellnessManager",
     "MultiMetric Analyzer",
     "CitaFácil",
-    "PortfolioBoost"
+    "PortfolioBoost",
+    "TimeBill Pro"
   ]
 }
