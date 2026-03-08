@@ -2200,6 +2200,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260308165546",
+    "nombre": "TimeChampion",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión del tiempo que emplea gamificación para mejorar la productividad de freelancers y trabajadores remotos....",
+    "score": 70,
+    "landing_url": "IDEA-20260308165546.html"
+  },
+  {
     "id": "IDEA-20260308090002",
     "nombre": "FocusBuddy",
     "tipo": "SaaS",

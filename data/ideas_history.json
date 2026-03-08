@@ -2190,6 +2190,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-08T16:55:46.951652"
+    },
+    {
+      "nombre": "VisualSocial",
+      "descripcion": "VisualSocial permite a los usuarios crear publicaciones visuales atractivas utilizando plantillas personalizables, gestionar múltiples cuentas de redes sociales y programar publicaciones de manera eficiente. Además, ofrece recursos gráficos y herramientas de edición básicas, todo dentro de una interfaz intuitiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-08T19:02:12.128069"
     }
   ],
   "nombres_usados": [
@@ -2505,6 +2512,7 @@
     "PymeGestor",
     "MarketInsight",
     "SocialNiche",
-    "TimeChampion"
+    "TimeChampion",
+    "VisualSocial"
   ]
 }
