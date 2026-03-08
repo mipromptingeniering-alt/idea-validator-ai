@@ -2183,6 +2183,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-08T15:46:07.715627"
+    },
+    {
+      "nombre": "TimeChampion",
+      "descripcion": "TimeChampion es una plataforma que permite a los usuarios gestionar su tiempo de manera efectiva mediante el uso de técnicas de gamificación, recompensando el cumplimiento de metas y ayudando en la planificación de tareas diarias.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-08T16:55:46.951652"
     }
   ],
   "nombres_usados": [
@@ -2497,6 +2504,7 @@
     "SkillQuest",
     "PymeGestor",
     "MarketInsight",
-    "SocialNiche"
+    "SocialNiche",
+    "TimeChampion"
   ]
 }

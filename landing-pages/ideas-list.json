@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260308154607",
+    "nombre": "SocialNiche",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de redes sociales que automatiza la creación y publicación de contenido específico para nichos de mercado....",
+    "score": 75,
+    "landing_url": "IDEA-20260308154607.html"
+  },
+  {
     "id": "IDEA-20260308145252",
     "nombre": "MarketInsight",
     "tipo": "SaaS",
