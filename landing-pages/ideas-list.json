@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260308115720",
+    "nombre": "SkillQuest",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de aprendizaje en línea que combina gamificación con formación en habilidades digitales....",
+    "score": 75,
+    "landing_url": "IDEA-20260308115720.html"
+  },
+  {
     "id": "IDEA-20260308114442",
     "nombre": "SociallySimplified",
     "tipo": "SaaS",

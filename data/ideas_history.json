@@ -2162,6 +2162,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-08T11:57:20.965467"
+    },
+    {
+      "nombre": "PymeGestor",
+      "descripcion": "PymeGestor permite a las PYMEs gestionar sus procesos de venta, seguimiento de clientes y atención al cliente en un solo lugar. Con un enfoque en la simplicidad y la eficiencia, esta herramienta ayuda a las empresas a optimizar su tiempo y recursos, mejorando la experiencia del cliente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-08T13:52:13.951656"
     }
   ],
   "nombres_usados": [
@@ -2473,6 +2480,7 @@
     "TimeHero",
     "ProManage",
     "SociallySimplified",
-    "SkillQuest"
+    "SkillQuest",
+    "PymeGestor"
   ]
 }
