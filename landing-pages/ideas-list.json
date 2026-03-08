@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260308190212",
+    "nombre": "VisualSocial",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma todo-en-uno para la creación y gestión de contenido visual para redes sociales, diseñada para creadores de contenido y pequeñas empresa...",
+    "score": 75,
+    "landing_url": "IDEA-20260308190212.html"
+  },
+  {
     "id": "IDEA-20260308154607",
     "nombre": "SocialNiche",
     "tipo": "SaaS",

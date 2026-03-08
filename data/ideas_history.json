@@ -2197,6 +2197,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-08T19:02:12.128069"
+    },
+    {
+      "nombre": "WellnessManager",
+      "descripcion": "WellnessManager es un software diseñado específicamente para profesionales de la salud mental y el bienestar, que les permite gestionar sus citas, realizar seguimientos de sus clientes de manera intuitiva y gestionar la facturación, todo en una única plataforma. Incluye recordatorios automáticos, integraciones de pago y herramientas de análisis para mejorar la atención al cliente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-08T19:47:24.178133"
     }
   ],
   "nombres_usados": [
@@ -2513,6 +2520,7 @@
     "MarketInsight",
     "SocialNiche",
     "TimeChampion",
-    "VisualSocial"
+    "VisualSocial",
+    "WellnessManager"
   ]
 }
