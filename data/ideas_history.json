@@ -2134,6 +2134,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-08T09:00:02.133319"
+    },
+    {
+      "nombre": "TimeHero",
+      "descripcion": "TimeHero es una aplicación que ayuda a los usuarios a planificar su día, establecer metas, y rastrear su progreso. Utiliza un sistema de gamificación para motivar a los usuarios a completar tareas y alcanzar sus objetivos. Además, permite la personalización de flujos de trabajo para adaptarse a las preferencias individuales.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-08T09:54:33.863924"
     }
   ],
   "nombres_usados": [
@@ -2441,6 +2448,7 @@
     "TaskFlow Pro",
     "SocialPilot AI",
     "Marketing Metrics Hub",
-    "FocusBuddy"
+    "FocusBuddy",
+    "TimeHero"
   ]
 }

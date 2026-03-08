@@ -2144,6 +2144,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260308090002",
+    "nombre": "FocusBuddy",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que ayuda a las personas a mejorar su productividad personal mediante técnicas de gestión del tiempo y gamificación....",
+    "score": 70,
+    "landing_url": "IDEA-20260308090002.html"
+  },
+  {
     "id": "IDEA-20260307215604",
     "nombre": "MiniCRM",
     "tipo": "MicroSaaS",
