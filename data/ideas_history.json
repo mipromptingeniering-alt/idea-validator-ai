@@ -2113,6 +2113,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-08T05:01:42.689396"
+    },
+    {
+      "nombre": "SocialPilot AI",
+      "descripcion": "SocialPilot AI permite a las pequeñas empresas gestionar fácilmente sus cuentas de redes sociales con recomendaciones de contenido personalizadas, programación automática y análisis de rendimiento, lo que les ahorra tiempo y mejora su presencia digital.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-03-08T07:10:41.359536"
     }
   ],
   "nombres_usados": [
@@ -2417,6 +2424,7 @@
     "EasyWeb",
     "CollabFlow",
     "PymeWeb Hub",
-    "TaskFlow Pro"
+    "TaskFlow Pro",
+    "SocialPilot AI"
   ]
 }

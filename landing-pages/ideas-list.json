@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260308050142",
+    "nombre": "TaskFlow Pro",
+    "tipo": "SaaS",
+    "resumen": "TaskFlow Pro es una herramienta de gestión de proyectos simplificada que permite a los usuarios personalizar flujos de trabajo para aumentar la produc...",
+    "score": 75,
+    "landing_url": "IDEA-20260308050142.html"
+  },
+  {
     "id": "IDEA-20260307235830",
     "nombre": "PymeWeb Hub",
     "tipo": "SaaS",
