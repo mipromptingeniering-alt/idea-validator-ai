@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260308214354",
+    "nombre": "CitaFácil",
+    "tipo": "SaaS",
+    "resumen": "Solución de gestión de citas y recordatorios para profesionales de salud y bienestar....",
+    "score": 75,
+    "landing_url": "IDEA-20260308214354.html"
+  },
+  {
     "id": "IDEA-20260308205246",
     "nombre": "MultiMetric Analyzer",
     "tipo": "SaaS",

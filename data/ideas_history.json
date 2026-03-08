@@ -2218,6 +2218,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-08T21:43:54.429593"
+    },
+    {
+      "nombre": "PortfolioBoost",
+      "descripcion": "PortfolioBoost permite a diseñadores, artistas y otros profesionales creativos gestionar su portafolio de manera eficiente, mientras acceden a herramientas de promoción y marketing para aumentar su visibilidad en el mercado. Con funcionalidades integradas para el análisis de tráfico y conexiones en la industria, los usuarios pueden optimizar sus oportunidades de negocio.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-08T21:58:52.607271"
     }
   ],
   "nombres_usados": [
@@ -2537,6 +2544,7 @@
     "VisualSocial",
     "WellnessManager",
     "MultiMetric Analyzer",
-    "CitaFácil"
+    "CitaFácil",
+    "PortfolioBoost"
   ]
 }
