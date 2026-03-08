@@ -2141,6 +2141,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-08T09:54:33.863924"
+    },
+    {
+      "nombre": "ProManage",
+      "descripcion": "Con ProManage, los usuarios pueden crear y asignar tareas, mantener un chat en tiempo real con los clientes, gestionar tiempos de trabajo y generar reportes automáticos. Además, la plataforma utiliza inteligencia artificial para sugerir la mejor forma de organizar las tareas según las prioridades y el tiempo estimado de finalización.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-08T10:54:19.988611"
     }
   ],
   "nombres_usados": [
@@ -2449,6 +2456,7 @@
     "SocialPilot AI",
     "Marketing Metrics Hub",
     "FocusBuddy",
-    "TimeHero"
+    "TimeHero",
+    "ProManage"
   ]
 }
