@@ -2246,6 +2246,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-09T10:30:58.164162"
+    },
+    {
+      "nombre": "ContentSmart",
+      "descripcion": "ContentSmart permite a emprendedores y pequeñas empresas crear contenido de marketing de alta calidad de manera rápida y eficiente. La plataforma utiliza inteligencia artificial para analizar tendencias del sector y preferencias de la audiencia, generando textos, imágenes y videos adaptados a las necesidades del usuario. Además, incluye herramientas de programación y análisis de rendimiento para optimizar la estrategia de contenido.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-09T11:59:43.546849"
     }
   ],
   "nombres_usados": [
@@ -2569,6 +2576,7 @@
     "PortfolioBoost",
     "TimeBill Pro",
     "HealthAdmin Pro",
-    "AdminSimple"
+    "AdminSimple",
+    "ContentSmart"
   ]
 }
