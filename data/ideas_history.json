@@ -2239,6 +2239,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-09T05:12:53.374801"
+    },
+    {
+      "nombre": "AdminSimple",
+      "descripcion": "AdminSimple es una plataforma SaaS diseñada para aliviar la carga de las tareas administrativas y contables en pequeñas y medianas empresas. Utiliza inteligencia artificial para automatizar la entrada de datos, generar informes y ofrecer recomendaciones personalizadas, lo que permite a los dueños de negocios centrarse en el crecimiento de su empresa.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-09T10:30:58.164162"
     }
   ],
   "nombres_usados": [
@@ -2561,6 +2568,7 @@
     "CitaFácil",
     "PortfolioBoost",
     "TimeBill Pro",
-    "HealthAdmin Pro"
+    "HealthAdmin Pro",
+    "AdminSimple"
   ]
 }

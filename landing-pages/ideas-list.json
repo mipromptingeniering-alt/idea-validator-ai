@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260309051253",
+    "nombre": "HealthAdmin Pro",
+    "tipo": "SaaS",
+    "resumen": "Plataforma todo en uno para la gestión administrativa de consultorios médicos....",
+    "score": 75,
+    "landing_url": "IDEA-20260309051253.html"
+  },
+  {
     "id": "IDEA-20260308234756",
     "nombre": "TimeBill Pro",
     "tipo": "SaaS",
