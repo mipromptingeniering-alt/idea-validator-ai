@@ -2260,6 +2260,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-09T14:40:31.546100"
+    },
+    {
+      "nombre": "MindTime Balance",
+      "descripcion": "MindTime Balance es una plataforma de gestión del tiempo diseñada específicamente para freelancers. Ofrece herramientas para planificar tareas, temporizadores de enfoque y ejercicios de meditación personalizados que ayudan a los usuarios a mantener un equilibrio saludable entre trabajo y vida personal.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-09T17:34:45.399386"
     }
   ],
   "nombres_usados": [
@@ -2585,6 +2592,7 @@
     "HealthAdmin Pro",
     "AdminSimple",
     "ContentSmart",
-    "TimeWizard"
+    "TimeWizard",
+    "MindTime Balance"
   ]
 }

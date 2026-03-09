@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260309144031",
+    "nombre": "TimeWizard",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma personalizada de gestión del tiempo que utiliza inteligencia artificial para adaptar la planificación a las preferencias y hábitos del ...",
+    "score": 75,
+    "landing_url": "IDEA-20260309144031.html"
+  },
+  {
     "id": "IDEA-20260309115943",
     "nombre": "ContentSmart",
     "tipo": "SaaS",
