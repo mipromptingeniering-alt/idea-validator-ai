@@ -2288,6 +2288,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-09T22:59:55.224054"
+    },
+    {
+      "nombre": "Artify",
+      "descripcion": "Artify es una plataforma que conecta a artistas y diseñadores gráficos con consumidores que buscan personalizar productos con arte digital, desde ropa hasta impresiones en lienzo. Los artistas pueden crear y subir sus diseños, y los usuarios pueden elegir qué producto quieren personalizar, brindando a ambos una experiencia única.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-09T23:53:46.727469"
     }
   ],
   "nombres_usados": [
@@ -2617,6 +2624,7 @@
     "MindTime Balance",
     "SocialAi Manager",
     "Finanzas para Emprendedores",
-    "WellWork"
+    "WellWork",
+    "Artify"
   ]
 }
