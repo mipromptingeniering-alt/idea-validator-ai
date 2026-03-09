@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260309210432",
+    "nombre": "SocialAi Manager",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de redes sociales impulsada por IA que ayuda a pymes a generar, programar y analizar contenido de forma automatizada....",
+    "score": 75,
+    "landing_url": "IDEA-20260309210432.html"
+  },
+  {
     "id": "IDEA-20260309173445",
     "nombre": "MindTime Balance",
     "tipo": "SaaS",

@@ -2274,6 +2274,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-09T21:04:32.641926"
+    },
+    {
+      "nombre": "Finanzas para Emprendedores",
+      "descripcion": "Finanzas para Emprendedores es una plataforma en línea que permite a los usuarios hacer un seguimiento de sus ingresos y gastos, crear presupuestos personalizados y recibir recomendaciones sobre cómo mejorar su salud financiera. Con un diseño intuitivo, los emprendedores podrán gestionar sus finanzas sin necesidad de conocimientos avanzados contables.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-09T22:00:26.140211"
     }
   ],
   "nombres_usados": [
@@ -2601,6 +2608,7 @@
     "ContentSmart",
     "TimeWizard",
     "MindTime Balance",
-    "SocialAi Manager"
+    "SocialAi Manager",
+    "Finanzas para Emprendedores"
   ]
 }
