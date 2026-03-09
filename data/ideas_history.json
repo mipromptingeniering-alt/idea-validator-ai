@@ -2281,6 +2281,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-09T22:00:26.140211"
+    },
+    {
+      "nombre": "WellWork",
+      "descripcion": "WellWork ofrece un enfoque holístico para el trabajo remoto, combinando herramientas de gestión de proyectos, comunicación y recursos de bienestar como meditación y control del tiempo. La plataforma ayuda a los equipos a mantener la cohesión y el enfoque, mientras cuida de su salud mental.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-09T22:59:55.224054"
     }
   ],
   "nombres_usados": [
@@ -2609,6 +2616,7 @@
     "TimeWizard",
     "MindTime Balance",
     "SocialAi Manager",
-    "Finanzas para Emprendedores"
+    "Finanzas para Emprendedores",
+    "WellWork"
   ]
 }

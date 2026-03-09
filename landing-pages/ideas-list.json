@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260309220026",
+    "nombre": "Finanzas para Emprendedores",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión financiera diseñada específicamente para emprendedores y pequeñas empresas que simplifica la planificación financiera y el ...",
+    "score": 75,
+    "landing_url": "IDEA-20260309220026.html"
+  },
+  {
     "id": "IDEA-20260309210432",
     "nombre": "SocialAi Manager",
     "tipo": "SaaS",
