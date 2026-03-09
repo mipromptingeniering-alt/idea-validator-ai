@@ -2253,6 +2253,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-09T11:59:43.546849"
+    },
+    {
+      "nombre": "TimeWizard",
+      "descripcion": "TimeWizard combina técnicas de gestión del tiempo probadas con un sistema de inteligencia artificial que aprende de las acciones del usuario. Ofrece un dashboard donde los usuarios pueden organizar sus tareas, establecer objetivos y recibir recomendaciones personalizadas. Además, incluye elementos de gamificación para motivar la constancia y mejora continua.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-09T14:40:31.546100"
     }
   ],
   "nombres_usados": [
@@ -2577,6 +2584,7 @@
     "TimeBill Pro",
     "HealthAdmin Pro",
     "AdminSimple",
-    "ContentSmart"
+    "ContentSmart",
+    "TimeWizard"
   ]
 }
