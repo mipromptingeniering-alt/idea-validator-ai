@@ -2232,6 +2232,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-08T23:47:56.473921"
+    },
+    {
+      "nombre": "HealthAdmin Pro",
+      "descripcion": "HealthAdmin Pro es una herramienta que integra la gestión de citas, recordatorios automáticos para pacientes, y un análisis de la carga laboral de los profesionales de salud, permitiendo una mejor atención al paciente y una administración eficiente del tiempo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-09T05:12:53.374801"
     }
   ],
   "nombres_usados": [
@@ -2553,6 +2560,7 @@
     "MultiMetric Analyzer",
     "CitaFácil",
     "PortfolioBoost",
-    "TimeBill Pro"
+    "TimeBill Pro",
+    "HealthAdmin Pro"
   ]
 }
