@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260309173445",
+    "nombre": "MindTime Balance",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que ayuda a freelancers y profesionales independientes a gestionar su tiempo y mejorar su bienestar a través de técnicas de meditación ...",
+    "score": 75,
+    "landing_url": "IDEA-20260309173445.html"
+  },
+  {
     "id": "IDEA-20260309144031",
     "nombre": "TimeWizard",
     "tipo": "SaaS",

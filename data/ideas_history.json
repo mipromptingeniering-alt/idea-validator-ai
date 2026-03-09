@@ -2267,6 +2267,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-09T17:34:45.399386"
+    },
+    {
+      "nombre": "SocialAi Manager",
+      "descripcion": "SocialAi Manager permite a pequeñas y medianas empresas optimizar su presencia en redes sociales mediante la generación automática de publicaciones, selección de hashtags relevantes y programación de contenido según el mejor horario de interacción. Además, la herramienta ofrece análisis de rendimiento que ayudan a mejorar constantemente la estrategia.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-09T21:04:32.641926"
     }
   ],
   "nombres_usados": [
@@ -2593,6 +2600,7 @@
     "AdminSimple",
     "ContentSmart",
     "TimeWizard",
-    "MindTime Balance"
+    "MindTime Balance",
+    "SocialAi Manager"
   ]
 }
