@@ -2302,6 +2302,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-10T05:00:26.690018"
+    },
+    {
+      "nombre": "LearniFlex",
+      "descripcion": "LearniFlex utiliza algoritmos de aprendizaje automático para analizar el rendimiento y los patrones de aprendizaje de los estudiantes, adaptando automáticamente el contenido, ritmo y estilo de enseñanza para maximizar la eficiencia del aprendizaje. Incluye herramientas para profesores que desean mejorar la experiencia educativa de sus alumnos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-10T07:30:12.397899"
     }
   ],
   "nombres_usados": [
@@ -2633,6 +2640,7 @@
     "Finanzas para Emprendedores",
     "WellWork",
     "Artify",
-    "MarketingMentor"
+    "MarketingMentor",
+    "LearniFlex"
   ]
 }

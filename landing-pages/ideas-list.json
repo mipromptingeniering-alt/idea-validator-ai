@@ -2320,6 +2320,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260310050026",
+    "nombre": "MarketingMentor",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que ofrece un asistente de marketing digital impulsado por IA para PYMEs, que simplifica la creación de contenido y la gestión de redes...",
+    "score": 70,
+    "landing_url": "IDEA-20260310050026.html"
+  },
+  {
     "id": "IDEA-20260308165546",
     "nombre": "TimeChampion",
     "tipo": "SaaS",
