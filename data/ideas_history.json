@@ -2309,6 +2309,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-10T07:30:12.397899"
+    },
+    {
+      "nombre": "Freelance Fusion",
+      "descripcion": "Freelance Fusion es una herramienta digital diseñada especialmente para profesionales independientes que necesitan una solución eficaz para gestionar su tiempo, proyectos y procesos de facturación. La plataforma ofrece funcionalidades que permiten a los usuarios organizar tareas, establecer plazos, registrar horas trabajadas y generar facturas de manera sencilla, todo en un único lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-10T10:03:04.341318"
     }
   ],
   "nombres_usados": [
@@ -2641,6 +2648,7 @@
     "WellWork",
     "Artify",
     "MarketingMentor",
-    "LearniFlex"
+    "LearniFlex",
+    "Freelance Fusion"
   ]
 }
