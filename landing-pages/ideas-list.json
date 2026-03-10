@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260310100304",
+    "nombre": "Freelance Fusion",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para freelancers que combina gestión de proyectos, seguimiento de tiempo y facturación en una sola aplicación....",
+    "score": 75,
+    "landing_url": "IDEA-20260310100304.html"
+  },
+  {
     "id": "IDEA-20260310073012",
     "nombre": "LearniFlex",
     "tipo": "SaaS",

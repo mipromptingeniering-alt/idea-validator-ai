@@ -2316,6 +2316,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-10T10:03:04.341318"
+    },
+    {
+      "nombre": "TaskMatic",
+      "descripcion": "TaskMatic permite a freelancers y pequeñas empresas gestionar sus tareas y proyectos utilizando un sistema de puntos y recompensas. Los usuarios pueden organizar sus tareas, establecer fechas de entrega y recibir incentivos por completar trabajos en tiempo y forma.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-10T11:50:42.284140"
     }
   ],
   "nombres_usados": [
@@ -2649,6 +2656,7 @@
     "Artify",
     "MarketingMentor",
     "LearniFlex",
-    "Freelance Fusion"
+    "Freelance Fusion",
+    "TaskMatic"
   ]
 }
