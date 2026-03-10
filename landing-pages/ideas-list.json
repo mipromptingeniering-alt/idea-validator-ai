@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260310210239",
+    "nombre": "ContentHub",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta para que creadores de contenido gestionen, programen y monetizen sus publicaciones en múltiples plataformas desde un solo lugar....",
+    "score": 75,
+    "landing_url": "IDEA-20260310210239.html"
+  },
+  {
     "id": "IDEA-20260310195727",
     "nombre": "FinanciaPYME",
     "tipo": "SaaS",

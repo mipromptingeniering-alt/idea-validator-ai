@@ -2344,6 +2344,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-10T21:02:39.307981"
+    },
+    {
+      "nombre": "ContentSync",
+      "descripcion": "ContentSync permite que los equipos de marketing organicen su flujo de trabajo de contenido en una sola plataforma. Desde la creación de contenido hasta su programación y análisis de rendimiento, todo está centralizado. Incluye plantillas, herramientas de colaboración y analíticas en tiempo real.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-10T21:55:17.527372"
     }
   ],
   "nombres_usados": [
@@ -2681,6 +2688,7 @@
     "TaskMatic",
     "SimplicityTime",
     "FinanciaPYME",
-    "ContentHub"
+    "ContentHub",
+    "ContentSync"
   ]
 }
