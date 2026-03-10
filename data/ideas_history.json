@@ -2323,6 +2323,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-10T11:50:42.284140"
+    },
+    {
+      "nombre": "SimplicityTime",
+      "descripcion": "SimplicityTime es una aplicación basada en la web que permite a los usuarios gestionar sus tareas y tiempos de manera eficiente, utilizando principios de psicología que promueven la salud mental y la productividad sostenida.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-10T14:35:44.084216"
     }
   ],
   "nombres_usados": [
@@ -2657,6 +2664,7 @@
     "MarketingMentor",
     "LearniFlex",
     "Freelance Fusion",
-    "TaskMatic"
+    "TaskMatic",
+    "SimplicityTime"
   ]
 }
