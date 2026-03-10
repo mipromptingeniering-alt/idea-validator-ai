@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260309235346",
+    "nombre": "Artify",
+    "tipo": "SaaS",
+    "resumen": "Plataforma que permite a los artistas digitales monetizar su trabajo mediante la creación de productos personalizados con su arte....",
+    "score": 75,
+    "landing_url": "IDEA-20260309235346.html"
+  },
+  {
     "id": "IDEA-20260309225955",
     "nombre": "WellWork",
     "tipo": "SaaS",

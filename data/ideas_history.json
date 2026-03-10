@@ -2295,6 +2295,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-09T23:53:46.727469"
+    },
+    {
+      "nombre": "MarketingMentor",
+      "descripcion": "MarketingMentor permite a las pequeñas y medianas empresas generar contenido de marketing personalizado de manera eficiente y gestionar sus redes sociales desde una única plataforma. Utiliza inteligencia artificial para sugerir temas, redactar publicaciones y programar contenido, facilitando así la estrategia digital de las PYMEs incluso sin experiencia previa.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-10T05:00:26.690018"
     }
   ],
   "nombres_usados": [
@@ -2625,6 +2632,7 @@
     "SocialAi Manager",
     "Finanzas para Emprendedores",
     "WellWork",
-    "Artify"
+    "Artify",
+    "MarketingMentor"
   ]
 }
