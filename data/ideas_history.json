@@ -2330,6 +2330,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-10T14:35:44.084216"
+    },
+    {
+      "nombre": "FinanciaPYME",
+      "descripcion": "FinanciaPYME es un software de gestión financiera diseñado específicamente para pequeñas y medianas empresas. Ofrece herramientas de contabilidad, facturación, y generación de reportes en un solo lugar, destinado a usuarios sin experiencia previa en finanzas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-10T19:57:27.281518"
     }
   ],
   "nombres_usados": [
@@ -2665,6 +2672,7 @@
     "LearniFlex",
     "Freelance Fusion",
     "TaskMatic",
-    "SimplicityTime"
+    "SimplicityTime",
+    "FinanciaPYME"
   ]
 }
