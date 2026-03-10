@@ -2337,6 +2337,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-10T19:57:27.281518"
+    },
+    {
+      "nombre": "ContentHub",
+      "descripcion": "ContentHub es una plataforma SaaS que permite a los creadores de contenido tener un control total sobre sus publicaciones, monetización y relaciones con los suscriptores. Con integración en tiempo real con plataformas como YouTube, Twitch, Instagram y Patreon, los usuarios podrán programar contenidos, gestionar suscripciones y analizar el rendimiento de manera eficiente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-10T21:02:39.307981"
     }
   ],
   "nombres_usados": [
@@ -2673,6 +2680,7 @@
     "Freelance Fusion",
     "TaskMatic",
     "SimplicityTime",
-    "FinanciaPYME"
+    "FinanciaPYME",
+    "ContentHub"
   ]
 }
