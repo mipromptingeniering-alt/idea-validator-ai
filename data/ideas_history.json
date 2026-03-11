@@ -2463,6 +2463,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-11T20:56:17.017955"
+    },
+    {
+      "nombre": "TaskFlow AI",
+      "descripcion": "TaskFlow AI permite a los usuarios gestionar sus tareas, calendarios y comunicaciones en un solo lugar, utilizando algoritmos de inteligencia artificial para adaptar las recomendaciones y prioridades según el estilo de trabajo del usuario. La plataforma ofrece integración con herramientas existentes y funcionalidades como recordatorios inteligentes y análisis de productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-11T21:28:06.463979"
     }
   ],
   "nombres_usados": [
@@ -2817,6 +2824,7 @@
     "Finanzas360",
     "SimpleConnect",
     "MailSmart",
-    "WellTrack"
+    "WellTrack",
+    "TaskFlow AI"
   ]
 }

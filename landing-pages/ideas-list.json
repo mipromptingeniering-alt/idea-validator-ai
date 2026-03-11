@@ -152,6 +152,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260311205616",
+    "nombre": "WellTrack",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que ayuda a los trabajadores remotos a gestionar su productividad mientras cuida su bienestar emocional....",
+    "score": 75,
+    "landing_url": "IDEA-20260311205616.html"
+  },
+  {
     "id": "IDEA-20260311195001",
     "nombre": "SimpleConnect",
     "tipo": "SaaS",
