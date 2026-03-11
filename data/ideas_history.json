@@ -2456,6 +2456,13 @@
       "tipo": "SaaS",
       "score": 76,
       "fecha": "2026-03-11T20:26:14.502640"
+    },
+    {
+      "nombre": "WellTrack",
+      "descripcion": "WellTrack es una aplicación SaaS diseñada para trabajadores remotos que combina herramientas de gestión de tareas con módulos de bienestar emocional. Ofrece funciones de seguimiento de tareas, meditación guiada, y coaching emocional personalizado, todo en una interfaz amigable y gamificada.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-11T20:56:17.017955"
     }
   ],
   "nombres_usados": [
@@ -2809,6 +2816,7 @@
     "SocialPostGen",
     "Finanzas360",
     "SimpleConnect",
-    "MailSmart"
+    "MailSmart",
+    "WellTrack"
   ]
 }

@@ -96,6 +96,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260311202614",
+    "nombre": "MailSmart",
+    "tipo": "SaaS",
+    "resumen": "Un asistente de correo electrónico impulsado por IA que organiza, prioriza y sugiere respuestas a los correos electrónicos....",
+    "score": 76,
+    "landing_url": "IDEA-20260311202614.html"
+  },
+  {
     "id": "IDEA-20260224230509",
     "nombre": "Data3SME",
     "tipo": "SaaS",
