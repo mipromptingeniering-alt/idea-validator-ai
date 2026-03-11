@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260311133706",
+    "nombre": "EasyFactur",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de facturación y contabilidad online diseñada para pequeñas empresas y emprendedores, simplificando la gestión financiera....",
+    "score": 75,
+    "landing_url": "IDEA-20260311133706.html"
+  },
+  {
     "id": "IDEA-20260311120056",
     "nombre": "Mediatize",
     "tipo": "SaaS",

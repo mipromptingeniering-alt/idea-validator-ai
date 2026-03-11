@@ -2400,6 +2400,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-11T13:37:06.337854"
+    },
+    {
+      "nombre": "DataSimplify",
+      "descripcion": "DataSimplify es una herramienta SaaS que permite a las PYMEs cargar sus datos, visualizarlos de forma intuitiva y obtener informes analíticos personalizados que les ayuden a tomar decisiones informadas. Con plantillas prediseñadas y un enfoque en métricas clave, es ideal para aquellos sin experiencia en análisis de datos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-11T14:30:19.578457"
     }
   ],
   "nombres_usados": [
@@ -2745,6 +2752,7 @@
     "TimeSmart",
     "MindfulWork",
     "Mediatize",
-    "EasyFactur"
+    "EasyFactur",
+    "DataSimplify"
   ]
 }
