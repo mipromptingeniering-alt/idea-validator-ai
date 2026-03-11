@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260311152950",
+    "nombre": "EasyFin",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta financiera sencilla para freelancers y autónomos que simplifica la facturación y el seguimiento de gastos....",
+    "score": 75,
+    "landing_url": "IDEA-20260311152950.html"
+  },
+  {
     "id": "IDEA-20260311143019",
     "nombre": "DataSimplify",
     "tipo": "SaaS",

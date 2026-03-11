@@ -2414,6 +2414,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-11T15:29:50.495617"
+    },
+    {
+      "nombre": "SkillSync",
+      "descripcion": "SkillSync es una plataforma SaaS que proporciona a los profesionales recomendaciones de cursos y habilidades basadas en sus necesidades de desarrollo y las tendencias actuales del mercado laboral. Al integrar algoritmos de IA que analizan datos de empleo, los usuarios reciben una guía personalizada para adquirir las competencias más demandadas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-11T16:09:21.463952"
     }
   ],
   "nombres_usados": [
@@ -2761,6 +2768,7 @@
     "Mediatize",
     "EasyFactur",
     "DataSimplify",
-    "EasyFin"
+    "EasyFin",
+    "SkillSync"
   ]
 }
