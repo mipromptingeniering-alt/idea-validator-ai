@@ -2498,6 +2498,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-11T23:18:33.386643"
+    },
+    {
+      "nombre": "Invoise",
+      "descripcion": "Invoise permite a los usuarios crear y enviar facturas de manera rápida y automatizada, gestionar su flujo de caja y recibir pagos en línea a través de diversas plataformas de pago, con recordatorios automáticos para evitar retrasos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-11T23:47:19.886077"
     }
   ],
   "nombres_usados": [
@@ -2857,6 +2864,7 @@
     "TimeHarmony",
     "AdAnalytics Pro",
     "MentalHealth Pro",
-    "SocialWizard"
+    "SocialWizard",
+    "Invoise"
   ]
 }
