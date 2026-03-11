@@ -2386,6 +2386,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-03-11T11:35:43.573815"
+    },
+    {
+      "nombre": "Mediatize",
+      "descripcion": "Mediatize ofrece una solución integral que ayuda a las pequeñas y medianas empresas a gestionar su presencia digital, automatizar correos electrónicos, y crear contenido para redes sociales de manera sencilla y rápida. La plataforma está diseñada para ser intuitiva, permitiendo a los usuarios sin experiencia en marketing digital crear campañas efectivas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-11T12:00:56.737023"
     }
   ],
   "nombres_usados": [
@@ -2729,6 +2736,7 @@
     "RepuTrack",
     "MindFocus",
     "TimeSmart",
-    "MindfulWork"
+    "MindfulWork",
+    "Mediatize"
   ]
 }
