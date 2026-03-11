@@ -2421,6 +2421,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-11T16:09:21.463952"
+    },
+    {
+      "nombre": "HealthTime",
+      "descripcion": "HealthTime ofrece un sistema de gestión de agenda que permite a los profesionales de la salud gestionar sus citas de manera eficiente. Utiliza algoritmos avanzados para recomendar la carga de trabajo óptima y la distribución de citas, lo que ayuda a mejorar la satisfacción del paciente y la productividad del profesional.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-11T17:10:18.253932"
     }
   ],
   "nombres_usados": [
@@ -2769,6 +2776,7 @@
     "EasyFactur",
     "DataSimplify",
     "EasyFin",
-    "SkillSync"
+    "SkillSync",
+    "HealthTime"
   ]
 }

@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260311160921",
+    "nombre": "SkillSync",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que sincroniza el aprendizaje en línea con las necesidades del mercado laboral mediante recomendaciones personalizadas de cursos....",
+    "score": 75,
+    "landing_url": "IDEA-20260311160921.html"
+  },
+  {
     "id": "IDEA-20260311152950",
     "nombre": "EasyFin",
     "tipo": "SaaS",
