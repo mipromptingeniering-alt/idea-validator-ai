@@ -152,6 +152,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260311222009",
+    "nombre": "AdAnalytics Pro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS que centraliza y optimiza el análisis de campañas publicitarias en múltiples plataformas de forma sencilla....",
+    "score": 75,
+    "landing_url": "IDEA-20260311222009.html"
+  },
+  {
     "id": "IDEA-20260311215525",
     "nombre": "TimeHarmony",
     "tipo": "SaaS",

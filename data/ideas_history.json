@@ -2484,6 +2484,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-11T22:20:09.628591"
+    },
+    {
+      "nombre": "MentalHealth Pro",
+      "descripcion": "MentalHealth Pro es un software diseñado para facilitar a los terapeutas y psicólogos la gestión de su práctica. Permite la programación de citas, envío de recordatorios a los pacientes, gestión de pagos y seguimiento del progreso del caso de cada paciente. Todo esto con un enfoque especial en la teleterapia.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-11T22:47:49.792218"
     }
   ],
   "nombres_usados": [
@@ -2841,6 +2848,7 @@
     "WellTrack",
     "TaskFlow AI",
     "TimeHarmony",
-    "AdAnalytics Pro"
+    "AdAnalytics Pro",
+    "MentalHealth Pro"
   ]
 }
