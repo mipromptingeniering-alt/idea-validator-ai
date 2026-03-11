@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260311050147",
+    "nombre": "FocusSync",
+    "tipo": "SaaS",
+    "resumen": "FocusSync es una herramienta de gestión de tiempo y tareas diseñada para freelancers que quieren mejorar su productividad y bienestar....",
+    "score": 75,
+    "landing_url": "IDEA-20260311050147.html"
+  },
+  {
     "id": "IDEA-20260310210239",
     "nombre": "ContentHub",
     "tipo": "SaaS",

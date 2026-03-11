@@ -2358,6 +2358,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-11T05:01:47.762112"
+    },
+    {
+      "nombre": "RepuTrack",
+      "descripcion": "RepuTrack ayuda a los profesionales independientes y pequeños emprendedores a gestionar su presencia en línea consolidando reseñas de múltiples plataformas y ofreciendo sugerencias personalizadas para mejorar su imagen pública. Con notificaciones automáticas y un panel de control intuitivo, los usuarios pueden responder a reseñas y analizar su reputación de manera sencilla.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-03-11T07:34:49.659076"
     }
   ],
   "nombres_usados": [
@@ -2697,6 +2704,7 @@
     "FinanciaPYME",
     "ContentHub",
     "ContentSync",
-    "FocusSync"
+    "FocusSync",
+    "RepuTrack"
   ]
 }
