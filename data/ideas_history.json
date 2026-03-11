@@ -2470,6 +2470,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-11T21:28:06.463979"
+    },
+    {
+      "nombre": "TimeHarmony",
+      "descripcion": "TimeHarmony es una aplicación que permite a los usuarios planificar su día a día, establecer objetivos, y recibir recomendaciones personalizadas sobre cómo mejorar su gestión del tiempo. Al integrarse con calendarios y aplicaciones de tareas, ofrece una vista holística de las actividades y sugiere ajustes para maximizar la productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-11T21:55:25.687406"
     }
   ],
   "nombres_usados": [
@@ -2825,6 +2832,7 @@
     "SimpleConnect",
     "MailSmart",
     "WellTrack",
-    "TaskFlow AI"
+    "TaskFlow AI",
+    "TimeHarmony"
   ]
 }

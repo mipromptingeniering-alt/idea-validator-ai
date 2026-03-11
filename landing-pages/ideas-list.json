@@ -152,6 +152,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260311212806",
+    "nombre": "TaskFlow AI",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de tareas y productividad que utiliza inteligencia artificial para personalizar la experiencia del usuario y optimizar el fl...",
+    "score": 75,
+    "landing_url": "IDEA-20260311212806.html"
+  },
+  {
     "id": "IDEA-20260311205616",
     "nombre": "WellTrack",
     "tipo": "SaaS",
