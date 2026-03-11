@@ -2491,6 +2491,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-11T22:47:49.792218"
+    },
+    {
+      "nombre": "SocialWizard",
+      "descripcion": "SocialWizard permite a las pequeñas empresas generar posts visuales y textuales optimizados para diversas plataformas sociales en cuestión de minutos. Con funciones como sugerencias de hashtags, análisis de tendencias y programación automática de publicaciones, simplificamos el viaje del emprendedor en el mundo digital.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-11T23:18:33.386643"
     }
   ],
   "nombres_usados": [
@@ -2849,6 +2856,7 @@
     "TaskFlow AI",
     "TimeHarmony",
     "AdAnalytics Pro",
-    "MentalHealth Pro"
+    "MentalHealth Pro",
+    "SocialWizard"
   ]
 }

@@ -152,6 +152,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260311224749",
+    "nombre": "MentalHealth Pro",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de gestión para profesionales de la salud mental que permite agendar citas, gestionar pagos y hacer seguimiento del progreso de los pacient...",
+    "score": 75,
+    "landing_url": "IDEA-20260311224749.html"
+  },
+  {
     "id": "IDEA-20260311222009",
     "nombre": "AdAnalytics Pro",
     "tipo": "SaaS",
