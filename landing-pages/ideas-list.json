@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260311073449",
+    "nombre": "RepuTrack",
+    "tipo": "MicroSaaS",
+    "resumen": "RepuTrack es una herramienta de seguimiento y gestión de reputación en línea que permite a los emprendedores monitorear y mejorar su visibilidad en pl...",
+    "score": 75,
+    "landing_url": "IDEA-20260311073449.html"
+  },
+  {
     "id": "IDEA-20260311050147",
     "nombre": "FocusSync",
     "tipo": "SaaS",

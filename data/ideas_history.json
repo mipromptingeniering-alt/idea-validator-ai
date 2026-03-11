@@ -2365,6 +2365,13 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-03-11T07:34:49.659076"
+    },
+    {
+      "nombre": "MindFocus",
+      "descripcion": "MindFocus ayuda a los usuarios a gestionar su tiempo de manera efectiva a través de un sistema de bloques de tiempo, recordatorios de pausa activa, ejercicios de respiración y meditación, y seguimiento de hábitos. Todo esto con una interfaz intuitiva y gamificada que motiva a los usuarios a mejorar su productividad y bienestar general.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-11T10:03:37.537192"
     }
   ],
   "nombres_usados": [
@@ -2705,6 +2712,7 @@
     "ContentHub",
     "ContentSync",
     "FocusSync",
-    "RepuTrack"
+    "RepuTrack",
+    "MindFocus"
   ]
 }
