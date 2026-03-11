@@ -2393,6 +2393,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-11T12:00:56.737023"
+    },
+    {
+      "nombre": "EasyFactur",
+      "descripcion": "EasyFactur permite a los usuarios crear facturas, llevar un control de gastos e ingresos y recibir recomendaciones personalizadas para mejorar su flujo de caja. Con una interfaz amigable y funcional, hace que la contabilidad sea accesible para todos, sin necesidad de conocimientos previos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-11T13:37:06.337854"
     }
   ],
   "nombres_usados": [
@@ -2737,6 +2744,7 @@
     "MindFocus",
     "TimeSmart",
     "MindfulWork",
-    "Mediatize"
+    "Mediatize",
+    "EasyFactur"
   ]
 }
