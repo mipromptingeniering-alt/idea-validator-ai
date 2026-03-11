@@ -2449,6 +2449,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-11T19:50:02.053821"
+    },
+    {
+      "nombre": "MailSmart",
+      "descripcion": "MailSmart es un servicio que ayuda a los profesionales a gestionar su bandeja de entrada de manera más eficiente. Utiliza inteligencia artificial para clasificar automáticamente los correos, detectar los más importantes y sugerir respuestas. También permite integrar calendarios y tareas para tener una vista completa de la comunicación y las responsabilidades.",
+      "tipo": "SaaS",
+      "score": 76,
+      "fecha": "2026-03-11T20:26:14.502640"
     }
   ],
   "nombres_usados": [
@@ -2801,6 +2808,7 @@
     "HealthTime",
     "SocialPostGen",
     "Finanzas360",
-    "SimpleConnect"
+    "SimpleConnect",
+    "MailSmart"
   ]
 }

@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260311195001",
+    "nombre": "SimpleConnect",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de CRM fácil de usar diseñada para microempresas y freelancers, que simplifica la gestión de contactos y automatiza seguimientos....",
+    "score": 75,
+    "landing_url": "IDEA-20260311195001.html"
+  },
+  {
     "id": "IDEA-20260311191014",
     "nombre": "Finanzas360",
     "tipo": "SaaS",
