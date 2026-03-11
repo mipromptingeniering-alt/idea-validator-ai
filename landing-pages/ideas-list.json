@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260311100337",
+    "nombre": "MindFocus",
+    "tipo": "SaaS",
+    "resumen": "MindFocus es una herramienta de gestión del tiempo que combina técnicas de productividad y bienestar para mejorar la eficiencia de los usuarios....",
+    "score": 75,
+    "landing_url": "IDEA-20260311100337.html"
+  },
+  {
     "id": "IDEA-20260311073449",
     "nombre": "RepuTrack",
     "tipo": "MicroSaaS",

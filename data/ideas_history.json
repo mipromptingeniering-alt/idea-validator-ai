@@ -2372,6 +2372,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-11T10:03:37.537192"
+    },
+    {
+      "nombre": "TimeSmart",
+      "descripcion": "TimeSmart proporciona una interfaz que permite a los usuarios registrar sus actividades diarias y recibir recomendaciones personalizadas sobre cómo administrar su tiempo de manera más efectiva. A través de análisis de datos y aprendizaje automático, la plataforma sugiere horarios de trabajo, descansos y estrategias para minimizar la procrastinación.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-11T10:59:23.789243"
     }
   ],
   "nombres_usados": [
@@ -2713,6 +2720,7 @@
     "ContentSync",
     "FocusSync",
     "RepuTrack",
-    "MindFocus"
+    "MindFocus",
+    "TimeSmart"
   ]
 }
