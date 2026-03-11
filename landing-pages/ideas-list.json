@@ -2360,6 +2360,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260310215517",
+    "nombre": "ContentSync",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma todo en uno para gestionar la creación, planificación y distribución de contenido en múltiples canales digitales....",
+    "score": 70,
+    "landing_url": "IDEA-20260310215517.html"
+  },
+  {
     "id": "IDEA-20260310115042",
     "nombre": "TaskMatic",
     "tipo": "SaaS",

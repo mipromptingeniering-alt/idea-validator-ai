@@ -2351,6 +2351,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-10T21:55:17.527372"
+    },
+    {
+      "nombre": "FocusSync",
+      "descripcion": "FocusSync combina una interfaz intuitiva de gestión de tareas con un temporizador Pomodoro inteligente que ayuda a los usuarios a concentrarse en sus tareas mientras recopila datos sobre sus hábitos laborales. Además, ofrece consejos personalizados y análisis de productividad para ayudar a los usuarios a mejorar su rendimiento.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-11T05:01:47.762112"
     }
   ],
   "nombres_usados": [
@@ -2689,6 +2696,7 @@
     "SimplicityTime",
     "FinanciaPYME",
     "ContentHub",
-    "ContentSync"
+    "ContentSync",
+    "FocusSync"
   ]
 }
