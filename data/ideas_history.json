@@ -2477,6 +2477,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-11T21:55:25.687406"
+    },
+    {
+      "nombre": "AdAnalytics Pro",
+      "descripcion": "AdAnalytics Pro permite a los usuarios integrar sus cuentas de publicidad de diversas plataformas, analizar el rendimiento de sus campañas y recibir recomendaciones automatizadas para mejorar la efectividad. Con una interfaz intuitiva, los usuarios pueden ver informes visuales y sugerencias sin necesidad de conocimientos técnicos avanzados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-11T22:20:09.628591"
     }
   ],
   "nombres_usados": [
@@ -2833,6 +2840,7 @@
     "MailSmart",
     "WellTrack",
     "TaskFlow AI",
-    "TimeHarmony"
+    "TimeHarmony",
+    "AdAnalytics Pro"
   ]
 }

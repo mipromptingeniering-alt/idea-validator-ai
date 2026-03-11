@@ -152,6 +152,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260311215525",
+    "nombre": "TimeHarmony",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo personalizable que utiliza inteligencia artificial para ayudar a los usuarios a optimizar su productividad....",
+    "score": 75,
+    "landing_url": "IDEA-20260311215525.html"
+  },
+  {
     "id": "IDEA-20260311212806",
     "nombre": "TaskFlow AI",
     "tipo": "SaaS",
