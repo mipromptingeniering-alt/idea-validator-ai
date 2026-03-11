@@ -2442,6 +2442,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-11T19:10:14.616244"
+    },
+    {
+      "nombre": "SimpleConnect",
+      "descripcion": "SimpleConnect es una plataforma de gestión de relaciones que permite a los usuarios gestionar sus contactos, realizar seguimientos automáticos y obtener recordatorios para mantener relaciones efectivas y productivas con sus clientes, todo desde una interfaz intuitiva y accesible.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-11T19:50:02.053821"
     }
   ],
   "nombres_usados": [
@@ -2793,6 +2800,7 @@
     "SkillSync",
     "HealthTime",
     "SocialPostGen",
-    "Finanzas360"
+    "Finanzas360",
+    "SimpleConnect"
   ]
 }

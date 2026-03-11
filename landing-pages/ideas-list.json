@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260311191014",
+    "nombre": "Finanzas360",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión financiera que integra las finanzas personales y empresariales para autónomos y pequeñas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260311191014.html"
+  },
+  {
     "id": "IDEA-20260311180414",
     "nombre": "SocialPostGen",
     "tipo": "SaaS",
