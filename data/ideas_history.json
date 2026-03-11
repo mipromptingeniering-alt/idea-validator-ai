@@ -2379,6 +2379,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-11T10:59:23.789243"
+    },
+    {
+      "nombre": "MindfulWork",
+      "descripcion": "MindfulWork es una aplicación que proporciona recursos y herramientas para ayudar a los empleados a gestionar su estrés y ansiedad. La plataforma incluye ejercicios de respiración guiada, técnicas de relajación, y foros comunitarios donde los usuarios pueden compartir experiencias y apoyo. Además, ofrece métricas de seguimiento del bienestar que permiten a los trabajadores monitorear su progreso a lo largo del tiempo.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-03-11T11:35:43.573815"
     }
   ],
   "nombres_usados": [
@@ -2721,6 +2728,7 @@
     "FocusSync",
     "RepuTrack",
     "MindFocus",
-    "TimeSmart"
+    "TimeSmart",
+    "MindfulWork"
   ]
 }

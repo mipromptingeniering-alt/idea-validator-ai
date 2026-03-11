@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260311105923",
+    "nombre": "TimeSmart",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo y productividad que utiliza IA para ayudar a los freelance a optimizar su tiempo y establecer límites entre su vi...",
+    "score": 75,
+    "landing_url": "IDEA-20260311105923.html"
+  },
+  {
     "id": "IDEA-20260311100337",
     "nombre": "MindFocus",
     "tipo": "SaaS",
