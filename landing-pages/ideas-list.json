@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260311180414",
+    "nombre": "SocialPostGen",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de generación automática de contenido para redes sociales dirigida a pequeñas y medianas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260311180414.html"
+  },
+  {
     "id": "IDEA-20260311171018",
     "nombre": "HealthTime",
     "tipo": "SaaS",

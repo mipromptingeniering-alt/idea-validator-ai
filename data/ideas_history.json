@@ -2435,6 +2435,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-11T18:04:14.282132"
+    },
+    {
+      "nombre": "Finanzas360",
+      "descripcion": "Finanzas360 permite a los usuarios conectar sus cuentas bancarias, realizar seguimientos de gastos e ingresos, y generar informes financieros que combinan tanto sus finanzas personales como las de su negocio. Incluye funcionalidades de presupuestos, alertas de gastos y consejos financieros personalizados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-11T19:10:14.616244"
     }
   ],
   "nombres_usados": [
@@ -2785,6 +2792,7 @@
     "EasyFin",
     "SkillSync",
     "HealthTime",
-    "SocialPostGen"
+    "SocialPostGen",
+    "Finanzas360"
   ]
 }
