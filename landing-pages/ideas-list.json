@@ -144,6 +144,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260311171018",
+    "nombre": "HealthTime",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de agenda para profesionales de la salud que optimiza la programación de citas y mejora la experiencia del paciente....",
+    "score": 75,
+    "landing_url": "IDEA-20260311171018.html"
+  },
+  {
     "id": "IDEA-20260311160921",
     "nombre": "SkillSync",
     "tipo": "SaaS",

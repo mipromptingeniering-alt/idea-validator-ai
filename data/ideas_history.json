@@ -2428,6 +2428,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-11T17:10:18.253932"
+    },
+    {
+      "nombre": "SocialPostGen",
+      "descripcion": "SocialPostGen utiliza inteligencia artificial para crear publicaciones personalizadas en redes sociales basadas en tendencias actuales y en la industria específica de la PYME. Los usuarios pueden seleccionar sus preferencias de contenido y recibir publicaciones listas para usar, ahorrando tiempo y esfuerzo en su gestión de redes sociales.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-11T18:04:14.282132"
     }
   ],
   "nombres_usados": [
@@ -2777,6 +2784,7 @@
     "DataSimplify",
     "EasyFin",
     "SkillSync",
-    "HealthTime"
+    "HealthTime",
+    "SocialPostGen"
   ]
 }
