@@ -2645,6 +2645,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-12T21:04:28.298706"
+    },
+    {
+      "nombre": "WellnessTask",
+      "descripcion": "WellnessTask ofrece un sistema de gestión de tareas fácil de usar que, además de permitir a los usuarios organizar su trabajo, les recuerda tomar pausas y realiza seguimientos de su bienestar emocional a través de breves actividades de meditación y respiración.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-12T21:47:43.544923"
     }
   ],
   "nombres_usados": [
@@ -3025,6 +3032,7 @@
     "DataSmart Analytics",
     "TaskAI",
     "HabitBuddy",
-    "SalesBuddy"
+    "SalesBuddy",
+    "WellnessTask"
   ]
 }
