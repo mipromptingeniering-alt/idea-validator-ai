@@ -2505,6 +2505,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-11T23:47:19.886077"
+    },
+    {
+      "nombre": "TeamFlow",
+      "descripcion": "TeamFlow ofrece una plataforma que integra la gestión de tareas, seguimiento de tiempo y un chat en vivo, permitiendo a los equipos coordinar mejor sus proyectos y optimizar su tiempo de trabajo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-12T01:13:05.342540"
     }
   ],
   "nombres_usados": [
@@ -2865,6 +2872,7 @@
     "AdAnalytics Pro",
     "MentalHealth Pro",
     "SocialWizard",
-    "Invoise"
+    "Invoise",
+    "TeamFlow"
   ]
 }
