@@ -2589,6 +2589,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-12T13:58:29.571418"
+    },
+    {
+      "nombre": "CRM Simple",
+      "descripcion": "CRM Simple es una herramienta de gestión de relaciones con clientes que facilita a las PYMES organizar contactos, seguir oportunidades de ventas y automatizar las comunicaciones, todo desde una interfaz amigable.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-12T14:48:37.955024"
     }
   ],
   "nombres_usados": [
@@ -2961,6 +2968,7 @@
     "ProdTime",
     "Portfoliify",
     "SocialScheduler AI",
-    "TimeBuddy"
+    "TimeBuddy",
+    "CRM Simple"
   ]
 }

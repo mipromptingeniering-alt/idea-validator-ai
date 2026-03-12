@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260312135829",
+    "nombre": "TimeBuddy",
+    "tipo": "SaaS",
+    "resumen": "TimeBuddy es una herramienta de gestión del tiempo y tareas que ayuda a freelancers y pequeños emprendedores a ser más productivos mientras desarrolla...",
+    "score": 75,
+    "landing_url": "IDEA-20260312135829.html"
+  },
+  {
     "id": "IDEA-20260312125654",
     "nombre": "SocialScheduler AI",
     "tipo": "SaaS",
