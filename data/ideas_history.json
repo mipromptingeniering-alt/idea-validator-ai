@@ -2610,6 +2610,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-12T16:53:00.298209"
+    },
+    {
+      "nombre": "CashFlow Master",
+      "descripcion": "CashFlow Master permite a las pequeñas y medianas empresas gestionar su flujo de caja en tiempo real, proyectar gastos e ingresos futuros y recibir alertas para evitar problemas de liquidez. Su interfaz intuitiva y características automatizadas facilitan su uso, incluso para quienes no tienen experiencia financiera.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-12T17:43:18.029158"
     }
   ],
   "nombres_usados": [
@@ -2985,6 +2992,7 @@
     "TimeBuddy",
     "CRM Simple",
     "FinanceBuddy",
-    "SocialBoost for SMEs"
+    "SocialBoost for SMEs",
+    "CashFlow Master"
   ]
 }
