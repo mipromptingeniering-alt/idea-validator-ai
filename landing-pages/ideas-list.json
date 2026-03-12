@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260312225035",
+    "nombre": "Freelance Finance Buddy",
+    "tipo": "MicroSaaS",
+    "resumen": "Una herramienta de gestión financiera diseñada específicamente para freelancers, que ayuda a rastrear ingresos, gastos y generar facturas de manera se...",
+    "score": 75,
+    "landing_url": "IDEA-20260312225035.html"
+  },
+  {
     "id": "IDEA-20260312221746",
     "nombre": "PitchPerfect",
     "tipo": "SaaS",

@@ -2666,6 +2666,13 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-03-12T22:50:35.199355"
+    },
+    {
+      "nombre": "TaskButter",
+      "descripcion": "TaskButter es una herramienta de gestión de tareas diseñada para profesionales y equipos pequeños que buscan una forma simple y eficaz de organizar su trabajo. Incorporando inteligencia artificial, la aplicación ofrecerá recordatorios y sugerencias personalizadas para ayudar a priorizar tareas y mantenerse en el camino correcto.",
+      "tipo": "MicroSaaS",
+      "score": 70,
+      "fecha": "2026-03-12T23:20:39.118838"
     }
   ],
   "nombres_usados": [
@@ -3049,6 +3056,7 @@
     "SalesBuddy",
     "WellnessTask",
     "PitchPerfect",
-    "Freelance Finance Buddy"
+    "Freelance Finance Buddy",
+    "TaskButter"
   ]
 }
