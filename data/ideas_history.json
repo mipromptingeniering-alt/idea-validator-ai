@@ -2575,6 +2575,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-12T11:58:31.570984"
+    },
+    {
+      "nombre": "SocialScheduler AI",
+      "descripcion": "SocialScheduler AI permite a los usuarios, ya sean influencers o pequeñas empresas, ahorrar tiempo y aumentar la efectividad de sus publicaciones en redes sociales a través de sugerencias basadas en inteligencia artificial, programaciones automatizadas y análisis de rendimiento en tiempo real.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-12T12:56:54.755517"
     }
   ],
   "nombres_usados": [
@@ -2945,6 +2952,7 @@
     "MindConnect",
     "Creative Vault",
     "ProdTime",
-    "Portfoliify"
+    "Portfoliify",
+    "SocialScheduler AI"
   ]
 }

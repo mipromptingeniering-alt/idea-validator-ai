@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260312115831",
+    "nombre": "Portfoliify",
+    "tipo": "SaaS",
+    "resumen": "Crea portfolios interactivos personalizables para profesionales creativos....",
+    "score": 75,
+    "landing_url": "IDEA-20260312115831.html"
+  },
+  {
     "id": "IDEA-20260312100557",
     "nombre": "Creative Vault",
     "tipo": "SaaS",
