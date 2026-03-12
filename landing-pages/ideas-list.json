@@ -2696,6 +2696,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260312232039",
+    "nombre": "TaskButter",
+    "tipo": "MicroSaaS",
+    "resumen": "Aplicación de gestión de tareas ligera y centrada en el usuario que utiliza IA para optimizar el rendimiento y la organización....",
+    "score": 70,
+    "landing_url": "IDEA-20260312232039.html"
+  },
+  {
     "id": "IDEA-20260312210428",
     "nombre": "SalesBuddy",
     "tipo": "SaaS",

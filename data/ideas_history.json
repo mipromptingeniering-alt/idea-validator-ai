@@ -2673,6 +2673,13 @@
       "tipo": "MicroSaaS",
       "score": 70,
       "fecha": "2026-03-12T23:20:39.118838"
+    },
+    {
+      "nombre": "AutoSocial",
+      "descripcion": "AutoSocial permite a los usuarios programar publicaciones, generar contenido atractivo basado en su audiencia y analizar el rendimiento de sus redes sociales, todo en una interfaz sencilla y amigable.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-12T23:48:22.545550"
     }
   ],
   "nombres_usados": [
@@ -3057,6 +3064,7 @@
     "WellnessTask",
     "PitchPerfect",
     "Freelance Finance Buddy",
-    "TaskButter"
+    "TaskButter",
+    "AutoSocial"
   ]
 }
