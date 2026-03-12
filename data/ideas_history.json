@@ -2596,6 +2596,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-12T14:48:37.955024"
+    },
+    {
+      "nombre": "FinanceBuddy",
+      "descripcion": "FinanceBuddy permite a los usuarios llevar un control de sus ingresos y gastos de manera intuitiva y simplificada. Además, incluye un asistente virtual que ofrece recomendaciones personalizadas y recordatorios importantes relacionados con la planificación fiscal y las fechas de pago.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-12T15:51:59.030329"
     }
   ],
   "nombres_usados": [
@@ -2969,6 +2976,7 @@
     "Portfoliify",
     "SocialScheduler AI",
     "TimeBuddy",
-    "CRM Simple"
+    "CRM Simple",
+    "FinanceBuddy"
   ]
 }

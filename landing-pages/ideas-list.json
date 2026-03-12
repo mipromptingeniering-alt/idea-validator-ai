@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260312144837",
+    "nombre": "CRM Simple",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de CRM diseñada específicamente para pequeñas y medianas empresas, que permite gestionar las relaciones con los clientes de manera senc...",
+    "score": 75,
+    "landing_url": "IDEA-20260312144837.html"
+  },
+  {
     "id": "IDEA-20260312135829",
     "nombre": "TimeBuddy",
     "tipo": "SaaS",
