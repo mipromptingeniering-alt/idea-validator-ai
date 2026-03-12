@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260312155158",
+    "nombre": "FinanceBuddy",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión financiera enfocada en emprendedores y freelancers que combina contabilidad sencilla con asesoría personal a través de intel...",
+    "score": 75,
+    "landing_url": "IDEA-20260312155158.html"
+  },
+  {
     "id": "IDEA-20260312144837",
     "nombre": "CRM Simple",
     "tipo": "SaaS",

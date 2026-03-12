@@ -2603,6 +2603,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-12T15:51:59.030329"
+    },
+    {
+      "nombre": "SocialBoost for SMEs",
+      "descripcion": "SocialBoost permite a las pymes gestionar múltiples cuentas de redes sociales desde una sola plataforma. Ofrece programación automática de contenido, análisis de rendimiento de publicaciones y recomendaciones personalizadas para maximizar el alcance y la interacción con los usuarios.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-12T16:53:00.298209"
     }
   ],
   "nombres_usados": [
@@ -2977,6 +2984,7 @@
     "SocialScheduler AI",
     "TimeBuddy",
     "CRM Simple",
-    "FinanceBuddy"
+    "FinanceBuddy",
+    "SocialBoost for SMEs"
   ]
 }
