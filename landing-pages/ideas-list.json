@@ -2552,6 +2552,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260312050747",
+    "nombre": "ReputaciónPro",
+    "tipo": "SaaS",
+    "resumen": "Plataforma todo-en-uno para la gestión de la reputación online de pymes....",
+    "score": 70,
+    "landing_url": "IDEA-20260312050747.html"
+  },
+  {
     "id": "IDEA-20260310215517",
     "nombre": "ContentSync",
     "tipo": "SaaS",

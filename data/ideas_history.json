@@ -2526,6 +2526,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-12T05:07:48.055435"
+    },
+    {
+      "nombre": "PymeWebSimplificado",
+      "descripcion": "PymeWebSimplificado es una solución diseñada específicamente para pequeñas y medianas empresas que buscan establecer o mejorar su presencia online sin complicaciones técnicas. Ofrecemos un constructor de sitios web intuitivo, herramientas de optimización SEO y un sistema de atención al cliente automatizado para ayudar a las pymes a atraer y retener clientes.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-12T06:11:01.241728"
     }
   ],
   "nombres_usados": [
@@ -2889,6 +2896,7 @@
     "Invoise",
     "TeamFlow",
     "PresencePro",
-    "ReputaciónPro"
+    "ReputaciónPro",
+    "PymeWebSimplificado"
   ]
 }
