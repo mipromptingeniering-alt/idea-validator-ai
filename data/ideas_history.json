@@ -2547,6 +2547,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-12T08:33:27.040671"
+    },
+    {
+      "nombre": "MindConnect",
+      "descripcion": "MindConnect es una plataforma que ofrece herramientas interactivas para ayudar a los empleados a gestionar su salud mental, incluyendo ejercicios de respiración, seguimiento del estado emocional y asignación de tareas gamificadas que fomentan el bienestar. La plataforma también proporciona informes analíticos para las empresas sobre el bienestar general de sus empleados.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-03-12T09:26:53.680164"
     }
   ],
   "nombres_usados": [
@@ -2913,6 +2920,7 @@
     "ReputaciónPro",
     "PymeWebSimplificado",
     "RepuGen",
-    "WorkFlowX"
+    "WorkFlowX",
+    "MindConnect"
   ]
 }

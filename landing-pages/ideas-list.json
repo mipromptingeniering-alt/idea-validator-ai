@@ -152,6 +152,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260312083326",
+    "nombre": "WorkFlowX",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral que combina gestión de proyectos, comunicación con clientes y facturación para facilitar el trabajo de freelancers y pequeñas ...",
+    "score": 75,
+    "landing_url": "IDEA-20260312083326.html"
+  },
+  {
     "id": "IDEA-20260312075455",
     "nombre": "RepuGen",
     "tipo": "SaaS",
