@@ -152,6 +152,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260312011305",
+    "nombre": "TeamFlow",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de tareas y comunicación para equipos pequeños que buscan mejorar su productividad y colaboración....",
+    "score": 75,
+    "landing_url": "IDEA-20260312011305.html"
+  },
+  {
     "id": "IDEA-20260311234719",
     "nombre": "Invoise",
     "tipo": "SaaS",

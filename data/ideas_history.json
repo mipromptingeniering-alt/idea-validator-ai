@@ -2512,6 +2512,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-12T01:13:05.342540"
+    },
+    {
+      "nombre": "PresencePro",
+      "descripcion": "PresencePro reúne herramientas de creación de sitios web, gestión de redes sociales y análisis de SEO en una única interfaz intuitiva. Permite a las PYMES crear, optimizar y monitorear su presencia digital sin necesidad de conocimientos técnicos previos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-12T03:40:15.947459"
     }
   ],
   "nombres_usados": [
@@ -2873,6 +2880,7 @@
     "MentalHealth Pro",
     "SocialWizard",
     "Invoise",
-    "TeamFlow"
+    "TeamFlow",
+    "PresencePro"
   ]
 }
