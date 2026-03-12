@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260312174317",
+    "nombre": "CashFlow Master",
+    "tipo": "SaaS",
+    "resumen": "Herramienta de gestión de flujo de caja y previsión financiera diseñada para PYMEs....",
+    "score": 75,
+    "landing_url": "IDEA-20260312174317.html"
+  },
+  {
     "id": "IDEA-20260312165300",
     "nombre": "SocialBoost for SMEs",
     "tipo": "SaaS",

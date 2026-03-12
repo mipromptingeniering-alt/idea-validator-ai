@@ -2617,6 +2617,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-12T17:43:18.029158"
+    },
+    {
+      "nombre": "DataSmart Analytics",
+      "descripcion": "DataSmart Analytics permite a las empresas conectar sus diversas cuentas de marketing digital (como redes sociales, email marketing, SEO, etc.) y obtener reportes visuales y recomendaciones basadas en datos. Permitimos que los usuarios sin experiencia técnica puedan interpretar sus datos y actuar sobre ellos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-12T18:32:08.848762"
     }
   ],
   "nombres_usados": [
@@ -2993,6 +3000,7 @@
     "CRM Simple",
     "FinanceBuddy",
     "SocialBoost for SMEs",
-    "CashFlow Master"
+    "CashFlow Master",
+    "DataSmart Analytics"
   ]
 }
