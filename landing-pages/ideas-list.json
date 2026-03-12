@@ -16,6 +16,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260312092653",
+    "nombre": "MindConnect",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de bienestar mental que combina terapia digital, seguimiento emocional y gamificación para trabajadores remotos....",
+    "score": 78,
+    "landing_url": "IDEA-20260312092653.html"
+  },
+  {
     "id": "IDEA-20260307175907",
     "nombre": "GamifyTime",
     "tipo": "SaaS",

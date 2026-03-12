@@ -2554,6 +2554,13 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-03-12T09:26:53.680164"
+    },
+    {
+      "nombre": "Creative Vault",
+      "descripcion": "Creative Vault permite a diseñadores y fotógrafos almacenar y organizar sus activos digitales de manera eficiente. Mediante el uso de algoritmos de inteligencia artificial, la plataforma categoriza automáticamente las imágenes y otros archivos, facilitando la búsqueda y el acceso rápido a los mismos, optimizando así el flujo de trabajo creativo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-12T10:05:58.050947"
     }
   ],
   "nombres_usados": [
@@ -2921,6 +2928,7 @@
     "PymeWebSimplificado",
     "RepuGen",
     "WorkFlowX",
-    "MindConnect"
+    "MindConnect",
+    "Creative Vault"
   ]
 }
