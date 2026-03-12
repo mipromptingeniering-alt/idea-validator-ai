@@ -2533,6 +2533,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-12T06:11:01.241728"
+    },
+    {
+      "nombre": "RepuGen",
+      "descripcion": "RepuGen permite a las pequeñas y medianas empresas gestionar sus reseñas en múltiples plataformas desde un solo panel de control. Utilizando inteligencia artificial, el software analiza las reseñas y sugiere respuestas que ayudan a mejorar la reputación online de la empresa. Además, proporciona informes sobre tendencias de reseñas y satisfacción del cliente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-12T07:54:55.869394"
     }
   ],
   "nombres_usados": [
@@ -2897,6 +2904,7 @@
     "TeamFlow",
     "PresencePro",
     "ReputaciónPro",
-    "PymeWebSimplificado"
+    "PymeWebSimplificado",
+    "RepuGen"
   ]
 }

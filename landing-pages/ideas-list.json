@@ -152,6 +152,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260312061101",
+    "nombre": "PymeWebSimplificado",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS que permite a las pymes crear y gestionar su sitio web fácilmente, integrando herramientas de SEO, chatbots y analíticas....",
+    "score": 75,
+    "landing_url": "IDEA-20260312061101.html"
+  },
+  {
     "id": "IDEA-20260312034015",
     "nombre": "PresencePro",
     "tipo": "SaaS",
