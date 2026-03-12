@@ -2652,6 +2652,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-12T21:47:43.544923"
+    },
+    {
+      "nombre": "PitchPerfect",
+      "descripcion": "PitchPerfect es una herramienta SaaS que brinda a los emprendedores una guía paso a paso para elaborar su pitch perfecto, acceso a plantillas personalizables y recursos educativos sobre financiación y presentación ante inversores.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-12T22:17:46.075424"
     }
   ],
   "nombres_usados": [
@@ -3033,6 +3040,7 @@
     "TaskAI",
     "HabitBuddy",
     "SalesBuddy",
-    "WellnessTask"
+    "WellnessTask",
+    "PitchPerfect"
   ]
 }
