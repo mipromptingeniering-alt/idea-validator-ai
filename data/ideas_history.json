@@ -2519,6 +2519,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-12T03:40:15.947459"
+    },
+    {
+      "nombre": "ReputaciónPro",
+      "descripcion": "ReputaciónPro permite a las pequeñas y medianas empresas gestionar su presencia online, monitorear reseñas y responder a clientes, todo desde un solo lugar. Además, ofrece análisis de la competencia y recomendaciones para mejorar la estrategia digital.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-12T05:07:48.055435"
     }
   ],
   "nombres_usados": [
@@ -2881,6 +2888,7 @@
     "SocialWizard",
     "Invoise",
     "TeamFlow",
-    "PresencePro"
+    "PresencePro",
+    "ReputaciónPro"
   ]
 }
