@@ -2624,6 +2624,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-12T18:32:08.848762"
+    },
+    {
+      "nombre": "TaskAI",
+      "descripcion": "TaskAI es una herramienta de gestión de tareas que utiliza inteligencia artificial para ayudar a los freelancers y trabajadores remotos a organizar su trabajo de manera más efectiva. Analiza el comportamiento y las preferencias de trabajo del usuario para crear un plan de tareas optimizado cada día.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-12T19:58:59.651445"
     }
   ],
   "nombres_usados": [
@@ -3001,6 +3008,7 @@
     "FinanceBuddy",
     "SocialBoost for SMEs",
     "CashFlow Master",
-    "DataSmart Analytics"
+    "DataSmart Analytics",
+    "TaskAI"
   ]
 }
