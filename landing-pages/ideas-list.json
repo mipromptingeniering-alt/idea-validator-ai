@@ -2592,6 +2592,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260312105922",
+    "nombre": "ProdTime",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma todo en uno que integra el seguimiento de tiempo, gestión de tareas y comunicación para trabajadores remotos....",
+    "score": 70,
+    "landing_url": "IDEA-20260312105922.html"
+  },
+  {
     "id": "IDEA-20260312050747",
     "nombre": "ReputaciónPro",
     "tipo": "SaaS",

@@ -2568,6 +2568,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-12T10:59:22.300407"
+    },
+    {
+      "nombre": "Portfoliify",
+      "descripcion": "Portfoliify es una plataforma SaaS que permite a los diseñadores, fotógrafos y artistas construir portfolios digitales interactivos que se adaptan a su estilo único y resaltan su trabajo de manera atractiva. La herramienta ofrece plantillas personalizables, integración con redes sociales y opciones de SEO para mejorar la visibilidad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-12T11:58:31.570984"
     }
   ],
   "nombres_usados": [
@@ -2937,6 +2944,7 @@
     "WorkFlowX",
     "MindConnect",
     "Creative Vault",
-    "ProdTime"
+    "ProdTime",
+    "Portfoliify"
   ]
 }
