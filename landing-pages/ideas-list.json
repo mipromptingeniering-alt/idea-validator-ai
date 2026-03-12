@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260312195859",
+    "nombre": "TaskAI",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de tareas impulsada por IA que personaliza la organización del tiempo y las tareas de acuerdo con las preferencias del usuar...",
+    "score": 75,
+    "landing_url": "IDEA-20260312195859.html"
+  },
+  {
     "id": "IDEA-20260312183208",
     "nombre": "DataSmart Analytics",
     "tipo": "SaaS",

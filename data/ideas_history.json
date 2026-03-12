@@ -2631,6 +2631,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-12T19:58:59.651445"
+    },
+    {
+      "nombre": "HabitBuddy",
+      "descripcion": "HabitBuddy permite a los usuarios establecer metas de hábitos saludables (como ejercicio, meditación, y pausas activas) y les proporciona herramientas para hacer seguimiento de su progreso, recompensas personalizadas y recordatorios integrados en su agenda laboral.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-12T20:37:05.697176"
     }
   ],
   "nombres_usados": [
@@ -3009,6 +3016,7 @@
     "SocialBoost for SMEs",
     "CashFlow Master",
     "DataSmart Analytics",
-    "TaskAI"
+    "TaskAI",
+    "HabitBuddy"
   ]
 }
