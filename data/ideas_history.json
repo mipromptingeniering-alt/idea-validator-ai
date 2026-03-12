@@ -2638,6 +2638,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-12T20:37:05.697176"
+    },
+    {
+      "nombre": "SalesBuddy",
+      "descripcion": "SalesBuddy ayuda a las PYMES a gestionar sus procesos de ventas y atención al cliente de manera eficiente, permitiendo la automatización de tareas, seguimiento de clientes potenciales y análisis de datos de ventas, todo en una plataforma fácil de usar.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-12T21:04:28.298706"
     }
   ],
   "nombres_usados": [
@@ -3017,6 +3024,7 @@
     "CashFlow Master",
     "DataSmart Analytics",
     "TaskAI",
-    "HabitBuddy"
+    "HabitBuddy",
+    "SalesBuddy"
   ]
 }

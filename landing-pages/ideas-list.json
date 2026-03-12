@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260312203705",
+    "nombre": "HabitBuddy",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que ayuda a los usuarios a establecer y seguir hábitos saludables mientras mejora su productividad en el trabajo remoto....",
+    "score": 75,
+    "landing_url": "IDEA-20260312203705.html"
+  },
+  {
     "id": "IDEA-20260312195859",
     "nombre": "TaskAI",
     "tipo": "SaaS",
