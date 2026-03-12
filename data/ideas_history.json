@@ -2582,6 +2582,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-12T12:56:54.755517"
+    },
+    {
+      "nombre": "TimeBuddy",
+      "descripcion": "TimeBuddy combina la gestión de tareas con un sistema de recordatorios para hábitos saludables, permitiendo a los usuarios establecer objetivos diarios y recibir notificaciones cuando es hora de tomar un descanso, hacer ejercicio o meditar. Además, incluye un sistema de seguimiento del tiempo y análisis de productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-12T13:58:29.571418"
     }
   ],
   "nombres_usados": [
@@ -2953,6 +2960,7 @@
     "Creative Vault",
     "ProdTime",
     "Portfoliify",
-    "SocialScheduler AI"
+    "SocialScheduler AI",
+    "TimeBuddy"
   ]
 }
