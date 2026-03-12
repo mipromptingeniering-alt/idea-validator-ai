@@ -2540,6 +2540,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-12T07:54:55.869394"
+    },
+    {
+      "nombre": "WorkFlowX",
+      "descripcion": "WorkFlowX es un software que permite a los usuarios gestionar proyectos, comunicarse con clientes y facturar de manera eficiente, todo en un solo lugar. Ofrece integración de herramientas populares, funciones de automatización y analíticas avanzadas para optimizar el flujo de trabajo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-12T08:33:27.040671"
     }
   ],
   "nombres_usados": [
@@ -2905,6 +2912,7 @@
     "PresencePro",
     "ReputaciónPro",
     "PymeWebSimplificado",
-    "RepuGen"
+    "RepuGen",
+    "WorkFlowX"
   ]
 }
