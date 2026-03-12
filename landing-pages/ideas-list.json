@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260312100557",
+    "nombre": "Creative Vault",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de activos digitales intuitiva que utiliza inteligencia artificial para ayudar a creativos a organizar, buscar y compartir s...",
+    "score": 75,
+    "landing_url": "IDEA-20260312100557.html"
+  },
+  {
     "id": "IDEA-20260312083326",
     "nombre": "WorkFlowX",
     "tipo": "SaaS",

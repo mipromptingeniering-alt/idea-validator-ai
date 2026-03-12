@@ -2561,6 +2561,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-12T10:05:58.050947"
+    },
+    {
+      "nombre": "ProdTime",
+      "descripcion": "ProdTime es una herramienta diseñada para facilitar la vida de trabajadores remotos y estudiantes al combinar el seguimiento de su tiempo de trabajo, la gestión de tareas y un espacio de comunicación en equipo. Su interfaz intuitiva permite que los usuarios no solo se mantengan organizados, sino que también se mantengan enfocados y colaboren eficazmente.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-12T10:59:22.300407"
     }
   ],
   "nombres_usados": [
@@ -2929,6 +2936,7 @@
     "RepuGen",
     "WorkFlowX",
     "MindConnect",
-    "Creative Vault"
+    "Creative Vault",
+    "ProdTime"
   ]
 }
