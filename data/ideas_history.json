@@ -2659,6 +2659,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-12T22:17:46.075424"
+    },
+    {
+      "nombre": "Freelance Finance Buddy",
+      "descripcion": "Freelance Finance Buddy permite a los freelancers gestionar sus finanzas de manera intuitiva. La herramienta ofrece funcionalidades para crear facturas personalizadas, registrar gastos automáticamente a través de la integración con cuentas bancarias y generar reportes financieros sencillos para facilitar la declaración de impuestos.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-03-12T22:50:35.199355"
     }
   ],
   "nombres_usados": [
@@ -3041,6 +3048,7 @@
     "HabitBuddy",
     "SalesBuddy",
     "WellnessTask",
-    "PitchPerfect"
+    "PitchPerfect",
+    "Freelance Finance Buddy"
   ]
 }
