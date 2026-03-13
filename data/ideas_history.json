@@ -2785,6 +2785,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-13T17:57:38.539114"
+    },
+    {
+      "nombre": "WellTeam",
+      "descripcion": "WellTeam permite a los equipos remotos gestionar su tiempo de manera efectiva mientras participan en actividades gamificadas que fomentan la cohesión del grupo. Los usuarios pueden establecer objetivos, participar en desafíos y recibir recompensas virtuales, todo mientras monitorizan su productividad y bienestar.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-03-13T18:39:15.246353"
     }
   ],
   "nombres_usados": [
@@ -3185,6 +3192,7 @@
     "WorkConnect",
     "EmprendeControl",
     "CollabAI",
-    "TherapyTrack"
+    "TherapyTrack",
+    "WellTeam"
   ]
 }

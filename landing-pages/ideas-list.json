@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260313175738",
+    "nombre": "TherapyTrack",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión para profesionales de la salud mental que facilita el seguimiento de pacientes, citas y progreso terapéutico....",
+    "score": 75,
+    "landing_url": "IDEA-20260313175738.html"
+  },
+  {
     "id": "IDEA-20260313163526",
     "nombre": "CollabAI",
     "tipo": "SaaS",
