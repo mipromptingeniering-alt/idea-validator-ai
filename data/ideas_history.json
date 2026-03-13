@@ -2750,6 +2750,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-13T13:45:35.371700"
+    },
+    {
+      "nombre": "WellnessHub",
+      "descripcion": "WellnessHub ofrece a las empresas una suite de herramientas para monitorear y mejorar el bienestar de sus empleados, incluyendo programas de formación en salud mental, evaluaciones periódicas, y recursos personalizados. La plataforma permite a los empleados acceder a ejercicios de mindfulness, terapia en línea y coaching, mientras que los líderes pueden obtener informes sobre el estado general del bienestar en la organización.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-13T14:29:52.895674"
     }
   ],
   "nombres_usados": [
@@ -3145,6 +3152,7 @@
     "SocialBee Manager",
     "Campaña Central",
     "VisuaLizer",
-    "AdminAutomat"
+    "AdminAutomat",
+    "WellnessHub"
   ]
 }
