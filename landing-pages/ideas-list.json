@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260313034119",
+    "nombre": "SocialAI",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma inteligente que ayuda a PYMEs a gestionar sus redes sociales y generar contenido atractivo de manera automatizada....",
+    "score": 75,
+    "landing_url": "IDEA-20260313034119.html"
+  },
+  {
     "id": "IDEA-20260313011742",
     "nombre": "SalesCare",
     "tipo": "SaaS",

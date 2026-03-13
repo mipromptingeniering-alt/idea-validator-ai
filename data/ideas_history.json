@@ -2694,6 +2694,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-13T03:41:19.662095"
+    },
+    {
+      "nombre": "DataSense for SMEs",
+      "descripcion": "DataSense es una herramienta de análisis de datos en la nube que permite a las PYMES visualizar sus datos, generar informes y obtener insights valiosos de manera sencilla. Incluye tutoriales integrados y recursos educativos para ayudar a los usuarios a entender mejor cómo utilizar el análisis de datos para mejorar su negocio.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-13T05:04:35.525422"
     }
   ],
   "nombres_usados": [
@@ -3081,6 +3088,7 @@
     "TaskButter",
     "AutoSocial",
     "SalesCare",
-    "SocialAI"
+    "SocialAI",
+    "DataSense for SMEs"
   ]
 }
