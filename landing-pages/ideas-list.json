@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260313163526",
+    "nombre": "CollabAI",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma inteligente que ayuda a equipos a gestionar sus proyectos de manera colaborativa y eficiente, utilizando inteligencia artificial para f...",
+    "score": 75,
+    "landing_url": "IDEA-20260313163526.html"
+  },
+  {
     "id": "IDEA-20260313155710",
     "nombre": "EmprendeControl",
     "tipo": "SaaS",

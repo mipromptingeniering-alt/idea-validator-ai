@@ -2778,6 +2778,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-13T16:35:26.564774"
+    },
+    {
+      "nombre": "TherapyTrack",
+      "descripcion": "TherapyTrack es un sistema de gestión diseñado específicamente para psicólogos y terapeutas, que permite llevar un control exhaustivo de las sesiones, objetivos del paciente, y resultados en un entorno seguro y privado. Incluye recordatorios automáticos de citas, informes de progreso y herramientas de análisis.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-13T17:57:38.539114"
     }
   ],
   "nombres_usados": [
@@ -3177,6 +3184,7 @@
     "WellnessHub",
     "WorkConnect",
     "EmprendeControl",
-    "CollabAI"
+    "CollabAI",
+    "TherapyTrack"
   ]
 }
