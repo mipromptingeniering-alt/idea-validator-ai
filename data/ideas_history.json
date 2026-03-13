@@ -2792,6 +2792,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-03-13T18:39:15.246353"
+    },
+    {
+      "nombre": "WebPymes",
+      "descripcion": "WebPymes es una herramienta que permite a pequeños y medianos negocios crear un perfil digital optimizado para SEO, incluyendo sitios web básicos, listas de negocios y gestión de redes sociales, todo en una sola plataforma fácil de usar.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-03-13T19:21:14.376728"
     }
   ],
   "nombres_usados": [
@@ -3193,6 +3200,7 @@
     "EmprendeControl",
     "CollabAI",
     "TherapyTrack",
-    "WellTeam"
+    "WellTeam",
+    "WebPymes"
   ]
 }
