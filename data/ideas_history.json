@@ -2708,6 +2708,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-13T06:13:12.509152"
+    },
+    {
+      "nombre": "SocialPro",
+      "descripcion": "SocialPro permite a las PYMES crear, programar y analizar contenido en múltiples plataformas sociales desde un solo lugar, utilizando plantillas personalizables que se adaptan a su sector. Con herramientas de automatización y análisis de rendimiento, las empresas pueden optimizar su estrategia en redes sociales sin necesidad de experiencia previa.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-13T07:11:07.571569"
     }
   ],
   "nombres_usados": [
@@ -3097,6 +3104,7 @@
     "SalesCare",
     "SocialAI",
     "DataSense for SMEs",
-    "ProyecTIC"
+    "ProyecTIC",
+    "SocialPro"
   ]
 }
