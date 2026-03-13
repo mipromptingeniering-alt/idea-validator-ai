@@ -2729,6 +2729,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-13T10:00:54.057571"
+    },
+    {
+      "nombre": "Campaña Central",
+      "descripcion": "Campaña Central es un software como servicio que permite a los profesionales de marketing gestionar, analizar y optimizar sus campañas en diversas plataformas (Google Ads, Facebook Ads, Instagram, etc.) desde una única interfaz. Al integrar datos en tiempo real, los usuarios pueden tomar decisiones informadas y ajustar sus estrategias sobre la marcha.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-13T10:56:04.053548"
     }
   ],
   "nombres_usados": [
@@ -3121,6 +3128,7 @@
     "ProyecTIC",
     "SocialPro",
     "PymeAnalytics",
-    "SocialBee Manager"
+    "SocialBee Manager",
+    "Campaña Central"
   ]
 }
