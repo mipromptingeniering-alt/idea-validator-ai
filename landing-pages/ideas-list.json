@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260313075445",
+    "nombre": "PymeAnalytics",
+    "tipo": "SaaS",
+    "resumen": "Herramienta analítica diseñada específicamente para pequeñas y medianas empresas que proporciona reportes fáciles de entender sobre su desempeño en ma...",
+    "score": 75,
+    "landing_url": "IDEA-20260313075445.html"
+  },
+  {
     "id": "IDEA-20260313071107",
     "nombre": "SocialPro",
     "tipo": "SaaS",

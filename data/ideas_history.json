@@ -2722,6 +2722,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-13T07:54:45.838717"
+    },
+    {
+      "nombre": "SocialBee Manager",
+      "descripcion": "SocialBee Manager permite a los usuarios planificar, programar y analizar sus publicaciones en múltiples redes sociales desde una sola plataforma. Con características como plantillas personalizables, publicación automática y reportes de rendimiento fáciles de entender, SocialBee Manager ayuda a los usuarios a aumentar su alcance y mejorar su presencia online.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-13T10:00:54.057571"
     }
   ],
   "nombres_usados": [
@@ -3113,6 +3120,7 @@
     "DataSense for SMEs",
     "ProyecTIC",
     "SocialPro",
-    "PymeAnalytics"
+    "PymeAnalytics",
+    "SocialBee Manager"
   ]
 }
