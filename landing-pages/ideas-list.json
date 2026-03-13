@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260313105603",
+    "nombre": "Campaña Central",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que centraliza la gestión y análisis de campañas de marketing digital en múltiples plataformas....",
+    "score": 75,
+    "landing_url": "IDEA-20260313105603.html"
+  },
+  {
     "id": "IDEA-20260313100053",
     "nombre": "SocialBee Manager",
     "tipo": "SaaS",

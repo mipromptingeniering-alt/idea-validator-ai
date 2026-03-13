@@ -2736,6 +2736,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-13T10:56:04.053548"
+    },
+    {
+      "nombre": "VisuaLizer",
+      "descripcion": "VisuaLizer es una herramienta SaaS que permite a los profesionales del marketing digital generar y personalizar contenido visual automáticamente para múltiples plataformas, asegurando que cada publicación esté optimizada para el rendimiento. Los usuarios pueden cargar imágenes o plantillas y ajustar la configuración para crear variaciones específicas por red social (Instagram, Facebook, Twitter, LinkedIn, etc.).",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-13T11:51:29.124853"
     }
   ],
   "nombres_usados": [
@@ -3129,6 +3136,7 @@
     "SocialPro",
     "PymeAnalytics",
     "SocialBee Manager",
-    "Campaña Central"
+    "Campaña Central",
+    "VisuaLizer"
   ]
 }
