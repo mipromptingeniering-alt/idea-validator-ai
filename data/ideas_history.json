@@ -2834,6 +2834,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-13T23:00:22.997135"
+    },
+    {
+      "nombre": "KanbanFreelance",
+      "descripcion": "KanbanFreelance permite a los freelancers gestionar sus proyectos usando tableros Kanban, establecer y seguir plazos, calcular su tiempo de trabajo y registrar ingresos de manera intuitiva, mejorando así su productividad y organización financiera.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-13T23:33:08.378524"
     }
   ],
   "nombres_usados": [
@@ -3241,6 +3248,7 @@
     "Productivity Plus",
     "CuidaTuMente",
     "MentalManage",
-    "BrandBuilder AI"
+    "BrandBuilder AI",
+    "KanbanFreelance"
   ]
 }
