@@ -2841,6 +2841,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-13T23:33:08.378524"
+    },
+    {
+      "nombre": "AutoMarketer",
+      "descripcion": "AutoMarketer es un servicio SaaS que permite a las pequeñas empresas gestionar sus campañas de marketing digital de manera automatizada y personalizada. La plataforma utiliza inteligencia artificial para ofrecer recomendaciones sobre qué tipo de contenido crear, cuándo publicarlo y cómo optimizar anuncios en redes sociales.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-13T23:59:22.068547"
     }
   ],
   "nombres_usados": [
@@ -3249,6 +3256,7 @@
     "CuidaTuMente",
     "MentalManage",
     "BrandBuilder AI",
-    "KanbanFreelance"
+    "KanbanFreelance",
+    "AutoMarketer"
   ]
 }
