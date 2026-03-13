@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260313050435",
+    "nombre": "DataSense for SMEs",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de análisis de datos accesible y educativa para pequeñas y medianas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260313050435.html"
+  },
+  {
     "id": "IDEA-20260313034119",
     "nombre": "SocialAI",
     "tipo": "SaaS",

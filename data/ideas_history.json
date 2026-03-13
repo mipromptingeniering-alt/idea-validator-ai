@@ -2701,6 +2701,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-13T05:04:35.525422"
+    },
+    {
+      "nombre": "ProyecTIC",
+      "descripcion": "ProyecTIC es una herramienta de gestión de proyectos diseñada para pequeñas y medianas empresas que busca facilitar la colaboración y mejorar la eficiencia. Con un enfoque en la simplicidad y la asequibilidad, ProyecTIC permite a los equipos gestionar tareas, comunicarse y colaborar sin complicaciones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-13T06:13:12.509152"
     }
   ],
   "nombres_usados": [
@@ -3089,6 +3096,7 @@
     "AutoSocial",
     "SalesCare",
     "SocialAI",
-    "DataSense for SMEs"
+    "DataSense for SMEs",
+    "ProyecTIC"
   ]
 }
