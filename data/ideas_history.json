@@ -2806,6 +2806,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-13T19:53:53.518137"
+    },
+    {
+      "nombre": "Productivity Plus",
+      "descripcion": "Productivity Plus ayudará a trabajadores remotos y freelancers a gestionar su tiempo y tareas de manera más eficiente, ofreciendo análisis en tiempo real y recomendaciones personalizadas para mejorar la productividad. Los usuarios podrán integrar otras herramientas que ya utilizan, como calendarios y aplicaciones de gestión de tareas, en un solo espacio, generando informes de rendimiento y optimizando su flujo de trabajo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-13T20:24:59.837198"
     }
   ],
   "nombres_usados": [
@@ -3209,6 +3216,7 @@
     "TherapyTrack",
     "WellTeam",
     "WebPymes",
-    "CoLab Connect"
+    "CoLab Connect",
+    "Productivity Plus"
   ]
 }
