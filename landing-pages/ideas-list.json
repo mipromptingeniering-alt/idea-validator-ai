@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260313202459",
+    "nombre": "Productivity Plus",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que combina gestión de tiempo, seguimiento de tareas y análisis de productividad, optimizada con inteligencia artificial....",
+    "score": 75,
+    "landing_url": "IDEA-20260313202459.html"
+  },
+  {
     "id": "IDEA-20260313195353",
     "nombre": "CoLab Connect",
     "tipo": "SaaS",

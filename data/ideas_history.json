@@ -2813,6 +2813,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-13T20:24:59.837198"
+    },
+    {
+      "nombre": "CuidaTuMente",
+      "descripcion": "CuidaTuMente es una aplicación web y móvil diseñada para apoyar a los cuidadores de personas mayores o con discapacidad. Ofrecemos una biblioteca de recursos de autocuidado, acceso a una comunidad de apoyo y herramientas para gestionar el tiempo y la carga emocional. Los usuarios pueden encontrar tips, meditación, foros de discusión y planes de autocuidado personalizados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-13T20:59:23.411041"
     }
   ],
   "nombres_usados": [
@@ -3217,6 +3224,7 @@
     "WellTeam",
     "WebPymes",
     "CoLab Connect",
-    "Productivity Plus"
+    "Productivity Plus",
+    "CuidaTuMente"
   ]
 }
