@@ -2757,6 +2757,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-13T14:29:52.895674"
+    },
+    {
+      "nombre": "WorkConnect",
+      "descripcion": "WorkConnect es una plataforma diseñada para fomentar la interacción social entre trabajadores remotos a través de actividades gamificadas, salas virtuales para brainstorming, y herramientas de colaboración en tiempo real. La plataforma busca mitigar los efectos del aislamiento social y mejorar la cohesión del equipo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-13T15:10:47.695929"
     }
   ],
   "nombres_usados": [
@@ -3153,6 +3160,7 @@
     "Campaña Central",
     "VisuaLizer",
     "AdminAutomat",
-    "WellnessHub"
+    "WellnessHub",
+    "WorkConnect"
   ]
 }

@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260313142952",
+    "nombre": "WellnessHub",
+    "tipo": "SaaS",
+    "resumen": "Plataforma integral para gestionar la salud mental y el bienestar de los empleados en empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260313142952.html"
+  },
+  {
     "id": "IDEA-20260313134535",
     "nombre": "AdminAutomat",
     "tipo": "SaaS",
