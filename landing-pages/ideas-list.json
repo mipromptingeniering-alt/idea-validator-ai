@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260312234822",
+    "nombre": "AutoSocial",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que automatiza la gestión de redes sociales para emprendedores y pequeñas empresas mediante inteligencia artificial....",
+    "score": 75,
+    "landing_url": "IDEA-20260312234822.html"
+  },
+  {
     "id": "IDEA-20260312225035",
     "nombre": "Freelance Finance Buddy",
     "tipo": "MicroSaaS",

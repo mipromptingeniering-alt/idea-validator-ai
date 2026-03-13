@@ -2680,6 +2680,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-12T23:48:22.545550"
+    },
+    {
+      "nombre": "SalesCare",
+      "descripcion": "SalesCare es una solución SaaS que permite a las PYMES gestionar sus ventas y su atención al cliente en una única plataforma. Ofrece herramientas de gestión de leads, seguimiento de clientes, y un sistema de tickets para soporte al cliente, todo ello con un enfoque en la simplicidad y la facilidad de uso.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-13T01:17:42.628152"
     }
   ],
   "nombres_usados": [
@@ -3065,6 +3072,7 @@
     "PitchPerfect",
     "Freelance Finance Buddy",
     "TaskButter",
-    "AutoSocial"
+    "AutoSocial",
+    "SalesCare"
   ]
 }
