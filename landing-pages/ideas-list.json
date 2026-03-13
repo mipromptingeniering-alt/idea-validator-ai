@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260313205923",
+    "nombre": "CuidaTuMente",
+    "tipo": "SaaS",
+    "resumen": "Plataforma integral para cuidadores que proporciona recursos de autocuidado, comunidad y herramientas de gestión del tiempo....",
+    "score": 75,
+    "landing_url": "IDEA-20260313205923.html"
+  },
+  {
     "id": "IDEA-20260313202459",
     "nombre": "Productivity Plus",
     "tipo": "SaaS",
