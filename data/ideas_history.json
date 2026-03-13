@@ -2715,6 +2715,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-13T07:11:07.571569"
+    },
+    {
+      "nombre": "PymeAnalytics",
+      "descripcion": "PymeAnalytics es un software en la nube que permite a las pymes obtener reportes analíticos automatizados y personalizados. La herramienta se integra fácilmente con plataformas populares como Shopify, WooCommerce, y Google Analytics, permitiendo a los usuarios tomar decisiones informadas sin necesidad de conocimientos técnicos avanzados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-13T07:54:45.838717"
     }
   ],
   "nombres_usados": [
@@ -3105,6 +3112,7 @@
     "SocialAI",
     "DataSense for SMEs",
     "ProyecTIC",
-    "SocialPro"
+    "SocialPro",
+    "PymeAnalytics"
   ]
 }
