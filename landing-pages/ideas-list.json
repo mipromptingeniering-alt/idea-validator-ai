@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260313192114",
+    "nombre": "WebPymes",
+    "tipo": "MicroSaaS",
+    "resumen": "Una plataforma que permite a las PYMES crear y gestionar su perfil digital de manera rápida y eficaz....",
+    "score": 75,
+    "landing_url": "IDEA-20260313192114.html"
+  },
+  {
     "id": "IDEA-20260313175738",
     "nombre": "TherapyTrack",
     "tipo": "SaaS",

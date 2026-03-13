@@ -2799,6 +2799,13 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-03-13T19:21:14.376728"
+    },
+    {
+      "nombre": "CoLab Connect",
+      "descripcion": "CoLab Connect es una plataforma que combina elementos de gamificación con herramientas de colaboración, permitiendo a los empleados participar en desafíos, juegos y actividades que fomenten el trabajo en equipo y la creación de relaciones en un entorno remoto.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-13T19:53:53.518137"
     }
   ],
   "nombres_usados": [
@@ -3201,6 +3208,7 @@
     "CollabAI",
     "TherapyTrack",
     "WellTeam",
-    "WebPymes"
+    "WebPymes",
+    "CoLab Connect"
   ]
 }
