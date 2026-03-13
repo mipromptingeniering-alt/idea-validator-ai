@@ -2764,6 +2764,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-13T15:10:47.695929"
+    },
+    {
+      "nombre": "EmprendeControl",
+      "descripcion": "EmprendeControl ofrece una interfaz sencilla donde los usuarios pueden gestionar sus proyectos, realizar un seguimiento de sus finanzas y acceder a recursos educativos para mejorar su rendimiento empresarial.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-13T15:57:10.468179"
     }
   ],
   "nombres_usados": [
@@ -3161,6 +3168,7 @@
     "VisuaLizer",
     "AdminAutomat",
     "WellnessHub",
-    "WorkConnect"
+    "WorkConnect",
+    "EmprendeControl"
   ]
 }

@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260313151047",
+    "nombre": "WorkConnect",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de trabajo colaborativo que ayuda a los equipos remotos a conectarse socialmente y mejorar la productividad mediante un entorno gamific...",
+    "score": 75,
+    "landing_url": "IDEA-20260313151047.html"
+  },
+  {
     "id": "IDEA-20260313142952",
     "nombre": "WellnessHub",
     "tipo": "SaaS",
