@@ -2771,6 +2771,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-13T15:57:10.468179"
+    },
+    {
+      "nombre": "CollabAI",
+      "descripcion": "CollabAI es una herramienta de gestión de proyectos diseñada específicamente para equipos remotos. La plataforma ofrece funcionalidades de planificación, seguimiento de tareas, y análisis de rendimiento, todo potenciado por inteligencia artificial que sugiere mejoras y optimizaciones en flujos de trabajo basados en datos históricos y comportamiento del equipo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-13T16:35:26.564774"
     }
   ],
   "nombres_usados": [
@@ -3169,6 +3176,7 @@
     "AdminAutomat",
     "WellnessHub",
     "WorkConnect",
-    "EmprendeControl"
+    "EmprendeControl",
+    "CollabAI"
   ]
 }
