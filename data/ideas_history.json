@@ -2687,6 +2687,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-13T01:17:42.628152"
+    },
+    {
+      "nombre": "SocialAI",
+      "descripcion": "SocialAI es una herramienta de marketing digital basada en inteligencia artificial que permite a las pequeñas y medianas empresas crear y administrar su contenido en redes sociales de forma sencilla. Ofrece análisis de audiencia, sugerencias de contenido personalizadas y programación automática de publicaciones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-13T03:41:19.662095"
     }
   ],
   "nombres_usados": [
@@ -3073,6 +3080,7 @@
     "Freelance Finance Buddy",
     "TaskButter",
     "AutoSocial",
-    "SalesCare"
+    "SalesCare",
+    "SocialAI"
   ]
 }
