@@ -2904,6 +2904,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-14T08:58:15.732924"
+    },
+    {
+      "nombre": "MarketHub",
+      "descripcion": "MarketHub permite a los usuarios gestionar todas sus campañas de marketing digital desde un solo lugar, ofreciendo herramientas para la programación de publicaciones, análisis de rendimiento, y la automatización de tareas repetitivas. Esto mejora la eficiencia y ahorra tiempo a los profesionales del marketing.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-14T09:32:23.162954"
     }
   ],
   "nombres_usados": [
@@ -3321,6 +3328,7 @@
     "Contabilidad Fácil",
     "MetricsMate",
     "EmprendeSmart",
-    "MindSphere"
+    "MindSphere",
+    "MarketHub"
   ]
 }
