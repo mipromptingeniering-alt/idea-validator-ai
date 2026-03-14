@@ -2862,6 +2862,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-14T04:19:14.736523"
+    },
+    {
+      "nombre": "ProyEasy",
+      "descripcion": "ProyEasy es una herramienta de gestión de proyectos diseñada para pequeñas y medianas empresas que buscan una solución accesible y fácil de usar. Con funciones que incluyen la planificación de tareas, seguimiento de tiempo, y comunicación del equipo, ProyEasy permite a las empresas gestionar sus proyectos de manera eficiente y colaborativa.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-14T05:29:18.833936"
     }
   ],
   "nombres_usados": [
@@ -3273,6 +3280,7 @@
     "KanbanFreelance",
     "AutoMarketer",
     "SocialAI Assistant",
-    "SocialBuzz"
+    "SocialBuzz",
+    "ProyEasy"
   ]
 }
