@@ -3030,6 +3030,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-14T22:17:30.302696"
+    },
+    {
+      "nombre": "TaskBlend",
+      "descripcion": "TaskBlend permite a los usuarios crear, asignar y gestionar tareas directamente desde sus plataformas de comunicación, facilitando la visibilidad y el seguimiento del progreso sin salir de su entorno de trabajo habitual.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-14T23:19:57.445116"
     }
   ],
   "nombres_usados": [
@@ -3465,6 +3472,7 @@
     "PymeMarketing",
     "EduSmart",
     "CreativTrack",
-    "MultiSell"
+    "MultiSell",
+    "TaskBlend"
   ]
 }

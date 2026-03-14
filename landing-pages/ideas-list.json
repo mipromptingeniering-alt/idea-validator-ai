@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260314221730",
+    "nombre": "MultiSell",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que permite a PYMES gestionar su inventario y ventas a través de múltiples canales de comercio electrónico en una sola interfaz....",
+    "score": 75,
+    "landing_url": "IDEA-20260314221730.html"
+  },
+  {
     "id": "IDEA-20260314205037",
     "nombre": "EduSmart",
     "tipo": "SaaS",
