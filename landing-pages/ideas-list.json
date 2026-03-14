@@ -3072,6 +3072,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260314211922",
+    "nombre": "CreativTrack",
+    "tipo": "SaaS",
+    "resumen": "Herramienta de gestión de proyectos diseñada específicamente para profesionales creativos....",
+    "score": 70,
+    "landing_url": "IDEA-20260314211922.html"
+  },
+  {
     "id": "IDEA-20260314052918",
     "nombre": "ProyEasy",
     "tipo": "SaaS",

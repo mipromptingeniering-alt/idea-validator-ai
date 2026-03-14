@@ -3023,6 +3023,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-14T21:19:22.572589"
+    },
+    {
+      "nombre": "MultiSell",
+      "descripcion": "MultiSell es una solución SaaS que simplifica la gestión de inventario y ventas para pequeñas empresas que venden en plataformas como Shopify, Amazon y eBay. Permite la integración automática de productos, sincronización de inventarios y análisis en tiempo real para ayudar a tomar decisiones basadas en datos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-14T22:17:30.302696"
     }
   ],
   "nombres_usados": [
@@ -3457,6 +3464,7 @@
     "AutonomPlus",
     "PymeMarketing",
     "EduSmart",
-    "CreativTrack"
+    "CreativTrack",
+    "MultiSell"
   ]
 }
