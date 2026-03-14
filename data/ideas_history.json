@@ -2953,6 +2953,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-14T14:04:58.663945"
+    },
+    {
+      "nombre": "MenteClara",
+      "descripcion": "MenteClara es una plataforma digital que proporciona apoyo en salud mental a través de una interfaz fácil de usar. Los usuarios puede completar un breve cuestionario sobre sus emociones, preocupaciones y necesidades, y la plataforma les ofrecerá recursos específicos, como ejercicios de meditación, artículos relevantes y la conexión con profesionales de la salud mental cuando sea necesario.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-14T15:20:36.382178"
     }
   ],
   "nombres_usados": [
@@ -3377,6 +3384,7 @@
     "BizLink",
     "Creator Hub",
     "FreelanceTaxPro",
-    "TimePlay"
+    "TimePlay",
+    "MenteClara"
   ]
 }
