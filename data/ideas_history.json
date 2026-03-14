@@ -3002,6 +3002,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-14T19:54:52.007189"
+    },
+    {
+      "nombre": "PymeMarketing",
+      "descripcion": "PymeMarketing es una herramienta integral que permite a las pequeñas y medianas empresas gestionar sus campañas de marketing digital desde un solo lugar. Ofrece funcionalidades como la creación de contenido, análisis de redes sociales, gestión de correos electrónicos, y SEO, todo adaptado a las necesidades específicas de las pymes y con plantillas fáciles de usar.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-03-14T20:19:05.293145"
     }
   ],
   "nombres_usados": [
@@ -3433,6 +3440,7 @@
     "OptimizaPYME",
     "ContableSencillo",
     "SocialMinds",
-    "AutonomPlus"
+    "AutonomPlus",
+    "PymeMarketing"
   ]
 }
