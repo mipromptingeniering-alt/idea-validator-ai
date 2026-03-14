@@ -2988,6 +2988,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-14T18:26:42.811610"
+    },
+    {
+      "nombre": "SocialMinds",
+      "descripcion": "SocialMinds es una herramienta de gestión de redes sociales diseñada específicamente para pequeñas y medianas empresas. Utiliza inteligencia artificial para analizar tendencias locales y sugiere publicaciones que resuenan con la audiencia objetivo. Permite programar contenido, monitorizar interacciones y obtener análisis fáciles de entender.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-14T19:39:34.164917"
     }
   ],
   "nombres_usados": [
@@ -3417,6 +3424,7 @@
     "WorkBalance",
     "TeamUp Gamify",
     "OptimizaPYME",
-    "ContableSencillo"
+    "ContableSencillo",
+    "SocialMinds"
   ]
 }
