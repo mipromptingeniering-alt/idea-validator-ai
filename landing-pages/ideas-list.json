@@ -2904,6 +2904,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260314052918",
+    "nombre": "ProyEasy",
+    "tipo": "SaaS",
+    "resumen": "Plataforma simplificada de gestión de proyectos para PYMES que facilita la colaboración y seguimiento de tareas....",
+    "score": 70,
+    "landing_url": "IDEA-20260314052918.html"
+  },
+  {
     "id": "IDEA-20260313233308",
     "nombre": "KanbanFreelance",
     "tipo": "SaaS",

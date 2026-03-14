@@ -2869,6 +2869,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-14T05:29:18.833936"
+    },
+    {
+      "nombre": "WellnessWorkspace",
+      "descripcion": "WellnessWorkspace es una plataforma SaaS que ayuda a los trabajadores remotos a mejorar su productividad mientras cuida su bienestar mental y físico. La herramienta ofrece funciones como planificación de tareas, sesiones de meditación guiada, recordatorios de descanso y ejercicio, y análisis de productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-14T06:06:32.742678"
     }
   ],
   "nombres_usados": [
@@ -3281,6 +3288,7 @@
     "AutoMarketer",
     "SocialAI Assistant",
     "SocialBuzz",
-    "ProyEasy"
+    "ProyEasy",
+    "WellnessWorkspace"
   ]
 }
