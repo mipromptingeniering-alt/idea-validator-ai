@@ -2855,6 +2855,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-14T02:10:57.821102"
+    },
+    {
+      "nombre": "SocialBuzz",
+      "descripcion": "SocialBuzz permite a los pequeños emprendedores gestionar sus redes sociales de manera integral. La plataforma utiliza inteligencia artificial para crear contenido adaptado a la audiencia del usuario, programar publicaciones en múltiples redes y proporcionar análisis de rendimiento, todo desde un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-14T04:19:14.736523"
     }
   ],
   "nombres_usados": [
@@ -3265,6 +3272,7 @@
     "BrandBuilder AI",
     "KanbanFreelance",
     "AutoMarketer",
-    "SocialAI Assistant"
+    "SocialAI Assistant",
+    "SocialBuzz"
   ]
 }
