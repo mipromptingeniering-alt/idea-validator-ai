@@ -2876,6 +2876,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-14T06:06:32.742678"
+    },
+    {
+      "nombre": "Contabilidad Fácil",
+      "descripcion": "Contabilidad Fácil es una herramienta SaaS que permite a los emprendedores gestionar sus finanzas desde cualquier lugar. Ofrece características como automatización de facturación, seguimiento de gastos, informes financieros sencillos y recordatorios de pago, todo en una interfaz fácil de usar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-14T07:05:08.176327"
     }
   ],
   "nombres_usados": [
@@ -3289,6 +3296,7 @@
     "SocialAI Assistant",
     "SocialBuzz",
     "ProyEasy",
-    "WellnessWorkspace"
+    "WellnessWorkspace",
+    "Contabilidad Fácil"
   ]
 }
