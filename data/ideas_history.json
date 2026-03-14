@@ -2995,6 +2995,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-14T19:39:34.164917"
+    },
+    {
+      "nombre": "AutonomPlus",
+      "descripcion": "AutonomPlus ofrece una solución todo-en-uno que permite a los autónomos gestionar sus proyectos, clientes y facturas desde una sola aplicación. Incluye herramientas para seguimiento de tiempo, generación de facturas personalizadas y gestión de contactos, optimizando el flujo de trabajo y permitiendo un enfoque más eficiente en el negocio.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-14T19:54:52.007189"
     }
   ],
   "nombres_usados": [
@@ -3425,6 +3432,7 @@
     "TeamUp Gamify",
     "OptimizaPYME",
     "ContableSencillo",
-    "SocialMinds"
+    "SocialMinds",
+    "AutonomPlus"
   ]
 }

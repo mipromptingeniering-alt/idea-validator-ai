@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260314193934",
+    "nombre": "SocialMinds",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de gestión de redes sociales para pymes, con inteligencia artificial que sugiere contenido optimizado....",
+    "score": 75,
+    "landing_url": "IDEA-20260314193934.html"
+  },
+  {
     "id": "IDEA-20260314182642",
     "nombre": "ContableSencillo",
     "tipo": "SaaS",
