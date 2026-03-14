@@ -2918,6 +2918,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-14T10:00:01.386622"
+    },
+    {
+      "nombre": "ContabSimple",
+      "descripcion": "ContabSimple ofrece una plataforma intuitiva que permite a los pequeños propietarios de negocios ingresar sus ingresos y gastos de forma sencilla, generando automáticamente informes financieros y ayudando con la preparación de impuestos. Además, se integra con plataformas populares como Shopify, WooCommerce y Stripe para simplificar la gestión financiera.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-14T11:00:21.770844"
     }
   ],
   "nombres_usados": [
@@ -3337,6 +3344,7 @@
     "EmprendeSmart",
     "MindSphere",
     "MarketHub",
-    "ContentPilot"
+    "ContentPilot",
+    "ContabSimple"
   ]
 }

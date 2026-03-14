@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260314100001",
+    "nombre": "ContentPilot",
+    "tipo": "SaaS",
+    "resumen": "ContentPilot es una plataforma integral para creadores de contenido que permite planificar, crear y analizar publicaciones en redes sociales con la ay...",
+    "score": 75,
+    "landing_url": "IDEA-20260314100001.html"
+  },
+  {
     "id": "IDEA-20260314093223",
     "nombre": "MarketHub",
     "tipo": "SaaS",
