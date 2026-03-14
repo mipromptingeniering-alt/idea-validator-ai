@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260314093223",
+    "nombre": "MarketHub",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral que unifica la gestión de campañas de marketing digital automatizando procesos y analizando resultados en tiempo real....",
+    "score": 75,
+    "landing_url": "IDEA-20260314093223.html"
+  },
+  {
     "id": "IDEA-20260314085815",
     "nombre": "MindSphere",
     "tipo": "SaaS",

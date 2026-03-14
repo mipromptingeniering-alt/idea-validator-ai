@@ -2911,6 +2911,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-14T09:32:23.162954"
+    },
+    {
+      "nombre": "ContentPilot",
+      "descripcion": "ContentPilot ayuda a los creadores a optimizar su estrategia de contenido a través de un único panel de control que combina programación de publicaciones, generación de ideas mediante IA y análisis de rendimiento. La herramienta está diseñada para facilitar el flujo de trabajo de los creadores, permitiendo que se enfoquen en crear contenido atractivo en lugar de preocuparse por la logística.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-14T10:00:01.386622"
     }
   ],
   "nombres_usados": [
@@ -3329,6 +3336,7 @@
     "MetricsMate",
     "EmprendeSmart",
     "MindSphere",
-    "MarketHub"
+    "MarketHub",
+    "ContentPilot"
   ]
 }
