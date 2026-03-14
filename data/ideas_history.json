@@ -2960,6 +2960,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-14T15:20:36.382178"
+    },
+    {
+      "nombre": "WorkBalance",
+      "descripcion": "WorkBalance es una plataforma que combina técnicas de gestión del tiempo, herramientas de seguimiento de tareas y consejos de bienestar, ayudando a los usuarios a aumentar su productividad mientras mantienen un equilibrio saludable en su vida diaria.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-14T15:49:12.730473"
     }
   ],
   "nombres_usados": [
@@ -3385,6 +3392,7 @@
     "Creator Hub",
     "FreelanceTaxPro",
     "TimePlay",
-    "MenteClara"
+    "MenteClara",
+    "WorkBalance"
   ]
 }
