@@ -2890,6 +2890,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-14T07:48:55.677182"
+    },
+    {
+      "nombre": "EmprendeSmart",
+      "descripcion": "EmprendeSmart es una plataforma que proporciona cursos interactivos y recursos prácticos diseñados específicamente para emprendedores digitales. Los usuarios pueden acceder a plantillas, herramientas y guías paso a paso que les ayudarán a aplicar lo aprendido de forma inmediata en sus proyectos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-14T08:35:34.654707"
     }
   ],
   "nombres_usados": [
@@ -3305,6 +3312,7 @@
     "ProyEasy",
     "WellnessWorkspace",
     "Contabilidad Fácil",
-    "MetricsMate"
+    "MetricsMate",
+    "EmprendeSmart"
   ]
 }
