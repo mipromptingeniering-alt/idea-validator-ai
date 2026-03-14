@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260314231957",
+    "nombre": "TaskBlend",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de tareas que se integra con plataformas de comunicación como Slack y Microsoft Teams para ayudar a los equipos a organizar...",
+    "score": 75,
+    "landing_url": "IDEA-20260314231957.html"
+  },
+  {
     "id": "IDEA-20260314221730",
     "nombre": "MultiSell",
     "tipo": "SaaS",
