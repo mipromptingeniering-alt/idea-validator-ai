@@ -2981,6 +2981,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-14T17:49:32.273704"
+    },
+    {
+      "nombre": "ContableSencillo",
+      "descripcion": "ContableSencillo permite a las pequeñas y medianas empresas llevar su contabilidad de manera sencilla y efectiva, con funciones automáticas para mantener el flujo de caja organizado, emitir facturas, y generar reportes financieros básicos. Se obtiene una vista clara de la situación financiera en tiempo real y se pueden tomar decisiones informadas rápidamente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-14T18:26:42.811610"
     }
   ],
   "nombres_usados": [
@@ -3409,6 +3416,7 @@
     "MenteClara",
     "WorkBalance",
     "TeamUp Gamify",
-    "OptimizaPYME"
+    "OptimizaPYME",
+    "ContableSencillo"
   ]
 }
