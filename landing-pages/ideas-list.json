@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260313235921",
+    "nombre": "AutoMarketer",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de marketing digital automatizada para pequeñas empresas, que utiliza IA para optimizar campañas y procesos....",
+    "score": 75,
+    "landing_url": "IDEA-20260313235921.html"
+  },
+  {
     "id": "IDEA-20260313230022",
     "nombre": "BrandBuilder AI",
     "tipo": "SaaS",
