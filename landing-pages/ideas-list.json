@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260314154912",
+    "nombre": "WorkBalance",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de tiempo y tareas diseñada para trabajadores remotos que fomenta un equilibrio saludable entre trabajo y vida personal....",
+    "score": 75,
+    "landing_url": "IDEA-20260314154912.html"
+  },
+  {
     "id": "IDEA-20260314152036",
     "nombre": "MenteClara",
     "tipo": "SaaS",

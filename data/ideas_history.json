@@ -2967,6 +2967,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-14T15:49:12.730473"
+    },
+    {
+      "nombre": "TeamUp Gamify",
+      "descripcion": "TeamUp Gamify es una aplicación que permite a los equipos remotos participar en desafíos y actividades que mejoran la cohesión del equipo y la motivación. A través de un sistema de puntos y recompensas, los empleados pueden completar tareas, interactuar entre sí y recibir reconocimiento por sus logros.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-14T16:54:50.654777"
     }
   ],
   "nombres_usados": [
@@ -3393,6 +3400,7 @@
     "FreelanceTaxPro",
     "TimePlay",
     "MenteClara",
-    "WorkBalance"
+    "WorkBalance",
+    "TeamUp Gamify"
   ]
 }
