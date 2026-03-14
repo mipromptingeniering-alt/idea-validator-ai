@@ -2939,6 +2939,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-14T11:47:11.987486"
+    },
+    {
+      "nombre": "FreelanceTaxPro",
+      "descripcion": "FreelanceTaxPro ayuda a los autónomos a gestionar sus impuestos, gastos y facturación desde una única plataforma. Ofrece recordatorios personalizados, informes de impuestos y una integración simplificada con los sistemas fiscales locales.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-03-14T12:32:21.892215"
     }
   ],
   "nombres_usados": [
@@ -3361,6 +3368,7 @@
     "ContentPilot",
     "ContabSimple",
     "BizLink",
-    "Creator Hub"
+    "Creator Hub",
+    "FreelanceTaxPro"
   ]
 }
