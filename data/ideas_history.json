@@ -2883,6 +2883,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-14T07:05:08.176327"
+    },
+    {
+      "nombre": "MetricsMate",
+      "descripcion": "MetricsMate permite a los usuarios conectar sus cuentas de redes sociales, plataformas de publicidad y herramientas de análisis web para visualizar todas sus métricas en un único lugar. Con características avanzadas de inteligencia artificial, la herramienta ofrece insights sobre qué estrategias están funcionando y cuáles no, junto con recomendaciones proactivas para mejorar el rendimiento.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-14T07:48:55.677182"
     }
   ],
   "nombres_usados": [
@@ -3297,6 +3304,7 @@
     "SocialBuzz",
     "ProyEasy",
     "WellnessWorkspace",
-    "Contabilidad Fácil"
+    "Contabilidad Fácil",
+    "MetricsMate"
   ]
 }
