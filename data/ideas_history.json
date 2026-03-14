@@ -3016,6 +3016,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-14T20:50:37.974836"
+    },
+    {
+      "nombre": "CreativTrack",
+      "descripcion": "CreativTrack es una plataforma que ayuda a los profesionales creativos a gestionar sus proyectos de forma más efectiva, ofreciendo herramientas de seguimiento de tareas, colaboración y organización visual.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-14T21:19:22.572589"
     }
   ],
   "nombres_usados": [
@@ -3449,6 +3456,7 @@
     "SocialMinds",
     "AutonomPlus",
     "PymeMarketing",
-    "EduSmart"
+    "EduSmart",
+    "CreativTrack"
   ]
 }
