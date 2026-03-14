@@ -3009,6 +3009,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-03-14T20:19:05.293145"
+    },
+    {
+      "nombre": "EduSmart",
+      "descripcion": "EduSmart utiliza algoritmos de IA para analizar el progreso, las preferencias y el estilo de aprendizaje de cada estudiante, recomendando recursos como videos, artículos y ejercicios que se alineen con sus necesidades específicas. La plataforma también ofrece un espacio para la planificación de actividades y seguimiento de objetivos de aprendizaje.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-14T20:50:37.974836"
     }
   ],
   "nombres_usados": [
@@ -3441,6 +3448,7 @@
     "ContableSencillo",
     "SocialMinds",
     "AutonomPlus",
-    "PymeMarketing"
+    "PymeMarketing",
+    "EduSmart"
   ]
 }
