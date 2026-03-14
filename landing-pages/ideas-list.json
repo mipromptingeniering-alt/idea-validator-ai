@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260314083534",
+    "nombre": "EmprendeSmart",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de formación online para emprendedores digitales que ofrece recursos prácticos y plantillas para la gestión de negocios....",
+    "score": 75,
+    "landing_url": "IDEA-20260314083534.html"
+  },
+  {
     "id": "IDEA-20260314074855",
     "nombre": "MetricsMate",
     "tipo": "SaaS",

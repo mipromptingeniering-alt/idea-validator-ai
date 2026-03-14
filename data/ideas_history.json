@@ -2897,6 +2897,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-14T08:35:34.654707"
+    },
+    {
+      "nombre": "MindSphere",
+      "descripcion": "MindSphere es una aplicación que permite a los usuarios gestionar su salud mental mediante el acceso a terapia en línea, herramientas de autoayuda, seguimiento del estado emocional y comunidades de apoyo. Los usuarios pueden programar sesiones con terapeutas certificados, acceder a contenido educativo sobre salud mental y participar en grupos de apoyo según sus intereses y necesidades.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-14T08:58:15.732924"
     }
   ],
   "nombres_usados": [
@@ -3313,6 +3320,7 @@
     "WellnessWorkspace",
     "Contabilidad Fácil",
     "MetricsMate",
-    "EmprendeSmart"
+    "EmprendeSmart",
+    "MindSphere"
   ]
 }
