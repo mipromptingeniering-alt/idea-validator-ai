@@ -2932,6 +2932,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-14T11:28:35.030973"
+    },
+    {
+      "nombre": "Creator Hub",
+      "descripcion": "Creator Hub es un software como servicio diseñado para creadores de contenido que les ayuda a unificar su presencia en varias plataformas. Ofrece herramientas para planificación de contenido, análisis de rendimiento, y opciones de monetización, todo accesible desde un solo panel de control. Además, incluye funcionalidades como gestión de suscriptores, venta de productos digitales y análisis de datos para mejorar la estrategia de contenido.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-14T11:47:11.987486"
     }
   ],
   "nombres_usados": [
@@ -3353,6 +3360,7 @@
     "MarketHub",
     "ContentPilot",
     "ContabSimple",
-    "BizLink"
+    "BizLink",
+    "Creator Hub"
   ]
 }
