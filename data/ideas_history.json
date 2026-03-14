@@ -2925,6 +2925,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-14T11:00:21.770844"
+    },
+    {
+      "nombre": "BizLink",
+      "descripcion": "BizLink es una solución SaaS que permite a pequeños empresarios y freelancers gestionar sus proyectos, generar facturas y comunicarse con sus clientes desde una única plataforma. La herramienta está diseñada para ser intuitiva y fácil de usar, evitando la necesidad de múltiples suscripciones a diferentes servicios.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-14T11:28:35.030973"
     }
   ],
   "nombres_usados": [
@@ -3345,6 +3352,7 @@
     "MindSphere",
     "MarketHub",
     "ContentPilot",
-    "ContabSimple"
+    "ContabSimple",
+    "BizLink"
   ]
 }
