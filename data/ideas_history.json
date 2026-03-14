@@ -2974,6 +2974,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-14T16:54:50.654777"
+    },
+    {
+      "nombre": "OptimizaPYME",
+      "descripcion": "OptimizaPYME es una solución SaaS que permite a las PYMES gestionar su tiempo, recursos y tareas de manera eficiente. Integrando inteligencia artificial, la plataforma ofrece recomendaciones personalizadas para optimizar la carga de trabajo y reducir costos operativos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-14T17:49:32.273704"
     }
   ],
   "nombres_usados": [
@@ -3401,6 +3408,7 @@
     "TimePlay",
     "MenteClara",
     "WorkBalance",
-    "TeamUp Gamify"
+    "TeamUp Gamify",
+    "OptimizaPYME"
   ]
 }
