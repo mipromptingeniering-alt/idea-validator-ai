@@ -3142,6 +3142,13 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-03-15T15:21:54.603790"
+    },
+    {
+      "nombre": "SocialWorkHub",
+      "descripcion": "SocialWorkHub es una plataforma donde los usuarios pueden crear avatares, moverse por espacios virtuales personalizados y participar en encuentros sociales espontáneos o programados. Incluye características como salas de descanso virtuales, eventos, y herramientas de colaboración en grupo, todo diseñado para fomentar la conexión y la productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-15T15:50:14.735955"
     }
   ],
   "nombres_usados": [
@@ -3593,6 +3600,7 @@
     "SocialBuddy",
     "LifeMaster",
     "TimeSnap",
-    "MarketSync"
+    "MarketSync",
+    "SocialWorkHub"
   ]
 }
