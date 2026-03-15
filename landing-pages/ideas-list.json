@@ -3136,6 +3136,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260315095634",
+    "nombre": "ProjectBuddy",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de proyectos personalizable para PYMES, que permite organizar tareas y medir el progreso de manera sencilla....",
+    "score": 70,
+    "landing_url": "IDEA-20260315095634.html"
+  },
+  {
     "id": "IDEA-20260315041450",
     "nombre": "EasySocial Manager",
     "tipo": "SaaS",

@@ -3093,6 +3093,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-15T09:56:34.826364"
+    },
+    {
+      "nombre": "DashInsights",
+      "descripcion": "DashInsights es una herramienta que permite a los profesionales del marketing consolidar y analizar datos de múltiples plataformas en un solo lugar. Utiliza inteligencia artificial para ofrecer recomendaciones personalizadas y facilitar la toma de decisiones basada en datos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-15T10:23:16.148139"
     }
   ],
   "nombres_usados": [
@@ -3537,6 +3544,7 @@
     "Socialify",
     "HomeMate",
     "Financa",
-    "ProjectBuddy"
+    "ProjectBuddy",
+    "DashInsights"
   ]
 }
