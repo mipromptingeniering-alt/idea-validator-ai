@@ -3107,6 +3107,13 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-03-15T11:19:24.200073"
+    },
+    {
+      "nombre": "SimpleCRM",
+      "descripcion": "SimpleCRM ofrece una plataforma de gestión de relaciones con clientes que es fácil de usar, asequible y adaptada a las necesidades de las PYMES. Incluye características como gestión de contactos, seguimiento de interacciones y reportes de ventas, todo en una interfaz amigable.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-15T12:34:39.463634"
     }
   ],
   "nombres_usados": [
@@ -3553,6 +3560,7 @@
     "Financa",
     "ProjectBuddy",
     "DashInsights",
-    "TaskSprint"
+    "TaskSprint",
+    "SimpleCRM"
   ]
 }

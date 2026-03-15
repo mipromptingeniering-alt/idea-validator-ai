@@ -168,6 +168,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260315111924",
+    "nombre": "TaskSprint",
+    "tipo": "MicroSaaS",
+    "resumen": "Una herramienta de gestión del tiempo que combina la técnica del Pomodoro con elementos de gamificación para maximizar la productividad de autónomos y...",
+    "score": 75,
+    "landing_url": "IDEA-20260315111924.html"
+  },
+  {
     "id": "IDEA-20260315102316",
     "nombre": "DashInsights",
     "tipo": "SaaS",
