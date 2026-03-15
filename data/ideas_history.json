@@ -3184,6 +3184,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-15T19:05:23.314492"
+    },
+    {
+      "nombre": "FocusAI",
+      "descripcion": "FocusAI ayuda a los freelancers a optimizar su tiempo a través de un sistema inteligente que analiza hábitos de trabajo y ofrece recomendaciones personalizadas para mejorar la eficiencia y reducir la procrastinación.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-15T19:41:41.530274"
     }
   ],
   "nombres_usados": [
@@ -3641,6 +3648,7 @@
     "DigitizeMe",
     "BalancedWork",
     "SocialSage",
-    "Funnel Genius"
+    "Funnel Genius",
+    "FocusAI"
   ]
 }

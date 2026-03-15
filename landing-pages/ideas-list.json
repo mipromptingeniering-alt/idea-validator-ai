@@ -184,6 +184,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260315190523",
+    "nombre": "Funnel Genius",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma intuitiva que ayuda a emprendedores y pequeñas empresas a construir, gestionar y optimizar sus embudos de ventas y marketing....",
+    "score": 75,
+    "landing_url": "IDEA-20260315190523.html"
+  },
+  {
     "id": "IDEA-20260315182743",
     "nombre": "SocialSage",
     "tipo": "SaaS",
