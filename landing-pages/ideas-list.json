@@ -184,6 +184,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260315205121",
+    "nombre": "DigitalPlus45",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de aprendizaje digital personalizada para trabajadores mayores de 45 años que buscan mejorar sus habilidades digitales....",
+    "score": 75,
+    "landing_url": "IDEA-20260315205121.html"
+  },
+  {
     "id": "IDEA-20260315202334",
     "nombre": "Salud Fácil",
     "tipo": "SaaS",

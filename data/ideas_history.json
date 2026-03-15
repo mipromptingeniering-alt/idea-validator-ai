@@ -3205,6 +3205,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-15T20:51:21.818649"
+    },
+    {
+      "nombre": "EconoWise",
+      "descripcion": "EconoWise proporciona a los usuarios una plataforma fácil de usar para gestionar su presupuesto, categorizar gastos, visualizar ingresos proyectados y recibir consejos personalizados sobre cómo optimizar sus finanzas. La aplicación utiliza inteligencia artificial para ofrecer recomendaciones basadas en patrones de gasto y ahorro.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-15T21:20:29.658894"
     }
   ],
   "nombres_usados": [
@@ -3665,6 +3672,7 @@
     "Funnel Genius",
     "FocusAI",
     "Salud Fácil",
-    "DigitalPlus45"
+    "DigitalPlus45",
+    "EconoWise"
   ]
 }
