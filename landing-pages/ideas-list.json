@@ -3104,6 +3104,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260315041450",
+    "nombre": "EasySocial Manager",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de redes sociales especialmente diseñada para pequeñas y medianas empresas que automatiza la publicación de contenido....",
+    "score": 70,
+    "landing_url": "IDEA-20260315041450.html"
+  },
+  {
     "id": "IDEA-20260314211922",
     "nombre": "CreativTrack",
     "tipo": "SaaS",

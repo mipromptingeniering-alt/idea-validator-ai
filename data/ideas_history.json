@@ -3058,6 +3058,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-15T04:14:50.743773"
+    },
+    {
+      "nombre": "MarketingAuto",
+      "descripcion": "MarketingAuto permite a las pequeñas y medianas empresas programar, gestionar y analizar sus campañas de marketing digital en un solo lugar, proporcionando recomendaciones personalizadas basadas en el análisis de datos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-15T06:45:22.204914"
     }
   ],
   "nombres_usados": [
@@ -3497,6 +3504,7 @@
     "TaskBlend",
     "ArtLink",
     "EasyProject",
-    "EasySocial Manager"
+    "EasySocial Manager",
+    "MarketingAuto"
   ]
 }
