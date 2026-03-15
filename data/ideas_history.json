@@ -3191,6 +3191,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-15T19:41:41.530274"
+    },
+    {
+      "nombre": "Salud Fácil",
+      "descripcion": "Salud Fácil permitirá a médicos y terapeutas gestionar sus citas de manera eficiente, comunicarse con pacientes y realizar seguimientos automáticos a través de una interfaz intuitiva. La plataforma ofrecerá funcionalidades de recordatorios, gestión de historiales médicos y opciones de telemedicina.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-15T20:23:34.875501"
     }
   ],
   "nombres_usados": [
@@ -3649,6 +3656,7 @@
     "BalancedWork",
     "SocialSage",
     "Funnel Genius",
-    "FocusAI"
+    "FocusAI",
+    "Salud Fácil"
   ]
 }
