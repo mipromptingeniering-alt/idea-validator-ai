@@ -120,6 +120,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260315165951",
+    "nombre": "DigitizeMe",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma todo-en-uno que ayuda a las PYMES a digitalizar sus operaciones y mejorar su presencia online de manera simple y asequible....",
+    "score": 76,
+    "landing_url": "IDEA-20260315165951.html"
+  },
+  {
     "id": "IDEA-20260311202614",
     "nombre": "MailSmart",
     "tipo": "SaaS",
