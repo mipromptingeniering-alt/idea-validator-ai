@@ -3170,6 +3170,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-15T17:21:17.829174"
+    },
+    {
+      "nombre": "SocialSage",
+      "descripcion": "SocialSage es una plataforma que permite a pequeñas empresas y freelancers gestionar sus redes sociales de forma eficiente. Utiliza algoritmos de inteligencia artificial para sugerir contenido relevante y optimizar las publicaciones en función de las tendencias actuales y los intereses de su audiencia. Además, ofrece análisis en tiempo real para mejorar la estrategia de contenido.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-15T18:27:43.342612"
     }
   ],
   "nombres_usados": [
@@ -3625,6 +3632,7 @@
     "SocialWorkHub",
     "MindFit",
     "DigitizeMe",
-    "BalancedWork"
+    "BalancedWork",
+    "SocialSage"
   ]
 }
