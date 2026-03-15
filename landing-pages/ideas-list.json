@@ -184,6 +184,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260315221916",
+    "nombre": "Taskify AI",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de tareas basada en IA que ayuda a los equipos a priorizar y organizar su trabajo de manera efectiva....",
+    "score": 75,
+    "landing_url": "IDEA-20260315221916.html"
+  },
+  {
     "id": "IDEA-20260315214837",
     "nombre": "SociaFlex",
     "tipo": "SaaS",
