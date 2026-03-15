@@ -3212,6 +3212,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-15T21:20:29.658894"
+    },
+    {
+      "nombre": "SociaFlex",
+      "descripcion": "SociaFlex es una solución todo-en-uno diseñada específicamente para pequeños y medianos emprendedores. La plataforma permite la creación de contenido fácil mediante plantillas, la programación de publicaciones en múltiples redes sociales y la analítica del rendimiento del contenido, todo desde una única interfaz intuitiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-15T21:48:38.073409"
     }
   ],
   "nombres_usados": [
@@ -3673,6 +3680,7 @@
     "FocusAI",
     "Salud Fácil",
     "DigitalPlus45",
-    "EconoWise"
+    "EconoWise",
+    "SociaFlex"
   ]
 }
