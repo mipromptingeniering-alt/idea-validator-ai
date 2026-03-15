@@ -3156,6 +3156,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-15T16:22:52.554980"
+    },
+    {
+      "nombre": "DigitizeMe",
+      "descripcion": "DigitizeMe ofrece herramientas integradas para gestión de redes sociales, email marketing, creación de sitios web y automatización de procesos, todo en un solo lugar. Su interfaz intuitiva permite a los propietarios de PYMES administrar sus necesidades digitales fácilmente, sin requerir conocimientos técnicos avanzados.",
+      "tipo": "SaaS",
+      "score": 76,
+      "fecha": "2026-03-15T16:59:51.196806"
     }
   ],
   "nombres_usados": [
@@ -3609,6 +3616,7 @@
     "TimeSnap",
     "MarketSync",
     "SocialWorkHub",
-    "MindFit"
+    "MindFit",
+    "DigitizeMe"
   ]
 }

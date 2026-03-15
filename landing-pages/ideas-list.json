@@ -176,6 +176,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260315162252",
+    "nombre": "MindFit",
+    "tipo": "SaaS",
+    "resumen": "Aplicación que personaliza herramientas y recursos de salud mental según el perfil y las necesidades del usuario....",
+    "score": 75,
+    "landing_url": "IDEA-20260315162252.html"
+  },
+  {
     "id": "IDEA-20260315155014",
     "nombre": "SocialWorkHub",
     "tipo": "SaaS",
