@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260314234845",
+    "nombre": "ArtLink",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS que permite a los creativos mostrar y vender su trabajo directamente a los consumidores mediante una suscripción mensual....",
+    "score": 75,
+    "landing_url": "IDEA-20260314234845.html"
+  },
+  {
     "id": "IDEA-20260314231957",
     "nombre": "TaskBlend",
     "tipo": "SaaS",

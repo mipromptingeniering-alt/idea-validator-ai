@@ -3044,6 +3044,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-14T23:48:45.766473"
+    },
+    {
+      "nombre": "EasyProject",
+      "descripcion": "EasyProject es una solución de software que permite a las pequeñas y medianas empresas gestionar sus proyectos de forma sencilla. A través de un interfaz intuitivo, los usuarios pueden crear tareas, asignarlas a miembros del equipo, establecer fechas de vencimiento y realizar un seguimiento del progreso. Además, integra herramientas de comunicación para fomentar la colaboración y mantener a todos en la misma página.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-15T01:29:05.765146"
     }
   ],
   "nombres_usados": [
@@ -3481,6 +3488,7 @@
     "CreativTrack",
     "MultiSell",
     "TaskBlend",
-    "ArtLink"
+    "ArtLink",
+    "EasyProject"
   ]
 }
