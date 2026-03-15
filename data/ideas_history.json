@@ -3149,6 +3149,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-15T15:50:14.735955"
+    },
+    {
+      "nombre": "MindFit",
+      "descripcion": "MindFit es una plataforma que utiliza algoritmos de inteligencia artificial para ofrecer a los usuarios un programa de bienestar mental personalizado. Incluye ejercicios de meditación, técnicas de respiración, seguimiento del estado de ánimo, y acceso a un chatbot para consultas rápidas sobre salud mental, además de recursos educativos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-15T16:22:52.554980"
     }
   ],
   "nombres_usados": [
@@ -3601,6 +3608,7 @@
     "LifeMaster",
     "TimeSnap",
     "MarketSync",
-    "SocialWorkHub"
+    "SocialWorkHub",
+    "MindFit"
   ]
 }
