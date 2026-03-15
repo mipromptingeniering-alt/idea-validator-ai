@@ -3198,6 +3198,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-15T20:23:34.875501"
+    },
+    {
+      "nombre": "DigitalPlus45",
+      "descripcion": "DigitalPlus45 es una plataforma SaaS que ofrece cursos de habilidades digitales personalizados y adaptativos, diseñados específicamente para trabajadores mayores de 45 años. Utiliza inteligencia artificial para adaptar el contenido a las necesidades y niveles de competencia de cada usuario, incorporando módulos de acompañamiento emocional para motivar y facilitar el aprendizaje.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-15T20:51:21.818649"
     }
   ],
   "nombres_usados": [
@@ -3657,6 +3664,7 @@
     "SocialSage",
     "Funnel Genius",
     "FocusAI",
-    "Salud Fácil"
+    "Salud Fácil",
+    "DigitalPlus45"
   ]
 }

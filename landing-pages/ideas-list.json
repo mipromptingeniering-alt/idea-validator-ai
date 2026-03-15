@@ -184,6 +184,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260315202334",
+    "nombre": "Salud Fácil",
+    "tipo": "SaaS",
+    "resumen": "Plataforma integral para la gestión de citas de profesionales de la salud y seguimiento de pacientes....",
+    "score": 75,
+    "landing_url": "IDEA-20260315202334.html"
+  },
+  {
     "id": "IDEA-20260315194141",
     "nombre": "FocusAI",
     "tipo": "SaaS",
