@@ -3135,6 +3135,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-15T14:49:23.154513"
+    },
+    {
+      "nombre": "MarketSync",
+      "descripcion": "MarketSync proporciona dashboards personalizables donde los profesionales de marketing pueden monitorear el rendimiento de sus campañas en redes sociales, email marketing y publicidad pagada. Incluye análisis predictivo para ayudar a optimizar futuras inversiones en marketing.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-03-15T15:21:54.603790"
     }
   ],
   "nombres_usados": [
@@ -3585,6 +3592,7 @@
     "SimpleCRM",
     "SocialBuddy",
     "LifeMaster",
-    "TimeSnap"
+    "TimeSnap",
+    "MarketSync"
   ]
 }
