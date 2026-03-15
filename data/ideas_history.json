@@ -3114,6 +3114,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-15T12:34:39.463634"
+    },
+    {
+      "nombre": "SocialBuddy",
+      "descripcion": "SocialBuddy permite a los pequeños y medianos negocios gestionar sus redes sociales de manera eficiente, programando publicaciones, analizando el rendimiento y recibiendo sugerencias de contenido personalizadas. Utiliza inteligencia artificial para optimizar la estrategia de contenido según la audiencia y las tendencias del mercado.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-15T13:33:59.309923"
     }
   ],
   "nombres_usados": [
@@ -3561,6 +3568,7 @@
     "ProjectBuddy",
     "DashInsights",
     "TaskSprint",
-    "SimpleCRM"
+    "SimpleCRM",
+    "SocialBuddy"
   ]
 }
