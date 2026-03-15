@@ -3177,6 +3177,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-15T18:27:43.342612"
+    },
+    {
+      "nombre": "Funnel Genius",
+      "descripcion": "Funnel Genius es una solución SaaS que permite a los usuarios crear embudos de venta personalizados con herramientas de análisis y recomendaciones automatizadas. Incluye un 'coaching' que guía a los usuarios para mejorar su tasa de conversión.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-15T19:05:23.314492"
     }
   ],
   "nombres_usados": [
@@ -3633,6 +3640,7 @@
     "MindFit",
     "DigitizeMe",
     "BalancedWork",
-    "SocialSage"
+    "SocialSage",
+    "Funnel Genius"
   ]
 }
