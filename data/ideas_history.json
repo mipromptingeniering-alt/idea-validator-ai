@@ -3079,6 +3079,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-15T08:04:25.702620"
+    },
+    {
+      "nombre": "Financa",
+      "descripcion": "Financa es un software de contabilidad basado en la nube que permite a los freelancers y pequeñas empresas llevar un control fácil y eficiente de sus ingresos, gastos, y obligaciones fiscales. Ofrece integración con plataformas de pago y permite la generación automática de informes y facturas.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-03-15T09:26:35.200980"
     }
   ],
   "nombres_usados": [
@@ -3521,6 +3528,7 @@
     "EasySocial Manager",
     "MarketingAuto",
     "Socialify",
-    "HomeMate"
+    "HomeMate",
+    "Financa"
   ]
 }

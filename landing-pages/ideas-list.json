@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260315080425",
+    "nombre": "HomeMate",
+    "tipo": "SaaS",
+    "resumen": "Una aplicación de gestión de mantenimiento del hogar que coordina tareas, envía recordatorios y conecta a los usuarios con profesionales de servicios ...",
+    "score": 75,
+    "landing_url": "IDEA-20260315080425.html"
+  },
+  {
     "id": "IDEA-20260315073436",
     "nombre": "Socialify",
     "tipo": "MicroSaaS",
