@@ -3051,6 +3051,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-15T01:29:05.765146"
+    },
+    {
+      "nombre": "EasySocial Manager",
+      "descripcion": "EasySocial Manager permite a las PYMES programar publicaciones, analizar métricas de rendimiento, y obtener recomendaciones personalizadas para mejorar su presencia en redes sociales, todo en una interfaz intuitiva.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-15T04:14:50.743773"
     }
   ],
   "nombres_usados": [
@@ -3489,6 +3496,7 @@
     "MultiSell",
     "TaskBlend",
     "ArtLink",
-    "EasyProject"
+    "EasyProject",
+    "EasySocial Manager"
   ]
 }

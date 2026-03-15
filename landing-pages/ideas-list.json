@@ -160,6 +160,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260315012905",
+    "nombre": "EasyProject",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de proyectos simple y accesible para PYMEs, que permite organizar tareas, colaborar y hacer seguimiento de proyectos en tiem...",
+    "score": 75,
+    "landing_url": "IDEA-20260315012905.html"
+  },
+  {
     "id": "IDEA-20260314234845",
     "nombre": "ArtLink",
     "tipo": "SaaS",
