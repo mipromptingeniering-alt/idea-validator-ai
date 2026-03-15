@@ -184,6 +184,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260315232108",
+    "nombre": "Taskify",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de tareas y proyectos diseñada específicamente para pequeñas y medianas empresas, que combina simplicidad y eficiencia....",
+    "score": 75,
+    "landing_url": "IDEA-20260315232108.html"
+  },
+  {
     "id": "IDEA-20260315225251",
     "nombre": "CashFlowWise",
     "tipo": "SaaS",

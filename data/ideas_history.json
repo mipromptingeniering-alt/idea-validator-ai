@@ -3240,6 +3240,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-15T23:21:08.500623"
+    },
+    {
+      "nombre": "EasyProManage",
+      "descripcion": "EasyProManage permite a las pymes gestionar sus proyectos, asignar tareas, y colaborar en tiempo real, todo desde una plataforma intuitiva y accesible.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-15T23:51:06.372870"
     }
   ],
   "nombres_usados": [
@@ -3705,6 +3712,7 @@
     "SociaFlex",
     "Taskify AI",
     "CashFlowWise",
-    "Taskify"
+    "Taskify",
+    "EasyProManage"
   ]
 }
