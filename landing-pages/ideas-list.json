@@ -168,6 +168,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260315102316",
+    "nombre": "DashInsights",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de análisis centralizado para métricas de marketing digital que utiliza IA para optimizar campañas....",
+    "score": 75,
+    "landing_url": "IDEA-20260315102316.html"
+  },
+  {
     "id": "IDEA-20260315080425",
     "nombre": "HomeMate",
     "tipo": "SaaS",

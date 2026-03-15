@@ -3100,6 +3100,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-15T10:23:16.148139"
+    },
+    {
+      "nombre": "TaskSprint",
+      "descripcion": "TaskSprint ayuda a los usuarios a gestionar su tiempo y tareas mediante la implementación de intervalos de trabajo (Pomodoros) y recompensas que motivan a completar objetivos. Además, la herramienta permite seguir el progreso y generar informes sobre la eficiencia.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-03-15T11:19:24.200073"
     }
   ],
   "nombres_usados": [
@@ -3545,6 +3552,7 @@
     "HomeMate",
     "Financa",
     "ProjectBuddy",
-    "DashInsights"
+    "DashInsights",
+    "TaskSprint"
   ]
 }
