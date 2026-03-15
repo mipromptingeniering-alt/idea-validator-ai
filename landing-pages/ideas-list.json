@@ -184,6 +184,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260315225251",
+    "nombre": "CashFlowWise",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de flujo de caja diseñada específicamente para PYMES, que proporciona análisis automatizados y recomendaciones personalizad...",
+    "score": 75,
+    "landing_url": "IDEA-20260315225251.html"
+  },
+  {
     "id": "IDEA-20260315221916",
     "nombre": "Taskify AI",
     "tipo": "SaaS",

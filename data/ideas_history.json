@@ -3233,6 +3233,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-15T22:52:51.518719"
+    },
+    {
+      "nombre": "Taskify",
+      "descripcion": "Taskify permite a las PYMES gestionar proyectos y tareas de manera colaborativa, con funciones que facilitan la asignación de tareas, seguimiento del progreso y comunicación en tiempo real, todo en un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-15T23:21:08.500623"
     }
   ],
   "nombres_usados": [
@@ -3697,6 +3704,7 @@
     "EconoWise",
     "SociaFlex",
     "Taskify AI",
-    "CashFlowWise"
+    "CashFlowWise",
+    "Taskify"
   ]
 }
