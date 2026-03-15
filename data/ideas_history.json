@@ -3065,6 +3065,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-15T06:45:22.204914"
+    },
+    {
+      "nombre": "Socialify",
+      "descripcion": "Socialify permite a los usuarios gestionar múltiples cuentas de redes sociales desde una sola plataforma, programar publicaciones, y obtener análisis detallados de su rendimiento, todo en un entorno intuitivo y accesible.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-03-15T07:34:36.852534"
     }
   ],
   "nombres_usados": [
@@ -3505,6 +3512,7 @@
     "ArtLink",
     "EasyProject",
     "EasySocial Manager",
-    "MarketingAuto"
+    "MarketingAuto",
+    "Socialify"
   ]
 }
