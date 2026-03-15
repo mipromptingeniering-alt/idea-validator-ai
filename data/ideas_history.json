@@ -3219,6 +3219,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-15T21:48:38.073409"
+    },
+    {
+      "nombre": "Taskify AI",
+      "descripcion": "Taskify AI utiliza inteligencia artificial para analizar las tareas y el flujo de trabajo de un equipo, proporcionando recomendaciones sobre la priorización y el enfoque de trabajo. Con una interfaz simple y fácil de usar, permite a los usuarios gestionar sus tareas diarias de forma eficiente, asegurando que el equipo mantenga su productividad incluso en entornos de trabajo remoto.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-15T22:19:16.548326"
     }
   ],
   "nombres_usados": [
@@ -3681,6 +3688,7 @@
     "Salud Fácil",
     "DigitalPlus45",
     "EconoWise",
-    "SociaFlex"
+    "SociaFlex",
+    "Taskify AI"
   ]
 }
