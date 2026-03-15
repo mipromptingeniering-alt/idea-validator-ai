@@ -3086,6 +3086,13 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-03-15T09:26:35.200980"
+    },
+    {
+      "nombre": "ProjectBuddy",
+      "descripcion": "ProjectBuddy es una plataforma de gestión de proyectos diseñada específicamente para pequeñas y medianas empresas. Permite a los usuarios personalizar su entorno de trabajo, integrar otras herramientas como calendarios y software de contabilidad, y colaborar con su equipo en un solo lugar. Incluye funcionalidades como asignación de tareas, seguimiento del tiempo y generación de informes.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-15T09:56:34.826364"
     }
   ],
   "nombres_usados": [
@@ -3529,6 +3536,7 @@
     "MarketingAuto",
     "Socialify",
     "HomeMate",
-    "Financa"
+    "Financa",
+    "ProjectBuddy"
   ]
 }

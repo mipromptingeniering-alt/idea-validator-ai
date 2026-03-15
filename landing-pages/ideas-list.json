@@ -16,6 +16,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260315092635",
+    "nombre": "Financa",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma sencilla de gestión financiera diseñada específicamente para freelancers y pequeñas empresas....",
+    "score": 78,
+    "landing_url": "IDEA-20260315092635.html"
+  },
+  {
     "id": "IDEA-20260312092653",
     "nombre": "MindConnect",
     "tipo": "SaaS",
