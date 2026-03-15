@@ -3072,6 +3072,13 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-03-15T07:34:36.852534"
+    },
+    {
+      "nombre": "HomeMate",
+      "descripcion": "HomeMate permite a los propietarios de viviendas gestionar el mantenimiento y las reparaciones de manera eficiente. Los usuarios pueden crear un calendario de mantenimiento, recibir notificaciones para tareas pendientes, y acceder a profesionales de servicios de confianza en su área. Además, la app ofrece recomendaciones personalizadas basadas en el historial del hogar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-15T08:04:25.702620"
     }
   ],
   "nombres_usados": [
@@ -3513,6 +3520,7 @@
     "EasyProject",
     "EasySocial Manager",
     "MarketingAuto",
-    "Socialify"
+    "Socialify",
+    "HomeMate"
   ]
 }
