@@ -168,6 +168,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260315133359",
+    "nombre": "SocialBuddy",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de redes sociales diseñada para pequeños y medianos negocios, que combina programación de publicaciones y análisis de rendi...",
+    "score": 75,
+    "landing_url": "IDEA-20260315133359.html"
+  },
+  {
     "id": "IDEA-20260315123439",
     "nombre": "SimpleCRM",
     "tipo": "SaaS",

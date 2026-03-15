@@ -3121,6 +3121,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-15T13:33:59.309923"
+    },
+    {
+      "nombre": "LifeMaster",
+      "descripcion": "LifeMaster permite a los usuarios gestionar todas sus actividades diarias desde un único lugar, integrando recordatorios, seguimiento de hábitos, y un calendario personal. La herramienta utiliza inteligencia artificial para ajustar y priorizar tareas basándose en las preferencias y hábitos del usuario.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-15T14:06:44.360156"
     }
   ],
   "nombres_usados": [
@@ -3569,6 +3576,7 @@
     "DashInsights",
     "TaskSprint",
     "SimpleCRM",
-    "SocialBuddy"
+    "SocialBuddy",
+    "LifeMaster"
   ]
 }
