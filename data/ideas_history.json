@@ -3261,6 +3261,13 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-03-16T04:20:49.000380"
+    },
+    {
+      "nombre": "TaskConnect",
+      "descripcion": "TaskConnect permitirá a los equipos gestionar sus tareas diarias mientras se comunican en tiempo real, integrando calendarios, listas de tareas y chats en una única aplicación. Esto facilitará un flujo de trabajo más eficiente y reducirá el estrés asociado con la gestión del tiempo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-16T06:02:42.533773"
     }
   ],
   "nombres_usados": [
@@ -3729,6 +3736,7 @@
     "Taskify",
     "EasyProManage",
     "StudySync",
-    "SocialLocal"
+    "SocialLocal",
+    "TaskConnect"
   ]
 }

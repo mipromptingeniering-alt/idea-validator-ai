@@ -16,6 +16,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260316042048",
+    "nombre": "SocialLocal",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que ayuda a pequeños emprendedores a gestionar sus redes sociales automáticamente, con contenido personalizado basado en eventos locale...",
+    "score": 78,
+    "landing_url": "IDEA-20260316042048.html"
+  },
+  {
     "id": "IDEA-20260315152154",
     "nombre": "MarketSync",
     "tipo": "SaaS",
