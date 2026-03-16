@@ -200,6 +200,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260316225059",
+    "nombre": "Financiera Freemium",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión financiera que combina facturación, seguimiento de gastos y reportes financieros, diseñada específicamente para freelancers ...",
+    "score": 75,
+    "landing_url": "IDEA-20260316225059.html"
+  },
+  {
     "id": "IDEA-20260316220622",
     "nombre": "ProdLogix",
     "tipo": "SaaS",

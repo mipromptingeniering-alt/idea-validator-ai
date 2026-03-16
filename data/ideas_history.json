@@ -3352,6 +3352,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-16T22:50:59.159829"
+    },
+    {
+      "nombre": "Digital Mentor",
+      "descripcion": "Digital Mentor es una plataforma SaaS que ofrece cursos interactivos sobre herramientas digitales esenciales, acompañados de herramientas prácticas que permiten a los usuarios aplicar lo aprendido directamente en sus negocios. Además, cuenta con una comunidad donde los usuarios pueden compartir experiencias y soluciones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-16T23:24:46.920625"
     }
   ],
   "nombres_usados": [
@@ -3833,6 +3840,7 @@
     "CashFlow Smart",
     "EmpreSaaS",
     "ProdLogix",
-    "Financiera Freemium"
+    "Financiera Freemium",
+    "Digital Mentor"
   ]
 }
