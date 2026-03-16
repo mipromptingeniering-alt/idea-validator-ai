@@ -3303,6 +3303,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-16T14:05:08.162742"
+    },
+    {
+      "nombre": "FinTrack",
+      "descripcion": "FinTrack permite a los usuarios conectar sus cuentas bancarias y automáticamente clasificar transacciones en categorías personalizables, generar reportes y ofrecer recomendaciones financieras personalizadas a partir del análisis de datos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-16T15:21:58.067491"
     }
   ],
   "nombres_usados": [
@@ -3777,6 +3784,7 @@
     "FocusTime",
     "ContentConnect",
     "ContentHub Pro",
-    "Equilibra"
+    "Equilibra",
+    "FinTrack"
   ]
 }
