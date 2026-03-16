@@ -3275,6 +3275,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-16T09:57:27.411117"
+    },
+    {
+      "nombre": "FocusTime",
+      "descripcion": "FocusTime permite a los usuarios planificar su jornada laboral, establecer metas diarias y semanales, y realizar un seguimiento de su tiempo de manera efectiva. Además, incorpora elementos de gamificación, donde los usuarios pueden ganar recompensas virtuales por completar tareas y mantener su productividad.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-03-16T10:49:55.785727"
     }
   ],
   "nombres_usados": [
@@ -3745,6 +3752,7 @@
     "StudySync",
     "SocialLocal",
     "TaskConnect",
-    "FileMaster"
+    "FileMaster",
+    "FocusTime"
   ]
 }

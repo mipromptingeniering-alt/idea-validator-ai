@@ -192,6 +192,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260316095727",
+    "nombre": "FileMaster",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de archivos multimedia que organiza, etiqueta y permite la colaboración en tiempo real para creativos....",
+    "score": 75,
+    "landing_url": "IDEA-20260316095727.html"
+  },
+  {
     "id": "IDEA-20260316060242",
     "nombre": "TaskConnect",
     "tipo": "SaaS",
