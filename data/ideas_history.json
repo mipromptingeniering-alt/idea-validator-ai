@@ -3331,6 +3331,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-16T20:05:42.428607"
+    },
+    {
+      "nombre": "EmpreSaaS",
+      "descripcion": "EmpreSaaS es una plataforma diseñada para pequeños y medianos emprendedores que desean establecer su presencia en línea sin la necesidad de conocimientos técnicos avanzados. La herramienta permite crear sitios web optimizados, ejecutar campañas de marketing y gestionar tiendas en línea de manera fácil y eficiente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-16T20:56:53.078898"
     }
   ],
   "nombres_usados": [
@@ -3809,6 +3816,7 @@
     "FinTrack",
     "FocusWell",
     "LearnPath",
-    "CashFlow Smart"
+    "CashFlow Smart",
+    "EmpreSaaS"
   ]
 }

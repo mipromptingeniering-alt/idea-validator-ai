@@ -200,6 +200,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260316200542",
+    "nombre": "CashFlow Smart",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de flujo de caja que utiliza inteligencia artificial para ayudar a las PYMEs a predecir sus necesidades financieras y optimi...",
+    "score": 75,
+    "landing_url": "IDEA-20260316200542.html"
+  },
+  {
     "id": "IDEA-20260316194019",
     "nombre": "LearnPath",
     "tipo": "SaaS",
