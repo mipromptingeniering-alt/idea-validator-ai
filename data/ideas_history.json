@@ -3254,6 +3254,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-16T01:29:11.000080"
+    },
+    {
+      "nombre": "SocialLocal",
+      "descripcion": "SocialLocal es una herramienta que permite a los emprendedores programar publicaciones en redes sociales y obtener sugerencias de contenido en función de eventos y festividades locales. Con una interfaz intuitiva, los usuarios pueden seleccionar eventos relevantes para su negocio y la plataforma generará automáticamente publicaciones atractivas.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-03-16T04:20:49.000380"
     }
   ],
   "nombres_usados": [
@@ -3721,6 +3728,7 @@
     "CashFlowWise",
     "Taskify",
     "EasyProManage",
-    "StudySync"
+    "StudySync",
+    "SocialLocal"
   ]
 }

@@ -184,6 +184,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260316012910",
+    "nombre": "StudySync",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo diseñada específicamente para estudiantes universitarios que integra recordatorios y planificación académica....",
+    "score": 75,
+    "landing_url": "IDEA-20260316012910.html"
+  },
+  {
     "id": "IDEA-20260315235106",
     "nombre": "EasyProManage",
     "tipo": "SaaS",
