@@ -200,6 +200,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260316194019",
+    "nombre": "LearnPath",
+    "tipo": "SaaS",
+    "resumen": "Un sistema de itinerarios de aprendizaje personalizados que utiliza IA para guiar a los usuarios en su proceso de aprendizaje y desarrollo de habilida...",
+    "score": 75,
+    "landing_url": "IDEA-20260316194019.html"
+  },
+  {
     "id": "IDEA-20260316174237",
     "nombre": "FocusWell",
     "tipo": "SaaS",

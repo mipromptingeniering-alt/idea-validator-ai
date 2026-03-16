@@ -3324,6 +3324,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-16T19:40:19.940997"
+    },
+    {
+      "nombre": "CashFlow Smart",
+      "descripcion": "CashFlow Smart es una herramienta de gestión financiera que permite a las PYMEs visualizar su flujo de caja en tiempo real, recibir alertas sobre necesidades de liquidez y obtener recomendaciones personalizadas para optimizar sus finanzas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-16T20:05:42.428607"
     }
   ],
   "nombres_usados": [
@@ -3801,6 +3808,7 @@
     "Equilibra",
     "FinTrack",
     "FocusWell",
-    "LearnPath"
+    "LearnPath",
+    "CashFlow Smart"
   ]
 }
