@@ -192,6 +192,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260316060242",
+    "nombre": "TaskConnect",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que combina la gestión de tareas y la comunicación en equipo para entornos laborales remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260316060242.html"
+  },
+  {
     "id": "IDEA-20260316012910",
     "nombre": "StudySync",
     "tipo": "SaaS",

@@ -3268,6 +3268,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-16T06:02:42.533773"
+    },
+    {
+      "nombre": "FileMaster",
+      "descripcion": "FileMaster usa inteligencia artificial para ayudar a los creativos a organizar y gestionar sus archivos multimedia. Con funciones de etiquetado automático, búsqueda avanzada y colaboración en tiempo real, facilita el trabajo en equipo y mejora la eficiencia en proyectos creativos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-16T09:57:27.411117"
     }
   ],
   "nombres_usados": [
@@ -3737,6 +3744,7 @@
     "EasyProManage",
     "StudySync",
     "SocialLocal",
-    "TaskConnect"
+    "TaskConnect",
+    "FileMaster"
   ]
 }
