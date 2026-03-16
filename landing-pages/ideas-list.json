@@ -200,6 +200,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260316152157",
+    "nombre": "FinTrack",
+    "tipo": "SaaS",
+    "resumen": "FinTrack es una herramienta de gestión financiera diseñada para freelancers y pequeñas empresas, que simplifica el seguimiento de ingresos y gastos me...",
+    "score": 75,
+    "landing_url": "IDEA-20260316152157.html"
+  },
+  {
     "id": "IDEA-20260316140508",
     "nombre": "Equilibra",
     "tipo": "SaaS",

@@ -3310,6 +3310,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-16T15:21:58.067491"
+    },
+    {
+      "nombre": "FocusWell",
+      "descripcion": "FocusWell ofrece herramientas para planificar el día, establecer metas, y pausas programadas para mejorar el bienestar mental y físico, además de un seguimiento de la productividad y el estado emocional del usuario.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-16T17:42:37.661003"
     }
   ],
   "nombres_usados": [
@@ -3785,6 +3792,7 @@
     "ContentConnect",
     "ContentHub Pro",
     "Equilibra",
-    "FinTrack"
+    "FinTrack",
+    "FocusWell"
   ]
 }
