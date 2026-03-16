@@ -3344,6 +3344,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260316114107",
+    "nombre": "ContentConnect",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS que centraliza la gestión de contenido y la interacción con la audiencia para creadores y emprendedores....",
+    "score": 70,
+    "landing_url": "IDEA-20260316114107.html"
+  },
+  {
     "id": "IDEA-20260315144923",
     "nombre": "TimeSnap",
     "tipo": "SaaS",

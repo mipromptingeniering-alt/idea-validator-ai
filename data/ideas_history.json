@@ -3289,6 +3289,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-16T11:41:07.678613"
+    },
+    {
+      "nombre": "ContentHub Pro",
+      "descripcion": "ContentHub Pro es una herramienta diseñada para creadores de contenido que buscan maximizar su producción y monetización. Permite gestionar fácilmente el contenido en múltiples plataformas, analizar el rendimiento en tiempo real y activar opciones de monetización, como suscripciones y ventas de productos digitales, desde un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-16T12:35:48.049581"
     }
   ],
   "nombres_usados": [
@@ -3761,6 +3768,7 @@
     "TaskConnect",
     "FileMaster",
     "FocusTime",
-    "ContentConnect"
+    "ContentConnect",
+    "ContentHub Pro"
   ]
 }
