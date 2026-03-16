@@ -3282,6 +3282,13 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-03-16T10:49:55.785727"
+    },
+    {
+      "nombre": "ContentConnect",
+      "descripcion": "ContentConnect permite a los usuarios gestionar su contenido a través de diversas plataformas desde un único dashboard, ofreciéndoles análisis de rendimiento y recomendaciones personalizadas basadas en la interacción de la audiencia. Integraciones con redes sociales, análisis de rendimiento, y herramientas de optimización de contenido.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-16T11:41:07.678613"
     }
   ],
   "nombres_usados": [
@@ -3753,6 +3760,7 @@
     "SocialLocal",
     "TaskConnect",
     "FileMaster",
-    "FocusTime"
+    "FocusTime",
+    "ContentConnect"
   ]
 }
