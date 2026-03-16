@@ -200,6 +200,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260316232446",
+    "nombre": "Digital Mentor",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de aprendizaje interactivo y herramientas prácticas para ayudar a pequeñas empresas a integrar soluciones digitales....",
+    "score": 75,
+    "landing_url": "IDEA-20260316232446.html"
+  },
+  {
     "id": "IDEA-20260316225059",
     "nombre": "Financiera Freemium",
     "tipo": "SaaS",

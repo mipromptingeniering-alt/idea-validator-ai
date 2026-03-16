@@ -3359,6 +3359,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-16T23:24:46.920625"
+    },
+    {
+      "nombre": "AdEasy",
+      "descripcion": "Con AdEasy, los usuarios pueden crear y gestionar campañas publicitarias en múltiples canales como redes sociales, Google Ads y más, utilizando plantillas personalizables y un sistema de arrastrar y soltar. Además, ofrecen asistencia en tiempo real y tutoriales integrados para facilitar la experiencia.",
+      "tipo": "SaaS",
+      "score": 76,
+      "fecha": "2026-03-16T23:50:38.314529"
     }
   ],
   "nombres_usados": [
@@ -3841,6 +3848,7 @@
     "EmpreSaaS",
     "ProdLogix",
     "Financiera Freemium",
-    "Digital Mentor"
+    "Digital Mentor",
+    "AdEasy"
   ]
 }
