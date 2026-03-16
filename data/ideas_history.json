@@ -3247,6 +3247,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-15T23:51:06.372870"
+    },
+    {
+      "nombre": "StudySync",
+      "descripcion": "StudySync es una herramienta que ayuda a los estudiantes a organizar sus tareas y horarios de clase, ofreciendo recordatorios automáticos y sugerencias de técnicas de estudio basadas en el rendimiento del usuario. La plataforma permite a los estudiantes visualizar su carga de trabajo y optimizar su tiempo para maximizar el rendimiento académico.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-16T01:29:11.000080"
     }
   ],
   "nombres_usados": [
@@ -3713,6 +3720,7 @@
     "Taskify AI",
     "CashFlowWise",
     "Taskify",
-    "EasyProManage"
+    "EasyProManage",
+    "StudySync"
   ]
 }

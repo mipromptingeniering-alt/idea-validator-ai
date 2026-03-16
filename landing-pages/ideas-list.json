@@ -184,6 +184,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260315235106",
+    "nombre": "EasyProManage",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de proyectos en la nube diseñada específicamente para pequeñas y medianas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260315235106.html"
+  },
+  {
     "id": "IDEA-20260315232108",
     "nombre": "Taskify",
     "tipo": "SaaS",
