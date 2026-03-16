@@ -3345,6 +3345,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-16T22:06:22.248868"
+    },
+    {
+      "nombre": "Financiera Freemium",
+      "descripcion": "Financiera Freemium permite a los usuarios crear y enviar facturas, registrar gastos, y generar reportes financieros en una única plataforma fácil de usar. Ofrece una combinación de funcionalidades gratuitas y premium, asegurando accesibilidad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-16T22:50:59.159829"
     }
   ],
   "nombres_usados": [
@@ -3825,6 +3832,7 @@
     "LearnPath",
     "CashFlow Smart",
     "EmpreSaaS",
-    "ProdLogix"
+    "ProdLogix",
+    "Financiera Freemium"
   ]
 }
