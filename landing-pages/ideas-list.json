@@ -200,6 +200,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260316205652",
+    "nombre": "EmpreSaaS",
+    "tipo": "SaaS",
+    "resumen": "Plataforma todo en uno para emprendedores que combina creación de sitios web, SEO y herramientas de marketing digital....",
+    "score": 75,
+    "landing_url": "IDEA-20260316205652.html"
+  },
+  {
     "id": "IDEA-20260316200542",
     "nombre": "CashFlow Smart",
     "tipo": "SaaS",

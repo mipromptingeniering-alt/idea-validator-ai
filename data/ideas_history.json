@@ -3338,6 +3338,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-16T20:56:53.078898"
+    },
+    {
+      "nombre": "ProdLogix",
+      "descripcion": "ProdLogix es un software que permite a las PYMES gestionar su producción y logística de manera eficiente, con herramientas de análisis de datos que ayudan a tomar decisiones informadas y optimizar recursos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-16T22:06:22.248868"
     }
   ],
   "nombres_usados": [
@@ -3817,6 +3824,7 @@
     "FocusWell",
     "LearnPath",
     "CashFlow Smart",
-    "EmpreSaaS"
+    "EmpreSaaS",
+    "ProdLogix"
   ]
 }
