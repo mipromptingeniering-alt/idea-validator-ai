@@ -3317,6 +3317,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-16T17:42:37.661003"
+    },
+    {
+      "nombre": "LearnPath",
+      "descripcion": "LearnPath ofrece a los usuarios un recorrido personalizado para adquirir nuevas habilidades en línea, adaptando los cursos, artículos y videos a sus preferencias y ritmo. La plataforma incluye un sistema de seguimiento de progreso y sugerencias basadas en el comportamiento del usuario.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-16T19:40:19.940997"
     }
   ],
   "nombres_usados": [
@@ -3793,6 +3800,7 @@
     "ContentHub Pro",
     "Equilibra",
     "FinTrack",
-    "FocusWell"
+    "FocusWell",
+    "LearnPath"
   ]
 }

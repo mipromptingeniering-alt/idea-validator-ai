@@ -200,6 +200,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260316174237",
+    "nombre": "FocusWell",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que combina la gestión del tiempo y el bienestar emocional para trabajadores remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260316174237.html"
+  },
+  {
     "id": "IDEA-20260316152157",
     "nombre": "FinTrack",
     "tipo": "SaaS",
