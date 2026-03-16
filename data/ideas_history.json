@@ -3296,6 +3296,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-16T12:35:48.049581"
+    },
+    {
+      "nombre": "Equilibra",
+      "descripcion": "Equilibra es una plataforma que permite a los usuarios planificar su día de manera efectiva, estableciendo límites claros entre el trabajo y la vida personal, y ofreciendo recordatorios para hacer pausas y practicar mindfulness. La aplicación también incluye análisis de rendimiento y bienestar para que los usuarios puedan ajustar su rutina diaria.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-16T14:05:08.162742"
     }
   ],
   "nombres_usados": [
@@ -3769,6 +3776,7 @@
     "FileMaster",
     "FocusTime",
     "ContentConnect",
-    "ContentHub Pro"
+    "ContentHub Pro",
+    "Equilibra"
   ]
 }
