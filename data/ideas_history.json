@@ -3471,6 +3471,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-17T22:51:40.202482"
+    },
+    {
+      "nombre": "AdminMaster",
+      "descripcion": "AdminMaster es una solución SaaS que permite a pequeñas y medianas empresas gestionar sus tareas administrativas, campañas de marketing digital y análisis de rendimiento desde una única plataforma, optimizando recursos y simplificando procesos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-17T23:25:25.846297"
     }
   ],
   "nombres_usados": [
@@ -3969,6 +3976,7 @@
     "FactuGenio",
     "SME Chat Assist",
     "ContentPulse",
-    "MindEase"
+    "MindEase",
+    "AdminMaster"
   ]
 }
