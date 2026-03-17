@@ -3401,6 +3401,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-17T11:09:17.512788"
+    },
+    {
+      "nombre": "Balancea",
+      "descripcion": "Balancea ayuda a los usuarios a gestionar sus tareas diarias mientras promueve prácticas de bienestar. Ofrece una interfaz intuitiva para planificar y priorizar tareas, y a la vez, incorpora recordatorios para pausas activas, ejercicios de respiración, y actividades de autocuidado.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-17T11:54:28.677004"
     }
   ],
   "nombres_usados": [
@@ -3889,6 +3896,7 @@
     "MedManage",
     "FinPlanify",
     "EasyBooks",
-    "SocialMatic"
+    "SocialMatic",
+    "Balancea"
   ]
 }
