@@ -3422,6 +3422,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-17T14:15:45.907386"
+    },
+    {
+      "nombre": "SocialSense",
+      "descripcion": "SocialSense permite a pequeñas empresas y emprendedores gestionar sus cuentas de redes sociales de manera sencilla, programar publicaciones, y recibir análisis de sentimiento sobre el contenido que publican. Esto les ayuda a optimizar su estrategia de contenido y mejorar su relación con los seguidores.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-17T16:37:50.195192"
     }
   ],
   "nombres_usados": [
@@ -3913,6 +3920,7 @@
     "SocialMatic",
     "Balancea",
     "DigiMakers",
-    "DecideMe"
+    "DecideMe",
+    "SocialSense"
   ]
 }

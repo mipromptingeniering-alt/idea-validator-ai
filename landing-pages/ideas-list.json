@@ -208,6 +208,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260317141545",
+    "nombre": "DecideMe",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que utiliza el análisis de datos y técnicas gamificadas para ayudar a las personas a tomar decisiones más acertadas y con menos estrés....",
+    "score": 75,
+    "landing_url": "IDEA-20260317141545.html"
+  },
+  {
     "id": "IDEA-20260317125025",
     "nombre": "DigiMakers",
     "tipo": "SaaS",
