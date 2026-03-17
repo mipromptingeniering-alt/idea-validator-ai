@@ -3436,6 +3436,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-17T17:41:43.616180"
+    },
+    {
+      "nombre": "TaskVision",
+      "descripcion": "TaskVision ayuda a los equipos a organizar y priorizar tareas de manera visual y colaborativa. Los usuarios pueden crear tableros visuales personalizables que permiten ver rápidamente el estado de cada tarea, su prioridad y quién está a cargo. La integración con otras herramientas de comunicación permite un flujo de trabajo más fluido.",
+      "tipo": "SaaS",
+      "score": 68,
+      "fecha": "2026-03-17T18:37:20.121634"
     }
   ],
   "nombres_usados": [
@@ -3929,6 +3936,7 @@
     "DigiMakers",
     "DecideMe",
     "SocialSense",
-    "TaskFusion"
+    "TaskFusion",
+    "TaskVision"
   ]
 }

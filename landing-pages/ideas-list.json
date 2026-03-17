@@ -208,6 +208,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260317174143",
+    "nombre": "TaskFusion",
+    "tipo": "SaaS",
+    "resumen": "Un software que integra gestión de tareas, comunicación y colaboración en un entorno de trabajo unificado....",
+    "score": 75,
+    "landing_url": "IDEA-20260317174143.html"
+  },
+  {
     "id": "IDEA-20260317163750",
     "nombre": "SocialSense",
     "tipo": "SaaS",
