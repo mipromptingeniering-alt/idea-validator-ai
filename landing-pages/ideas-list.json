@@ -3464,6 +3464,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260317115428",
+    "nombre": "Balancea",
+    "tipo": "SaaS",
+    "resumen": "Aplicación de gestión del tiempo que integra tareas y autocuidado para una vida equilibrada....",
+    "score": 70,
+    "landing_url": "IDEA-20260317115428.html"
+  },
+  {
     "id": "IDEA-20260317082905",
     "nombre": "EasyBooks",
     "tipo": "SaaS",

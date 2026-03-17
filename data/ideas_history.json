@@ -3408,6 +3408,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-17T11:54:28.677004"
+    },
+    {
+      "nombre": "DigiMakers",
+      "descripcion": "DigiMakers permite a las pequeñas y medianas empresas crear sitios web, gestionar redes sociales y realizar campañas de marketing digital de forma sencilla, obteniendo herramientas integradas que facilitan la digitalización sin necesidad de conocimientos técnicos avanzados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-17T12:50:25.226825"
     }
   ],
   "nombres_usados": [
@@ -3897,6 +3904,7 @@
     "FinPlanify",
     "EasyBooks",
     "SocialMatic",
-    "Balancea"
+    "Balancea",
+    "DigiMakers"
   ]
 }
