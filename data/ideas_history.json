@@ -3415,6 +3415,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-17T12:50:25.226825"
+    },
+    {
+      "nombre": "DecideMe",
+      "descripcion": "DecideMe ofrece un espacio interactivo donde los usuarios pueden evaluar diferentes opciones, recibir retroalimentación personalizada y gamificar el proceso de toma de decisiones. La plataforma ayuda a visualizar pros y contras, a establecer prioridades y a tomar decisiones de manera más clara y efectiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-17T14:15:45.907386"
     }
   ],
   "nombres_usados": [
@@ -3905,6 +3912,7 @@
     "EasyBooks",
     "SocialMatic",
     "Balancea",
-    "DigiMakers"
+    "DigiMakers",
+    "DecideMe"
   ]
 }

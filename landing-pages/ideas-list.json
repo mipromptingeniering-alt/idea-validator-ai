@@ -208,6 +208,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260317125025",
+    "nombre": "DigiMakers",
+    "tipo": "SaaS",
+    "resumen": "Plataforma todo en uno para ayudar a las PYMES a establecer y gestionar su presencia digital....",
+    "score": 75,
+    "landing_url": "IDEA-20260317125025.html"
+  },
+  {
     "id": "IDEA-20260317110917",
     "nombre": "SocialMatic",
     "tipo": "SaaS",
