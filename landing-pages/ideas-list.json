@@ -208,6 +208,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260317051838",
+    "nombre": "AdInsight",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma centralizada que ofrece análisis en tiempo real del rendimiento de campañas publicitarias en múltiples plataformas....",
+    "score": 75,
+    "landing_url": "IDEA-20260317051838.html"
+  },
+  {
     "id": "IDEA-20260316232446",
     "nombre": "Digital Mentor",
     "tipo": "SaaS",

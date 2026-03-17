@@ -3373,6 +3373,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-17T05:18:38.731630"
+    },
+    {
+      "nombre": "MedManage",
+      "descripcion": "MedManage es una plataforma que permite a médicos y terapeutas gestionar sus citas de forma eficiente, enviando recordatorios automáticos a sus pacientes y ofreciendo análisis sobre horarios y disponibilidad. Esta herramienta ayudará a reducir las ausencias, mejorar la satisfacción del paciente y aumentar la productividad del profesional.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-17T06:37:34.474953"
     }
   ],
   "nombres_usados": [
@@ -3857,6 +3864,7 @@
     "Financiera Freemium",
     "Digital Mentor",
     "AdEasy",
-    "AdInsight"
+    "AdInsight",
+    "MedManage"
   ]
 }
