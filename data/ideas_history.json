@@ -3450,6 +3450,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-17T19:40:32.483980"
+    },
+    {
+      "nombre": "SME Chat Assist",
+      "descripcion": "SME Chat Assist es una solución SaaS que permite a las PYMES gestionar sus comunicaciones con los clientes a través de diferentes plataformas de mensajería, con herramientas de automatización y análisis de datos, todo en una interfaz sencilla y amigable.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-17T20:08:19.167382"
     }
   ],
   "nombres_usados": [
@@ -3945,6 +3952,7 @@
     "SocialSense",
     "TaskFusion",
     "TaskVision",
-    "FactuGenio"
+    "FactuGenio",
+    "SME Chat Assist"
   ]
 }
