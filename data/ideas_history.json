@@ -3366,6 +3366,13 @@
       "tipo": "SaaS",
       "score": 76,
       "fecha": "2026-03-16T23:50:38.314529"
+    },
+    {
+      "nombre": "AdInsight",
+      "descripcion": "AdInsight permite a los marketers digital tener una visión holística de su rendimiento publicitario, integrando datos de diversas fuentes y proporcionando análisis en tiempo real para optimizar campañas y maximizar el retorno de inversión.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-17T05:18:38.731630"
     }
   ],
   "nombres_usados": [
@@ -3849,6 +3856,7 @@
     "ProdLogix",
     "Financiera Freemium",
     "Digital Mentor",
-    "AdEasy"
+    "AdEasy",
+    "AdInsight"
   ]
 }
