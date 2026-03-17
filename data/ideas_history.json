@@ -3387,6 +3387,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-17T07:40:29.501689"
+    },
+    {
+      "nombre": "EasyBooks",
+      "descripcion": "EasyBooks es una plataforma en línea que permite a las pequeñas empresas gestionar su contabilidad, facturación y seguimiento de gastos de manera sencilla y económica. Se enfoca en facilitar la comprensión de los datos financieros con una interfaz amigable y reportes visuales intuitivos.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-17T08:29:05.708823"
     }
   ],
   "nombres_usados": [
@@ -3873,6 +3880,7 @@
     "AdEasy",
     "AdInsight",
     "MedManage",
-    "FinPlanify"
+    "FinPlanify",
+    "EasyBooks"
   ]
 }
