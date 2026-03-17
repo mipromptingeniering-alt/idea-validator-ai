@@ -208,6 +208,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260317163750",
+    "nombre": "SocialSense",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de redes sociales que utiliza inteligencia artificial para analizar el sentimiento de las publicaciones y mejorar el engage...",
+    "score": 75,
+    "landing_url": "IDEA-20260317163750.html"
+  },
+  {
     "id": "IDEA-20260317141545",
     "nombre": "DecideMe",
     "tipo": "SaaS",

@@ -3429,6 +3429,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-17T16:37:50.195192"
+    },
+    {
+      "nombre": "TaskFusion",
+      "descripcion": "TaskFusion permite a los equipos gestionar sus tareas, comunicarse y colaborar en un solo lugar, eliminando la necesidad de múltiples aplicaciones. Incluye herramientas de planificación de proyectos, chat en tiempo real, y un tablero visual que ayuda a llevar un seguimiento claro del progreso.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-17T17:41:43.616180"
     }
   ],
   "nombres_usados": [
@@ -3921,6 +3928,7 @@
     "Balancea",
     "DigiMakers",
     "DecideMe",
-    "SocialSense"
+    "SocialSense",
+    "TaskFusion"
   ]
 }
