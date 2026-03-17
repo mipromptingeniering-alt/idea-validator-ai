@@ -3464,6 +3464,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-17T22:05:33.556182"
+    },
+    {
+      "nombre": "MindEase",
+      "descripcion": "MindEase es una aplicación que combina técnicas de meditación, ejercicios de respiración y terapia cognitivo-conductual. Los usuarios pueden registrar su estado de ánimo a diario, y la aplicación adapta las recomendaciones en función de su retroalimentación para proporcionar una experiencia personalizada y efectiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-17T22:51:40.202482"
     }
   ],
   "nombres_usados": [
@@ -3961,6 +3968,7 @@
     "TaskVision",
     "FactuGenio",
     "SME Chat Assist",
-    "ContentPulse"
+    "ContentPulse",
+    "MindEase"
   ]
 }
