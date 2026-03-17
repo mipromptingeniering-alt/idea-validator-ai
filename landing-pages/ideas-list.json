@@ -208,6 +208,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260317063734",
+    "nombre": "MedManage",
+    "tipo": "SaaS",
+    "resumen": "Software de gestión de citas para profesionales de la salud que optimiza la agenda y mejora la experiencia del paciente....",
+    "score": 75,
+    "landing_url": "IDEA-20260317063734.html"
+  },
+  {
     "id": "IDEA-20260317051838",
     "nombre": "AdInsight",
     "tipo": "SaaS",

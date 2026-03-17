@@ -3380,6 +3380,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-17T06:37:34.474953"
+    },
+    {
+      "nombre": "FinPlanify",
+      "descripcion": "FinPlanify es una herramienta que ayuda a los usuarios a establecer y alcanzar metas financieras a través de un enfoque fácil de usar, ofreciendo contenido educativo gamificado, visualizaciones interactivas y recordatorios personalizados. Los usuarios pueden crear una visión clara de sus finanzas, realizar un seguimiento de sus gastos y aprender sobre cómo optimizar su ahorro.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-17T07:40:29.501689"
     }
   ],
   "nombres_usados": [
@@ -3865,6 +3872,7 @@
     "Digital Mentor",
     "AdEasy",
     "AdInsight",
-    "MedManage"
+    "MedManage",
+    "FinPlanify"
   ]
 }
