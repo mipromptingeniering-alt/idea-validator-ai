@@ -3456,6 +3456,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260317082905",
+    "nombre": "EasyBooks",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de contabilidad y gestión financiera para pequeñas empresas que simplifica tareas administrativas....",
+    "score": 70,
+    "landing_url": "IDEA-20260317082905.html"
+  },
+  {
     "id": "IDEA-20260316114107",
     "nombre": "ContentConnect",
     "tipo": "SaaS",

@@ -3394,6 +3394,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-17T08:29:05.708823"
+    },
+    {
+      "nombre": "SocialMatic",
+      "descripcion": "SocialMatic permite a las pymes gestionar y optimizar su presencia en redes sociales de manera simple e intuitiva. Con un enfoque en la automatización, la plataforma ayuda a programar publicaciones, analizar el rendimiento y recibir recomendaciones personalizadas, todo en un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-17T11:09:17.512788"
     }
   ],
   "nombres_usados": [
@@ -3881,6 +3888,7 @@
     "AdInsight",
     "MedManage",
     "FinPlanify",
-    "EasyBooks"
+    "EasyBooks",
+    "SocialMatic"
   ]
 }
