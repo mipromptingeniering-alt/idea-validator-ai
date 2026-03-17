@@ -3478,6 +3478,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-17T23:25:25.846297"
+    },
+    {
+      "nombre": "AccountEasy",
+      "descripcion": "AccountEasy es una solución de contabilidad en línea que permite a las pequeñas y medianas empresas manejar sus finanzas sin complicaciones. Ofrece herramientas intuitivas para la gestión de facturas, conciliaciones bancarias y reportes financieros, así como integración con otras aplicaciones de gestión empresarial.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-17T23:53:05.732811"
     }
   ],
   "nombres_usados": [
@@ -3977,6 +3984,7 @@
     "SME Chat Assist",
     "ContentPulse",
     "MindEase",
-    "AdminMaster"
+    "AdminMaster",
+    "AccountEasy"
   ]
 }
