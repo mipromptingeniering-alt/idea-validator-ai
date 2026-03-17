@@ -3443,6 +3443,13 @@
       "tipo": "SaaS",
       "score": 68,
       "fecha": "2026-03-17T18:37:20.121634"
+    },
+    {
+      "nombre": "FactuGenio",
+      "descripcion": "FactuGenio permite a los autónomos crear facturas, gestionar gastos y recibir pagos, todo desde una plataforma intuitiva. Ofrecemos plantillas personalizables y la posibilidad de integrarse con sistemas contables populares, lo que facilita la gestión financiera.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-17T19:40:32.483980"
     }
   ],
   "nombres_usados": [
@@ -3937,6 +3944,7 @@
     "DecideMe",
     "SocialSense",
     "TaskFusion",
-    "TaskVision"
+    "TaskVision",
+    "FactuGenio"
   ]
 }

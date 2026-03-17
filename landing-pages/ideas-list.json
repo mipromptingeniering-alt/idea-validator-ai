@@ -3944,6 +3944,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260317183720",
+    "nombre": "TaskVision",
+    "tipo": "SaaS",
+    "resumen": "TaskVision es una herramienta de gestión de tareas que permite la priorización visual de proyectos y tareas en equipos de trabajo remoto, mejorando la...",
+    "score": 68,
+    "landing_url": "IDEA-20260317183720.html"
+  },
+  {
     "id": "IDEA-20260220205759",
     "nombre": "FinOptima",
     "tipo": "SaaS",
