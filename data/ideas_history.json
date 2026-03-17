@@ -3457,6 +3457,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-17T20:08:19.167382"
+    },
+    {
+      "nombre": "ContentPulse",
+      "descripcion": "ContentPulse permite a los creadores de contenido y a las marcas analizar el rendimiento de sus publicaciones en tiempo real, comparar métricas entre diferentes plataformas y obtener recomendaciones para mejorar su estrategia de contenido.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-17T22:05:33.556182"
     }
   ],
   "nombres_usados": [
@@ -3953,6 +3960,7 @@
     "TaskFusion",
     "TaskVision",
     "FactuGenio",
-    "SME Chat Assist"
+    "SME Chat Assist",
+    "ContentPulse"
   ]
 }

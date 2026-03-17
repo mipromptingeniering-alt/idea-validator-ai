@@ -208,6 +208,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260317200819",
+    "nombre": "SME Chat Assist",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de atención al cliente diseñada para pequeñas y medianas empresas, que integra múltiples canales de comunicación en un solo lugar....",
+    "score": 75,
+    "landing_url": "IDEA-20260317200819.html"
+  },
+  {
     "id": "IDEA-20260317194032",
     "nombre": "FactuGenio",
     "tipo": "SaaS",
