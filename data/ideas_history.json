@@ -3576,6 +3576,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-18T17:54:34.979247"
+    },
+    {
+      "nombre": "ClientEase",
+      "descripcion": "ClientEase ofrece un conjunto de herramientas para gestionar tickets de soporte, consultas y mensajes de clientes en un solo lugar. Con funciones de chatbot que utilizan inteligencia artificial, las empresas pueden responder consultas comunes de manera automática, liberando tiempo para su personal. La plataforma incluirá análisis para que las empresas comprendan mejor sus interacciones con los clientes.",
+      "tipo": "SaaS",
+      "score": 80,
+      "fecha": "2026-03-18T19:44:08.943395"
     }
   ],
   "nombres_usados": [
@@ -4089,6 +4096,7 @@
     "NutriFit",
     "Campaña Inteligente",
     "FácilFactura",
-    "VisualBoost"
+    "VisualBoost",
+    "ClientEase"
   ]
 }
