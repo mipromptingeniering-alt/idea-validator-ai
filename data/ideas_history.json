@@ -3583,6 +3583,13 @@
       "tipo": "SaaS",
       "score": 80,
       "fecha": "2026-03-18T19:44:08.943395"
+    },
+    {
+      "nombre": "FocusCoach",
+      "descripcion": "FocusCoach es una herramienta SaaS que ayuda a los usuarios a gestionar su tiempo de manera efectiva mediante la creación de planes de trabajo personalizados. Además, ofrece sesiones de coaching virtual y motivación diaria adaptada a las necesidades del usuario, promoviendo no solo la productividad sino también el bienestar emocional.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-18T20:21:07.160372"
     }
   ],
   "nombres_usados": [
@@ -4097,6 +4104,7 @@
     "Campaña Inteligente",
     "FácilFactura",
     "VisualBoost",
-    "ClientEase"
+    "ClientEase",
+    "FocusCoach"
   ]
 }

@@ -1,5 +1,13 @@
 [
   {
+    "id": "IDEA-20260318194408",
+    "nombre": "ClientEase",
+    "tipo": "SaaS",
+    "resumen": "ClientEase es una plataforma de gestión de servicios al cliente que utiliza inteligencia artificial para ayudar a las PYMEs a mejorar sus interaccione...",
+    "score": 80,
+    "landing_url": "IDEA-20260318194408.html"
+  },
+  {
     "id": "IDEA-20260216141332",
     "nombre": "FinanciaFácil",
     "tipo": "SaaS",
