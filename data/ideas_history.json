@@ -3604,6 +3604,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-18T21:49:22.183703"
+    },
+    {
+      "nombre": "ProductivoBalance",
+      "descripcion": "ProductivoBalance es una herramienta SaaS diseñada para ayudar a los trabajadores remotos a gestionar su tiempo de manera eficaz mientras se prioriza su bienestar. La plataforma permite a los usuarios planificar su día a día, establecer pausas de descanso y ofrecer herramientas de mindfulness, además de facilitar la colaboración en equipo.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-03-18T22:26:00.260767"
     }
   ],
   "nombres_usados": [
@@ -4121,6 +4128,7 @@
     "ClientEase",
     "FocusCoach",
     "SocialLaunch",
-    "StudyScheduler"
+    "StudyScheduler",
+    "ProductivoBalance"
   ]
 }

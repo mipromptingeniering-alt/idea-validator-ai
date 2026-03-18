@@ -216,6 +216,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260318214922",
+    "nombre": "StudyScheduler",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión del tiempo diseñada para estudiantes universitarios que integra técnicas de estudio y planificación personalizada....",
+    "score": 75,
+    "landing_url": "IDEA-20260318214922.html"
+  },
+  {
     "id": "IDEA-20260318210141",
     "nombre": "SocialLaunch",
     "tipo": "SaaS",
