@@ -3432,6 +3432,14 @@
     "landing_url": "IDEA-20260216160937.html"
   },
   {
+    "id": "IDEA-20260318064340",
+    "nombre": "SociablePymes",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de redes sociales específicamente diseñada para pequeñas y medianas empresas, que simplifica la creación de contenido y la ...",
+    "score": 72,
+    "landing_url": "IDEA-20260318064340.html"
+  },
+  {
     "id": "IDEA-20260314201905",
     "nombre": "PymeMarketing",
     "tipo": "SaaS",

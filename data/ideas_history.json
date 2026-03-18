@@ -3506,6 +3506,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-03-18T06:43:40.369362"
+    },
+    {
+      "nombre": "FactuEasy",
+      "descripcion": "FactuEasy permite a los usuarios crear facturas personalizadas en minutos, automatizar recordatorios de pago y realizar seguimiento de sus finanzas, garantizando un flujo de caja más eficiente y menos estrés en la gestión de cuentas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-18T07:40:55.938512"
     }
   ],
   "nombres_usados": [
@@ -4009,6 +4016,7 @@
     "AccountEasy",
     "WellnessTime",
     "EventFlow",
-    "SociablePymes"
+    "SociablePymes",
+    "FactuEasy"
   ]
 }
