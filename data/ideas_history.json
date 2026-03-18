@@ -3492,6 +3492,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-18T01:23:28.878646"
+    },
+    {
+      "nombre": "EventFlow",
+      "descripcion": "EventFlow permite a los organizadores crear, promover y gestionar eventos de manera eficiente. Incluye herramientas para crear páginas de eventos, gestionar inscripciones, enviar recordatorios, y recopilar opiniones post-evento, todo dentro de una interfaz intuitiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-18T05:40:48.570899"
     }
   ],
   "nombres_usados": [
@@ -3993,6 +4000,7 @@
     "MindEase",
     "AdminMaster",
     "AccountEasy",
-    "WellnessTime"
+    "WellnessTime",
+    "EventFlow"
   ]
 }

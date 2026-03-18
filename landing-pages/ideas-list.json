@@ -208,6 +208,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260318012328",
+    "nombre": "WellnessTime",
+    "tipo": "SaaS",
+    "resumen": "Herramienta de gestión del tiempo que integra la salud mental y el bienestar de los empleados en su productividad....",
+    "score": 75,
+    "landing_url": "IDEA-20260318012328.html"
+  },
+  {
     "id": "IDEA-20260317232525",
     "nombre": "AdminMaster",
     "tipo": "SaaS",
