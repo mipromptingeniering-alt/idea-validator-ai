@@ -3611,6 +3611,13 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-03-18T22:26:00.260767"
+    },
+    {
+      "nombre": "TimelyTasker",
+      "descripcion": "TimelyTasker es una solución digital que permite a autónomos y pequeños emprendedores gestionar su tiempo y tareas de forma efectiva, mientras automatiza el proceso de facturación. Los usuarios pueden crear tareas, asignar tiempos estimados, hacer seguimiento del tiempo real trabajado y generar facturas automáticamente basadas en las horas trabajadas y tarifas predefinidas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-18T23:50:20.161795"
     }
   ],
   "nombres_usados": [
@@ -4129,6 +4136,7 @@
     "FocusCoach",
     "SocialLaunch",
     "StudyScheduler",
-    "ProductivoBalance"
+    "ProductivoBalance",
+    "TimelyTasker"
   ]
 }
