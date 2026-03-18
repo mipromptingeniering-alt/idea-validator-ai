@@ -208,6 +208,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260318054048",
+    "nombre": "EventFlow",
+    "tipo": "SaaS",
+    "resumen": "EventFlow es una plataforma de gestión de eventos que integra la planificación, promoción y retroalimentación en un solo lugar, optimizando la experie...",
+    "score": 75,
+    "landing_url": "IDEA-20260318054048.html"
+  },
+  {
     "id": "IDEA-20260318012328",
     "nombre": "WellnessTime",
     "tipo": "SaaS",

@@ -3499,6 +3499,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-18T05:40:48.570899"
+    },
+    {
+      "nombre": "SociablePymes",
+      "descripcion": "SociablePymes permite a los usuarios planificar, crear y analizar el rendimiento de sus publicaciones en diferentes plataformas de redes sociales. Incluye plantillas de contenido, recomendaciones de horas óptimas de publicación y un dashboard sencillo para visualizar estadísticas.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-03-18T06:43:40.369362"
     }
   ],
   "nombres_usados": [
@@ -4001,6 +4008,7 @@
     "AdminMaster",
     "AccountEasy",
     "WellnessTime",
-    "EventFlow"
+    "EventFlow",
+    "SociablePymes"
   ]
 }
