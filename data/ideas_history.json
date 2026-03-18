@@ -3590,6 +3590,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-18T20:21:07.160372"
+    },
+    {
+      "nombre": "SocialLaunch",
+      "descripcion": "SocialLaunch permite a las pequeñas empresas programar sus publicaciones en múltiples plataformas, realizar un seguimiento del rendimiento de sus campañas y obtener recomendaciones personalizadas para mejorar su alcance y engagement, todo desde una sencilla interfaz.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-18T21:01:41.374413"
     }
   ],
   "nombres_usados": [
@@ -4105,6 +4112,7 @@
     "FácilFactura",
     "VisualBoost",
     "ClientEase",
-    "FocusCoach"
+    "FocusCoach",
+    "SocialLaunch"
   ]
 }
