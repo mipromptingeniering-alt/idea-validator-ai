@@ -3541,6 +3541,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-18T11:09:46.911748"
+    },
+    {
+      "nombre": "Collaborafy",
+      "descripcion": "Collaborafy es una solución SaaS que permite a las PYMEs gestionar la comunicación interna, la planificación de proyectos y el almacenamiento de documentos de forma integrada, todo bajo un mismo techo. Esta plataforma está diseñada específicamente para ser intuitiva y accesible, ofreciendo una experiencia de usuario fluida y optimizada para equipos de todos los tamaños.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-18T13:07:02.676510"
     }
   ],
   "nombres_usados": [
@@ -4049,6 +4056,7 @@
     "Social Design AI",
     "Focusify",
     "Disconnect & Recharge",
-    "IdeaFlow"
+    "IdeaFlow",
+    "Collaborafy"
   ]
 }

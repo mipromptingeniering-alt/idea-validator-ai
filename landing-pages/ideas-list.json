@@ -208,6 +208,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260318110946",
+    "nombre": "IdeaFlow",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que combina la gestión de proyectos, organización de ideas y colaboración en tiempo real....",
+    "score": 75,
+    "landing_url": "IDEA-20260318110946.html"
+  },
+  {
     "id": "IDEA-20260318091324",
     "nombre": "Focusify",
     "tipo": "SaaS",
