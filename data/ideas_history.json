@@ -3520,6 +3520,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-18T08:27:47.570487"
+    },
+    {
+      "nombre": "Focusify",
+      "descripcion": "Focusify utiliza algoritmos de inteligencia artificial para analizar los hábitos de trabajo del usuario y crear un plan diario personalizado que optimiza las horas de máxima productividad, incorporando técnicas de gamificación para mantener la motivación y minimizar distracciones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-18T09:13:24.233602"
     }
   ],
   "nombres_usados": [
@@ -4025,6 +4032,7 @@
     "EventFlow",
     "SociablePymes",
     "FactuEasy",
-    "Social Design AI"
+    "Social Design AI",
+    "Focusify"
   ]
 }

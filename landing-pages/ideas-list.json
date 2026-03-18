@@ -208,6 +208,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260318082747",
+    "nombre": "Social Design AI",
+    "tipo": "SaaS",
+    "resumen": "Plataforma que permite a los usuarios generar contenido visual atractivo para redes sociales de forma rápida y sencilla, utilizando inteligencia artif...",
+    "score": 75,
+    "landing_url": "IDEA-20260318082747.html"
+  },
+  {
     "id": "IDEA-20260318074055",
     "nombre": "FactuEasy",
     "tipo": "SaaS",
