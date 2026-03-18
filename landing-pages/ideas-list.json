@@ -208,6 +208,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260318130702",
+    "nombre": "Collaborafy",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de colaboración integral para pequeñas y medianas empresas que integra gestión de proyectos, chat y almacenamiento de documentos....",
+    "score": 75,
+    "landing_url": "IDEA-20260318130702.html"
+  },
+  {
     "id": "IDEA-20260318110946",
     "nombre": "IdeaFlow",
     "tipo": "SaaS",

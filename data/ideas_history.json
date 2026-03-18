@@ -3548,6 +3548,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-18T13:07:02.676510"
+    },
+    {
+      "nombre": "NutriFit",
+      "descripcion": "NutriFit es una aplicación que utiliza algoritmos de inteligencia artificial para crear planes de alimentación y rutinas de ejercicio personalizados. Los usuarios pueden introducir sus objetivos, restricciones alimentarias y preferencias, y la plataforma genera recomendaciones a medida. Además, incluye seguimiento del progreso y sugerencias de ajustes en tiempo real.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-18T14:41:08.103429"
     }
   ],
   "nombres_usados": [
@@ -4057,6 +4064,7 @@
     "Focusify",
     "Disconnect & Recharge",
     "IdeaFlow",
-    "Collaborafy"
+    "Collaborafy",
+    "NutriFit"
   ]
 }
