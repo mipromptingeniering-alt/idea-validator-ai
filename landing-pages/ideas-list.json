@@ -216,6 +216,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260318210141",
+    "nombre": "SocialLaunch",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma todo-en-uno para que pequeñas empresas gestionen y analicen su presencia en redes sociales de manera efectiva....",
+    "score": 75,
+    "landing_url": "IDEA-20260318210141.html"
+  },
+  {
     "id": "IDEA-20260318202107",
     "nombre": "FocusCoach",
     "tipo": "SaaS",

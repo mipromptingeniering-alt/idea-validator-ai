@@ -3597,6 +3597,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-18T21:01:41.374413"
+    },
+    {
+      "nombre": "StudyScheduler",
+      "descripcion": "StudyScheduler es una plataforma que ayuda a los estudiantes a organizar su tiempo de manera efectiva, permitiéndoles planificar sus tareas, exámenes y sesiones de estudio de forma personalizada, con recordatorios y sugerencias basadas en su carga de trabajo y hábitos de estudio.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-18T21:49:22.183703"
     }
   ],
   "nombres_usados": [
@@ -4113,6 +4120,7 @@
     "VisualBoost",
     "ClientEase",
     "FocusCoach",
-    "SocialLaunch"
+    "SocialLaunch",
+    "StudyScheduler"
   ]
 }
