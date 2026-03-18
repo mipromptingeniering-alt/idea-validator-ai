@@ -3513,6 +3513,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-18T07:40:55.938512"
+    },
+    {
+      "nombre": "Social Design AI",
+      "descripcion": "Social Design AI es una herramienta en línea que proporciona a los usuarios la capacidad de crear imágenes y gráficos para sus publicaciones en redes sociales. Utiliza inteligencia artificial para sugerir diseños y plantillas personalizadas, adaptadas a la industria y tendencias actuales, facilitando la creación de contenido atractivo sin necesidad de habilidades de diseño.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-18T08:27:47.570487"
     }
   ],
   "nombres_usados": [
@@ -4017,6 +4024,7 @@
     "WellnessTime",
     "EventFlow",
     "SociablePymes",
-    "FactuEasy"
+    "FactuEasy",
+    "Social Design AI"
   ]
 }

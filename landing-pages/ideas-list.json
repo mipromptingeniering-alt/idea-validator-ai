@@ -208,6 +208,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260318074055",
+    "nombre": "FactuEasy",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que simplifica la creación, seguimiento y gestión de facturas para freelancers y pequeños empresarios....",
+    "score": 75,
+    "landing_url": "IDEA-20260318074055.html"
+  },
+  {
     "id": "IDEA-20260318054048",
     "nombre": "EventFlow",
     "tipo": "SaaS",
