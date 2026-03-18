@@ -3534,6 +3534,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-18T10:12:45.464147"
+    },
+    {
+      "nombre": "IdeaFlow",
+      "descripcion": "IdeaFlow permite a los usuarios organizar sus proyectos y tareas de manera visual, colaborar con equipos en tiempo real y adaptar flujos de trabajo según sus necesidades específicas. Integra funciones de lluvia de ideas, gestión de tareas y seguimiento del progreso, todo en un entorno intuitivo y accesible.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-18T11:09:46.911748"
     }
   ],
   "nombres_usados": [
@@ -4041,6 +4048,7 @@
     "FactuEasy",
     "Social Design AI",
     "Focusify",
-    "Disconnect & Recharge"
+    "Disconnect & Recharge",
+    "IdeaFlow"
   ]
 }

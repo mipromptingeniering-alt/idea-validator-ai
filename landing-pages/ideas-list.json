@@ -3584,6 +3584,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260318101245",
+    "nombre": "Disconnect & Recharge",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta que ayuda a los trabajadores remotos a desconectar efectivamente al final de su jornada laboral....",
+    "score": 70,
+    "landing_url": "IDEA-20260318101245.html"
+  },
+  {
     "id": "IDEA-20260317235305",
     "nombre": "AccountEasy",
     "tipo": "SaaS",
