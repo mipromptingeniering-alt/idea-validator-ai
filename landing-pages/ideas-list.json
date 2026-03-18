@@ -208,6 +208,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260318155148",
+    "nombre": "Campaña Inteligente",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que optimiza campañas de marketing digital en tiempo real mediante IA....",
+    "score": 75,
+    "landing_url": "IDEA-20260318155148.html"
+  },
+  {
     "id": "IDEA-20260318144108",
     "nombre": "NutriFit",
     "tipo": "SaaS",

@@ -3562,6 +3562,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-18T15:51:48.104853"
+    },
+    {
+      "nombre": "FácilFactura",
+      "descripcion": "FácilFactura permite a los usuarios crear, enviar y gestionar facturas de forma rápida y sencilla, integrándose con métodos de pago populares y ofreciendo un seguimiento del estado de cada factura en tiempo real. Además, ofrece plantillas personalizables para que los usuarios puedan mantener su marca personal.",
+      "tipo": "MicroSaaS",
+      "score": 70,
+      "fecha": "2026-03-18T16:54:07.619276"
     }
   ],
   "nombres_usados": [
@@ -4073,6 +4080,7 @@
     "IdeaFlow",
     "Collaborafy",
     "NutriFit",
-    "Campaña Inteligente"
+    "Campaña Inteligente",
+    "FácilFactura"
   ]
 }
