@@ -3485,6 +3485,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-17T23:53:05.732811"
+    },
+    {
+      "nombre": "WellnessTime",
+      "descripcion": "WellnessTime es una plataforma SaaS que ayuda a empresas a medir y mejorar la productividad de sus empleados, al mismo tiempo que se enfoca en su bienestar mental. Incluye herramientas de seguimiento del tiempo, análisis de carga de trabajo y funciones para fomentar pausas activas y ejercicios de mindfulness.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-18T01:23:28.878646"
     }
   ],
   "nombres_usados": [
@@ -3985,6 +3992,7 @@
     "ContentPulse",
     "MindEase",
     "AdminMaster",
-    "AccountEasy"
+    "AccountEasy",
+    "WellnessTime"
   ]
 }
