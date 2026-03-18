@@ -3616,6 +3616,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260318165407",
+    "nombre": "FácilFactura",
+    "tipo": "MicroSaaS",
+    "resumen": "Una herramienta sencilla de gestión y emisión de facturas para freelancers y pequeños emprendedores....",
+    "score": 70,
+    "landing_url": "IDEA-20260318165407.html"
+  },
+  {
     "id": "IDEA-20260318101245",
     "nombre": "Disconnect & Recharge",
     "tipo": "SaaS",

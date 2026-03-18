@@ -3569,6 +3569,13 @@
       "tipo": "MicroSaaS",
       "score": 70,
       "fecha": "2026-03-18T16:54:07.619276"
+    },
+    {
+      "nombre": "VisualBoost",
+      "descripcion": "VisualBoost es una herramienta SaaS diseñada para ayudar a emprendedores y pequeñas empresas a crear contenido visual atractivo para sus redes sociales. Ofrece plantillas personalizables y un generador de contenido visual impulsado por inteligencia artificial que sugiere imágenes, textos y estilos de diseño adecuados para cada tipo de publicación.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-18T17:54:34.979247"
     }
   ],
   "nombres_usados": [
@@ -4081,6 +4088,7 @@
     "Collaborafy",
     "NutriFit",
     "Campaña Inteligente",
-    "FácilFactura"
+    "FácilFactura",
+    "VisualBoost"
   ]
 }
