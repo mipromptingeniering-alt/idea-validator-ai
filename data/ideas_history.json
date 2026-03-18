@@ -3527,6 +3527,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-18T09:13:24.233602"
+    },
+    {
+      "nombre": "Disconnect & Recharge",
+      "descripcion": "Disconnect & Recharge ofrece recordatorios personalizados para desconectar, técnicas de relajación, y una comunidad para compartir experiencias y recursos. La plataforma permite a los usuarios establecer horarios de trabajo y recibir notificaciones cuando es momento de cerrar sesión y disfrutar de su tiempo personal.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-18T10:12:45.464147"
     }
   ],
   "nombres_usados": [
@@ -4033,6 +4040,7 @@
     "SociablePymes",
     "FactuEasy",
     "Social Design AI",
-    "Focusify"
+    "Focusify",
+    "Disconnect & Recharge"
   ]
 }
