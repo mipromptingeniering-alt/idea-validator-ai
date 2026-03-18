@@ -3555,6 +3555,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-18T14:41:08.103429"
+    },
+    {
+      "nombre": "Campaña Inteligente",
+      "descripcion": "Campaña Inteligente es una herramienta SaaS diseñada para profesionales del marketing digital que buscan maximizar el rendimiento de sus campañas publicitarias. A través de algoritmos de aprendizaje automático, la plataforma analiza datos en tiempo real y brinda recomendaciones automáticas para ajustar presupuestos, modificar creativos y segmentar audiencias, asegurando la mejor eficiencia y efectividad en la inversión publicitaria.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-18T15:51:48.104853"
     }
   ],
   "nombres_usados": [
@@ -4065,6 +4072,7 @@
     "Disconnect & Recharge",
     "IdeaFlow",
     "Collaborafy",
-    "NutriFit"
+    "NutriFit",
+    "Campaña Inteligente"
   ]
 }
