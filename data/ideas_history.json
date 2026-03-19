@@ -3730,6 +3730,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-19T19:13:22.793950"
+    },
+    {
+      "nombre": "PersoRec",
+      "descripcion": "PersoRec es una herramienta SaaS que permite a las tiendas online implementar un sistema de recomendaciones personalizadas. Utiliza algoritmos de machine learning para analizar el comportamiento de navegación y compra de los usuarios, permitiendo mostrar productos que realmente interesan a cada cliente en tiempo real.",
+      "tipo": "SaaS",
+      "score": 82,
+      "fecha": "2026-03-19T21:03:11.242431"
     }
   ],
   "nombres_usados": [
@@ -4265,6 +4272,7 @@
     "HealthSync",
     "FocusHero",
     "CreatiHive",
-    "SalesMate"
+    "SalesMate",
+    "PersoRec"
   ]
 }

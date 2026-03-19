@@ -224,6 +224,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260319191322",
+    "nombre": "SalesMate",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral de gestión de ventas y atención al cliente diseñada específicamente para pequeñas y medianas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260319191322.html"
+  },
+  {
     "id": "IDEA-20260319171321",
     "nombre": "FocusHero",
     "tipo": "SaaS",
