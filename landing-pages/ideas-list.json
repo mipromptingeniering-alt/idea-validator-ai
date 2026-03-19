@@ -224,6 +224,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260319130729",
+    "nombre": "AdSmart",
+    "tipo": "SaaS",
+    "resumen": "AdSmart es una herramienta de gestión de campañas publicitarias en redes sociales que facilita a las PYMES crear, administrar y optimizar sus anuncios...",
+    "score": 75,
+    "landing_url": "IDEA-20260319130729.html"
+  },
+  {
     "id": "IDEA-20260319115841",
     "nombre": "TaskHive",
     "tipo": "SaaS",

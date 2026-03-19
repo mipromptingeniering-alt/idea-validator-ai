@@ -3695,6 +3695,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-19T13:07:29.951641"
+    },
+    {
+      "nombre": "Creativo Pro",
+      "descripcion": "Creativo Pro es una plataforma que permite a los profesionales de la creatividad gestionar sus proyectos de manera intuitiva, combinando características como tableros Kanban, listas de tareas y colaboración en tiempo real, todo en un entorno estéticamente agradable y fácil de usar.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-03-19T14:12:27.611298"
     }
   ],
   "nombres_usados": [
@@ -4225,6 +4232,7 @@
     "EasySite-Builder",
     "RelaciónPlus",
     "TaskHive",
-    "AdSmart"
+    "AdSmart",
+    "Creativo Pro"
   ]
 }
