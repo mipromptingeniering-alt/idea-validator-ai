@@ -3653,6 +3653,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-19T08:07:24.989750"
+    },
+    {
+      "nombre": "TaskTrackr",
+      "descripcion": "TaskTrackr es una herramienta que permite a pequeñas empresas gestionar sus clientes, tareas y proyectos en un solo lugar. Incluye funciones como seguimiento de tareas, gestión de contactos, recordatorios, y reportes automatizados, todo dentro de una interfaz amigable y fácil de usar.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-03-19T09:00:45.015889"
     }
   ],
   "nombres_usados": [
@@ -4177,6 +4184,7 @@
     "TherapyAdmin",
     "OrganiConnect",
     "MarketingQuick",
-    "TaskMaster Pro"
+    "TaskMaster Pro",
+    "TaskTrackr"
   ]
 }
