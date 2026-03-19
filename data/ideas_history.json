@@ -3660,6 +3660,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-03-19T09:00:45.015889"
+    },
+    {
+      "nombre": "Habitify",
+      "descripcion": "Habitify permite a los usuarios establecer objetivos de productividad diaria y semanal, ofreciendo un sistema de recompensas y desafíos que ayudan a mantener la motivación y a fomentar hábitos saludables en su rutina de trabajo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-19T10:00:43.472688"
     }
   ],
   "nombres_usados": [
@@ -4185,6 +4192,7 @@
     "OrganiConnect",
     "MarketingQuick",
     "TaskMaster Pro",
-    "TaskTrackr"
+    "TaskTrackr",
+    "Habitify"
   ]
 }
