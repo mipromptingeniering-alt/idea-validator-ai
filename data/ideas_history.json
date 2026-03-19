@@ -3625,6 +3625,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-19T04:00:11.711845"
+    },
+    {
+      "nombre": "TherapyAdmin",
+      "descripcion": "TherapyAdmin es un software de gestión diseñado específicamente para terapeutas y clínicas de salud mental. Permite gestionar citas, enviar recordatorios automáticos a los pacientes, organizar notas de sesión y hacer seguimiento del progreso del paciente de forma sencilla y eficiente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-19T05:23:48.430134"
     }
   ],
   "nombres_usados": [
@@ -4145,6 +4152,7 @@
     "StudyScheduler",
     "ProductivoBalance",
     "TimelyTasker",
-    "MentalEase"
+    "MentalEase",
+    "TherapyAdmin"
   ]
 }

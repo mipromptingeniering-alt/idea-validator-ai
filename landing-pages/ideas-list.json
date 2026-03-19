@@ -224,6 +224,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260319040011",
+    "nombre": "MentalEase",
+    "tipo": "SaaS",
+    "resumen": "Plataforma integral para la gestión de consultas y seguimiento en salud mental....",
+    "score": 75,
+    "landing_url": "IDEA-20260319040011.html"
+  },
+  {
     "id": "IDEA-20260318235020",
     "nombre": "TimelyTasker",
     "tipo": "SaaS",
