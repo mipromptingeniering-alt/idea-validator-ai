@@ -3646,6 +3646,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-19T07:36:10.056485"
+    },
+    {
+      "nombre": "TaskMaster Pro",
+      "descripcion": "TaskMaster Pro facilita la organización de tareas, la gestión del tiempo y el análisis de productividad, integrando herramientas de cronometraje, gestión de tareas y reportes de tiempo en una única plataforma. Permite personalizar flujos de trabajo y priorizar tareas de manera efectiva, adaptándose a las necesidades específicas de cada usuario.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-19T08:07:24.989750"
     }
   ],
   "nombres_usados": [
@@ -4169,6 +4176,7 @@
     "MentalEase",
     "TherapyAdmin",
     "OrganiConnect",
-    "MarketingQuick"
+    "MarketingQuick",
+    "TaskMaster Pro"
   ]
 }

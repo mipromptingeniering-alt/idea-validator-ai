@@ -3696,6 +3696,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260319073609",
+    "nombre": "MarketingQuick",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de marketing digital que permite a las pequeñas empresas gestionar su presencia en línea de manera efectiva con herramientas automatiza...",
+    "score": 70,
+    "landing_url": "IDEA-20260319073609.html"
+  },
+  {
     "id": "IDEA-20260318165407",
     "nombre": "FácilFactura",
     "tipo": "MicroSaaS",
