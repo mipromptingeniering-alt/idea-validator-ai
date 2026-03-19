@@ -224,6 +224,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260319052348",
+    "nombre": "TherapyAdmin",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión administrativa para profesionales de la salud mental que simplifica el seguimiento y la organización de citas, gestión de pa...",
+    "score": 75,
+    "landing_url": "IDEA-20260319052348.html"
+  },
+  {
     "id": "IDEA-20260319040011",
     "nombre": "MentalEase",
     "tipo": "SaaS",

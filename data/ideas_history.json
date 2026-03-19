@@ -3632,6 +3632,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-19T05:23:48.430134"
+    },
+    {
+      "nombre": "OrganiConnect",
+      "descripcion": "OrganiConnect es una aplicación web que permite a los agricultores registrar sus productos orgánicos y a los usuarios localizarlos fácilmente, facilitando la compra directa. Incluye un sistema de calificaciones y reseñas para garantizar la calidad y origen de los productos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-19T06:33:46.074220"
     }
   ],
   "nombres_usados": [
@@ -4153,6 +4160,7 @@
     "ProductivoBalance",
     "TimelyTasker",
     "MentalEase",
-    "TherapyAdmin"
+    "TherapyAdmin",
+    "OrganiConnect"
   ]
 }
