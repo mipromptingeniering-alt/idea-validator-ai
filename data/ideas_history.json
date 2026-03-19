@@ -3744,6 +3744,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-19T23:22:28.924076"
+    },
+    {
+      "nombre": "MindSync",
+      "descripcion": "MindSync es una plataforma SaaS que permite a las empresas gestionar el bienestar mental de sus empleados mediante evaluaciones personalizadas, recursos de autoayuda, y acceso a profesionales de la salud mental. Utiliza algoritmos de IA para adaptar las recomendaciones y los recursos según las necesidades individuales y las métricas de la empresa.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-19T23:51:24.683326"
     }
   ],
   "nombres_usados": [
@@ -4281,6 +4288,7 @@
     "CreatiHive",
     "SalesMate",
     "PersoRec",
-    "FocusUP"
+    "FocusUP",
+    "MindSync"
   ]
 }

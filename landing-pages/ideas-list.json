@@ -232,6 +232,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260319232228",
+    "nombre": "FocusUP",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión del tiempo que utiliza técnicas de gamificación para ayudar a los trabajadores remotos a aumentar su productividad....",
+    "score": 75,
+    "landing_url": "IDEA-20260319232228.html"
+  },
+  {
     "id": "IDEA-20260319191322",
     "nombre": "SalesMate",
     "tipo": "SaaS",
