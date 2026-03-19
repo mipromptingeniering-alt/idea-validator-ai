@@ -3618,6 +3618,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-18T23:50:20.161795"
+    },
+    {
+      "nombre": "MentalEase",
+      "descripcion": "MentalEase es un software como servicio diseñado para terapeutas y profesionales de la salud mental que buscan optimizar la gestión de sus citas, seguimiento de pacientes y comunicación. Ofrece herramientas para programar sesiones, registrar notas de progreso y enviar recordatorios a los pacientes, todo en un entorno seguro y fácil de usar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-19T04:00:11.711845"
     }
   ],
   "nombres_usados": [
@@ -4137,6 +4144,7 @@
     "SocialLaunch",
     "StudyScheduler",
     "ProductivoBalance",
-    "TimelyTasker"
+    "TimelyTasker",
+    "MentalEase"
   ]
 }
