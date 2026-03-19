@@ -3716,6 +3716,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-19T17:13:21.827759"
+    },
+    {
+      "nombre": "CreatiHive",
+      "descripcion": "CreatiHive permitirá a los equipos creativos organizar sus ideas, colaborar en proyectos y recibir retroalimentación de manera ágil y eficiente. Con herramientas de pizarra para lluvia de ideas, plantillas de gestión de proyectos y un sistema de comentarios fácil de usar, los usuarios podrán mantener todo su flujo de trabajo en un solo lugar.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-19T18:02:54.875652"
     }
   ],
   "nombres_usados": [
@@ -4249,6 +4256,7 @@
     "AdSmart",
     "Creativo Pro",
     "HealthSync",
-    "FocusHero"
+    "FocusHero",
+    "CreatiHive"
   ]
 }
