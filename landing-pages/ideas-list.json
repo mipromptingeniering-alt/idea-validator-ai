@@ -224,6 +224,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260319100043",
+    "nombre": "Habitify",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión del tiempo que utiliza la gamificación para crear y mantener hábitos productivos....",
+    "score": 75,
+    "landing_url": "IDEA-20260319100043.html"
+  },
+  {
     "id": "IDEA-20260319080724",
     "nombre": "TaskMaster Pro",
     "tipo": "SaaS",
