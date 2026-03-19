@@ -3688,6 +3688,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-19T11:58:41.195054"
+    },
+    {
+      "nombre": "AdSmart",
+      "descripcion": "AdSmart permite a las pequeñas y medianas empresas crear anuncios en redes sociales en cuestión de minutos, optimizando el rendimiento de sus campañas a través de algoritmos de IA que sugieren mejoras en tiempo real. Proporciona análisis detallados y recomendaciones personalizadas sobre cómo maximizar la efectividad de la inversión publicitaria.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-19T13:07:29.951641"
     }
   ],
   "nombres_usados": [
@@ -4217,6 +4224,7 @@
     "Habitify",
     "EasySite-Builder",
     "RelaciónPlus",
-    "TaskHive"
+    "TaskHive",
+    "AdSmart"
   ]
 }
