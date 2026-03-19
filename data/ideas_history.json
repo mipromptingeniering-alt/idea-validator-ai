@@ -3723,6 +3723,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-19T18:02:54.875652"
+    },
+    {
+      "nombre": "SalesMate",
+      "descripcion": "SalesMate permite a las PYMES gestionar sus contactos, leads, y tickets de soporte en una sola herramienta. Con un enfoque en la usabilidad y la integración con redes sociales, ofrece un dashboard sencillo que permite seguir el rendimiento de ventas y satisfacción del cliente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-19T19:13:22.793950"
     }
   ],
   "nombres_usados": [
@@ -4257,6 +4264,7 @@
     "Creativo Pro",
     "HealthSync",
     "FocusHero",
-    "CreatiHive"
+    "CreatiHive",
+    "SalesMate"
   ]
 }

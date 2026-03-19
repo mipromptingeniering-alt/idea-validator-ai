@@ -3776,6 +3776,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260319180254",
+    "nombre": "CreatiHive",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma colaborativa diseñada específicamente para profesionales creativos que combina gestión de proyectos, pizarra virtual y feedback en tiem...",
+    "score": 70,
+    "landing_url": "IDEA-20260319180254.html"
+  },
+  {
     "id": "IDEA-20260319073609",
     "nombre": "MarketingQuick",
     "tipo": "SaaS",
