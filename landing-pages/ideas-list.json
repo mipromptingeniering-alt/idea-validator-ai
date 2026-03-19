@@ -224,6 +224,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260319104623",
+    "nombre": "EasySite-Builder",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de creación de sitios web intuitiva para freelancers y pequeños emprendedores sin conocimientos técnicos....",
+    "score": 75,
+    "landing_url": "IDEA-20260319104623.html"
+  },
+  {
     "id": "IDEA-20260319100043",
     "nombre": "Habitify",
     "tipo": "SaaS",

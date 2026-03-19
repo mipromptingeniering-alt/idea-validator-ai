@@ -3674,6 +3674,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-19T10:46:23.403904"
+    },
+    {
+      "nombre": "RelaciónPlus",
+      "descripcion": "RelaciónPlus es un CRM diseñado específicamente para pequeñas empresas y emprendedores, que permite gestionar contactos, interacciones y seguimiento de ventas de manera intuitiva y personalizada. Incluye funcionalidades de automatización de recordatorios y tareas, así como análisis simples del comportamiento de los clientes.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-03-19T11:29:33.648646"
     }
   ],
   "nombres_usados": [
@@ -4201,6 +4208,7 @@
     "TaskMaster Pro",
     "TaskTrackr",
     "Habitify",
-    "EasySite-Builder"
+    "EasySite-Builder",
+    "RelaciónPlus"
   ]
 }
