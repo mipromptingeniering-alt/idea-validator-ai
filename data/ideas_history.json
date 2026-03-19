@@ -3709,6 +3709,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-19T15:06:36.947082"
+    },
+    {
+      "nombre": "FocusHero",
+      "descripcion": "FocusHero es una plataforma de gestión del tiempo que combina métodos tradicionales de productividad con elementos de gamificación. Los usuarios pueden establecer objetivos, realizar seguimiento de su tiempo, y ganar recompensas a medida que completan tareas, aumentando así su motivación y enfoque.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-19T17:13:21.827759"
     }
   ],
   "nombres_usados": [
@@ -4241,6 +4248,7 @@
     "TaskHive",
     "AdSmart",
     "Creativo Pro",
-    "HealthSync"
+    "HealthSync",
+    "FocusHero"
   ]
 }

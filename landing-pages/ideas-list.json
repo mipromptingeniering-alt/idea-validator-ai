@@ -224,6 +224,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260319150636",
+    "nombre": "HealthSync",
+    "tipo": "SaaS",
+    "resumen": "Una solución integral para la gestión de consultas de profesionales de la salud, que simplifica la administración y mejora la experiencia del paciente...",
+    "score": 75,
+    "landing_url": "IDEA-20260319150636.html"
+  },
+  {
     "id": "IDEA-20260319141227",
     "nombre": "Creativo Pro",
     "tipo": "MicroSaaS",
