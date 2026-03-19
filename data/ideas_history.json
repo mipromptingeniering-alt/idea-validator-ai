@@ -3639,6 +3639,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-19T06:33:46.074220"
+    },
+    {
+      "nombre": "MarketingQuick",
+      "descripcion": "MarketingQuick es una solución SaaS diseñada específicamente para las pequeñas empresas que buscan optimizar su marketing digital sin tener que invertir mucho tiempo o recursos. La plataforma incluye herramientas de creación de contenido, programación de publicaciones, analítica de redes sociales y generación de informes.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-19T07:36:10.056485"
     }
   ],
   "nombres_usados": [
@@ -4161,6 +4168,7 @@
     "TimelyTasker",
     "MentalEase",
     "TherapyAdmin",
-    "OrganiConnect"
+    "OrganiConnect",
+    "MarketingQuick"
   ]
 }

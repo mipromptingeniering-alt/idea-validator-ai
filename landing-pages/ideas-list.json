@@ -224,6 +224,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260319063345",
+    "nombre": "OrganiConnect",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de comercio electrónico que conecta a agricultores locales con consumidores interesados en productos orgánicos y frescos....",
+    "score": 75,
+    "landing_url": "IDEA-20260319063345.html"
+  },
+  {
     "id": "IDEA-20260319052348",
     "nombre": "TherapyAdmin",
     "tipo": "SaaS",
