@@ -1,5 +1,13 @@
 [
   {
+    "id": "IDEA-20260319210311",
+    "nombre": "PersoRec",
+    "tipo": "SaaS",
+    "resumen": "Un servicio de personalización de recomendaciones para e-commerce que utiliza inteligencia artificial para mejorar las experiencias de compra....",
+    "score": 82,
+    "landing_url": "IDEA-20260319210311.html"
+  },
+  {
     "id": "IDEA-20260318194408",
     "nombre": "ClientEase",
     "tipo": "SaaS",

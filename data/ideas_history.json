@@ -3737,6 +3737,13 @@
       "tipo": "SaaS",
       "score": 82,
       "fecha": "2026-03-19T21:03:11.242431"
+    },
+    {
+      "nombre": "FocusUP",
+      "descripcion": "FocusUP es una plataforma en línea que combina la técnica Pomodoro con elementos de gamificación. Los usuarios pueden establecer tareas, trabajar en intervalos de tiempo enfocados, y ganar recompensas virtuales a medida que completan sus tareas. Además, ofrece análisis de tiempo y consejos personalizados para mejorar la productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-19T23:22:28.924076"
     }
   ],
   "nombres_usados": [
@@ -4273,6 +4280,7 @@
     "FocusHero",
     "CreatiHive",
     "SalesMate",
-    "PersoRec"
+    "PersoRec",
+    "FocusUP"
   ]
 }
