@@ -3702,6 +3702,13 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-03-19T14:12:27.611298"
+    },
+    {
+      "nombre": "HealthSync",
+      "descripcion": "HealthSync es una plataforma SaaS que permite a los terapeutas y otros profesionales de la salud gestionar sus citas, facturación y seguimiento de pacientes de manera eficiente. Incluye recordatorios automáticos para pacientes, herramientas para el seguimiento de progreso y opciones de teleconsulta. Se centra en la seguridad de los datos del paciente y la facilidad de uso.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-19T15:06:36.947082"
     }
   ],
   "nombres_usados": [
@@ -4233,6 +4240,7 @@
     "RelaciónPlus",
     "TaskHive",
     "AdSmart",
-    "Creativo Pro"
+    "Creativo Pro",
+    "HealthSync"
   ]
 }
