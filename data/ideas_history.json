@@ -3681,6 +3681,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-03-19T11:29:33.648646"
+    },
+    {
+      "nombre": "TaskHive",
+      "descripcion": "TaskHive ofrece una plataforma intuitiva donde los usuarios pueden crear, asignar y priorizar tareas, además de facilitar la colaboración entre miembros del equipo mediante la comunicación integrada y notificaciones en tiempo real.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-19T11:58:41.195054"
     }
   ],
   "nombres_usados": [
@@ -4209,6 +4216,7 @@
     "TaskTrackr",
     "Habitify",
     "EasySite-Builder",
-    "RelaciónPlus"
+    "RelaciónPlus",
+    "TaskHive"
   ]
 }
