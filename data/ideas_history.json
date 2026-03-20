@@ -3821,6 +3821,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-20T11:57:24.059728"
+    },
+    {
+      "nombre": "BalanceLife",
+      "descripcion": "BalanceLife es una plataforma de gestión del tiempo diseñada para trabajadores remotos que busca fomentar el bienestar y la productividad. La aplicación permite a los usuarios crear horarios de trabajo personalizados, programar descansos regulares y recibir recordatorios para actividades de autocuidado, como hacer ejercicio o meditar. También incluye funciones de análisis para que los usuarios puedan hacer un seguimiento de su progreso y ajustar su rutina en consecuencia.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-20T12:39:22.902448"
     }
   ],
   "nombres_usados": [
@@ -4369,6 +4376,7 @@
     "FreelanceFocus",
     "SustentaPyme",
     "AutoFinanzas",
-    "CreatorFlow"
+    "CreatorFlow",
+    "BalanceLife"
   ]
 }

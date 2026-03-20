@@ -232,6 +232,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260320115723",
+    "nombre": "CreatorFlow",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para que creadores de contenido y freelancers gestionen sus proyectos, tiempo y facturación en un solo lugar....",
+    "score": 75,
+    "landing_url": "IDEA-20260320115723.html"
+  },
+  {
     "id": "IDEA-20260320105704",
     "nombre": "SustentaPyme",
     "tipo": "SaaS",
