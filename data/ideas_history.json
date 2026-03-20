@@ -3772,6 +3772,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-20T05:07:08.336997"
+    },
+    {
+      "nombre": "E-ComManager",
+      "descripcion": "E-ComManager es una herramienta que conecta y sincroniza cuentas de diferentes plataformas de comercio electrónico (como Shopify, Amazon, eBay) permitiendo a los usuarios gestionar listados de productos, inventario y ventas desde un solo lugar. La plataforma ofrecerá informes analíticos para ayudar a los emprendedores a tomar decisiones informadas sobre su negocio.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-20T07:15:49.044052"
     }
   ],
   "nombres_usados": [
@@ -4313,6 +4320,7 @@
     "MindSync",
     "TimeBoost",
     "Proyectos Sencillos",
-    "PortfolioEasy"
+    "PortfolioEasy",
+    "E-ComManager"
   ]
 }

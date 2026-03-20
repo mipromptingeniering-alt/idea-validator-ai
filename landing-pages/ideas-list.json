@@ -232,6 +232,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260320050708",
+    "nombre": "PortfolioEasy",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma sencilla y asequible para crear y compartir portafolios digitales atractivos....",
+    "score": 75,
+    "landing_url": "IDEA-20260320050708.html"
+  },
+  {
     "id": "IDEA-20260320011854",
     "nombre": "TimeBoost",
     "tipo": "SaaS",
