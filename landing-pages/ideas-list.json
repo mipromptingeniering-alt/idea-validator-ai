@@ -3928,6 +3928,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260320190656",
+    "nombre": "DataCompass",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de análisis de datos sencilla y personalizable para pymes....",
+    "score": 70,
+    "landing_url": "IDEA-20260320190656.html"
+  },
+  {
     "id": "IDEA-20260320112714",
     "nombre": "AutoFinanzas",
     "tipo": "SaaS",

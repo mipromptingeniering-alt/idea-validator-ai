@@ -3877,6 +3877,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-20T19:06:56.437155"
+    },
+    {
+      "nombre": "InvSys",
+      "descripcion": "InvSys permite a los pequeños negocios gestionar su inventario de manera intuitiva y eficiente, con análisis predictivo sobre el stock necesario, integración con plataformas de e-commerce y reportes en tiempo real sobre el rendimiento del inventario. Esto ayudará a los emprendedores a tomar decisiones informadas para maximizar sus ganancias.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-20T19:48:45.114965"
     }
   ],
   "nombres_usados": [
@@ -4433,6 +4440,7 @@
     "EasyFinanzas",
     "PymeFlex",
     "Planifica Juntos",
-    "DataCompass"
+    "DataCompass",
+    "InvSys"
   ]
 }
