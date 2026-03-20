@@ -232,6 +232,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260320152927",
+    "nombre": "TeamHarmony",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de proyectos que integra actividades de bienestar y cohesión del equipo para trabajadores remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260320152927.html"
+  },
+  {
     "id": "IDEA-20260320134621",
     "nombre": "SociaEasy",
     "tipo": "SaaS",

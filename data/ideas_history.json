@@ -3849,6 +3849,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-20T15:29:27.795633"
+    },
+    {
+      "nombre": "EasyFinanzas",
+      "descripcion": "EasyFinanzas permite a los usuarios registrar y categorizar automáticamente sus transacciones bancarias, generar informes financieros personalizados y acceder a consejos contables a través de una interfaz amigable y accesible desde dispositivos móviles y escritorio.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-03-20T17:00:35.236099"
     }
   ],
   "nombres_usados": [
@@ -4401,6 +4408,7 @@
     "BalanceLife",
     "SociaEasy",
     "CreativaMarket",
-    "TeamHarmony"
+    "TeamHarmony",
+    "EasyFinanzas"
   ]
 }
