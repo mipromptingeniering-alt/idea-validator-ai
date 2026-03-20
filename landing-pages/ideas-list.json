@@ -232,6 +232,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260320134621",
+    "nombre": "SociaEasy",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que permite a PYMEs gestionar sus redes sociales de forma sencilla y eficiente, combinando la programación de publicaciones con generac...",
+    "score": 75,
+    "landing_url": "IDEA-20260320134621.html"
+  },
+  {
     "id": "IDEA-20260320123922",
     "nombre": "BalanceLife",
     "tipo": "SaaS",

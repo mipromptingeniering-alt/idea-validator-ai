@@ -3835,6 +3835,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-20T13:46:21.583197"
+    },
+    {
+      "nombre": "CreativaMarket",
+      "descripcion": "CreativaMarket es una plataforma diseñada para que diseñadores, ilustradores y fotógrafos puedan gestionar sus obras digitales y venderlas a través de diversos canales. Ofrece integración con NFTs, análisis de mercado, y herramientas de marketing para maximizar las ventas de cada creador. Además, se fomentará una comunidad donde puedan compartir experiencias y estrategias.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-03-20T14:38:28.616290"
     }
   ],
   "nombres_usados": [
@@ -4385,6 +4392,7 @@
     "AutoFinanzas",
     "CreatorFlow",
     "BalanceLife",
-    "SociaEasy"
+    "SociaEasy",
+    "CreativaMarket"
   ]
 }
