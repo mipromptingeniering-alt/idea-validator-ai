@@ -240,6 +240,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260320222032",
+    "nombre": "MedSync",
+    "tipo": "SaaS",
+    "resumen": "MedSync es una plataforma integral de gestión para profesionales de la salud que combina la gestión de citas, telemedicina y documentación de paciente...",
+    "score": 75,
+    "landing_url": "IDEA-20260320222032.html"
+  },
+  {
     "id": "IDEA-20260320215132",
     "nombre": "TrendyPost",
     "tipo": "SaaS",

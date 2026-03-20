@@ -3905,6 +3905,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-20T22:20:32.288887"
+    },
+    {
+      "nombre": "TaskBuddy",
+      "descripcion": "TaskBuddy es una herramienta de gestión de tareas adaptada para freelancers y emprendedores, que utiliza inteligencia artificial para ofrecer recordatorios personalizados y sugerencias de productividad basadas en el comportamiento del usuario y su carga de trabajo.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-03-20T22:53:49.760697"
     }
   ],
   "nombres_usados": [
@@ -4465,6 +4472,7 @@
     "InvSys",
     "CollabSync",
     "TrendyPost",
-    "MedSync"
+    "MedSync",
+    "TaskBuddy"
   ]
 }
