@@ -3786,6 +3786,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-20T07:54:51.725863"
+    },
+    {
+      "nombre": "ProductiviTime",
+      "descripcion": "ProductiviTime es una herramienta SaaS diseñada específicamente para freelancers y trabajadores remotos que buscan mejorar su productividad. Ofrece seguimiento de tiempo en tiempo real, gestión de tareas, y reportes de productividad detallados, todo en un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-20T08:32:16.401469"
     }
   ],
   "nombres_usados": [
@@ -4329,6 +4336,7 @@
     "Proyectos Sencillos",
     "PortfolioEasy",
     "E-ComManager",
-    "ZenTime"
+    "ZenTime",
+    "ProductiviTime"
   ]
 }

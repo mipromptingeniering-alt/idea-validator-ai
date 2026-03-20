@@ -232,6 +232,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260320075451",
+    "nombre": "ZenTime",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que combina gestión del tiempo con técnicas de bienestar y mindfulness para trabajadores remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260320075451.html"
+  },
+  {
     "id": "IDEA-20260320071548",
     "nombre": "E-ComManager",
     "tipo": "SaaS",
