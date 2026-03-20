@@ -3919,6 +3919,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-20T23:21:23.755014"
+    },
+    {
+      "nombre": "Onboardly",
+      "descripcion": "Onboardly es una solución SaaS diseñada para facilitar y optimizar el proceso de onboarding de nuevos empleados. Ofrece una experiencia interactiva y personalizada que incluye tutoriales, seguimiento de tareas, y herramientas de feedback, todo en un solo lugar. Además, permite a las empresas analizar datos de cómo los nuevos empleados están experimentando su integración.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-03-20T23:50:04.775169"
     }
   ],
   "nombres_usados": [
@@ -4481,6 +4488,7 @@
     "TrendyPost",
     "MedSync",
     "TaskBuddy",
-    "PymArk (Marketing para PYMES)"
+    "PymArk (Marketing para PYMES)",
+    "Onboardly"
   ]
 }
