@@ -3807,6 +3807,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-20T10:57:04.243876"
+    },
+    {
+      "nombre": "AutoFinanzas",
+      "descripcion": "AutoFinanzas es un software que permite a los profesionales autónomos llevar un control efectivo de sus ingresos y gastos, generando reportes automáticos y recordatorios de impuestos. Incluye asesoría fiscal adaptada a la situación de cada usuario a través de inteligencia artificial.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-20T11:27:14.890060"
     }
   ],
   "nombres_usados": [
@@ -4353,6 +4360,7 @@
     "ZenTime",
     "ProductiviTime",
     "FreelanceFocus",
-    "SustentaPyme"
+    "SustentaPyme",
+    "AutoFinanzas"
   ]
 }

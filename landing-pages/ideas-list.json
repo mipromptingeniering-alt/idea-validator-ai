@@ -232,6 +232,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260320105704",
+    "nombre": "SustentaPyme",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que ayuda a las pymes a gestionar sus esfuerzos de sostenibilidad y cumplir con normativas medioambientales de manera fácil y asequible...",
+    "score": 75,
+    "landing_url": "IDEA-20260320105704.html"
+  },
+  {
     "id": "IDEA-20260320092336",
     "nombre": "FreelanceFocus",
     "tipo": "SaaS",
