@@ -3814,6 +3814,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-20T11:27:14.890060"
+    },
+    {
+      "nombre": "CreatorFlow",
+      "descripcion": "CreatorFlow es una herramienta SaaS que permite a los creadores administrar su carga de trabajo de manera efectiva, integrando funciones de gestión de proyectos, control de tiempo y generación de facturas. La plataforma ofrece plantillas de proyecto, seguimiento del progreso y análisis de tiempo, todo adaptado a las necesidades específicas de los creadores.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-20T11:57:24.059728"
     }
   ],
   "nombres_usados": [
@@ -4361,6 +4368,7 @@
     "ProductiviTime",
     "FreelanceFocus",
     "SustentaPyme",
-    "AutoFinanzas"
+    "AutoFinanzas",
+    "CreatorFlow"
   ]
 }

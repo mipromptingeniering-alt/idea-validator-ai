@@ -3864,6 +3864,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260320112714",
+    "nombre": "AutoFinanzas",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral que ayuda a autónomos a gestionar sus finanzas, con herramientas de seguimiento de ingresos, gastos y asesoría fiscal personal...",
+    "score": 70,
+    "landing_url": "IDEA-20260320112714.html"
+  },
+  {
     "id": "IDEA-20260320034212",
     "nombre": "Proyectos Sencillos",
     "tipo": "MicroSaaS",
