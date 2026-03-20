@@ -3765,6 +3765,13 @@
       "tipo": "MicroSaaS",
       "score": 70,
       "fecha": "2026-03-20T03:42:12.843150"
+    },
+    {
+      "nombre": "PortfolioEasy",
+      "descripcion": "PortfolioEasy permite a los profesionales creativos crear, personalizar y compartir su portafolio digital de forma rápida y sencilla. Con una selección de plantillas adaptables y herramientas interactivas, los usuarios pueden mostrar su trabajo de manera profesional y atractiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-20T05:07:08.336997"
     }
   ],
   "nombres_usados": [
@@ -4305,6 +4312,7 @@
     "FocusUP",
     "MindSync",
     "TimeBoost",
-    "Proyectos Sencillos"
+    "Proyectos Sencillos",
+    "PortfolioEasy"
   ]
 }

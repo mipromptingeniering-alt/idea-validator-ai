@@ -3816,6 +3816,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260320034212",
+    "nombre": "Proyectos Sencillos",
+    "tipo": "MicroSaaS",
+    "resumen": "Una herramienta de gestión de proyectos asequible y fácil de usar para emprendedores y pequeñas empresas....",
+    "score": 70,
+    "landing_url": "IDEA-20260320034212.html"
+  },
+  {
     "id": "IDEA-20260319180254",
     "nombre": "CreatiHive",
     "tipo": "SaaS",
