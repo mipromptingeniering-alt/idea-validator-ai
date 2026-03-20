@@ -3779,6 +3779,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-20T07:15:49.044052"
+    },
+    {
+      "nombre": "ZenTime",
+      "descripcion": "ZenTime es una aplicación web que permite a los trabajadores remotos gestionar su tiempo de manera efectiva mientras incorpora pausas y ejercicios de mindfulness para mejorar su bienestar general. Los usuarios pueden planificar su día, establecer recordatorios para pausas activas y acceder a contenido de bienestar mental, todo desde una única plataforma.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-20T07:54:51.725863"
     }
   ],
   "nombres_usados": [
@@ -4321,6 +4328,7 @@
     "TimeBoost",
     "Proyectos Sencillos",
     "PortfolioEasy",
-    "E-ComManager"
+    "E-ComManager",
+    "ZenTime"
   ]
 }

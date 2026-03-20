@@ -232,6 +232,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260320071548",
+    "nombre": "E-ComManager",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que permite a los emprendedores gestionar su presencia y ventas en múltiples plataformas de comercio electrónico desde una sola interfa...",
+    "score": 75,
+    "landing_url": "IDEA-20260320071548.html"
+  },
+  {
     "id": "IDEA-20260320050708",
     "nombre": "PortfolioEasy",
     "tipo": "SaaS",
