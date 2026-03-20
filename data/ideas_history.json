@@ -3856,6 +3856,13 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-03-20T17:00:35.236099"
+    },
+    {
+      "nombre": "PymeFlex",
+      "descripcion": "PymeFlex combina gestión de proyectos, comunicación en equipo y seguimiento de rendimiento en una única plataforma fácil de usar. Permite a las PYMEs asignar tareas, gestionar plazos, tener chats grupales y monitorear el progreso en tiempo real.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-20T17:39:16.805694"
     }
   ],
   "nombres_usados": [
@@ -4409,6 +4416,7 @@
     "SociaEasy",
     "CreativaMarket",
     "TeamHarmony",
-    "EasyFinanzas"
+    "EasyFinanzas",
+    "PymeFlex"
   ]
 }
