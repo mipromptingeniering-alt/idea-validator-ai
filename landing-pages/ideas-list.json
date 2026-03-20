@@ -232,6 +232,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260320123922",
+    "nombre": "BalanceLife",
+    "tipo": "SaaS",
+    "resumen": "Una aplicación que ayuda a los trabajadores remotos a mantener un equilibrio saludable entre trabajo y vida personal a través de recordatorios persona...",
+    "score": 75,
+    "landing_url": "IDEA-20260320123922.html"
+  },
+  {
     "id": "IDEA-20260320115723",
     "nombre": "CreatorFlow",
     "tipo": "SaaS",

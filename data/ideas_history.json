@@ -3828,6 +3828,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-20T12:39:22.902448"
+    },
+    {
+      "nombre": "SociaEasy",
+      "descripcion": "SociaEasy ofrece una interfaz intuitiva que permite a las pequeñas y medianas empresas programar publicaciones en diversas plataformas de redes sociales, junto con herramientas de inteligencia artificial que sugieren contenido adaptado a su nicho de mercado, facilitando la interacción y el engagement con su audiencia.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-20T13:46:21.583197"
     }
   ],
   "nombres_usados": [
@@ -4377,6 +4384,7 @@
     "SustentaPyme",
     "AutoFinanzas",
     "CreatorFlow",
-    "BalanceLife"
+    "BalanceLife",
+    "SociaEasy"
   ]
 }
