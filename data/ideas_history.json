@@ -3842,6 +3842,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-03-20T14:38:28.616290"
+    },
+    {
+      "nombre": "TeamHarmony",
+      "descripcion": "TeamHarmony es una plataforma diseñada para mejorar la comunicación, colaboración y bienestar de los equipos que trabajan de forma remota. Ofrece herramientas para gestionar proyectos, programar actividades virtuales de esparcimiento y medir el bienestar emocional del equipo a través de encuestas y recursos personalizados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-20T15:29:27.795633"
     }
   ],
   "nombres_usados": [
@@ -4393,6 +4400,7 @@
     "CreatorFlow",
     "BalanceLife",
     "SociaEasy",
-    "CreativaMarket"
+    "CreativaMarket",
+    "TeamHarmony"
   ]
 }
