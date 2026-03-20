@@ -3800,6 +3800,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-20T09:23:36.462241"
+    },
+    {
+      "nombre": "SustentaPyme",
+      "descripcion": "SustentaPyme ofrece un panel de control donde las pymes pueden monitorizar su huella de carbono, gestionar residuos, y recibir recomendaciones personalizadas para mejorar su sostenibilidad. Incluye herramientas de informe que ayudan en la presentación de sostenibilidad a los stakeholders.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-20T10:57:04.243876"
     }
   ],
   "nombres_usados": [
@@ -4345,6 +4352,7 @@
     "E-ComManager",
     "ZenTime",
     "ProductiviTime",
-    "FreelanceFocus"
+    "FreelanceFocus",
+    "SustentaPyme"
   ]
 }

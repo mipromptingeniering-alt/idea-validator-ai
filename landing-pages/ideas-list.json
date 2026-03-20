@@ -232,6 +232,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260320092336",
+    "nombre": "FreelanceFocus",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo diseñada para freelancers que combina seguimiento de tareas con inteligencia artificial para mejorar la productiv...",
+    "score": 75,
+    "landing_url": "IDEA-20260320092336.html"
+  },
+  {
     "id": "IDEA-20260320083216",
     "nombre": "ProductiviTime",
     "tipo": "SaaS",
