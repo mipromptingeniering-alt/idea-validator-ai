@@ -3758,6 +3758,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-20T01:18:54.976557"
+    },
+    {
+      "nombre": "Proyectos Sencillos",
+      "descripcion": "Proyectos Sencillos ofrece una plataforma de gestión de proyectos que permite a los usuarios planificar, organizar y colaborar en tareas de manera eficiente, con una interfaz intuitiva y diseño centrado en el usuario. Integra plantillas predefinidas basadas en metodologías ágiles y ofrece un sistema de seguimiento de objetivos y tareas.",
+      "tipo": "MicroSaaS",
+      "score": 70,
+      "fecha": "2026-03-20T03:42:12.843150"
     }
   ],
   "nombres_usados": [
@@ -4297,6 +4304,7 @@
     "PersoRec",
     "FocusUP",
     "MindSync",
-    "TimeBoost"
+    "TimeBoost",
+    "Proyectos Sencillos"
   ]
 }

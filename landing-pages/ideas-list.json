@@ -232,6 +232,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260320011854",
+    "nombre": "TimeBoost",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que ayuda a gestionar el tiempo y aumentar la productividad a través de técnicas de gamificación....",
+    "score": 75,
+    "landing_url": "IDEA-20260320011854.html"
+  },
+  {
     "id": "IDEA-20260319235124",
     "nombre": "MindSync",
     "tipo": "SaaS",
