@@ -3870,6 +3870,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-20T18:05:52.339869"
+    },
+    {
+      "nombre": "DataCompass",
+      "descripcion": "DataCompass permite a las pequeñas y medianas empresas analizar y visualizar sus datos de manera intuitiva, facilitando la toma de decisiones informadas. La plataforma incluye plantillas personalizables y un tutorial guiado para ayudar a los usuarios menos técnicos a maximizar el uso de sus datos.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-20T19:06:56.437155"
     }
   ],
   "nombres_usados": [
@@ -4425,6 +4432,7 @@
     "TeamHarmony",
     "EasyFinanzas",
     "PymeFlex",
-    "Planifica Juntos"
+    "Planifica Juntos",
+    "DataCompass"
   ]
 }

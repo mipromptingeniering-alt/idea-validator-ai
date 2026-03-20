@@ -240,6 +240,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260320180552",
+    "nombre": "Planifica Juntos",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que permite a grupos de amigos y familiares planificar actividades sociales de manera sencilla y eficiente, considerando las preferenci...",
+    "score": 75,
+    "landing_url": "IDEA-20260320180552.html"
+  },
+  {
     "id": "IDEA-20260320173916",
     "nombre": "PymeFlex",
     "tipo": "SaaS",
