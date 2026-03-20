@@ -3751,6 +3751,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-19T23:51:24.683326"
+    },
+    {
+      "nombre": "TimeBoost",
+      "descripcion": "TimeBoost es una herramienta en línea que permite a los usuarios planificar su día, establecer objetivos y recibir retroalimentación sobre su productividad mediante un sistema de recompensas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-20T01:18:54.976557"
     }
   ],
   "nombres_usados": [
@@ -4289,6 +4296,7 @@
     "SalesMate",
     "PersoRec",
     "FocusUP",
-    "MindSync"
+    "MindSync",
+    "TimeBoost"
   ]
 }
