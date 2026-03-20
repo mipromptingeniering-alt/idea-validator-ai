@@ -3891,6 +3891,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-20T20:55:35.188601"
+    },
+    {
+      "nombre": "TrendyPost",
+      "descripcion": "TrendyPost es una plataforma SaaS que ayuda a profesionales y pequeñas empresas a gestionar sus redes sociales generando y programando automáticamente contenido adaptado a las tendencias actuales y analíticas de la industria.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-20T21:51:32.947831"
     }
   ],
   "nombres_usados": [
@@ -4449,6 +4456,7 @@
     "Planifica Juntos",
     "DataCompass",
     "InvSys",
-    "CollabSync"
+    "CollabSync",
+    "TrendyPost"
   ]
 }

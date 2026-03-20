@@ -240,6 +240,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260320205535",
+    "nombre": "CollabSync",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integrada para la gestión de proyectos remotos que combina tareas, comunicación y seguimiento de objetivos....",
+    "score": 75,
+    "landing_url": "IDEA-20260320205535.html"
+  },
+  {
     "id": "IDEA-20260320194845",
     "nombre": "InvSys",
     "tipo": "SaaS",
