@@ -240,6 +240,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260320194845",
+    "nombre": "InvSys",
+    "tipo": "SaaS",
+    "resumen": "InvSys es una herramienta de gestión de inventario para pequeños comercios que optimiza el manejo de productos, evitando pérdidas y mejorando la efici...",
+    "score": 75,
+    "landing_url": "IDEA-20260320194845.html"
+  },
+  {
     "id": "IDEA-20260320180552",
     "nombre": "Planifica Juntos",
     "tipo": "SaaS",

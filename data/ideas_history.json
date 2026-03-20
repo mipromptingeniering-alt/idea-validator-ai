@@ -3884,6 +3884,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-20T19:48:45.114965"
+    },
+    {
+      "nombre": "CollabSync",
+      "descripcion": "CollabSync permite a los equipos gestionar sus proyectos de manera eficiente y colaborativa, integrando todas las herramientas necesarias en una sola plataforma. Los usuarios pueden asignar tareas, establecer plazos, comunicarse en tiempo real y hacer un seguimiento del progreso de los objetivos del proyecto en un único lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-20T20:55:35.188601"
     }
   ],
   "nombres_usados": [
@@ -4441,6 +4448,7 @@
     "PymeFlex",
     "Planifica Juntos",
     "DataCompass",
-    "InvSys"
+    "InvSys",
+    "CollabSync"
   ]
 }
