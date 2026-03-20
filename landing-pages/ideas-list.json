@@ -240,6 +240,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260320215132",
+    "nombre": "TrendyPost",
+    "tipo": "SaaS",
+    "resumen": "Herramienta de gestión automatizada de contenido para redes sociales basada en tendencias del sector....",
+    "score": 75,
+    "landing_url": "IDEA-20260320215132.html"
+  },
+  {
     "id": "IDEA-20260320205535",
     "nombre": "CollabSync",
     "tipo": "SaaS",

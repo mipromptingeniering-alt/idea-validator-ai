@@ -3898,6 +3898,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-20T21:51:32.947831"
+    },
+    {
+      "nombre": "MedSync",
+      "descripcion": "MedSync permite a médicos y terapeutas gestionar sus citas de manera eficiente, realizar consultas a distancia y mantener toda la documentación de sus pacientes organizada y fácilmente accesible. La plataforma está diseñada para mejorar la eficiencia operativa y la calidad de atención al paciente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-20T22:20:32.288887"
     }
   ],
   "nombres_usados": [
@@ -4457,6 +4464,7 @@
     "DataCompass",
     "InvSys",
     "CollabSync",
-    "TrendyPost"
+    "TrendyPost",
+    "MedSync"
   ]
 }
