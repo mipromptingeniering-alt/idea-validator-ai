@@ -3793,6 +3793,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-20T08:32:16.401469"
+    },
+    {
+      "nombre": "FreelanceFocus",
+      "descripcion": "FreelanceFocus ayuda a los freelancers a gestionar su tiempo y tareas de manera eficaz, proporcionando análisis de rendimiento y recomendaciones personalizadas. Los usuarios pueden crear listas de tareas, establecer plazos y recibir consejos sobre cómo optimizar su flujo de trabajo basado en datos de rendimiento.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-20T09:23:36.462241"
     }
   ],
   "nombres_usados": [
@@ -4337,6 +4344,7 @@
     "PortfolioEasy",
     "E-ComManager",
     "ZenTime",
-    "ProductiviTime"
+    "ProductiviTime",
+    "FreelanceFocus"
   ]
 }

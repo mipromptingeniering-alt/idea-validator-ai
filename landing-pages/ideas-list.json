@@ -232,6 +232,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260320083216",
+    "nombre": "ProductiviTime",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral que combina seguimiento de tiempo, gestión de tareas y análisis de productividad para trabajadores remotos y freelancers....",
+    "score": 75,
+    "landing_url": "IDEA-20260320083216.html"
+  },
+  {
     "id": "IDEA-20260320075451",
     "nombre": "ZenTime",
     "tipo": "SaaS",
