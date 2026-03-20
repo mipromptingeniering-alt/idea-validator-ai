@@ -3912,6 +3912,13 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-03-20T22:53:49.760697"
+    },
+    {
+      "nombre": "PymArk (Marketing para PYMES)",
+      "descripcion": "PymArk permite a las pymes crear, gestionar y optimizar campañas de marketing en redes sociales y otros canales digitales de manera sencilla. Utilizando algoritmos de IA, la plataforma sugiere estrategias de marketing personalizadas, facilitando la toma de decisiones basada en datos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-20T23:21:23.755014"
     }
   ],
   "nombres_usados": [
@@ -4473,6 +4480,7 @@
     "CollabSync",
     "TrendyPost",
     "MedSync",
-    "TaskBuddy"
+    "TaskBuddy",
+    "PymArk (Marketing para PYMES)"
   ]
 }
