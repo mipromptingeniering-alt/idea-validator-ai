@@ -3954,6 +3954,13 @@
       "tipo": "MicroSaaS",
       "score": 72,
       "fecha": "2026-03-21T05:36:00.602939"
+    },
+    {
+      "nombre": "OptimizAI",
+      "descripcion": "OptimizAI es una plataforma que integra datos de diferentes campañas de marketing digital y utiliza inteligencia artificial para analizar el rendimiento en tiempo real. Con esta herramienta, los marketers pueden recibir sugerencias automatizadas para mejorar la efectividad de sus campañas, lo que les permite reaccionar rápidamente a cambios en el comportamiento del consumidor.",
+      "tipo": "SaaS",
+      "score": 80,
+      "fecha": "2026-03-21T06:06:53.579175"
     }
   ],
   "nombres_usados": [
@@ -4521,6 +4528,7 @@
     "PymeSocial",
     "ReputaWise",
     "EasyAnalyze",
-    "TaskSimplify"
+    "TaskSimplify",
+    "OptimizAI"
   ]
 }
