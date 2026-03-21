@@ -4031,6 +4031,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-21T13:59:14.966656"
+    },
+    {
+      "nombre": "AutoManage",
+      "descripcion": "AutoManage permite a los profesionales autónomos gestionar su tiempo de manera más efectiva. Ofrece funciones de planificación de tareas, recordatorios adaptativos y análisis de productividad utilizando IA para ayudar a los usuarios a identificar sus mejores momentos y hábitos de trabajo.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-21T14:27:33.500763"
     }
   ],
   "nombres_usados": [
@@ -4609,6 +4616,7 @@
     "Financiarte",
     "LifeBalance",
     "FocusMind",
-    "EasyContable"
+    "EasyContable",
+    "AutoManage"
   ]
 }
