@@ -4101,6 +4101,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-21T19:26:05.826123"
+    },
+    {
+      "nombre": "MarketBoost",
+      "descripcion": "MarketBoost es una plataforma intuitiva que permite a las PYMES gestionar su marketing digital sin la necesidad de conocimientos técnicos avanzados. Ofrece herramientas para crear campañas de correo electrónico, gestionar redes sociales y analizar resultados con un enfoque en la simplicidad y la personalización. Además, cuenta con soporte técnico para guiar a los usuarios en cada paso.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-21T19:44:23.153252"
     }
   ],
   "nombres_usados": [
@@ -4689,6 +4696,7 @@
     "ProyecTrello",
     "Freelance Optimizer",
     "TimeBalance",
-    "ColaboraPYME"
+    "ColaboraPYME",
+    "MarketBoost"
   ]
 }
