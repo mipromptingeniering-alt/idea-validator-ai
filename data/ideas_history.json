@@ -4073,6 +4073,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-21T17:19:29.577365"
+    },
+    {
+      "nombre": "ProyecTrello",
+      "descripcion": "ProyecTrello es una plataforma intuitiva que permite a los usuarios gestionar proyectos mediante tableros visuales que facilitan la asignación de tareas, el seguimiento del progreso y la colaboración entre miembros del equipo. Incorpora integraciones con herramientas populares y ofrece análisis sencillos sobre la productividad.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-21T17:47:56.199502"
     }
   ],
   "nombres_usados": [
@@ -4657,6 +4664,7 @@
     "VisualCraft",
     "Productivity Game",
     "Freelance Organizer",
-    "TempoSync"
+    "TempoSync",
+    "ProyecTrello"
   ]
 }

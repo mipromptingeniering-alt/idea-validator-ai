@@ -256,6 +256,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260321171929",
+    "nombre": "TempoSync",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo y tareas que ayuda a equipos remotos a maximizar su productividad....",
+    "score": 75,
+    "landing_url": "IDEA-20260321171929.html"
+  },
+  {
     "id": "IDEA-20260321165258",
     "nombre": "Freelance Organizer",
     "tipo": "SaaS",
