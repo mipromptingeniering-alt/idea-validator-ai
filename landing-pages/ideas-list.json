@@ -3984,6 +3984,14 @@
     "landing_url": "IDEA-20260216160937.html"
   },
   {
+    "id": "IDEA-20260321185901",
+    "nombre": "TimeBalance",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo que prioriza el equilibrio entre la productividad y el bienestar personal....",
+    "score": 72,
+    "landing_url": "IDEA-20260321185901.html"
+  },
+  {
     "id": "IDEA-20260321053600",
     "nombre": "TaskSimplify",
     "tipo": "MicroSaaS",
