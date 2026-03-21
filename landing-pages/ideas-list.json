@@ -256,6 +256,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260321182521",
+    "nombre": "Freelance Optimizer",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que ayuda a freelancers a gestionar su tiempo y establecer tarifas adecuadas basadas en análisis de mercado....",
+    "score": 75,
+    "landing_url": "IDEA-20260321182521.html"
+  },
+  {
     "id": "IDEA-20260321171929",
     "nombre": "TempoSync",
     "tipo": "SaaS",

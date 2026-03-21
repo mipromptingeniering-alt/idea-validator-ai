@@ -4087,6 +4087,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-21T18:25:21.614728"
+    },
+    {
+      "nombre": "TimeBalance",
+      "descripcion": "TimeBalance es un software que ayuda a los trabajadores independientes y emprendedores a gestionar su tiempo a través de una interfaz intuitiva que combina la planificación de tareas con el seguimiento del bienestar emocional. Los usuarios pueden establecer metas diarias, recibir recordatorios y visualizar su progreso utilizando métricas personalizadas.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-03-21T18:59:02.059057"
     }
   ],
   "nombres_usados": [
@@ -4673,6 +4680,7 @@
     "Freelance Organizer",
     "TempoSync",
     "ProyecTrello",
-    "Freelance Optimizer"
+    "Freelance Optimizer",
+    "TimeBalance"
   ]
 }
