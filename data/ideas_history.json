@@ -3996,6 +3996,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-21T10:50:59.189687"
+    },
+    {
+      "nombre": "BudgetWise",
+      "descripcion": "BudgetWise es una solución SaaS que permite a las PYMES gestionar sus gastos operativos, crear presupuestos y recibir recomendaciones personalizadas para optimizar sus finanzas. Con herramientas de análisis de datos, las empresas pueden identificar áreas de desperdicio y oportunidades de ahorro.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-21T11:16:55.197055"
     }
   ],
   "nombres_usados": [
@@ -4569,6 +4576,7 @@
     "FinFreelance",
     "MarketingEase",
     "FocusPlay",
-    "TimeZen"
+    "TimeZen",
+    "BudgetWise"
   ]
 }
