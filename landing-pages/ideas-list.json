@@ -256,6 +256,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260321222714",
+    "nombre": "HR Buddy",
+    "tipo": "SaaS",
+    "resumen": "HR Buddy es una herramienta de gestión de recursos humanos diseñada específicamente para pequeñas y medianas empresas, que simplifica la administració...",
+    "score": 75,
+    "landing_url": "IDEA-20260321222714.html"
+  },
+  {
     "id": "IDEA-20260321211826",
     "nombre": "SuscripTrack",
     "tipo": "SaaS",

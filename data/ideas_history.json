@@ -4143,6 +4143,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-21T22:27:14.113364"
+    },
+    {
+      "nombre": "MentalHub",
+      "descripcion": "MentalHub es una plataforma digital que reúne herramientas, recursos educativos y comunidades interactivas enfocadas en la salud mental. Los usuarios pueden acceder a contenido personalizado, ejercicios de bienestar, videos, y foros de discusión con otros que enfrentan desafíos similares. También se ofrecen pruebas de autodiagnóstico para adaptar los recursos a las necesidades de cada usuario.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-21T23:17:25.978941"
     }
   ],
   "nombres_usados": [
@@ -4737,6 +4744,7 @@
     "ReputaCheck",
     "SuscripTrack",
     "LocalLink",
-    "HR Buddy"
+    "HR Buddy",
+    "MentalHub"
   ]
 }
