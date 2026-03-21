@@ -4150,6 +4150,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-21T23:17:25.978941"
+    },
+    {
+      "nombre": "Freelance Time & Price Manager",
+      "descripcion": "Freelance Time & Price Manager es una solución en línea que permite a los freelancers llevar un seguimiento de sus horas trabajadas, establecer tarifas personalizadas basadas en su experiencia y en el mercado, y obtener informes de productividad y recomendaciones para mejorar su rendimiento y rentabilidad.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-21T23:45:45.436531"
     }
   ],
   "nombres_usados": [
@@ -4745,6 +4752,7 @@
     "SuscripTrack",
     "LocalLink",
     "HR Buddy",
-    "MentalHub"
+    "MentalHub",
+    "Freelance Time & Price Manager"
   ]
 }

@@ -256,6 +256,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260321231725",
+    "nombre": "MentalHub",
+    "tipo": "SaaS",
+    "resumen": "Plataforma integral de recursos y comunidad en línea para mejorar la salud mental....",
+    "score": 75,
+    "landing_url": "IDEA-20260321231725.html"
+  },
+  {
     "id": "IDEA-20260321222714",
     "nombre": "HR Buddy",
     "tipo": "SaaS",
