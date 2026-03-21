@@ -256,6 +256,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260321101851",
+    "nombre": "FocusPlay",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que ayuda a los usuarios a gestionar su tiempo a través de técnicas de gamificación y personalización....",
+    "score": 75,
+    "landing_url": "IDEA-20260321101851.html"
+  },
+  {
     "id": "IDEA-20260321094549",
     "nombre": "MarketingEase",
     "tipo": "SaaS",

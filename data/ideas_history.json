@@ -3989,6 +3989,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-21T10:18:51.564316"
+    },
+    {
+      "nombre": "TimeZen",
+      "descripcion": "TimeZen permite a los usuarios gestionar sus tareas diarias, establecer ciclos de trabajo utilizando la técnica Pomodoro, y también incluye recordatorios para pausas y ejercicios de meditación. La aplicación proporciona estadísticas sobre el uso del tiempo y recomendaciones personalizadas para mejorar la productividad y el bienestar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-21T10:50:59.189687"
     }
   ],
   "nombres_usados": [
@@ -4561,6 +4568,7 @@
     "VisualGenius",
     "FinFreelance",
     "MarketingEase",
-    "FocusPlay"
+    "FocusPlay",
+    "TimeZen"
   ]
 }
