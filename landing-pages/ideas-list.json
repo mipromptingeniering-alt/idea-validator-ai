@@ -256,6 +256,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260321083924",
+    "nombre": "FinFreelance",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de gestión financiera para freelancers que simplifica la facturación, el seguimiento de gastos y la preparación de impuestos....",
+    "score": 75,
+    "landing_url": "IDEA-20260321083924.html"
+  },
+  {
     "id": "IDEA-20260321070220",
     "nombre": "VisualGenius",
     "tipo": "SaaS",
