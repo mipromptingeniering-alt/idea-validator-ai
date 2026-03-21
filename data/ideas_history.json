@@ -3940,6 +3940,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-21T03:30:56.270028"
+    },
+    {
+      "nombre": "EasyAnalyze",
+      "descripcion": "EasyAnalyze permite a los profesionales del marketing digital conectar sus distintas cuentas de redes sociales y plataformas publicitarias para visualizarlas en un solo lugar. Los usuarios pueden crear dashboards personalizados que transforman datos complejos en gráficos y reportes fáciles de entender, permitiendo la optimización continua de sus campañas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-21T04:53:49.699316"
     }
   ],
   "nombres_usados": [
@@ -4505,6 +4512,7 @@
     "PymArk (Marketing para PYMES)",
     "Onboardly",
     "PymeSocial",
-    "ReputaWise"
+    "ReputaWise",
+    "EasyAnalyze"
   ]
 }
