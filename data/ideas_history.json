@@ -4024,6 +4024,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-21T13:30:11.076598"
+    },
+    {
+      "nombre": "EasyContable",
+      "descripcion": "EasyContable permite a las PYMES gestionar fácilmente sus finanzas, realizar facturación, llevar un control de gastos e ingresos y generar informes financieros de manera intuitiva y accesible. El software ofrece integración con plataformas de pago y herramientas de gestión empresarial como CRMs.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-21T13:59:14.966656"
     }
   ],
   "nombres_usados": [
@@ -4601,6 +4608,7 @@
     "BudgetWise",
     "Financiarte",
     "LifeBalance",
-    "FocusMind"
+    "FocusMind",
+    "EasyContable"
   ]
 }

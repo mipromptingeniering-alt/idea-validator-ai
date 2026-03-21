@@ -256,6 +256,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260321133010",
+    "nombre": "FocusMind",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo que combina productividad con técnicas de mindfulness para mejorar el bienestar de los trabajadores remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260321133010.html"
+  },
+  {
     "id": "IDEA-20260321123217",
     "nombre": "LifeBalance",
     "tipo": "SaaS",
