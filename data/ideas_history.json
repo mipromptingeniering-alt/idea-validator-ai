@@ -4003,6 +4003,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-21T11:16:55.197055"
+    },
+    {
+      "nombre": "Financiarte",
+      "descripcion": "Financiarte permite a los usuarios gestionar sus finanzas de manera intuitiva, automatizando tareas como la creación de facturas, seguimiento de gastos y generación de reportes financieros, todo desde una única aplicación móvil y web.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-21T12:00:56.891272"
     }
   ],
   "nombres_usados": [
@@ -4577,6 +4584,7 @@
     "MarketingEase",
     "FocusPlay",
     "TimeZen",
-    "BudgetWise"
+    "BudgetWise",
+    "Financiarte"
   ]
 }
