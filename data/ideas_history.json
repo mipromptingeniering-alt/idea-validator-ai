@@ -3926,6 +3926,13 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-03-20T23:50:04.775169"
+    },
+    {
+      "nombre": "PymeSocial",
+      "descripcion": "PymeSocial permite a los propietarios de pequeñas y medianas empresas automatizar sus publicaciones en redes sociales, analizar el rendimiento y optimizar su estrategia de contenido, todo en una interfaz fácil de usar y asequible.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-21T01:14:36.604557"
     }
   ],
   "nombres_usados": [
@@ -4489,6 +4496,7 @@
     "MedSync",
     "TaskBuddy",
     "PymArk (Marketing para PYMES)",
-    "Onboardly"
+    "Onboardly",
+    "PymeSocial"
   ]
 }
