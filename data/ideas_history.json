@@ -4052,6 +4052,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-21T15:19:49.650420"
+    },
+    {
+      "nombre": "Productivity Game",
+      "descripcion": "Productivity Game permite a los usuarios crear y gestionar tareas a través de una experiencia de juego, donde completan desafíos diarios y semanales para ganar puntos y recompensas. Además, incluye herramientas de seguimiento de hábitos que ayudan a los usuarios a establecer rutinas saludables.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-21T16:19:35.490585"
     }
   ],
   "nombres_usados": [
@@ -4633,6 +4640,7 @@
     "EasyContable",
     "AutoManage",
     "Marketing Maestro",
-    "VisualCraft"
+    "VisualCraft",
+    "Productivity Game"
   ]
 }

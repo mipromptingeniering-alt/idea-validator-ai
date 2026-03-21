@@ -256,6 +256,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260321151949",
+    "nombre": "VisualCraft",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma fácil de usar para generar contenido visual atractivo utilizando inteligencia artificial y plantillas personalizables....",
+    "score": 75,
+    "landing_url": "IDEA-20260321151949.html"
+  },
+  {
     "id": "IDEA-20260321145219",
     "nombre": "Marketing Maestro",
     "tipo": "SaaS",
