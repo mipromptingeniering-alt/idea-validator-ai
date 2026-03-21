@@ -256,6 +256,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260321194423",
+    "nombre": "MarketBoost",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de marketing digital diseñada específicamente para PYMES, que ofrece herramientas sencillas de uso, plantillas personalizables y soport...",
+    "score": 75,
+    "landing_url": "IDEA-20260321194423.html"
+  },
+  {
     "id": "IDEA-20260321192605",
     "nombre": "ColaboraPYME",
     "tipo": "SaaS",

@@ -4108,6 +4108,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-21T19:44:23.153252"
+    },
+    {
+      "nombre": "EasyWebSetup",
+      "descripcion": "EasyWebSetup es una herramienta de creación de sitios web diseñada específicamente para pequeñas empresas y emprendedores. Ofrece plantillas personalizables, integración con redes sociales, e-commerce básico y herramientas de SEO para ayudarles a establecer una presencia digital sin necesidad de conocimientos técnicos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-21T19:56:54.534340"
     }
   ],
   "nombres_usados": [
@@ -4697,6 +4704,7 @@
     "Freelance Optimizer",
     "TimeBalance",
     "ColaboraPYME",
-    "MarketBoost"
+    "MarketBoost",
+    "EasyWebSetup"
   ]
 }
