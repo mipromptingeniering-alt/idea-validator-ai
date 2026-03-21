@@ -256,6 +256,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260321211826",
+    "nombre": "SuscripTrack",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que ayuda a los usuarios a gestionar y optimizar sus suscripciones de servicios digitales....",
+    "score": 75,
+    "landing_url": "IDEA-20260321211826.html"
+  },
+  {
     "id": "IDEA-20260321201947",
     "nombre": "ReputaCheck",
     "tipo": "SaaS",

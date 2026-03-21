@@ -4129,6 +4129,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-21T21:18:26.161836"
+    },
+    {
+      "nombre": "LocalLink",
+      "descripcion": "LocalLink permite a freelancers crear perfiles atractivos y ofrecer sus servicios a empresas locales, facilitando el networking y la gestión de proyectos. Incluye características como gestión de citas, seguimiento de clientes y pago directo en la plataforma.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-03-21T21:45:15.067050"
     }
   ],
   "nombres_usados": [
@@ -4721,6 +4728,7 @@
     "MarketBoost",
     "EasyWebSetup",
     "ReputaCheck",
-    "SuscripTrack"
+    "SuscripTrack",
+    "LocalLink"
   ]
 }
