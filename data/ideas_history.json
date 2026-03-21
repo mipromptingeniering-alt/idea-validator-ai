@@ -3961,6 +3961,13 @@
       "tipo": "SaaS",
       "score": 80,
       "fecha": "2026-03-21T06:06:53.579175"
+    },
+    {
+      "nombre": "VisualGenius",
+      "descripcion": "VisualGenius es una aplicación SaaS que utiliza algoritmos de inteligencia artificial para permitir a los usuarios generar plantillas de contenido visual personalizables en cuestión de minutos, ideal para pequeñas empresas y freelancers que necesitan optimizar su estrategia de marketing visual.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-21T07:02:20.484393"
     }
   ],
   "nombres_usados": [
@@ -4529,6 +4536,7 @@
     "ReputaWise",
     "EasyAnalyze",
     "TaskSimplify",
-    "OptimizAI"
+    "OptimizAI",
+    "VisualGenius"
   ]
 }
