@@ -4136,6 +4136,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260321174756",
+    "nombre": "ProyecTrello",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de proyectos que permite a emprendedores y pequeños equipos organizar tareas de manera visual y sencilla....",
+    "score": 70,
+    "landing_url": "IDEA-20260321174756.html"
+  },
+  {
     "id": "IDEA-20260321142733",
     "nombre": "AutoManage",
     "tipo": "SaaS",

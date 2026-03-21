@@ -4080,6 +4080,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-21T17:47:56.199502"
+    },
+    {
+      "nombre": "Freelance Optimizer",
+      "descripcion": "Freelance Optimizer es una aplicación web que permite a los freelancers registrar sus horas de trabajo, generar informes de productividad y calcular tarifas competitivas en base a datos del sector. Incluye funcionalidades de recordatorio para proyectos y una comunidad para compartir mejores prácticas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-21T18:25:21.614728"
     }
   ],
   "nombres_usados": [
@@ -4665,6 +4672,7 @@
     "Productivity Game",
     "Freelance Organizer",
     "TempoSync",
-    "ProyecTrello"
+    "ProyecTrello",
+    "Freelance Optimizer"
   ]
 }
