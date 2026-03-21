@@ -4122,6 +4122,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-21T20:19:47.942966"
+    },
+    {
+      "nombre": "SuscripTrack",
+      "descripcion": "SuscripTrack permite a los usuarios integrar todas sus suscripciones en un solo lugar, proporcionando análisis de uso, recordatorios de pagos, y recomendaciones para cancelar o reducir servicios no utilizados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-21T21:18:26.161836"
     }
   ],
   "nombres_usados": [
@@ -4713,6 +4720,7 @@
     "ColaboraPYME",
     "MarketBoost",
     "EasyWebSetup",
-    "ReputaCheck"
+    "ReputaCheck",
+    "SuscripTrack"
   ]
 }
