@@ -4115,6 +4115,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-21T19:56:54.534340"
+    },
+    {
+      "nombre": "ReputaCheck",
+      "descripcion": "ReputaCheck permite a las pequeñas y medianas empresas consolidar todas sus valoraciones y comentarios de clientes provenientes de diversas plataformas (Google, Yelp, Facebook, entre otros) en un solo panel. La herramienta incluye analíticas de sentimiento para ayudar a las pymes a entender mejor la percepción del cliente y responder a tiempo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-21T20:19:47.942966"
     }
   ],
   "nombres_usados": [
@@ -4705,6 +4712,7 @@
     "TimeBalance",
     "ColaboraPYME",
     "MarketBoost",
-    "EasyWebSetup"
+    "EasyWebSetup",
+    "ReputaCheck"
   ]
 }

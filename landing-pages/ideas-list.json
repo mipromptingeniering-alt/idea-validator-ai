@@ -256,6 +256,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260321195654",
+    "nombre": "EasyWebSetup",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que permite a emprendedores y pequeñas empresas crear fácilmente páginas web personalizadas en minutos....",
+    "score": 75,
+    "landing_url": "IDEA-20260321195654.html"
+  },
+  {
     "id": "IDEA-20260321194423",
     "nombre": "MarketBoost",
     "tipo": "SaaS",
