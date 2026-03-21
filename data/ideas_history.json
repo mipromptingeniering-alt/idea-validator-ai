@@ -4010,6 +4010,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-21T12:00:56.891272"
+    },
+    {
+      "nombre": "LifeBalance",
+      "descripcion": "LifeBalance es una aplicación web que ofrece herramientas de planificación de tiempo, seguimiento de hábitos y ejercicios de bienestar mental. Los usuarios pueden establecer metas de productividad y bienestar, recibir recordatorios para pausas y ejercicios de respiración, y analizar su progreso a través de métricas visuales.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-21T12:32:17.863077"
     }
   ],
   "nombres_usados": [
@@ -4585,6 +4592,7 @@
     "FocusPlay",
     "TimeZen",
     "BudgetWise",
-    "Financiarte"
+    "Financiarte",
+    "LifeBalance"
   ]
 }

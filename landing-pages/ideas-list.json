@@ -256,6 +256,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260321120056",
+    "nombre": "Financiarte",
+    "tipo": "SaaS",
+    "resumen": "Financiarte es una plataforma de gestión financiera en la nube diseñada para pequeños negocios y autónomos que buscan simplificar su contabilidad y fi...",
+    "score": 75,
+    "landing_url": "IDEA-20260321120056.html"
+  },
+  {
     "id": "IDEA-20260321111655",
     "nombre": "BudgetWise",
     "tipo": "SaaS",
