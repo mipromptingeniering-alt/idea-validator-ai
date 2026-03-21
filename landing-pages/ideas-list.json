@@ -4096,6 +4096,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260321142733",
+    "nombre": "AutoManage",
+    "tipo": "SaaS",
+    "resumen": "AutoManage es una herramienta de gestión y optimización del tiempo diseñada especialmente para trabajadores autónomos....",
+    "score": 70,
+    "landing_url": "IDEA-20260321142733.html"
+  },
+  {
     "id": "IDEA-20260321033056",
     "nombre": "ReputaWise",
     "tipo": "SaaS",

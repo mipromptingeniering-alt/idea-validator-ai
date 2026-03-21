@@ -4038,6 +4038,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-21T14:27:33.500763"
+    },
+    {
+      "nombre": "Marketing Maestro",
+      "descripcion": "Marketing Maestro es una herramienta de marketing digital que permite a las pequeñas y medianas empresas crear, gestionar y optimizar sus campañas de marketing de manera sencilla. La plataforma utiliza inteligencia artificial para personalizar los estrategias y proporciona reportes de rendimiento automatizados que permiten a los usuarios medir el éxito y ajustar sus campañas de forma efectiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-21T14:52:19.915240"
     }
   ],
   "nombres_usados": [
@@ -4617,6 +4624,7 @@
     "LifeBalance",
     "FocusMind",
     "EasyContable",
-    "AutoManage"
+    "AutoManage",
+    "Marketing Maestro"
   ]
 }
