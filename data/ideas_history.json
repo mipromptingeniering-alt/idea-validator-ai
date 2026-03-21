@@ -4059,6 +4059,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-21T16:19:35.490585"
+    },
+    {
+      "nombre": "Freelance Organizer",
+      "descripcion": "Freelance Organizer permite a los usuarios gestionar sus tareas, proyectos y clientes desde una única plataforma. Incluye herramientas de seguimiento de tiempo, recordatorios, y un sistema de etiquetado para priorizar tareas. Todo esto en una interfaz simple y centrada en el usuario.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-21T16:52:58.979262"
     }
   ],
   "nombres_usados": [
@@ -4641,6 +4648,7 @@
     "AutoManage",
     "Marketing Maestro",
     "VisualCraft",
-    "Productivity Game"
+    "Productivity Game",
+    "Freelance Organizer"
   ]
 }

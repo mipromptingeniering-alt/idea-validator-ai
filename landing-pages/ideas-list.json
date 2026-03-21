@@ -256,6 +256,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260321161935",
+    "nombre": "Productivity Game",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de tareas gamificada que ayuda a los usuarios a mejorar su productividad mediante desafíos y seguimiento de hábitos....",
+    "score": 75,
+    "landing_url": "IDEA-20260321161935.html"
+  },
+  {
     "id": "IDEA-20260321151949",
     "nombre": "VisualCraft",
     "tipo": "SaaS",
