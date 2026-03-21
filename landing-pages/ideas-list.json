@@ -256,6 +256,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260321165258",
+    "nombre": "Freelance Organizer",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de tareas y proyectos diseñada específicamente para freelancers y pequeños emprendedores....",
+    "score": 75,
+    "landing_url": "IDEA-20260321165258.html"
+  },
+  {
     "id": "IDEA-20260321161935",
     "nombre": "Productivity Game",
     "tipo": "SaaS",

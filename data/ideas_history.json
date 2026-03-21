@@ -4066,6 +4066,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-21T16:52:58.979262"
+    },
+    {
+      "nombre": "TempoSync",
+      "descripcion": "TempoSync es una herramienta SaaS que integra técnicas de productividad como Pomodoro, Kanban y análisis de tiempo, permitiendo a los equipos gestionar sus tareas, evaluar su rendimiento y optimizar su flujo de trabajo en tiempo real.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-21T17:19:29.577365"
     }
   ],
   "nombres_usados": [
@@ -4649,6 +4656,7 @@
     "Marketing Maestro",
     "VisualCraft",
     "Productivity Game",
-    "Freelance Organizer"
+    "Freelance Organizer",
+    "TempoSync"
   ]
 }
