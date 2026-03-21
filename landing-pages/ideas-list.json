@@ -256,6 +256,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260321123217",
+    "nombre": "LifeBalance",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma digital que ayuda a profesionales a gestionar su tiempo y bienestar mental de forma integrada....",
+    "score": 75,
+    "landing_url": "IDEA-20260321123217.html"
+  },
+  {
     "id": "IDEA-20260321120056",
     "nombre": "Financiarte",
     "tipo": "SaaS",

@@ -4017,6 +4017,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-21T12:32:17.863077"
+    },
+    {
+      "nombre": "FocusMind",
+      "descripcion": "FocusMind es una herramienta que ayuda a los trabajadores remotos a organizar su tiempo de manera efectiva, incorporando técnicas de mindfulness para promover pausas estratégicas y mejorar su enfoque, adaptándose a las necesidades individuales de cada usuario.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-21T13:30:11.076598"
     }
   ],
   "nombres_usados": [
@@ -4593,6 +4600,7 @@
     "TimeZen",
     "BudgetWise",
     "Financiarte",
-    "LifeBalance"
+    "LifeBalance",
+    "FocusMind"
   ]
 }
