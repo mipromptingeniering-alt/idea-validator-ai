@@ -256,6 +256,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260321145219",
+    "nombre": "Marketing Maestro",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de marketing digital diseñada específicamente para PYMES que ofrece estrategias personalizadas y automatización de campañas....",
+    "score": 75,
+    "landing_url": "IDEA-20260321145219.html"
+  },
+  {
     "id": "IDEA-20260321135914",
     "nombre": "EasyContable",
     "tipo": "SaaS",

@@ -4045,6 +4045,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-21T14:52:19.915240"
+    },
+    {
+      "nombre": "VisualCraft",
+      "descripcion": "VisualCraft permite a los profesionales del marketing crear imágenes y gráficos impactantes con solo unos clics. Utiliza inteligencia artificial para sugerir diseños y estilos, personalizables según las necesidades del usuario. Además, ofrece análisis sobre el rendimiento de cada visual creado, ayudando a optimizar futuras estrategias de contenido.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-21T15:19:49.650420"
     }
   ],
   "nombres_usados": [
@@ -4625,6 +4632,7 @@
     "FocusMind",
     "EasyContable",
     "AutoManage",
-    "Marketing Maestro"
+    "Marketing Maestro",
+    "VisualCraft"
   ]
 }
