@@ -3968,6 +3968,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-21T07:02:20.484393"
+    },
+    {
+      "nombre": "FinFreelance",
+      "descripcion": "FinFreelance es una herramienta digital que permite a los trabajadores autónomos gestionar sus finanzas de manera eficiente. Ofrece funcionalidades para crear y enviar facturas, registrar gastos, y recibir recordatorios para cumplir con las obligaciones fiscales. Su diseño intuitivo y funcionalidad móvil permite gestionar las finanzas desde cualquier lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-21T08:39:24.730515"
     }
   ],
   "nombres_usados": [
@@ -4537,6 +4544,7 @@
     "EasyAnalyze",
     "TaskSimplify",
     "OptimizAI",
-    "VisualGenius"
+    "VisualGenius",
+    "FinFreelance"
   ]
 }
