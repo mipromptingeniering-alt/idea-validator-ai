@@ -4136,6 +4136,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-03-21T21:45:15.067050"
+    },
+    {
+      "nombre": "HR Buddy",
+      "descripcion": "HR Buddy permite a las PYMES gestionar la nómina, el tiempo y la asistencia, así como la comunicación interna del equipo, todo desde una plataforma fácil de usar. Ofrecemos integración con herramientas ya conocidas por los usuarios para facilitar la adopción.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-21T22:27:14.113364"
     }
   ],
   "nombres_usados": [
@@ -4729,6 +4736,7 @@
     "EasyWebSetup",
     "ReputaCheck",
     "SuscripTrack",
-    "LocalLink"
+    "LocalLink",
+    "HR Buddy"
   ]
 }
