@@ -3933,6 +3933,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-21T01:14:36.604557"
+    },
+    {
+      "nombre": "ReputaWise",
+      "descripcion": "ReputaWise facilita que las PYMEs monitoreen y respondan a reseñas y comentarios de clientes en diversas plataformas (Google, Yelp, Facebook, etc.) a través de un único panel de control. Además, ofrece análisis de sentimientos y recomendaciones personalizadas para mejorar la percepción del cliente.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-21T03:30:56.270028"
     }
   ],
   "nombres_usados": [
@@ -4497,6 +4504,7 @@
     "TaskBuddy",
     "PymArk (Marketing para PYMES)",
     "Onboardly",
-    "PymeSocial"
+    "PymeSocial",
+    "ReputaWise"
   ]
 }

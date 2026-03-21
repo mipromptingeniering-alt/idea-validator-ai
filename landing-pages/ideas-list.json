@@ -248,6 +248,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260321011436",
+    "nombre": "PymeSocial",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de gestión de redes sociales para pequeñas y medianas empresas que simplifica la programación de publicaciones y el análisis de rendimiento...",
+    "score": 75,
+    "landing_url": "IDEA-20260321011436.html"
+  },
+  {
     "id": "IDEA-20260320232123",
     "nombre": "PymArk (Marketing para PYMES)",
     "tipo": "SaaS",
