@@ -248,6 +248,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260321045349",
+    "nombre": "EasyAnalyze",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de análisis de marketing digital que simplifica la visualización de datos y permite a los usuarios tomar decisiones informadas en tiem...",
+    "score": 75,
+    "landing_url": "IDEA-20260321045349.html"
+  },
+  {
     "id": "IDEA-20260321011436",
     "nombre": "PymeSocial",
     "tipo": "SaaS",

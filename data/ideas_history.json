@@ -3947,6 +3947,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-21T04:53:49.699316"
+    },
+    {
+      "nombre": "TaskSimplify",
+      "descripcion": "TaskSimplify es una app que permite a los emprendedores gestionar sus tareas diarias de forma sencilla, integrando un calendario, recordatorios y herramientas de colaboración con otros freelancers o microempresas. Aprovecha la simplicidad para maximizar la eficiencia.",
+      "tipo": "MicroSaaS",
+      "score": 72,
+      "fecha": "2026-03-21T05:36:00.602939"
     }
   ],
   "nombres_usados": [
@@ -4513,6 +4520,7 @@
     "Onboardly",
     "PymeSocial",
     "ReputaWise",
-    "EasyAnalyze"
+    "EasyAnalyze",
+    "TaskSimplify"
   ]
 }
