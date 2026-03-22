@@ -4368,6 +4368,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260322201807",
+    "nombre": "PymeFlow",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de proyectos y comunicación interna diseñada específicamente para pequeñas y medianas empresas, que optimiza la colaboració...",
+    "score": 70,
+    "landing_url": "IDEA-20260322201807.html"
+  },
+  {
     "id": "IDEA-20260322174908",
     "nombre": "TaskPriot",
     "tipo": "SaaS",

@@ -4311,6 +4311,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-22T20:18:07.921404"
+    },
+    {
+      "nombre": "FreelanceCRM",
+      "descripcion": "FreelanceCRM es una herramienta de gestión de relaciones con clientes que permite a los freelancers y pequeñas empresas llevar un seguimiento de sus clientes, gestionar ofertas y facturas, y automatizar recordatorios, todo en una interfaz intuitiva y accesible desde cualquier dispositivo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-22T20:49:57.341244"
     }
   ],
   "nombres_usados": [
@@ -4929,6 +4936,7 @@
     "WorkSpace Pro",
     "HireSmart",
     "RemoteFlow",
-    "PymeFlow"
+    "PymeFlow",
+    "FreelanceCRM"
   ]
 }
