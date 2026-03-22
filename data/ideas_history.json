@@ -4297,6 +4297,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-22T19:01:06.565187"
+    },
+    {
+      "nombre": "RemoteFlow",
+      "descripcion": "RemoteFlow es una herramienta que permite a los equipos remotos gestionar proyectos, comunicarse eficazmente y hacer seguimiento del tiempo, todo en una sola plataforma. A través de una interfaz intuitiva, los usuarios pueden asignar tareas, establecer plazos y comunicar avances en tiempo real.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-22T19:53:01.822584"
     }
   ],
   "nombres_usados": [
@@ -4913,6 +4920,7 @@
     "MarketSense",
     "TaskPriot",
     "WorkSpace Pro",
-    "HireSmart"
+    "HireSmart",
+    "RemoteFlow"
   ]
 }
