@@ -256,6 +256,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260322051809",
+    "nombre": "TaskMinder",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de tareas y tiempo diseñada para freelancers y pequeñas empresas que desean mejorar su productividad y visibilidad sobre su...",
+    "score": 75,
+    "landing_url": "IDEA-20260322051809.html"
+  },
+  {
     "id": "IDEA-20260322035749",
     "nombre": "ProjectSimple",
     "tipo": "SaaS",

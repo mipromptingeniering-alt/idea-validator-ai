@@ -4171,6 +4171,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-22T05:18:09.792254"
+    },
+    {
+      "nombre": "GraphixGenie",
+      "descripcion": "GraphixGenie es una herramienta SaaS que ofrece una experiencia personalizada para diseñadores gráficos. Utilizando algoritmos de inteligencia artificial, la plataforma identifica el estilo y las preferencias del usuario, generando recursos gráficos (plantillas, ilustraciones, iconos) que se alinean perfectamente con sus necesidades. Además, permite la integración con programas de diseño populares como Adobe Illustrator y Canva.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-03-22T06:10:22.963834"
     }
   ],
   "nombres_usados": [
@@ -4769,6 +4776,7 @@
     "MentalHub",
     "Freelance Time & Price Manager",
     "ProjectSimple",
-    "TaskMinder"
+    "TaskMinder",
+    "GraphixGenie"
   ]
 }
