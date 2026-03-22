@@ -4325,6 +4325,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-22T21:19:01.176787"
+    },
+    {
+      "nombre": "PersonalizAR",
+      "descripcion": "PersonalizAR es una plataforma CRM que utiliza inteligencia artificial para ayudar a las pequeñas y medianas empresas a gestionar sus relaciones con los clientes. Ofrece herramientas para segmentar clientes, automatizar correos electrónicos y evaluar el comportamiento del cliente, todo desde una interfaz intuitiva. Se enfoca en ofrecer una experiencia personalizada al usuario final sin la complejidad de los CRM tradicionales.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-22T22:17:36.237636"
     }
   ],
   "nombres_usados": [
@@ -4945,6 +4952,7 @@
     "RemoteFlow",
     "PymeFlow",
     "FreelanceCRM",
-    "TaskWhiz"
+    "TaskWhiz",
+    "PersonalizAR"
   ]
 }

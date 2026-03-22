@@ -272,6 +272,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260322211901",
+    "nombre": "TaskWhiz",
+    "tipo": "SaaS",
+    "resumen": "TaskWhiz es una herramienta de gestión del tiempo que utiliza inteligencia artificial para personalizar la planificación y organización de tareas segú...",
+    "score": 75,
+    "landing_url": "IDEA-20260322211901.html"
+  },
+  {
     "id": "IDEA-20260322204957",
     "nombre": "FreelanceCRM",
     "tipo": "SaaS",
