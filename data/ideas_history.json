@@ -4192,6 +4192,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-22T08:57:38.485744"
+    },
+    {
+      "nombre": "SocialCraft",
+      "descripcion": "SocialCraft permite a las PYMEs generar contenido atractivo para sus redes sociales de manera rápida y sencilla, utilizando inteligencia artificial para personalizar mensajes y propuestas basadas en su marca. Ofrece calendarios de publicación automáticos, análisis de rendimiento y asesoramiento en estrategias de marketing.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-22T10:19:10.388257"
     }
   ],
   "nombres_usados": [
@@ -4793,6 +4800,7 @@
     "TaskMinder",
     "GraphixGenie",
     "AdOptimizer AI",
-    "SocialOptim"
+    "SocialOptim",
+    "SocialCraft"
   ]
 }

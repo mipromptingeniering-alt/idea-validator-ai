@@ -264,6 +264,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260322085738",
+    "nombre": "SocialOptim",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de redes sociales basada en IA que optimiza la publicación de contenido para pequeños negocios....",
+    "score": 75,
+    "landing_url": "IDEA-20260322085738.html"
+  },
+  {
     "id": "IDEA-20260322070753",
     "nombre": "AdOptimizer AI",
     "tipo": "SaaS",
