@@ -4157,6 +4157,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-21T23:45:45.436531"
+    },
+    {
+      "nombre": "ProjectSimple",
+      "descripcion": "ProjectSimple es una herramienta de gestión de proyectos que simplifica la planificación, seguimiento y colaboración, permitiendo a las PYMES optimizar su flujo de trabajo sin la complejidad de herramientas más grandes. Ofrece integración con Google Workspace y Microsoft 365 y se adapta a metodologías ágiles con plantillas personalizables.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-22T03:57:49.750961"
     }
   ],
   "nombres_usados": [
@@ -4753,6 +4760,7 @@
     "LocalLink",
     "HR Buddy",
     "MentalHub",
-    "Freelance Time & Price Manager"
+    "Freelance Time & Price Manager",
+    "ProjectSimple"
   ]
 }
