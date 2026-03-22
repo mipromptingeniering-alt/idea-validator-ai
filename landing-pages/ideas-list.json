@@ -256,6 +256,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260322035749",
+    "nombre": "ProjectSimple",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de proyectos diseñada específicamente para pequeñas y medianas empresas que buscan simplicidad y facilidad de integración....",
+    "score": 75,
+    "landing_url": "IDEA-20260322035749.html"
+  },
+  {
     "id": "IDEA-20260321231725",
     "nombre": "MentalHub",
     "tipo": "SaaS",

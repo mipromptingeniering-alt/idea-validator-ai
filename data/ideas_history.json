@@ -4164,6 +4164,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-22T03:57:49.750961"
+    },
+    {
+      "nombre": "TaskMinder",
+      "descripcion": "TaskMinder permite a sus usuarios organizar tareas, establecer prioridades, y gestionar el tiempo de manera flexible. La plataforma se adapta a las necesidades de los usuarios, ofreciendo recordatorios, informes de productividad y un calendario integrado.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-22T05:18:09.792254"
     }
   ],
   "nombres_usados": [
@@ -4761,6 +4768,7 @@
     "HR Buddy",
     "MentalHub",
     "Freelance Time & Price Manager",
-    "ProjectSimple"
+    "ProjectSimple",
+    "TaskMinder"
   ]
 }
