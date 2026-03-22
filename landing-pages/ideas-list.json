@@ -272,6 +272,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260322162226",
+    "nombre": "EasyAdmin",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión administrativa y contable fácil de usar para pequeñas empresas y emprendedores....",
+    "score": 75,
+    "landing_url": "IDEA-20260322162226.html"
+  },
+  {
     "id": "IDEA-20260322155626",
     "nombre": "ProductiZen",
     "tipo": "SaaS",

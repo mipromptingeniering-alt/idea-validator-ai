@@ -4269,6 +4269,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-22T16:22:26.937465"
+    },
+    {
+      "nombre": "MarketSense",
+      "descripcion": "MarketSense es un software como servicio que permite a las pequeñas y medianas empresas acceder a datos de mercado, realizar análisis de competencia y recibir recomendaciones para mejorar su posicionamiento y estrategias de marketing. La plataforma está diseñada para ser fácil de usar, con un enfoque en la visualización de datos y la interpretación sencilla para usuarios no técnicos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-22T17:19:33.071724"
     }
   ],
   "nombres_usados": [
@@ -4881,6 +4888,7 @@
     "Connecto",
     "SyncTask",
     "ProductiZen",
-    "EasyAdmin"
+    "EasyAdmin",
+    "MarketSense"
   ]
 }
