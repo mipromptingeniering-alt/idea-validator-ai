@@ -272,6 +272,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260322224956",
+    "nombre": "EasyBiz Manager",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS todo en uno para gestionar la administración de pequeñas empresas de forma sencilla y eficiente....",
+    "score": 75,
+    "landing_url": "IDEA-20260322224956.html"
+  },
+  {
     "id": "IDEA-20260322221736",
     "nombre": "PersonalizAR",
     "tipo": "SaaS",

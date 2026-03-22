@@ -4339,6 +4339,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-22T22:49:56.255390"
+    },
+    {
+      "nombre": "TalentSync",
+      "descripcion": "TalentSync permite a las pymes gestionar su talento a través de encuestas de satisfacción, análisis de desempeño y recomendaciones personalizadas para el desarrollo profesional del equipo, todo ello de manera intuitiva y accesible.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-22T23:20:14.648015"
     }
   ],
   "nombres_usados": [
@@ -4961,6 +4968,7 @@
     "FreelanceCRM",
     "TaskWhiz",
     "PersonalizAR",
-    "EasyBiz Manager"
+    "EasyBiz Manager",
+    "TalentSync"
   ]
 }
