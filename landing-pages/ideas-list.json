@@ -272,6 +272,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260322171932",
+    "nombre": "MarketSense",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de análisis de mercado intuitiva y asequible para PYMES que proporciona informes y recomendaciones basadas en datos....",
+    "score": 75,
+    "landing_url": "IDEA-20260322171932.html"
+  },
+  {
     "id": "IDEA-20260322162226",
     "nombre": "EasyAdmin",
     "tipo": "SaaS",

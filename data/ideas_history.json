@@ -4276,6 +4276,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-22T17:19:33.071724"
+    },
+    {
+      "nombre": "TaskPriot",
+      "descripcion": "TaskPriot permite a los equipos remotos gestionar y priorizar sus tareas de manera efectiva, integrando un sistema que aprende de las preferencias y hábitos de cada usuario, asegurando que las tareas más importantes siempre estén en el foco.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-22T17:49:08.974127"
     }
   ],
   "nombres_usados": [
@@ -4889,6 +4896,7 @@
     "SyncTask",
     "ProductiZen",
     "EasyAdmin",
-    "MarketSense"
+    "MarketSense",
+    "TaskPriot"
   ]
 }
