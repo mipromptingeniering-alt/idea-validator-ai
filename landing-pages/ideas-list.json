@@ -272,6 +272,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260322221736",
+    "nombre": "PersonalizAR",
+    "tipo": "SaaS",
+    "resumen": "Un CRM basado en IA diseñado específicamente para PYMEs, que permite personalizar las interacciones con los clientes de manera sencilla....",
+    "score": 75,
+    "landing_url": "IDEA-20260322221736.html"
+  },
+  {
     "id": "IDEA-20260322211901",
     "nombre": "TaskWhiz",
     "tipo": "SaaS",

@@ -4332,6 +4332,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-22T22:17:36.237636"
+    },
+    {
+      "nombre": "EasyBiz Manager",
+      "descripcion": "EasyBiz Manager permite a pequeñas empresas gestionar sus clientes, tareas y facturación desde una única interfaz intuitiva, ahorrando tiempo y aumentando la productividad. Con herramientas de seguimiento de clientes y generación de reportes, facilita la toma de decisiones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-22T22:49:56.255390"
     }
   ],
   "nombres_usados": [
@@ -4953,6 +4960,7 @@
     "PymeFlow",
     "FreelanceCRM",
     "TaskWhiz",
-    "PersonalizAR"
+    "PersonalizAR",
+    "EasyBiz Manager"
   ]
 }
