@@ -272,6 +272,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260322144545",
+    "nombre": "TaskHaven",
+    "tipo": "MicroSaaS",
+    "resumen": "Una plataforma de gestión de tareas y proyectos diseñada especialmente para freelancers y pequeñas empresas, que integra herramientas de colaboración ...",
+    "score": 75,
+    "landing_url": "IDEA-20260322144545.html"
+  },
+  {
     "id": "IDEA-20260322133214",
     "nombre": "GoalKeeper",
     "tipo": "SaaS",

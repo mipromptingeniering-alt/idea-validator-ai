@@ -4241,6 +4241,13 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-03-22T14:45:45.514576"
+    },
+    {
+      "nombre": "Connecto",
+      "descripcion": "Connecto es una plataforma que ofrece actividades sociales interactivas, sesiones de networking, y un sistema de mentoría para que los trabajadores remotos se conecten, compartan experiencias y construyan relaciones duraderas, todo en un entorno virtual accesible y amigable.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-22T15:01:26.839022"
     }
   ],
   "nombres_usados": [
@@ -4849,6 +4856,7 @@
     "FreelanceEase",
     "GoalKeeper",
     "DeciSmart",
-    "TaskHaven"
+    "TaskHaven",
+    "Connecto"
   ]
 }
