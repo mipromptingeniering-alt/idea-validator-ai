@@ -272,6 +272,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260322114441",
+    "nombre": "WorkHarmony",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que integra comunicación, gestión de tareas y seguimiento del bienestar del equipo....",
+    "score": 75,
+    "landing_url": "IDEA-20260322114441.html"
+  },
+  {
     "id": "IDEA-20260322101910",
     "nombre": "SocialCraft",
     "tipo": "SaaS",

@@ -4213,6 +4213,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-22T11:44:41.501296"
+    },
+    {
+      "nombre": "FreelanceEase",
+      "descripcion": "FreelanceEase es una plataforma que ayuda a los freelancers a llevar un control de su tiempo trabajado, generar facturas, y recibir recordatorios automáticos para el seguimiento de los pagos, todo en un solo lugar.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-03-22T12:41:00.522059"
     }
   ],
   "nombres_usados": [
@@ -4817,6 +4824,7 @@
     "SocialOptim",
     "SocialCraft",
     "TaskLinker",
-    "WorkHarmony"
+    "WorkHarmony",
+    "FreelanceEase"
   ]
 }
