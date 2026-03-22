@@ -4255,6 +4255,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-22T15:39:16.666459"
+    },
+    {
+      "nombre": "ProductiZen",
+      "descripcion": "ProductiZen es una herramienta SaaS que combina la gestión de tareas, la comunicación en equipo y el seguimiento de objetivos personales, con un enfoque en la salud mental y el bienestar emocional. Los usuarios podrán establecer metas diarias, recibir recordatorios, y tener acceso a recursos de bienestar, todo desde una única plataforma.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-22T15:56:26.385029"
     }
   ],
   "nombres_usados": [
@@ -4865,6 +4872,7 @@
     "DeciSmart",
     "TaskHaven",
     "Connecto",
-    "SyncTask"
+    "SyncTask",
+    "ProductiZen"
   ]
 }

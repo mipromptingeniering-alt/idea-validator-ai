@@ -272,6 +272,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260322153916",
+    "nombre": "SyncTask",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que integra herramientas de gestión de proyectos y comunicación, optimizada por inteligencia artificial....",
+    "score": 75,
+    "landing_url": "IDEA-20260322153916.html"
+  },
+  {
     "id": "IDEA-20260322150126",
     "nombre": "Connecto",
     "tipo": "SaaS",
