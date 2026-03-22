@@ -4178,6 +4178,13 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-03-22T06:10:22.963834"
+    },
+    {
+      "nombre": "AdOptimizer AI",
+      "descripcion": "AdOptimizer AI es una herramienta que permite a los profesionales del marketing gestionar campañas publicitarias de manera eficiente. Utiliza algoritmos de inteligencia artificial para analizar datos en tiempo real y optimizar los anuncios en plataformas como Google Ads, Facebook Ads y más, ofreciendo recomendaciones personalizadas y automatización.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-22T07:07:53.296113"
     }
   ],
   "nombres_usados": [
@@ -4777,6 +4784,7 @@
     "Freelance Time & Price Manager",
     "ProjectSimple",
     "TaskMinder",
-    "GraphixGenie"
+    "GraphixGenie",
+    "AdOptimizer AI"
   ]
 }

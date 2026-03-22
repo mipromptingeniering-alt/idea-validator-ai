@@ -40,6 +40,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260322061022",
+    "nombre": "GraphixGenie",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que utiliza IA para personalizar y recomendar recursos gráficos a diseñadores y creadores de contenido....",
+    "score": 78,
+    "landing_url": "IDEA-20260322061022.html"
+  },
+  {
     "id": "IDEA-20260320235004",
     "nombre": "Onboardly",
     "tipo": "SaaS",
