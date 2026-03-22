@@ -4318,6 +4318,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-22T20:49:57.341244"
+    },
+    {
+      "nombre": "TaskWhiz",
+      "descripcion": "TaskWhiz ayuda a los usuarios a gestionar su tiempo y tareas de manera más eficiente, adaptando las recomendaciones de planificación según su comportamiento y estilo de trabajo. Los usuarios pueden añadir tareas, establecer prioridades y recibir sugerencias de optimización personalizadas. Además, la aplicación se integrará con calendarios y aplicaciones de productividad populares.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-22T21:19:01.176787"
     }
   ],
   "nombres_usados": [
@@ -4937,6 +4944,7 @@
     "HireSmart",
     "RemoteFlow",
     "PymeFlow",
-    "FreelanceCRM"
+    "FreelanceCRM",
+    "TaskWhiz"
   ]
 }

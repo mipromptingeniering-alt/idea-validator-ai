@@ -272,6 +272,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260322204957",
+    "nombre": "FreelanceCRM",
+    "tipo": "SaaS",
+    "resumen": "Un CRM simplificado diseñado especialmente para freelancers y pequeñas empresas, que ayuda a gestionar clientes y ventas de forma sencilla y efectiva....",
+    "score": 75,
+    "landing_url": "IDEA-20260322204957.html"
+  },
+  {
     "id": "IDEA-20260322195301",
     "nombre": "RemoteFlow",
     "tipo": "SaaS",
