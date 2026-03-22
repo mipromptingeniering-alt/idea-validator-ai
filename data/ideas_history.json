@@ -4304,6 +4304,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-22T19:53:01.822584"
+    },
+    {
+      "nombre": "PymeFlow",
+      "descripcion": "PymeFlow es una plataforma integral que permite a las pymes gestionar sus proyectos, tareas y comunicación en un solo lugar. Incluye funciones como tableros Kanban, seguimiento de tareas, chat en tiempo real, y herramientas de reporte que ayudan a las empresas a mantenerse organizadas y productivas.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-22T20:18:07.921404"
     }
   ],
   "nombres_usados": [
@@ -4921,6 +4928,7 @@
     "TaskPriot",
     "WorkSpace Pro",
     "HireSmart",
-    "RemoteFlow"
+    "RemoteFlow",
+    "PymeFlow"
   ]
 }
