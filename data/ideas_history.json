@@ -4199,6 +4199,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-22T10:19:10.388257"
+    },
+    {
+      "nombre": "TaskLinker",
+      "descripcion": "TaskLinker es una plataforma diseñada para mejorar la productividad de equipos remotos al integrar la gestión de tareas, comunicación y calendarios en una sola herramienta. Permite a los usuarios crear, asignar y seguir tareas, programar reuniones, almacenar documentos y colaborar en tiempo real, todo desde una interfaz intuitiva y personalizable.",
+      "tipo": "SaaS",
+      "score": 76,
+      "fecha": "2026-03-22T10:51:54.751259"
     }
   ],
   "nombres_usados": [
@@ -4801,6 +4808,7 @@
     "GraphixGenie",
     "AdOptimizer AI",
     "SocialOptim",
-    "SocialCraft"
+    "SocialCraft",
+    "TaskLinker"
   ]
 }
