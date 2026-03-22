@@ -4248,6 +4248,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-22T15:01:26.839022"
+    },
+    {
+      "nombre": "SyncTask",
+      "descripcion": "SyncTask combina funciones de gestión de proyectos, seguimiento de tiempo y comunicación en un solo panel. Utiliza inteligencia artificial para analizar cargas de trabajo, priorizar tareas y enviar recordatorios personalizados a los usuarios, ayudando a equipos remotos a mantenerse organizados y en la misma página.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-22T15:39:16.666459"
     }
   ],
   "nombres_usados": [
@@ -4857,6 +4864,7 @@
     "GoalKeeper",
     "DeciSmart",
     "TaskHaven",
-    "Connecto"
+    "Connecto",
+    "SyncTask"
   ]
 }

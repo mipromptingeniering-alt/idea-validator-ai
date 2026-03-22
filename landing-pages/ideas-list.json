@@ -272,6 +272,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260322150126",
+    "nombre": "Connecto",
+    "tipo": "SaaS",
+    "resumen": "Plataforma diseñada para ayudar a los trabajadores remotos a establecer conexiones significativas y desarrollar relaciones interpersonales a través de...",
+    "score": 75,
+    "landing_url": "IDEA-20260322150126.html"
+  },
+  {
     "id": "IDEA-20260322144545",
     "nombre": "TaskHaven",
     "tipo": "MicroSaaS",
