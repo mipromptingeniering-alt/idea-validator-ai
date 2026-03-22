@@ -4262,6 +4262,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-22T15:56:26.385029"
+    },
+    {
+      "nombre": "EasyAdmin",
+      "descripcion": "EasyAdmin es una plataforma SaaS diseñada para ayudar a las pequeñas empresas a llevar un control eficiente de sus tareas administrativas y contabilidad, permitiendo ahorrar tiempo y recursos. Integra funciones de facturación, gestión de gastos, y reportes financieros en un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-22T16:22:26.937465"
     }
   ],
   "nombres_usados": [
@@ -4873,6 +4880,7 @@
     "TaskHaven",
     "Connecto",
     "SyncTask",
-    "ProductiZen"
+    "ProductiZen",
+    "EasyAdmin"
   ]
 }

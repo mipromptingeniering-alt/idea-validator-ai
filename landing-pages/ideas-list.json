@@ -272,6 +272,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260322155626",
+    "nombre": "ProductiZen",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para la gestión del tiempo y la productividad en entornos de trabajo remoto, que también incluye un enfoque en el bienestar em...",
+    "score": 75,
+    "landing_url": "IDEA-20260322155626.html"
+  },
+  {
     "id": "IDEA-20260322153916",
     "nombre": "SyncTask",
     "tipo": "SaaS",
