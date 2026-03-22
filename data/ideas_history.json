@@ -4220,6 +4220,13 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-03-22T12:41:00.522059"
+    },
+    {
+      "nombre": "GoalKeeper",
+      "descripcion": "GoalKeeper es una plataforma web y móvil que permite a los usuarios definir sus objetivos personales y profesionales, descomponerlos en tareas diarias y recibir recomendaciones personalizadas basadas en su progreso. Utiliza inteligencia artificial para adaptar sugerencias y recordatorios según el comportamiento del usuario.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-22T13:32:14.873277"
     }
   ],
   "nombres_usados": [
@@ -4825,6 +4832,7 @@
     "SocialCraft",
     "TaskLinker",
     "WorkHarmony",
-    "FreelanceEase"
+    "FreelanceEase",
+    "GoalKeeper"
   ]
 }

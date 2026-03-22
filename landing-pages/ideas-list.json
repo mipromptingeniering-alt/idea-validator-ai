@@ -272,6 +272,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260322124100",
+    "nombre": "FreelanceEase",
+    "tipo": "MicroSaaS",
+    "resumen": "Una herramienta integral que simplifica la gestión del tiempo y la facturación para freelancers....",
+    "score": 75,
+    "landing_url": "IDEA-20260322124100.html"
+  },
+  {
     "id": "IDEA-20260322114441",
     "nombre": "WorkHarmony",
     "tipo": "SaaS",
