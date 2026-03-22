@@ -192,6 +192,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260322105154",
+    "nombre": "TaskLinker",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta integral de gestión de tareas y proyectos que centraliza comunicación, calendarios y almacenamiento en un solo lugar....",
+    "score": 76,
+    "landing_url": "IDEA-20260322105154.html"
+  },
+  {
     "id": "IDEA-20260316235038",
     "nombre": "AdEasy",
     "tipo": "SaaS",

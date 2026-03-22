@@ -4206,6 +4206,13 @@
       "tipo": "SaaS",
       "score": 76,
       "fecha": "2026-03-22T10:51:54.751259"
+    },
+    {
+      "nombre": "WorkHarmony",
+      "descripcion": "WorkHarmony es una herramienta diseñada para mejorar la productividad de los equipos remotos al integrar la comunicación instantánea, la gestión de proyectos y un sistema de seguimiento del bienestar de los empleados. Los usuarios pueden crear tareas, comunicarse en tiempo real y recibir recordatorios sobre el equilibrio entre trabajo y descanso.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-22T11:44:41.501296"
     }
   ],
   "nombres_usados": [
@@ -4809,6 +4816,7 @@
     "AdOptimizer AI",
     "SocialOptim",
     "SocialCraft",
-    "TaskLinker"
+    "TaskLinker",
+    "WorkHarmony"
   ]
 }
