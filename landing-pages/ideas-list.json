@@ -264,6 +264,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260322070753",
+    "nombre": "AdOptimizer AI",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de optimización automática de campañas publicitarias basada en IA que facilita la gestión en múltiples plataformas....",
+    "score": 75,
+    "landing_url": "IDEA-20260322070753.html"
+  },
+  {
     "id": "IDEA-20260322051809",
     "nombre": "TaskMinder",
     "tipo": "SaaS",

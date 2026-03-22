@@ -4185,6 +4185,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-22T07:07:53.296113"
+    },
+    {
+      "nombre": "SocialOptim",
+      "descripcion": "SocialOptim ofrece un panel de control intuitivo donde los usuarios pueden conectar sus cuentas de redes sociales, definir objetivos, y recibir recomendaciones personalizadas sobre qué contenido publicar y cuándo. La app aprenderá de las interacciones pasadas para ajustar sus sugerencias y maximizar el engagement.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-22T08:57:38.485744"
     }
   ],
   "nombres_usados": [
@@ -4785,6 +4792,7 @@
     "ProjectSimple",
     "TaskMinder",
     "GraphixGenie",
-    "AdOptimizer AI"
+    "AdOptimizer AI",
+    "SocialOptim"
   ]
 }
