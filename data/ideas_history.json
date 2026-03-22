@@ -4234,6 +4234,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-22T14:04:11.659353"
+    },
+    {
+      "nombre": "TaskHaven",
+      "descripcion": "TaskHaven permite a los usuarios crear, gestionar y colaborar en proyectos y tareas en un solo lugar. Incluye funciones para seguimiento del tiempo, gestión de cliente, y recordatorios, todo en una interfaz intuitiva y fácil de usar.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-03-22T14:45:45.514576"
     }
   ],
   "nombres_usados": [
@@ -4841,6 +4848,7 @@
     "WorkHarmony",
     "FreelanceEase",
     "GoalKeeper",
-    "DeciSmart"
+    "DeciSmart",
+    "TaskHaven"
   ]
 }

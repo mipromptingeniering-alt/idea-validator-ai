@@ -4296,6 +4296,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260322140411",
+    "nombre": "DeciSmart",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de análisis de decisiones que ayuda a los usuarios a evaluar y priorizar opciones para tomar decisiones más informadas....",
+    "score": 70,
+    "landing_url": "IDEA-20260322140411.html"
+  },
+  {
     "id": "IDEA-20260321234545",
     "nombre": "Freelance Time & Price Manager",
     "tipo": "SaaS",
