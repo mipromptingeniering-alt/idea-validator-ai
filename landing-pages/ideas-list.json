@@ -272,6 +272,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260322133214",
+    "nombre": "GoalKeeper",
+    "tipo": "SaaS",
+    "resumen": "Aplicación de productividad personal que ayuda a establecer y alcanzar objetivos de manera efectiva utilizando inteligencia artificial....",
+    "score": 75,
+    "landing_url": "IDEA-20260322133214.html"
+  },
+  {
     "id": "IDEA-20260322124100",
     "nombre": "FreelanceEase",
     "tipo": "MicroSaaS",
