@@ -4381,6 +4381,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-23T08:04:00.052803"
+    },
+    {
+      "nombre": "BalanceMe",
+      "descripcion": "BalanceMe es un software que combina técnicas de gestión del tiempo con herramientas de bienestar mental. Proporciona recomendaciones personalizadas y recordatorios para pausas, ejercicios de relajación y metas diarias de trabajo, todo en una interfaz fácil de usar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-23T09:12:12.891473"
     }
   ],
   "nombres_usados": [
@@ -5009,6 +5016,7 @@
     "CollabTrack",
     "BenefitFlex",
     "WellnessMatch",
-    "BizAnalytics Pro"
+    "BizAnalytics Pro",
+    "BalanceMe"
   ]
 }

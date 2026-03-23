@@ -272,6 +272,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260323080359",
+    "nombre": "BizAnalytics Pro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de inteligencia de negocios diseñada específicamente para pequeñas y medianas empresas, que permite análisis de datos fáciles y accesib...",
+    "score": 75,
+    "landing_url": "IDEA-20260323080359.html"
+  },
+  {
     "id": "IDEA-20260323070006",
     "nombre": "WellnessMatch",
     "tipo": "SaaS",
