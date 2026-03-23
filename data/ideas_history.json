@@ -4437,6 +4437,13 @@
       "tipo": "SaaS",
       "score": 80,
       "fecha": "2026-03-23T21:04:29.527416"
+    },
+    {
+      "nombre": "TalentWise",
+      "descripcion": "TalentWise es una plataforma SaaS diseñada específicamente para pequeñas y medianas empresas que buscan mejorar su gestión de recursos humanos. Utiliza algoritmos de inteligencia artificial para analizar perfiles de candidatos y empleados, proporcionando recomendaciones personalizadas para la contratación y estrategias de retención. Además, incluye herramientas de evaluación de desempeño y feedback continuo.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-23T21:50:07.803902"
     }
   ],
   "nombres_usados": [
@@ -5073,6 +5080,7 @@
     "FinTechEase",
     "DataSimple",
     "SaludSimplificada",
-    "KidActivities Finder"
+    "KidActivities Finder",
+    "TalentWise"
   ]
 }
