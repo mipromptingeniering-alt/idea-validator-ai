@@ -4512,6 +4512,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260323215007",
+    "nombre": "TalentWise",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de gestión de talento humano para PYMES, enfocada en la contratación y retención de empleados mediante inteligencia artificial....",
+    "score": 70,
+    "landing_url": "IDEA-20260323215007.html"
+  },
+  {
     "id": "IDEA-20260322201807",
     "nombre": "PymeFlow",
     "tipo": "SaaS",

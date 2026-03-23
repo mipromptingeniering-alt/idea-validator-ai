@@ -4444,6 +4444,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-23T21:50:07.803902"
+    },
+    {
+      "nombre": "MindWork",
+      "descripcion": "MindWork es una herramienta integral que permite a los trabajadores remotos gestionar su tiempo y tareas mientras se aseguran de mantener su bienestar mental. Incorpora técnicas de gamificación para mantener a los usuarios motivados y ofrece recursos educativos sobre gestión del estrés y la productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-23T22:57:48.741546"
     }
   ],
   "nombres_usados": [
@@ -5081,6 +5088,7 @@
     "DataSimple",
     "SaludSimplificada",
     "KidActivities Finder",
-    "TalentWise"
+    "TalentWise",
+    "MindWork"
   ]
 }
