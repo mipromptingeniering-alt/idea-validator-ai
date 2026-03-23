@@ -4346,6 +4346,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-22T23:20:14.648015"
+    },
+    {
+      "nombre": "HealthConnect",
+      "descripcion": "HealthConnect es una herramienta SaaS que permite a los médicos gestionar su práctica de manera eficiente, ofreciendo funcionalidades como programación de citas, seguimiento de historial médico, recordatorios de citas y medicación, y comunicación instantánea con los pacientes. Todo ello en un entorno seguro y fácil de usar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-23T01:24:10.980098"
     }
   ],
   "nombres_usados": [
@@ -4969,6 +4976,7 @@
     "TaskWhiz",
     "PersonalizAR",
     "EasyBiz Manager",
-    "TalentSync"
+    "TalentSync",
+    "HealthConnect"
   ]
 }
