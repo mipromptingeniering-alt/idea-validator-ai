@@ -4374,6 +4374,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-23T07:00:06.599792"
+    },
+    {
+      "nombre": "BizAnalytics Pro",
+      "descripcion": "BizAnalytics Pro proporciona una interfaz intuitiva donde las PYMEs pueden conectar sus fuentes de datos, elegir plantillas de análisis y obtener informes visuales en minutos. Sin necesidad de un equipo de TI ni experiencia previa en análisis de datos, esta herramienta democratiza el acceso a la inteligencia empresarial.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-23T08:04:00.052803"
     }
   ],
   "nombres_usados": [
@@ -5001,6 +5008,7 @@
     "HealthConnect",
     "CollabTrack",
     "BenefitFlex",
-    "WellnessMatch"
+    "WellnessMatch",
+    "BizAnalytics Pro"
   ]
 }
