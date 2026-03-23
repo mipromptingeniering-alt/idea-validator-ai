@@ -4423,6 +4423,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-23T19:12:04.327901"
+    },
+    {
+      "nombre": "SaludSimplificada",
+      "descripcion": "SaludSimplificada es una plataforma que permite a los usuarios comparar diferentes planes de salud de manera eficiente y recibir asesoría personalizada según sus necesidades y opiniones de otros usuarios. Integra diversas funcionalidades como filtros avanzados y recomendaciones basadas en inteligencia artificial.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-23T20:30:48.402385"
     }
   ],
   "nombres_usados": [
@@ -5057,6 +5064,7 @@
     "ColaboraTime",
     "MentalMatch",
     "FinTechEase",
-    "DataSimple"
+    "DataSimple",
+    "SaludSimplificada"
   ]
 }

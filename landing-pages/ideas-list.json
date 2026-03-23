@@ -272,6 +272,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260323191204",
+    "nombre": "DataSimple",
+    "tipo": "SaaS",
+    "resumen": "DataSimple es una plataforma de análisis de datos diseñada específicamente para pequeñas y medianas empresas que desean tomar decisiones informadas si...",
+    "score": 75,
+    "landing_url": "IDEA-20260323191204.html"
+  },
+  {
     "id": "IDEA-20260323170852",
     "nombre": "FinTechEase",
     "tipo": "SaaS",
