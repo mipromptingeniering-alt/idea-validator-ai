@@ -4430,6 +4430,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-23T20:30:48.402385"
+    },
+    {
+      "nombre": "KidActivities Finder",
+      "descripcion": "KidActivities Finder es un servicio que permite a los padres buscar, comparar y reservar actividades extracurriculares para sus hijos basándose en sus intereses, habilidades y disponibilidad regional. La plataforma incluye reseñas de otros padres y actividades tanto presenciales como en línea.",
+      "tipo": "SaaS",
+      "score": 80,
+      "fecha": "2026-03-23T21:04:29.527416"
     }
   ],
   "nombres_usados": [
@@ -5065,6 +5072,7 @@
     "MentalMatch",
     "FinTechEase",
     "DataSimple",
-    "SaludSimplificada"
+    "SaludSimplificada",
+    "KidActivities Finder"
   ]
 }

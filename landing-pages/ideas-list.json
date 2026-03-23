@@ -272,6 +272,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260323203048",
+    "nombre": "SaludSimplificada",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de comparación y asesoría en planes de salud personalizados....",
+    "score": 75,
+    "landing_url": "IDEA-20260323203048.html"
+  },
+  {
     "id": "IDEA-20260323191204",
     "nombre": "DataSimple",
     "tipo": "SaaS",
