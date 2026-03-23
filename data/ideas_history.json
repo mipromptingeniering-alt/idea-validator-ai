@@ -4388,6 +4388,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-23T09:12:12.891473"
+    },
+    {
+      "nombre": "FinanzasPymes",
+      "descripcion": "Con FinanzasPymes, los propietarios de PYMES podrán gestionar sus ingresos y gastos, realizar proyecciones financieras, y tomar decisiones informadas basadas en análisis de datos. La plataforma utiliza inteligencia artificial para prever flujos de caja y ofrecer recomendaciones adaptadas a cada negocio.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-23T10:13:36.035445"
     }
   ],
   "nombres_usados": [
@@ -5017,6 +5024,7 @@
     "BenefitFlex",
     "WellnessMatch",
     "BizAnalytics Pro",
-    "BalanceMe"
+    "BalanceMe",
+    "FinanzasPymes"
   ]
 }

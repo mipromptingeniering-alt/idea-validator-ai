@@ -272,6 +272,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260323091212",
+    "nombre": "BalanceMe",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma para ayudar a los trabajadores remotos a gestionar su tiempo de manera efectiva y establecer límites saludables....",
+    "score": 75,
+    "landing_url": "IDEA-20260323091212.html"
+  },
+  {
     "id": "IDEA-20260323080359",
     "nombre": "BizAnalytics Pro",
     "tipo": "SaaS",
