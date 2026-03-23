@@ -4353,6 +4353,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-23T01:24:10.980098"
+    },
+    {
+      "nombre": "CollabTrack",
+      "descripcion": "CollabTrack permite a equipos distribuidos gestionar tareas, comunicarse en tiempo real y llevar un seguimiento del tiempo trabajado en proyectos específicos, todo en una única plataforma intuitiva y fácil de usar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-23T04:04:58.565665"
     }
   ],
   "nombres_usados": [
@@ -4977,6 +4984,7 @@
     "PersonalizAR",
     "EasyBiz Manager",
     "TalentSync",
-    "HealthConnect"
+    "HealthConnect",
+    "CollabTrack"
   ]
 }

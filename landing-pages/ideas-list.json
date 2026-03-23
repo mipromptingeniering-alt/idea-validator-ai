@@ -272,6 +272,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260323012410",
+    "nombre": "HealthConnect",
+    "tipo": "SaaS",
+    "resumen": "Plataforma digital de gestión de pacientes para profesionales de la salud con comunicación en tiempo real....",
+    "score": 75,
+    "landing_url": "IDEA-20260323012410.html"
+  },
+  {
     "id": "IDEA-20260322232014",
     "nombre": "TalentSync",
     "tipo": "SaaS",
