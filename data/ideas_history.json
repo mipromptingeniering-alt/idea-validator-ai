@@ -4402,6 +4402,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-23T11:53:59.603542"
+    },
+    {
+      "nombre": "MentalMatch",
+      "descripcion": "MentalMatch ofrece un servicio de terapia digital que combina sesiones en vivo con terapeutas certificados y un asistente virtual impulsado por IA que ayuda a los usuarios a establecer objetivos, realizar seguimiento de su progreso y recibir recursos personalizados entre sesiones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-23T15:14:35.547741"
     }
   ],
   "nombres_usados": [
@@ -5033,6 +5040,7 @@
     "BizAnalytics Pro",
     "BalanceMe",
     "FinanzasPymes",
-    "ColaboraTime"
+    "ColaboraTime",
+    "MentalMatch"
   ]
 }
