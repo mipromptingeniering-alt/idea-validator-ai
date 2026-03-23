@@ -4409,6 +4409,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-23T15:14:35.547741"
+    },
+    {
+      "nombre": "FinTechEase",
+      "descripcion": "FinTechEase proporciona a las pymes herramientas de gestión financiera que incluyen seguimiento de ingresos y gastos, predicción de flujo de caja utilizando inteligencia artificial, e integración sencilla con plataformas de contabilidad existentes. La interfaz está diseñada para ser fácil de usar, incluso para usuarios sin experiencia financiera previa.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-23T17:08:53.043038"
     }
   ],
   "nombres_usados": [
@@ -5041,6 +5048,7 @@
     "BalanceMe",
     "FinanzasPymes",
     "ColaboraTime",
-    "MentalMatch"
+    "MentalMatch",
+    "FinTechEase"
   ]
 }
