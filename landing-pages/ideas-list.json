@@ -272,6 +272,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260323054644",
+    "nombre": "BenefitFlex",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS que permite a las PYMEs gestionar y personalizar beneficios para empleados de forma flexible....",
+    "score": 75,
+    "landing_url": "IDEA-20260323054644.html"
+  },
+  {
     "id": "IDEA-20260323040458",
     "nombre": "CollabTrack",
     "tipo": "SaaS",

@@ -4367,6 +4367,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-23T05:46:44.431006"
+    },
+    {
+      "nombre": "WellnessMatch",
+      "descripcion": "WellnessMatch ofrece a los usuarios una experiencia única de selección de productos de bienestar. Al responder a un breve cuestionario sobre sus preferencias y necesidades, la plataforma utiliza un algoritmo de IA para sugerir productos, desde suplementos hasta servicios de meditación, que se ajustan a su perfil personal.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-23T07:00:06.599792"
     }
   ],
   "nombres_usados": [
@@ -4993,6 +5000,7 @@
     "TalentSync",
     "HealthConnect",
     "CollabTrack",
-    "BenefitFlex"
+    "BenefitFlex",
+    "WellnessMatch"
   ]
 }
