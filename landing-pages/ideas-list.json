@@ -272,6 +272,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260323101335",
+    "nombre": "FinanzasPymes",
+    "tipo": "SaaS",
+    "resumen": "FinanzasPymes es una plataforma de gestión financiera diseñada específicamente para pequeñas y medianas empresas, que simplifica la toma de decisiones...",
+    "score": 75,
+    "landing_url": "IDEA-20260323101335.html"
+  },
+  {
     "id": "IDEA-20260323091212",
     "nombre": "BalanceMe",
     "tipo": "SaaS",

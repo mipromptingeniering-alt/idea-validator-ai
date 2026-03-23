@@ -4395,6 +4395,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-23T10:13:36.035445"
+    },
+    {
+      "nombre": "ColaboraTime",
+      "descripcion": "ColaboraTime es una herramienta que permite a los equipos remotos gestionar su tiempo, tareas y comunicación de manera eficiente. La plataforma ofrece funciones de seguimiento del tiempo, planificación de tareas, videoconferencias integradas y chat en tiempo real, todo en un solo lugar, optimizando la productividad y la colaboración.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-23T11:53:59.603542"
     }
   ],
   "nombres_usados": [
@@ -5025,6 +5032,7 @@
     "WellnessMatch",
     "BizAnalytics Pro",
     "BalanceMe",
-    "FinanzasPymes"
+    "FinanzasPymes",
+    "ColaboraTime"
   ]
 }
