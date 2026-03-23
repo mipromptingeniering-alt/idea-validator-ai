@@ -4360,6 +4360,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-23T04:04:58.565665"
+    },
+    {
+      "nombre": "BenefitFlex",
+      "descripcion": "BenefitFlex ofrece un sistema intuitivo para que las PYMEs creen paquetes de beneficios personalizados que se adaptan a las necesidades individuales de sus empleados, facilitando la retención de talento y mejorando el compromiso.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-23T05:46:44.431006"
     }
   ],
   "nombres_usados": [
@@ -4985,6 +4992,7 @@
     "EasyBiz Manager",
     "TalentSync",
     "HealthConnect",
-    "CollabTrack"
+    "CollabTrack",
+    "BenefitFlex"
   ]
 }
