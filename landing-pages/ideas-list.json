@@ -272,6 +272,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260323170852",
+    "nombre": "FinTechEase",
+    "tipo": "SaaS",
+    "resumen": "FinTechEase es una plataforma de gestión financiera diseñada específicamente para pequeñas y medianas empresas, que permite un control del flujo de ca...",
+    "score": 75,
+    "landing_url": "IDEA-20260323170852.html"
+  },
+  {
     "id": "IDEA-20260323151435",
     "nombre": "MentalMatch",
     "tipo": "SaaS",

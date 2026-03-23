@@ -4416,6 +4416,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-23T17:08:53.043038"
+    },
+    {
+      "nombre": "DataSimple",
+      "descripcion": "DataSimple permite a las PYMES conectar sus fuentes de datos y generar informes y visualizaciones de manera sencilla. Ofrecemos plantillas prediseñadas para diferentes sectores y funciones, aumentando la rapidez y efectividad del análisis.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-23T19:12:04.327901"
     }
   ],
   "nombres_usados": [
@@ -5049,6 +5056,7 @@
     "FinanzasPymes",
     "ColaboraTime",
     "MentalMatch",
-    "FinTechEase"
+    "FinTechEase",
+    "DataSimple"
   ]
 }
