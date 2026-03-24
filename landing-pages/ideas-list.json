@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260324022854",
+    "nombre": "ChatPYME",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de comunicación para PYMEs que integra chat en vivo, automatización de respuestas y seguimiento de clientes en una sola herr...",
+    "score": 75,
+    "landing_url": "IDEA-20260324022854.html"
+  },
+  {
     "id": "IDEA-20260323225748",
     "nombre": "MindWork",
     "tipo": "SaaS",

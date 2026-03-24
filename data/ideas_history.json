@@ -4458,6 +4458,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-24T02:28:54.817546"
+    },
+    {
+      "nombre": "Marketing Manager Pro",
+      "descripcion": "Marketing Manager Pro es una plataforma SaaS que permite a las pequeñas y medianas empresas diseñar, programar y analizar sus campañas de marketing digital en redes sociales de manera intuitiva. Ofrece plantillas personalizables, análisis de rendimiento en tiempo real y recomendaciones automáticas para mejorar el engagement.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-24T05:43:43.595661"
     }
   ],
   "nombres_usados": [
@@ -5097,6 +5104,7 @@
     "KidActivities Finder",
     "TalentWise",
     "MindWork",
-    "ChatPYME"
+    "ChatPYME",
+    "Marketing Manager Pro"
   ]
 }
