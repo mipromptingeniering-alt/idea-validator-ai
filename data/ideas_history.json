@@ -4549,6 +4549,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-24T22:04:35.783862"
+    },
+    {
+      "nombre": "KidActiva",
+      "descripcion": "KidActiva permite a los padres descubrir, reservar y gestionar actividades extracurriculares según las preferencias y necesidades de sus hijos, con un enfoque en el desarrollo de habilidades y la socialización.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-24T23:24:17.395209"
     }
   ],
   "nombres_usados": [
@@ -5201,6 +5208,7 @@
     "DocuGuard",
     "Financio AI",
     "RemoteCo",
-    "SocialBeam"
+    "SocialBeam",
+    "KidActiva"
   ]
 }

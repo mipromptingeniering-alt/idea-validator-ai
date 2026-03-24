@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260324220435",
+    "nombre": "SocialBeam",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de gestión de redes sociales para PYMEs con recomendaciones personalizadas impulsadas por IA....",
+    "score": 75,
+    "landing_url": "IDEA-20260324220435.html"
+  },
+  {
     "id": "IDEA-20260324213437",
     "nombre": "RemoteCo",
     "tipo": "SaaS",
