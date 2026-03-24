@@ -4493,6 +4493,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-24T13:03:41.132862"
+    },
+    {
+      "nombre": "MentalCare Hub",
+      "descripcion": "MentalCare Hub es un SaaS diseñado específicamente para terapeutas y profesionales de la salud mental. Permite gestionar las citas de los pacientes, realizar un seguimiento del progreso con herramientas de evaluación y ofrecer recursos educativos que enriquecen la práctica. La plataforma también cuenta con un módulo de comunicación seguro que facilita la interacción entre terapeutas y pacientes.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-24T14:22:26.143947"
     }
   ],
   "nombres_usados": [
@@ -5137,6 +5144,7 @@
     "UniTime Manager",
     "Simplicidad Digital",
     "WellTask Manager",
-    "EasyBiz"
+    "EasyBiz",
+    "MentalCare Hub"
   ]
 }
