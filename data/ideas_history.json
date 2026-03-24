@@ -4521,6 +4521,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-24T18:38:17.109606"
+    },
+    {
+      "nombre": "DocuGuard",
+      "descripcion": "DocuGuard es una herramienta en línea que permite a usuarios gestionar, almacenar y automatizar contratos y documentos importantes, con alertas para renovaciones y vencimientos, todo en una sola plataforma segura.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-24T19:39:50.997553"
     }
   ],
   "nombres_usados": [
@@ -5169,6 +5176,7 @@
     "MentalCare Hub",
     "SocialInsights Pro",
     "ProjectFlex",
-    "TaskGamer"
+    "TaskGamer",
+    "DocuGuard"
   ]
 }

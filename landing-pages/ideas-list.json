@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260324183816",
+    "nombre": "TaskGamer",
+    "tipo": "SaaS",
+    "resumen": "Aplicación de gestión de tareas que utiliza gamificación e inteligencia artificial para mejorar la productividad....",
+    "score": 75,
+    "landing_url": "IDEA-20260324183816.html"
+  },
+  {
     "id": "IDEA-20260324173653",
     "nombre": "ProjectFlex",
     "tipo": "SaaS",
