@@ -4465,6 +4465,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-24T05:43:43.595661"
+    },
+    {
+      "nombre": "UniTime Manager",
+      "descripcion": "UniTime Manager es una herramienta que ayuda a los estudiantes a gestionar su tiempo de manera efectiva, integrando sus horarios de clases, plazos de entrega de tareas y exámenes. Permite a los usuarios establecer recordatorios, colaborar con compañeros en proyectos, y analizar su carga de trabajo para evitar el estrés académico.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-24T09:29:45.722812"
     }
   ],
   "nombres_usados": [
@@ -5105,6 +5112,7 @@
     "TalentWise",
     "MindWork",
     "ChatPYME",
-    "Marketing Manager Pro"
+    "Marketing Manager Pro",
+    "UniTime Manager"
   ]
 }
