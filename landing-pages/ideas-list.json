@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260323225748",
+    "nombre": "MindWork",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo y bienestar específicamente diseñada para trabajadores remotos, que combina herramientas de productividad y recur...",
+    "score": 75,
+    "landing_url": "IDEA-20260323225748.html"
+  },
+  {
     "id": "IDEA-20260323203048",
     "nombre": "SaludSimplificada",
     "tipo": "SaaS",

@@ -4451,6 +4451,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-23T22:57:48.741546"
+    },
+    {
+      "nombre": "ChatPYME",
+      "descripcion": "ChatPYME es un software como servicio que permite a pequeñas y medianas empresas gestionar de manera eficiente las interacciones con sus clientes a través de un chat en vivo integrado en sus sitios web, ofreciendo automatización de respuestas a preguntas frecuentes, seguimiento de interacciones y análisis de datos sobre la satisfacción del cliente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-24T02:28:54.817546"
     }
   ],
   "nombres_usados": [
@@ -5089,6 +5096,7 @@
     "SaludSimplificada",
     "KidActivities Finder",
     "TalentWise",
-    "MindWork"
+    "MindWork",
+    "ChatPYME"
   ]
 }
