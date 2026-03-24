@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260324193950",
+    "nombre": "DocuGuard",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de documentos y contratos que ofrece automatización y recordatorios para asegurar el cumplimiento legal....",
+    "score": 75,
+    "landing_url": "IDEA-20260324193950.html"
+  },
+  {
     "id": "IDEA-20260324183816",
     "nombre": "TaskGamer",
     "tipo": "SaaS",

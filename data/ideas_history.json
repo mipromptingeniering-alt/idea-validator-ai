@@ -4528,6 +4528,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-24T19:39:50.997553"
+    },
+    {
+      "nombre": "Financio AI",
+      "descripcion": "Financio AI es una herramienta en línea que permite a emprendedores y pequeñas empresas gestionar su contabilidad de manera eficiente. La plataforma utiliza IA para ofrecer recomendaciones personalizadas, automatizar tareas repetitivas y garantizar una mejor planificación financiera. Además, integra herramientas de facturación y seguimiento de gastos para proporcionar una visión completa de la salud financiera del negocio.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-24T20:57:33.995819"
     }
   ],
   "nombres_usados": [
@@ -5177,6 +5184,7 @@
     "SocialInsights Pro",
     "ProjectFlex",
     "TaskGamer",
-    "DocuGuard"
+    "DocuGuard",
+    "Financio AI"
   ]
 }
