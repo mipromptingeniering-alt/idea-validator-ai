@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260324213437",
+    "nombre": "RemoteCo",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que ayuda a los trabajadores remotos a gestionar su tiempo, mantener su bienestar y fomentar la interacción social....",
+    "score": 75,
+    "landing_url": "IDEA-20260324213437.html"
+  },
+  {
     "id": "IDEA-20260324205733",
     "nombre": "Financio AI",
     "tipo": "SaaS",

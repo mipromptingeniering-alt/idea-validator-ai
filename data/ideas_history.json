@@ -4542,6 +4542,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-24T21:34:37.379890"
+    },
+    {
+      "nombre": "SocialBeam",
+      "descripcion": "SocialBeam es una herramienta que permite a las pequeñas y medianas empresas gestionar sus redes sociales de manera efectiva, programando publicaciones y recibiendo recomendaciones personalizadas de contenido y hashtags basadas en análisis de datos y tendencias del mercado. Con un enfoque en la facilidad de uso, SocialBeam está diseñada para que los usuarios sin experiencia previa en marketing digital puedan aprovechar al máximo su presencia en línea.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-24T22:04:35.783862"
     }
   ],
   "nombres_usados": [
@@ -5193,6 +5200,7 @@
     "TaskGamer",
     "DocuGuard",
     "Financio AI",
-    "RemoteCo"
+    "RemoteCo",
+    "SocialBeam"
   ]
 }
