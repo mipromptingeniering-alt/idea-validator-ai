@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260324092945",
+    "nombre": "UniTime Manager",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo y tareas diseñada específicamente para estudiantes universitarios....",
+    "score": 75,
+    "landing_url": "IDEA-20260324092945.html"
+  },
+  {
     "id": "IDEA-20260324054343",
     "nombre": "Marketing Manager Pro",
     "tipo": "SaaS",

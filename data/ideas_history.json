@@ -4472,6 +4472,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-24T09:29:45.722812"
+    },
+    {
+      "nombre": "Simplicidad Digital",
+      "descripcion": "Simplicidad Digital es una herramienta integral que permite a las pequeñas y medianas empresas gestionar su presencia en línea sin necesidad de conocimientos técnicos. Ofrece un panel intuitivo desde el cual se puede publicar contenido en múltiples plataformas y optimizar la información para SEO. Además, incluye herramientas de análisis para medir la efectividad de las campañas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-24T10:26:50.717588"
     }
   ],
   "nombres_usados": [
@@ -5113,6 +5120,7 @@
     "MindWork",
     "ChatPYME",
     "Marketing Manager Pro",
-    "UniTime Manager"
+    "UniTime Manager",
+    "Simplicidad Digital"
   ]
 }
