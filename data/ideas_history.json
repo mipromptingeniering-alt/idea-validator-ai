@@ -4500,6 +4500,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-24T14:22:26.143947"
+    },
+    {
+      "nombre": "SocialInsights Pro",
+      "descripcion": "SocialInsights Pro permite a los usuarios gestionar múltiples cuentas de redes sociales desde una única plataforma. Utiliza inteligencia artificial para analizar el rendimiento de las publicaciones y ofrece recomendaciones en tiempo real para maximizar el engagement y el alcance.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-24T15:39:40.431185"
     }
   ],
   "nombres_usados": [
@@ -5145,6 +5152,7 @@
     "Simplicidad Digital",
     "WellTask Manager",
     "EasyBiz",
-    "MentalCare Hub"
+    "MentalCare Hub",
+    "SocialInsights Pro"
   ]
 }

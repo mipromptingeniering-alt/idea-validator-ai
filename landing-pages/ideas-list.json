@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260324142226",
+    "nombre": "MentalCare Hub",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para la gestión de prácticas de salud mental que combina gestión de citas, seguimiento de pacientes y recursos educativos....",
+    "score": 75,
+    "landing_url": "IDEA-20260324142226.html"
+  },
+  {
     "id": "IDEA-20260324102650",
     "nombre": "Simplicidad Digital",
     "tipo": "SaaS",
