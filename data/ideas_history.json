@@ -4535,6 +4535,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-24T20:57:33.995819"
+    },
+    {
+      "nombre": "RemoteCo",
+      "descripcion": "RemoteCo es una aplicación web que ofrece herramientas de planificación, recordatorios de descansos, actividades de bienestar y foros de discusión en comunidad para que los trabajadores remotos se mantengan enfocados y conectados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-24T21:34:37.379890"
     }
   ],
   "nombres_usados": [
@@ -5185,6 +5192,7 @@
     "ProjectFlex",
     "TaskGamer",
     "DocuGuard",
-    "Financio AI"
+    "Financio AI",
+    "RemoteCo"
   ]
 }

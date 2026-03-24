@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260324205733",
+    "nombre": "Financio AI",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión financiera asistida por inteligencia artificial para pequeñas y medianas empresas, que simplifica la contabilidad y ofrece a...",
+    "score": 75,
+    "landing_url": "IDEA-20260324205733.html"
+  },
+  {
     "id": "IDEA-20260324193950",
     "nombre": "DocuGuard",
     "tipo": "SaaS",
