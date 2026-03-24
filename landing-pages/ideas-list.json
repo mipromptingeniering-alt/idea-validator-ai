@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260324173653",
+    "nombre": "ProjectFlex",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de proyectos diseñada exclusivamente para pequeñas y medianas empresas, que combina flexibilidad y usabilidad....",
+    "score": 75,
+    "landing_url": "IDEA-20260324173653.html"
+  },
+  {
     "id": "IDEA-20260324153940",
     "nombre": "SocialInsights Pro",
     "tipo": "SaaS",

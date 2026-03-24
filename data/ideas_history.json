@@ -4514,6 +4514,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-24T17:36:53.591220"
+    },
+    {
+      "nombre": "TaskGamer",
+      "descripcion": "TaskGamer es una plataforma de gestión de tareas que motiva a los usuarios a completar sus objetivos a través de un sistema de recompensas y desafíos personalizados. Utiliza IA para adaptar las tareas y las recomendaciones según el progreso de cada usuario.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-24T18:38:17.109606"
     }
   ],
   "nombres_usados": [
@@ -5161,6 +5168,7 @@
     "EasyBiz",
     "MentalCare Hub",
     "SocialInsights Pro",
-    "ProjectFlex"
+    "ProjectFlex",
+    "TaskGamer"
   ]
 }
