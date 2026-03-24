@@ -4486,6 +4486,13 @@
       "tipo": "SaaS",
       "score": 65,
       "fecha": "2026-03-24T11:13:47.952159"
+    },
+    {
+      "nombre": "EasyBiz",
+      "descripcion": "EasyBiz es una plataforma que integra la gestión de tareas, clientes y comunicaciones en un solo lugar. Ofrece una interfaz intuitiva que permite a los emprendedores y freelancers organizar su trabajo de manera eficiente, facilitando la comunicación con sus clientes y el seguimiento de proyectos.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-24T13:03:41.132862"
     }
   ],
   "nombres_usados": [
@@ -5129,6 +5136,7 @@
     "Marketing Manager Pro",
     "UniTime Manager",
     "Simplicidad Digital",
-    "WellTask Manager"
+    "WellTask Manager",
+    "EasyBiz"
   ]
 }

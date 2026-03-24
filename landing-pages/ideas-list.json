@@ -5144,6 +5144,14 @@
     "landing_url": "IDEA-20260220205759.html"
   },
   {
+    "id": "IDEA-20260324111347",
+    "nombre": "WellTask Manager",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integrada que combina gestión de proyectos y bienestar emocional para trabajadores remotos....",
+    "score": 65,
+    "landing_url": "IDEA-20260324111347.html"
+  },
+  {
     "id": "EXT-20260210215803",
     "nombre": "YouTubeSummaryAI",
     "tipo": "Extension",
