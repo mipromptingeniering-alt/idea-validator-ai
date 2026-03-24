@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260324102650",
+    "nombre": "Simplicidad Digital",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que facilita la gestión de la presencia digital para PYMES, permitiendo publicar fácilmente contenido en redes sociales y optimizar su ...",
+    "score": 75,
+    "landing_url": "IDEA-20260324102650.html"
+  },
+  {
     "id": "IDEA-20260324092945",
     "nombre": "UniTime Manager",
     "tipo": "SaaS",

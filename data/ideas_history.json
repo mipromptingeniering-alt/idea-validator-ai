@@ -4479,6 +4479,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-24T10:26:50.717588"
+    },
+    {
+      "nombre": "WellTask Manager",
+      "descripcion": "WellTask Manager es una herramienta digital diseñada para ayudar a los trabajadores remotos a gestionar sus tareas diarias mientras se asegura su bienestar emocional. Ofrece funciones de planificación de proyectos, seguimiento del estado de ánimo y actividades de equipo que fomentan la conexión interpersonal.",
+      "tipo": "SaaS",
+      "score": 65,
+      "fecha": "2026-03-24T11:13:47.952159"
     }
   ],
   "nombres_usados": [
@@ -5121,6 +5128,7 @@
     "ChatPYME",
     "Marketing Manager Pro",
     "UniTime Manager",
-    "Simplicidad Digital"
+    "Simplicidad Digital",
+    "WellTask Manager"
   ]
 }
