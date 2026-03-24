@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260324153940",
+    "nombre": "SocialInsights Pro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de redes sociales impulsada por IA que ofrece análisis avanzados y recomendaciones personalizadas para optimizar las campaña...",
+    "score": 75,
+    "landing_url": "IDEA-20260324153940.html"
+  },
+  {
     "id": "IDEA-20260324142226",
     "nombre": "MentalCare Hub",
     "tipo": "SaaS",

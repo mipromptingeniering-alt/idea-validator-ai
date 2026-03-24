@@ -4507,6 +4507,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-24T15:39:40.431185"
+    },
+    {
+      "nombre": "ProjectFlex",
+      "descripcion": "ProjectFlex es una plataforma de gestión de proyectos que permite a las PYMES planificar, colaborar y ejecutar proyectos de manera efectiva. Incluye características como plantillas adaptables para diferentes industrias, herramientas de seguimiento de tiempo y tareas, además de un sistema de comunicación interno.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-24T17:36:53.591220"
     }
   ],
   "nombres_usados": [
@@ -5153,6 +5160,7 @@
     "WellTask Manager",
     "EasyBiz",
     "MentalCare Hub",
-    "SocialInsights Pro"
+    "SocialInsights Pro",
+    "ProjectFlex"
   ]
 }
