@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260325101334",
+    "nombre": "SocialSpark",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de redes sociales impulsada por IA para emprendedores y pequeñas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260325101334.html"
+  },
+  {
     "id": "IDEA-20260325092843",
     "nombre": "TripMatic",
     "tipo": "SaaS",

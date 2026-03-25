@@ -4605,6 +4605,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-25T10:13:34.199138"
+    },
+    {
+      "nombre": "SocialBoost Pro",
+      "descripcion": "SocialBoost Pro es una herramienta de gestión de redes sociales diseñada específicamente para pequeñas y medianas empresas. Ofrece funciones de planificación automatizada del contenido, análisis de rendimiento en tiempo real y recomendaciones personalizadas de tendencias, ayudando a las PYMES a maximizar su impacto en redes sociales con menos esfuerzo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-25T11:08:27.144485"
     }
   ],
   "nombres_usados": [
@@ -5265,6 +5272,7 @@
     "AdOptimizer Pro",
     "Social AutoPilot",
     "TripMatic",
-    "SocialSpark"
+    "SocialSpark",
+    "SocialBoost Pro"
   ]
 }
