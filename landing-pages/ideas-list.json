@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260325164533",
+    "nombre": "EduFlow",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de aprendizaje en línea que personaliza la experiencia de cada estudiante mediante inteligencia artificial....",
+    "score": 75,
+    "landing_url": "IDEA-20260325164533.html"
+  },
+  {
     "id": "IDEA-20260325124719",
     "nombre": "Financiador",
     "tipo": "MicroSaaS",
