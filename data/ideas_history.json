@@ -4584,6 +4584,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-25T07:39:14.173219"
+    },
+    {
+      "nombre": "Social AutoPilot",
+      "descripcion": "Social AutoPilot permite a los creadores de contenido y pequeñas empresas programar publicaciones en múltiples plataformas de redes sociales a la vez, usando IA para determinar los mejores momentos y tipos de contenido para maximizar el engagement y el alcance.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-25T08:29:29.032436"
     }
   ],
   "nombres_usados": [
@@ -5241,6 +5248,7 @@
     "Marketiq",
     "Inventario Pro",
     "FlujoPyme",
-    "AdOptimizer Pro"
+    "AdOptimizer Pro",
+    "Social AutoPilot"
   ]
 }

@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260325073914",
+    "nombre": "AdOptimizer Pro",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta SaaS que optimiza las campañas de publicidad en redes sociales a través de análisis de datos y recomendaciones personalizadas....",
+    "score": 75,
+    "landing_url": "IDEA-20260325073914.html"
+  },
+  {
     "id": "IDEA-20260325052220",
     "nombre": "Inventario Pro",
     "tipo": "SaaS",
