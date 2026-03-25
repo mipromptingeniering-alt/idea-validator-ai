@@ -4556,6 +4556,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-24T23:24:17.395209"
+    },
+    {
+      "nombre": "Marketiq",
+      "descripcion": "Marketiq es una herramienta de análisis que recoge información de las principales plataformas de marketing (Google Ads, Facebook Ads, etc.) y proporciona análisis en tiempo real junto con sugerencias personalizadas para mejorar el rendimiento de las campañas. Su enfoque en la interfaz fácil de usar y la personalización permite a los usuarios manejar datos complejos de manera simple.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-25T03:57:25.385653"
     }
   ],
   "nombres_usados": [
@@ -5209,6 +5216,7 @@
     "Financio AI",
     "RemoteCo",
     "SocialBeam",
-    "KidActiva"
+    "KidActiva",
+    "Marketiq"
   ]
 }

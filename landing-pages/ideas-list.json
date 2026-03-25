@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260324232417",
+    "nombre": "KidActiva",
+    "tipo": "SaaS",
+    "resumen": "Plataforma que ayuda a los padres a encontrar y coordinar actividades extracurriculares personalizadas para sus hijos....",
+    "score": 75,
+    "landing_url": "IDEA-20260324232417.html"
+  },
+  {
     "id": "IDEA-20260324220435",
     "nombre": "SocialBeam",
     "tipo": "SaaS",
