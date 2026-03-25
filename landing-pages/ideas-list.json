@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260325225526",
+    "nombre": "SubscriPro",
+    "tipo": "SaaS",
+    "resumen": "SubscriPro es una plataforma que ayuda a los creadores de contenido a gestionar suscripciones y monetizar su contenido a través de análisis de audienc...",
+    "score": 75,
+    "landing_url": "IDEA-20260325225526.html"
+  },
+  {
     "id": "IDEA-20260325220414",
     "nombre": "DataDecipher",
     "tipo": "SaaS",

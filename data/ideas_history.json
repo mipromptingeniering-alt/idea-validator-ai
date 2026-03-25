@@ -4682,6 +4682,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-25T22:55:26.798696"
+    },
+    {
+      "nombre": "PlanEat",
+      "descripcion": "PlanEat permite a los usuarios ingresar sus preferencias alimentarias, restricciones y objetivos de salud. A través de un algoritmo inteligente, genera un plan de comidas semanal que incluye recetas y listas de compras optimizadas. Además, se adapta dinámicamente a la disponibilidad de ingredientes en tiendas locales, permitiendo un ahorro de tiempo y esfuerzo para los usuarios.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-25T23:27:49.699159"
     }
   ],
   "nombres_usados": [
@@ -5353,6 +5360,7 @@
     "FinanceMate",
     "SocialPredictor",
     "DataDecipher",
-    "SubscriPro"
+    "SubscriPro",
+    "PlanEat"
   ]
 }
