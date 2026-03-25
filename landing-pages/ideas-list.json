@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260325092843",
+    "nombre": "TripMatic",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que personaliza itinerarios de viaje según las preferencias del usuario, simplificando la planificación y la toma de decisiones....",
+    "score": 75,
+    "landing_url": "IDEA-20260325092843.html"
+  },
+  {
     "id": "IDEA-20260325082928",
     "nombre": "Social AutoPilot",
     "tipo": "SaaS",

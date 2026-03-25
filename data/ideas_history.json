@@ -4598,6 +4598,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-25T09:28:43.750877"
+    },
+    {
+      "nombre": "SocialSpark",
+      "descripcion": "SocialSpark permitirá a los usuarios gestionar múltiples cuentas de redes sociales desde un solo lugar, programar publicaciones, y generar contenido atractivo basado en las tendencias y la audiencia específica. Utiliza algoritmos de IA para sugerir ideas de contenido y mejorar la estrategia de publicaciones en función del rendimiento anterior.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-25T10:13:34.199138"
     }
   ],
   "nombres_usados": [
@@ -5257,6 +5264,7 @@
     "FlujoPyme",
     "AdOptimizer Pro",
     "Social AutoPilot",
-    "TripMatic"
+    "TripMatic",
+    "SocialSpark"
   ]
 }
