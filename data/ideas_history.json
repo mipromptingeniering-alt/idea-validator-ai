@@ -4675,6 +4675,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-25T22:04:15.003515"
+    },
+    {
+      "nombre": "SubscriPro",
+      "descripcion": "SubscriPro permite a los creadores de contenido establecer niveles de suscripción, ofrecer contenido exclusivo, y utilizar análisis de datos para entender mejor a su audiencia y cómo maximizar sus ingresos. Incluye herramientas para comunicación directa con los suscriptores y recomendaciones de contenido personalizadas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-25T22:55:26.798696"
     }
   ],
   "nombres_usados": [
@@ -5345,6 +5352,7 @@
     "EduTrack",
     "FinanceMate",
     "SocialPredictor",
-    "DataDecipher"
+    "DataDecipher",
+    "SubscriPro"
   ]
 }
