@@ -4563,6 +4563,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-25T03:57:25.385653"
+    },
+    {
+      "nombre": "Inventario Pro",
+      "descripcion": "Inventario Pro es una herramienta SaaS diseñada específicamente para pequeñas y medianas empresas. Permite a los usuarios gestionar su inventario y realizar un seguimiento de las ventas en tiempo real, todo en una interfaz intuitiva. Incluye características como alertas de stock bajo, informes de ventas y una API para la integración con plataformas de comercio electrónico.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-25T05:22:20.842475"
     }
   ],
   "nombres_usados": [
@@ -5217,6 +5224,7 @@
     "RemoteCo",
     "SocialBeam",
     "KidActiva",
-    "Marketiq"
+    "Marketiq",
+    "Inventario Pro"
   ]
 }

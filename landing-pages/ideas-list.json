@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260325035725",
+    "nombre": "Marketiq",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de análisis de marketing digital que integra datos de diversas fuentes y ofrece recomendaciones automatizadas para optimizar campañas....",
+    "score": 75,
+    "landing_url": "IDEA-20260325035725.html"
+  },
+  {
     "id": "IDEA-20260324232417",
     "nombre": "KidActiva",
     "tipo": "SaaS",
