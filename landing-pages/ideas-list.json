@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260325082928",
+    "nombre": "Social AutoPilot",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta SaaS que automatiza la gestión de redes sociales, proporcionando un calendario de publicaciones optimizado y sugerencias basadas en IA...",
+    "score": 75,
+    "landing_url": "IDEA-20260325082928.html"
+  },
+  {
     "id": "IDEA-20260325073914",
     "nombre": "AdOptimizer Pro",
     "tipo": "SaaS",

@@ -4591,6 +4591,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-25T08:29:29.032436"
+    },
+    {
+      "nombre": "TripMatic",
+      "descripcion": "TripMatic permite a los usuarios ingresar sus preferencias de viaje, presupuesto y duración, y genera itinerarios personalizados que mezclan turismo, cultura, gastronomía y actividades locales. También ofrece recomendaciones de alojamiento y transporte, todo en un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-25T09:28:43.750877"
     }
   ],
   "nombres_usados": [
@@ -5249,6 +5256,7 @@
     "Inventario Pro",
     "FlujoPyme",
     "AdOptimizer Pro",
-    "Social AutoPilot"
+    "Social AutoPilot",
+    "TripMatic"
   ]
 }
