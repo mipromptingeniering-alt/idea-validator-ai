@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260325183549",
+    "nombre": "CollabPlus",
+    "tipo": "SaaS",
+    "resumen": "CollabPlus es una plataforma de colaboración para equipos remotos que integra metodologías ágiles y gamificación, mejorando la comunicación y producti...",
+    "score": 75,
+    "landing_url": "IDEA-20260325183549.html"
+  },
+  {
     "id": "IDEA-20260325174340",
     "nombre": "TimeSense",
     "tipo": "SaaS",

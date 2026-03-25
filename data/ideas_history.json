@@ -4647,6 +4647,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-25T18:35:49.769128"
+    },
+    {
+      "nombre": "EduTrack",
+      "descripcion": "EduTrack proporciona a los docentes herramientas para crear clases, asignar tareas, evaluar el progreso de los estudiantes y acceder a un repositorio de recursos educativos. La plataforma se integra con sistemas de video conferencia y comunicación para facilitar el aprendizaje sincrónico y asincrónico.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-25T19:32:54.835609"
     }
   ],
   "nombres_usados": [
@@ -5313,6 +5320,7 @@
     "Financiador",
     "EduFlow",
     "TimeSense",
-    "CollabPlus"
+    "CollabPlus",
+    "EduTrack"
   ]
 }
