@@ -4654,6 +4654,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-25T19:32:54.835609"
+    },
+    {
+      "nombre": "FinanceMate",
+      "descripcion": "FinanceMate permitirá a los usuarios generar facturas personalizadas, categorizar gastos, y generar informes financieros de manera sencilla, todo en una interfaz intuitiva. También incluirá características como recordatorios de facturación y recomendaciones fiscales.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-25T20:06:43.983779"
     }
   ],
   "nombres_usados": [
@@ -5321,6 +5328,7 @@
     "EduFlow",
     "TimeSense",
     "CollabPlus",
-    "EduTrack"
+    "EduTrack",
+    "FinanceMate"
   ]
 }

@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260325193254",
+    "nombre": "EduTrack",
+    "tipo": "SaaS",
+    "resumen": "EduTrack es una plataforma integral que permite a los educadores gestionar sus clases, realizar seguimiento del avance de sus estudiantes y acceder a ...",
+    "score": 75,
+    "landing_url": "IDEA-20260325193254.html"
+  },
+  {
     "id": "IDEA-20260325183549",
     "nombre": "CollabPlus",
     "tipo": "SaaS",
