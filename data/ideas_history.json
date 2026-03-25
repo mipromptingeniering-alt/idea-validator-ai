@@ -4689,6 +4689,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-25T23:27:49.699159"
+    },
+    {
+      "nombre": "DataMate",
+      "descripcion": "DataMate permite a las PYMES integrar datos de diversas fuentes, analizar patrones de comportamiento de clientes y generar reportes personalizables para optimizar estrategias de marketing. Todo ello con una interfaz intuitiva y soporte en tiempo real.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-03-25T23:57:42.354761"
     }
   ],
   "nombres_usados": [
@@ -5361,6 +5368,7 @@
     "SocialPredictor",
     "DataDecipher",
     "SubscriPro",
-    "PlanEat"
+    "PlanEat",
+    "DataMate"
   ]
 }
