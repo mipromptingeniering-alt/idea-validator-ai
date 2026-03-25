@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260325124719",
+    "nombre": "Financiador",
+    "tipo": "MicroSaaS",
+    "resumen": "Un software de gestión simple y efectivo para la facturación y seguimiento de gastos, dirigido a pequeños negocios y freelancers....",
+    "score": 75,
+    "landing_url": "IDEA-20260325124719.html"
+  },
+  {
     "id": "IDEA-20260325115523",
     "nombre": "ProductivAI",
     "tipo": "SaaS",

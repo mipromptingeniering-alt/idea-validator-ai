@@ -4626,6 +4626,13 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-03-25T12:47:19.633684"
+    },
+    {
+      "nombre": "EduFlow",
+      "descripcion": "EduFlow es una plataforma diseñada para estudiantes que buscan mejorar su aprendizaje en línea. Utiliza IA para adaptar el contenido y el ritmo a las necesidades individuales de cada usuario, ofreciéndoles un plan de estudio personalizado que equilibra carga de trabajo y tiempo de estudio.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-25T16:45:33.616596"
     }
   ],
   "nombres_usados": [
@@ -5289,6 +5296,7 @@
     "SocialSpark",
     "SocialBoost Pro",
     "ProductivAI",
-    "Financiador"
+    "Financiador",
+    "EduFlow"
   ]
 }
