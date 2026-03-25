@@ -4619,6 +4619,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-25T11:55:23.967193"
+    },
+    {
+      "nombre": "Financiador",
+      "descripcion": "Financiador permite a usuarios sin experiencia en finanzas gestionar sus ingresos y gastos fácilmente. Ofrece plantillas de facturas personalizables, categorización de gastos y un panel de control amigable que proporciona información útil sobre la salud financiera del negocio.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-03-25T12:47:19.633684"
     }
   ],
   "nombres_usados": [
@@ -5281,6 +5288,7 @@
     "TripMatic",
     "SocialSpark",
     "SocialBoost Pro",
-    "ProductivAI"
+    "ProductivAI",
+    "Financiador"
   ]
 }

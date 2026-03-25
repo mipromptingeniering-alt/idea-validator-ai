@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260325115523",
+    "nombre": "ProductivAI",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de productividad que integra y optimiza herramientas de gestión de tareas, calendarios y comunicación, utilizando inteligencia artifici...",
+    "score": 75,
+    "landing_url": "IDEA-20260325115523.html"
+  },
+  {
     "id": "IDEA-20260325110827",
     "nombre": "SocialBoost Pro",
     "tipo": "SaaS",
