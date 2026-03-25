@@ -4668,6 +4668,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-25T20:55:08.190996"
+    },
+    {
+      "nombre": "DataDecipher",
+      "descripcion": "DataDecipher es una herramienta SaaS que utiliza inteligencia artificial para analizar datos de marketing digital de múltiples fuentes en tiempo real. Proporciona informes visuales y recomendaciones automatizadas para ayudar a los marketers a tomar decisiones más informadas y rápidas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-25T22:04:15.003515"
     }
   ],
   "nombres_usados": [
@@ -5337,6 +5344,7 @@
     "CollabPlus",
     "EduTrack",
     "FinanceMate",
-    "SocialPredictor"
+    "SocialPredictor",
+    "DataDecipher"
   ]
 }
