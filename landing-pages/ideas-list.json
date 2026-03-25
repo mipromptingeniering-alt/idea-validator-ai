@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260325200643",
+    "nombre": "FinanceMate",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión financiera diseñada para freelancers y pequeños negocios que simplifica la facturación y el seguimiento de gastos....",
+    "score": 75,
+    "landing_url": "IDEA-20260325200643.html"
+  },
+  {
     "id": "IDEA-20260325193254",
     "nombre": "EduTrack",
     "tipo": "SaaS",

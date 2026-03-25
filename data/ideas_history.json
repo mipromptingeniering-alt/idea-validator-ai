@@ -4661,6 +4661,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-25T20:06:43.983779"
+    },
+    {
+      "nombre": "SocialPredictor",
+      "descripcion": "SocialPredictor es una herramienta que ayuda a emprendedores y pequeñas empresas a gestionar su contenido en redes sociales utilizando algoritmos de análisis predictivo. Proporciona recomendaciones sobre el tipo de contenido y los mejores momentos para publicarlo, basándose en datos históricos y tendencias del mercado.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-25T20:55:08.190996"
     }
   ],
   "nombres_usados": [
@@ -5329,6 +5336,7 @@
     "TimeSense",
     "CollabPlus",
     "EduTrack",
-    "FinanceMate"
+    "FinanceMate",
+    "SocialPredictor"
   ]
 }
