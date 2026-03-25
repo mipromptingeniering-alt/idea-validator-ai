@@ -4612,6 +4612,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-25T11:08:27.144485"
+    },
+    {
+      "nombre": "ProductivAI",
+      "descripcion": "ProductivAI permite a los usuarios gestionar tareas, calendarios y correos electrónicos en un solo lugar, utilizando algoritmos de IA para sugerir la mejor forma de priorizar tareas y organizar el día de manera más eficiente. Ofrece notificaciones inteligentes y recomendaciones basadas en el comportamiento del usuario.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-25T11:55:23.967193"
     }
   ],
   "nombres_usados": [
@@ -5273,6 +5280,7 @@
     "Social AutoPilot",
     "TripMatic",
     "SocialSpark",
-    "SocialBoost Pro"
+    "SocialBoost Pro",
+    "ProductivAI"
   ]
 }
