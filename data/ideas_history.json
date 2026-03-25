@@ -4640,6 +4640,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-25T17:43:40.377536"
+    },
+    {
+      "nombre": "CollabPlus",
+      "descripcion": "CollabPlus permite a los equipos distribuidos gestionar proyectos, comunicarse en tiempo real y seguir su productividad a través de métricas visuales. Utiliza juegos y desafíos para fomentar la participación activa y mejorar el ambiente de trabajo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-25T18:35:49.769128"
     }
   ],
   "nombres_usados": [
@@ -5305,6 +5312,7 @@
     "ProductivAI",
     "Financiador",
     "EduFlow",
-    "TimeSense"
+    "TimeSense",
+    "CollabPlus"
   ]
 }
