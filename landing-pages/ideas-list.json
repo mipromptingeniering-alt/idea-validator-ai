@@ -4464,6 +4464,14 @@
     "landing_url": "IDEA-20260216160937.html"
   },
   {
+    "id": "IDEA-20260325063823",
+    "nombre": "FlujoPyme",
+    "tipo": "SaaS",
+    "resumen": "FlujoPyme es una plataforma de gestión de proyectos y flujos de trabajo diseñada específicamente para pequeñas y medianas empresas, que permite una co...",
+    "score": 72,
+    "landing_url": "IDEA-20260325063823.html"
+  },
+  {
     "id": "IDEA-20260321214514",
     "nombre": "LocalLink",
     "tipo": "SaaS",

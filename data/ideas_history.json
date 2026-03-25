@@ -4577,6 +4577,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-03-25T06:38:23.943917"
+    },
+    {
+      "nombre": "AdOptimizer Pro",
+      "descripcion": "AdOptimizer Pro permite a los usuarios gestionar y optimizar sus campañas publicitarias en diversas plataformas de redes sociales desde una única interfaz, utilizando inteligencia artificial para proporcionar insights y optimizaciones en tiempo real, basados en el rendimiento de sus anuncios y estrategias de mercado.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-25T07:39:14.173219"
     }
   ],
   "nombres_usados": [
@@ -5233,6 +5240,7 @@
     "KidActiva",
     "Marketiq",
     "Inventario Pro",
-    "FlujoPyme"
+    "FlujoPyme",
+    "AdOptimizer Pro"
   ]
 }
