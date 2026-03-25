@@ -4570,6 +4570,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-25T05:22:20.842475"
+    },
+    {
+      "nombre": "FlujoPyme",
+      "descripcion": "FlujoPyme ofrece herramientas intuitivas para la gestión de proyectos, asignación de tareas, seguimiento del progreso y colaboración en tiempo real, todo en una interfaz amigable. Además, permite la personalización de flujos de trabajo según las necesidades de cada equipo.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-03-25T06:38:23.943917"
     }
   ],
   "nombres_usados": [
@@ -5225,6 +5232,7 @@
     "SocialBeam",
     "KidActiva",
     "Marketiq",
-    "Inventario Pro"
+    "Inventario Pro",
+    "FlujoPyme"
   ]
 }

@@ -280,6 +280,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260325052220",
+    "nombre": "Inventario Pro",
+    "tipo": "SaaS",
+    "resumen": "Una solución de gestión de inventario simplificada para pequeños y medianos empresarios que se integra con plataformas de comercio electrónico....",
+    "score": 75,
+    "landing_url": "IDEA-20260325052220.html"
+  },
+  {
     "id": "IDEA-20260325035725",
     "nombre": "Marketiq",
     "tipo": "SaaS",
