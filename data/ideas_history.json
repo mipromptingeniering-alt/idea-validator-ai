@@ -4738,6 +4738,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-26T09:43:41.324731"
+    },
+    {
+      "nombre": "WellBalance",
+      "descripcion": "WellBalance ofrece un asistente virtual que se adapta a las necesidades individuales de los trabajadores remotos, ayudándoles a establecer horarios de trabajo y descanso, meditación, y ejercicios de relajación. La plataforma usa inteligencia artificial para crear rutinas efectivas y dar seguimiento al bienestar emocional del usuario.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-26T10:36:10.616124"
     }
   ],
   "nombres_usados": [
@@ -5417,6 +5424,7 @@
     "PYMEs en Acción",
     "SocialAI Scheduler",
     "HRConnect",
-    "SmartCRM"
+    "SmartCRM",
+    "WellBalance"
   ]
 }

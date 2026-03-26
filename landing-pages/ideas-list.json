@@ -288,6 +288,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260326094341",
+    "nombre": "SmartCRM",
+    "tipo": "SaaS",
+    "resumen": "Un CRM diseñado específicamente para PYMES que incorpora inteligencia artificial para optimizar el seguimiento y las interacciones con los clientes....",
+    "score": 75,
+    "landing_url": "IDEA-20260326094341.html"
+  },
+  {
     "id": "IDEA-20260326083153",
     "nombre": "HRConnect",
     "tipo": "SaaS",
