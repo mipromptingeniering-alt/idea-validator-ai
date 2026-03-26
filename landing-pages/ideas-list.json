@@ -288,6 +288,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260326044026",
+    "nombre": "CreativoPlan",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de proyectos y tiempo para creativos que integra tareas, plazos y recursos visuales....",
+    "score": 75,
+    "landing_url": "IDEA-20260326044026.html"
+  },
+  {
     "id": "IDEA-20260326020609",
     "nombre": "SocialSuite for SMEs",
     "tipo": "SaaS",

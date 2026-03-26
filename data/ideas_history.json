@@ -4710,6 +4710,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-26T04:40:26.593227"
+    },
+    {
+      "nombre": "PYMEs en Acción",
+      "descripcion": "PYMEs en Acción ofrece una solución asequible y fácil de usar que combina un Cliente Relacional de Ventas (CRM), herramientas de Email Marketing y Analíticas de Datos, permitiendo a las PYMES gestionar sus procesos comerciales de manera efectiva desde una sola plataforma.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-26T06:02:19.948980"
     }
   ],
   "nombres_usados": [
@@ -5385,6 +5392,7 @@
     "PlanEat",
     "DataMate",
     "SocialSuite for SMEs",
-    "CreativoPlan"
+    "CreativoPlan",
+    "PYMEs en Acción"
   ]
 }
