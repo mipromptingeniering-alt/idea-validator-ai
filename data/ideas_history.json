@@ -4703,6 +4703,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-26T02:06:10.010371"
+    },
+    {
+      "nombre": "CreativoPlan",
+      "descripcion": "CreativoPlan es una plataforma online que permite a los profesionales creativos organizar sus proyectos, establecer plazos, asignar tareas y visualizar su progreso a través de un diseño intuitivo y atractivo. Además, incluye funcionalidades para el seguimiento del tiempo dedicado a cada tarea, ayudando a optimizar su productividad y a prevenir el agotamiento.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-26T04:40:26.593227"
     }
   ],
   "nombres_usados": [
@@ -5377,6 +5384,7 @@
     "SubscriPro",
     "PlanEat",
     "DataMate",
-    "SocialSuite for SMEs"
+    "SocialSuite for SMEs",
+    "CreativoPlan"
   ]
 }
