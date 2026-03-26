@@ -4794,6 +4794,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-26T21:24:40.630384"
+    },
+    {
+      "nombre": "TimeSage",
+      "descripcion": "TimeSage utiliza un algoritmo que aprende de los hábitos del usuario, sugiriendo la mejor forma de organizar su día. Ofrece recordatorios inteligentes y la capacidad de priorizar tareas con base en plazos y carga de trabajo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-26T22:54:38.302506"
     }
   ],
   "nombres_usados": [
@@ -5481,6 +5488,7 @@
     "EasyCashFlow",
     "DataFusionPro",
     "CollabGame",
-    "MarketiAI"
+    "MarketiAI",
+    "TimeSage"
   ]
 }

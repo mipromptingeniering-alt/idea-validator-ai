@@ -288,6 +288,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260326212440",
+    "nombre": "MarketiAI",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de marketing digital automatizada para pequeñas empresas que utiliza IA para optimizar campañas publicitarias....",
+    "score": 75,
+    "landing_url": "IDEA-20260326212440.html"
+  },
+  {
     "id": "IDEA-20260326200509",
     "nombre": "CollabGame",
     "tipo": "SaaS",
