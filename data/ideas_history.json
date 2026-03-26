@@ -4773,6 +4773,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-26T16:44:03.306723"
+    },
+    {
+      "nombre": "DataFusionPro",
+      "descripcion": "DataFusionPro simplifica la gestión de datos de marketing digital al integrar plataformas como Google Analytics, Facebook Ads y Mailchimp. Utiliza inteligencia artificial para analizar tendencias y ofrecer recomendaciones en tiempo real, facilitando una toma de decisiones más ágil.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-26T18:40:31.385237"
     }
   ],
   "nombres_usados": [
@@ -5457,6 +5464,7 @@
     "Marketing Data Hub",
     "Colabory",
     "SocialSnap",
-    "EasyCashFlow"
+    "EasyCashFlow",
+    "DataFusionPro"
   ]
 }

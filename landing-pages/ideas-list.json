@@ -4856,6 +4856,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260326164403",
+    "nombre": "EasyCashFlow",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de flujo de efectivo diseñada específicamente para pequeñas empresas y freelancers....",
+    "score": 70,
+    "landing_url": "IDEA-20260326164403.html"
+  },
+  {
     "id": "IDEA-20260325205508",
     "nombre": "SocialPredictor",
     "tipo": "SaaS",
