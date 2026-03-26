@@ -288,6 +288,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260326103610",
+    "nombre": "WellBalance",
+    "tipo": "SaaS",
+    "resumen": "WellBalance es una plataforma que ayuda a los trabajadores remotos a gestionar su tiempo y bienestar emocional a través de rutinas personalizadas....",
+    "score": 75,
+    "landing_url": "IDEA-20260326103610.html"
+  },
+  {
     "id": "IDEA-20260326094341",
     "nombre": "SmartCRM",
     "tipo": "SaaS",

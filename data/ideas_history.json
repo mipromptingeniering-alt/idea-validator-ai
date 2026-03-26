@@ -4745,6 +4745,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-26T10:36:10.616124"
+    },
+    {
+      "nombre": "Marketing Data Hub",
+      "descripcion": "Marketing Data Hub es un software como servicio que permite a los marketers centralizar sus datos de publicidad, redes sociales, y analítica web, facilitando la visualización y el análisis en tiempo real. La herramienta ofrece paneles intuitivos que permiten una rápida toma de decisiones informadas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-26T11:34:52.165591"
     }
   ],
   "nombres_usados": [
@@ -5425,6 +5432,7 @@
     "SocialAI Scheduler",
     "HRConnect",
     "SmartCRM",
-    "WellBalance"
+    "WellBalance",
+    "Marketing Data Hub"
   ]
 }
