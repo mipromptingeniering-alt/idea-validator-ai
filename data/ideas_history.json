@@ -4766,6 +4766,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-26T15:39:19.561705"
+    },
+    {
+      "nombre": "EasyCashFlow",
+      "descripcion": "EasyCashFlow es un software en línea que permite a los usuarios gestionar su flujo de caja, crear facturas, y realizar un seguimiento de gastos sin complicaciones. Se enfoca en ser intuitivo para que cualquier persona, independientemente de su nivel de habilidad contable, pueda utilizarlo fácilmente.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-26T16:44:03.306723"
     }
   ],
   "nombres_usados": [
@@ -5449,6 +5456,7 @@
     "WellBalance",
     "Marketing Data Hub",
     "Colabory",
-    "SocialSnap"
+    "SocialSnap",
+    "EasyCashFlow"
   ]
 }
