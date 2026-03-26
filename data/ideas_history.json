@@ -4752,6 +4752,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-26T11:34:52.165591"
+    },
+    {
+      "nombre": "Colabory",
+      "descripcion": "Colabory es una herramienta SaaS que integra gestión de proyectos, chat en tiempo real, y seguimiento de tareas en una sola plataforma fácil de usar, permitiendo a las PYMEs optimizar su flujo de trabajo y mejorar la colaboración entre equipos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-26T12:39:05.804453"
     }
   ],
   "nombres_usados": [
@@ -5433,6 +5440,7 @@
     "HRConnect",
     "SmartCRM",
     "WellBalance",
-    "Marketing Data Hub"
+    "Marketing Data Hub",
+    "Colabory"
   ]
 }
