@@ -4759,6 +4759,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-26T12:39:05.804453"
+    },
+    {
+      "nombre": "SocialSnap",
+      "descripcion": "SocialSnap permite a los usuarios ingresar textos o ideas breves para generar automáticamente imágenes, infografías y publicaciones optimizadas para diferentes plataformas de redes sociales. Incluye funcionalidades para programación y análisis de rendimiento.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-26T15:39:19.561705"
     }
   ],
   "nombres_usados": [
@@ -5441,6 +5448,7 @@
     "SmartCRM",
     "WellBalance",
     "Marketing Data Hub",
-    "Colabory"
+    "Colabory",
+    "SocialSnap"
   ]
 }
