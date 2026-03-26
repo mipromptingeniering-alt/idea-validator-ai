@@ -48,6 +48,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260325235742",
+    "nombre": "DataMate",
+    "tipo": "SaaS",
+    "resumen": "DataMate es una plataforma de gestión de datos y análisis diseñada específicamente para pequeñas y medianas empresas, que facilita la toma de decision...",
+    "score": 78,
+    "landing_url": "IDEA-20260325235742.html"
+  },
+  {
     "id": "IDEA-20260322061022",
     "nombre": "GraphixGenie",
     "tipo": "SaaS",

@@ -4696,6 +4696,13 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-03-25T23:57:42.354761"
+    },
+    {
+      "nombre": "SocialSuite for SMEs",
+      "descripcion": "SocialSuite permite a las pymes planificar, gestionar y analizar sus publicaciones en redes sociales desde una única plataforma. Las características incluyen programación de contenido, análisis de rendimiento simplificados y recomendaciones basadas en datos para mejorar el engagement.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-26T02:06:10.010371"
     }
   ],
   "nombres_usados": [
@@ -5369,6 +5376,7 @@
     "DataDecipher",
     "SubscriPro",
     "PlanEat",
-    "DataMate"
+    "DataMate",
+    "SocialSuite for SMEs"
   ]
 }
