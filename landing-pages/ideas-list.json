@@ -288,6 +288,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260326060219",
+    "nombre": "PYMEs en Acción",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para la gestión de ventas y marketing para pequeñas y medianas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260326060219.html"
+  },
+  {
     "id": "IDEA-20260326044026",
     "nombre": "CreativoPlan",
     "tipo": "SaaS",

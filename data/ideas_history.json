@@ -4717,6 +4717,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-26T06:02:19.948980"
+    },
+    {
+      "nombre": "SocialAI Scheduler",
+      "descripcion": "SocialAI Scheduler permite a los usuarios crear, programar y optimizar publicaciones en sus redes sociales de manera eficiente, adaptando el contenido a la audiencia y el sector específico del negocio. También ofrece análisis de rendimiento de publicaciones anteriores para mejorar la estrategia de contenido.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-26T07:35:56.056773"
     }
   ],
   "nombres_usados": [
@@ -5393,6 +5400,7 @@
     "DataMate",
     "SocialSuite for SMEs",
     "CreativoPlan",
-    "PYMEs en Acción"
+    "PYMEs en Acción",
+    "SocialAI Scheduler"
   ]
 }
