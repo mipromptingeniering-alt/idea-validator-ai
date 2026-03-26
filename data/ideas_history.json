@@ -4780,6 +4780,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-26T18:40:31.385237"
+    },
+    {
+      "nombre": "CollabGame",
+      "descripcion": "CollabGame es una plataforma SaaS que transforma el trabajo en equipo remoto en una experiencia gamificada. Los empleados pueden participar en desafíos, competir en rankings y recibir recompensas por su colaboración efectiva, lo que fomenta una cultura de equipo sólida y motivadora.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-26T20:05:09.831860"
     }
   ],
   "nombres_usados": [
@@ -5465,6 +5472,7 @@
     "Colabory",
     "SocialSnap",
     "EasyCashFlow",
-    "DataFusionPro"
+    "DataFusionPro",
+    "CollabGame"
   ]
 }

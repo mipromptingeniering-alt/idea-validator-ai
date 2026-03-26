@@ -4856,6 +4856,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260326184031",
+    "nombre": "DataFusionPro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que integra datos de marketing digital de múltiples fuentes y utiliza inteligencia artificial para generar informes y recomendaciones p...",
+    "score": 70,
+    "landing_url": "IDEA-20260326184031.html"
+  },
+  {
     "id": "IDEA-20260326164403",
     "nombre": "EasyCashFlow",
     "tipo": "SaaS",
