@@ -4731,6 +4731,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-26T08:31:53.400323"
+    },
+    {
+      "nombre": "SmartCRM",
+      "descripcion": "SmartCRM es una plataforma de gestión de relaciones con clientes que ayuda a las pequeñas y medianas empresas a gestionar sus contactos, realizar seguimiento de interacciones y automatizar acciones recomendadas mediante IA. La solución está diseñada para ser intuitiva y altamente accesible, permitiendo a los usuarios aprovechar al máximo sus datos de clientes sin requerir experiencia técnica.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-26T09:43:41.324731"
     }
   ],
   "nombres_usados": [
@@ -5409,6 +5416,7 @@
     "CreativoPlan",
     "PYMEs en Acción",
     "SocialAI Scheduler",
-    "HRConnect"
+    "HRConnect",
+    "SmartCRM"
   ]
 }

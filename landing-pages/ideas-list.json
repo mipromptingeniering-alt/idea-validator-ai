@@ -288,6 +288,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260326083153",
+    "nombre": "HRConnect",
+    "tipo": "SaaS",
+    "resumen": "HRConnect es una plataforma de gestión de recursos humanos enfocada en PYMES, que ofrece herramientas para la gestión de nómina, seguimiento del rendi...",
+    "score": 75,
+    "landing_url": "IDEA-20260326083153.html"
+  },
+  {
     "id": "IDEA-20260326073555",
     "nombre": "SocialAI Scheduler",
     "tipo": "SaaS",
