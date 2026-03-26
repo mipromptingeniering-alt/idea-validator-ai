@@ -4787,6 +4787,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-26T20:05:09.831860"
+    },
+    {
+      "nombre": "MarketiAI",
+      "descripcion": "MarketiAI es una herramienta SaaS diseñada para pequeñas empresas y emprendedores que desean lanzar campañas de marketing digital sin complicaciones. A través de la inteligencia artificial, nuestra plataforma optimiza automáticamente los anuncios y estrategias en diversas plataformas, permitiendo a los usuarios concentrarse en otros aspectos de su negocio.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-26T21:24:40.630384"
     }
   ],
   "nombres_usados": [
@@ -5473,6 +5480,7 @@
     "SocialSnap",
     "EasyCashFlow",
     "DataFusionPro",
-    "CollabGame"
+    "CollabGame",
+    "MarketiAI"
   ]
 }
