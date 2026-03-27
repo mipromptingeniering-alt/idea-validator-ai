@@ -296,6 +296,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260327195014",
+    "nombre": "FreelanceMatch",
+    "tipo": "SaaS",
+    "resumen": "Plataforma para conectar freelancers especializados con pequeñas empresas que necesitan servicios específicos....",
+    "score": 75,
+    "landing_url": "IDEA-20260327195014.html"
+  },
+  {
     "id": "IDEA-20260327191048",
     "nombre": "AdminSimplify",
     "tipo": "SaaS",

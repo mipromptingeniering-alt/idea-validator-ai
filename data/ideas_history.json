@@ -4892,6 +4892,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-27T19:50:14.867504"
+    },
+    {
+      "nombre": "EduFlex",
+      "descripcion": "EduFlex es una plataforma de aprendizaje en línea que utiliza inteligencia artificial para adaptar los contenidos educativos a las necesidades específicas de cada estudiante, mejorando su experiencia de aprendizaje y brindando acceso a materiales de calidad en tiempo real.",
+      "tipo": "SaaS",
+      "score": 76,
+      "fecha": "2026-03-27T20:31:43.727622"
     }
   ],
   "nombres_usados": [
@@ -5593,6 +5600,7 @@
     "SocialEZ",
     "PayLive",
     "AdminSimplify",
-    "FreelanceMatch"
+    "FreelanceMatch",
+    "EduFlex"
   ]
 }
