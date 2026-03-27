@@ -4829,6 +4829,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-27T09:55:37.964412"
+    },
+    {
+      "nombre": "TaskUp",
+      "descripcion": "TaskUp permite a los equipos remotos gestionar sus tareas diarias de forma efectiva, proporcionando un sistema visual y de recompensas que incrementa la motivación y la productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-27T10:40:22.080506"
     }
   ],
   "nombres_usados": [
@@ -5521,6 +5528,7 @@
     "Emociones en Acción",
     "BrandBuddy",
     "GastoFácil",
-    "TherapyHub"
+    "TherapyHub",
+    "TaskUp"
   ]
 }

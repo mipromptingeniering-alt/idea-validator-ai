@@ -288,6 +288,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260327095537",
+    "nombre": "TherapyHub",
+    "tipo": "SaaS",
+    "resumen": "Plataforma integral para la gestión de terapias y pacientes, diseñada para profesionales de la salud mental....",
+    "score": 75,
+    "landing_url": "IDEA-20260327095537.html"
+  },
+  {
     "id": "IDEA-20260327085920",
     "nombre": "GastoFácil",
     "tipo": "SaaS",
