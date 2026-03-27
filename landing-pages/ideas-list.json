@@ -288,6 +288,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260327085920",
+    "nombre": "GastoFácil",
+    "tipo": "SaaS",
+    "resumen": "Herramienta de gestión y análisis de gastos para pymes....",
+    "score": 75,
+    "landing_url": "IDEA-20260327085920.html"
+  },
+  {
     "id": "IDEA-20260327075953",
     "nombre": "BrandBuddy",
     "tipo": "SaaS",

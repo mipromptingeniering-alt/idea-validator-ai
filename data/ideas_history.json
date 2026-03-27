@@ -4822,6 +4822,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-27T08:59:20.356570"
+    },
+    {
+      "nombre": "TherapyHub",
+      "descripcion": "TherapyHub es una solución SaaS que permite a terapeutas y psicólogos gestionar sus citas, realizar sesiones en línea y llevar un seguimiento del progreso de sus pacientes, todo desde una única plataforma fácil de usar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-27T09:55:37.964412"
     }
   ],
   "nombres_usados": [
@@ -5513,6 +5520,7 @@
     "TimeSage",
     "Emociones en Acción",
     "BrandBuddy",
-    "GastoFácil"
+    "GastoFácil",
+    "TherapyHub"
   ]
 }
