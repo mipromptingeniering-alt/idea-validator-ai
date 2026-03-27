@@ -4906,6 +4906,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-27T21:05:21.299582"
+    },
+    {
+      "nombre": "TimeNest",
+      "descripcion": "TimeNest ayuda a los usuarios a gestionar su tiempo de trabajo y descanso de manera efectiva, ofreciendo herramientas para establecer límites, registrar el tiempo dedicado a tareas y acceder a ejercicios de mindfulness y gestión del estrés. A través de una interfaz intuitiva, los usuarios pueden planificar su jornada, recibir recordatorios y obtener análisis sobre su productividad y bienestar general.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-27T21:51:04.922314"
     }
   ],
   "nombres_usados": [
@@ -5609,6 +5616,7 @@
     "AdminSimplify",
     "FreelanceMatch",
     "EduFlex",
-    "RemoteBalance"
+    "RemoteBalance",
+    "TimeNest"
   ]
 }

@@ -304,6 +304,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260327210521",
+    "nombre": "RemoteBalance",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de productividad y bienestar para trabajadores remotos que integra seguimiento de tareas, herramientas de colaboración y rec...",
+    "score": 75,
+    "landing_url": "IDEA-20260327210521.html"
+  },
+  {
     "id": "IDEA-20260327195014",
     "nombre": "FreelanceMatch",
     "tipo": "SaaS",
