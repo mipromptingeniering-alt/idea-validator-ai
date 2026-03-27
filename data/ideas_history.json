@@ -4808,6 +4808,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-27T05:51:08.789919"
+    },
+    {
+      "nombre": "BrandBuddy",
+      "descripcion": "BrandBuddy permite a las pequeñas y medianas empresas crear, programar y analizar publicaciones en redes sociales de manera eficiente. Incluye plantillas personalizables, recomendaciones de contenido basado en tendencias y análisis de rendimiento para optimizar la estrategia de marketing.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-27T07:59:53.363032"
     }
   ],
   "nombres_usados": [
@@ -5497,6 +5504,7 @@
     "CollabGame",
     "MarketiAI",
     "TimeSage",
-    "Emociones en Acción"
+    "Emociones en Acción",
+    "BrandBuddy"
   ]
 }
