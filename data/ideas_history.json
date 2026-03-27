@@ -4920,6 +4920,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-27T22:24:18.795858"
+    },
+    {
+      "nombre": "ProductiMate",
+      "descripcion": "ProductiMate es una aplicación SaaS que combina gestión del tiempo, seguimiento de productividad y herramientas de bienestar mental para trabajadores remotos. Los usuarios pueden establecer objetivos diarios, recibir recordatorios, y participar en desafíos gamificados para mantener la motivación y mejorar su enfoque. Además, ofrece asesoramiento sobre bienestar mental y técnicas de relajación.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-27T22:58:58.196980"
     }
   ],
   "nombres_usados": [
@@ -5625,6 +5632,7 @@
     "EduFlex",
     "RemoteBalance",
     "TimeNest",
-    "Colaboreasy"
+    "Colaboreasy",
+    "ProductiMate"
   ]
 }
