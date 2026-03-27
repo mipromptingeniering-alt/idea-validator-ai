@@ -4801,6 +4801,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-26T22:54:38.302506"
+    },
+    {
+      "nombre": "Emociones en Acción",
+      "descripcion": "Emociones en Acción es una plataforma basada en suscripción que proporciona a los padres herramientas, actividades y recursos para ayudar a sus hijos a desarrollar competencias emocionales. A través de lecciones interactivas, ejercicios prácticos y juegos, la plataforma facilita el aprendizaje sobre gestión emocional, empatía, y resolución de conflictos desde la infancia.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-27T05:51:08.789919"
     }
   ],
   "nombres_usados": [
@@ -5489,6 +5496,7 @@
     "DataFusionPro",
     "CollabGame",
     "MarketiAI",
-    "TimeSage"
+    "TimeSage",
+    "Emociones en Acción"
   ]
 }

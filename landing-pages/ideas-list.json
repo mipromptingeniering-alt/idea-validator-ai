@@ -288,6 +288,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260326225438",
+    "nombre": "TimeSage",
+    "tipo": "SaaS",
+    "resumen": "TimeSage es una herramienta de gestión del tiempo basada en IA que ayuda a los usuarios a optimizar su productividad mediante la personalización de ta...",
+    "score": 75,
+    "landing_url": "IDEA-20260326225438.html"
+  },
+  {
     "id": "IDEA-20260326212440",
     "nombre": "MarketiAI",
     "tipo": "SaaS",
