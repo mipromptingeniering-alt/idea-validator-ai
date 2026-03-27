@@ -4913,6 +4913,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-27T21:51:04.922314"
+    },
+    {
+      "nombre": "Colaboreasy",
+      "descripcion": "Colaboreasy es una herramienta de colaboración en línea que combina mensajería instantánea, gestión de tareas, y videoconferencias en un solo lugar, todo con una interfaz intuitiva y fácil de usar, ideal para pymes con recursos limitados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-27T22:24:18.795858"
     }
   ],
   "nombres_usados": [
@@ -5617,6 +5624,7 @@
     "FreelanceMatch",
     "EduFlex",
     "RemoteBalance",
-    "TimeNest"
+    "TimeNest",
+    "Colaboreasy"
   ]
 }

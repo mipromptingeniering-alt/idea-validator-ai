@@ -304,6 +304,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260327215104",
+    "nombre": "TimeNest",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que combina la gestión del tiempo y el bienestar mental para trabajadores remotos y freelance....",
+    "score": 75,
+    "landing_url": "IDEA-20260327215104.html"
+  },
+  {
     "id": "IDEA-20260327210521",
     "nombre": "RemoteBalance",
     "tipo": "SaaS",
