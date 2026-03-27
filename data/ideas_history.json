@@ -4850,6 +4850,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-27T12:02:57.739113"
+    },
+    {
+      "nombre": "SocialGrow",
+      "descripcion": "SocialGrow permite a los usuarios automatizar la creación de publicaciones optimizadas según las tendencias actuales y el comportamiento del público. Ofrece análisis detallados sobre el rendimiento del contenido, ayudando a los usuarios a ajustar sus estrategias en tiempo real.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-27T13:42:42.678272"
     }
   ],
   "nombres_usados": [
@@ -5545,6 +5552,7 @@
     "TherapyHub",
     "TaskUp",
     "SocialHive",
-    "CommuniCare"
+    "CommuniCare",
+    "SocialGrow"
   ]
 }

@@ -288,6 +288,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260327120257",
+    "nombre": "CommuniCare",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de comunicación optimizada para equipos remotos, con inteligencia artificial que mejora las interacciones basándose en análisis de datos....",
+    "score": 75,
+    "landing_url": "IDEA-20260327120257.html"
+  },
+  {
     "id": "IDEA-20260327112810",
     "nombre": "SocialHive",
     "tipo": "SaaS",
