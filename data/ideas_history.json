@@ -4815,6 +4815,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-27T07:59:53.363032"
+    },
+    {
+      "nombre": "GastoFácil",
+      "descripcion": "GastoFácil permite a las pequeñas y medianas empresas gestionar sus gastos operativos de forma fácil y eficiente, proporcionando análisis en tiempo real y recomendaciones personalizadas para optimizar el flujo de caja.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-27T08:59:20.356570"
     }
   ],
   "nombres_usados": [
@@ -5505,6 +5512,7 @@
     "MarketiAI",
     "TimeSage",
     "Emociones en Acción",
-    "BrandBuddy"
+    "BrandBuddy",
+    "GastoFácil"
   ]
 }
