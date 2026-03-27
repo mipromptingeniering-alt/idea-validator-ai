@@ -4857,6 +4857,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-27T13:42:42.678272"
+    },
+    {
+      "nombre": "PymeTask",
+      "descripcion": "PymeTask es una plataforma SaaS diseñada específicamente para pequeñas y medianas empresas que buscan mejorar su productividad y la comunicación entre equipos. Ofrece una interfaz intuitiva que permite organizar tareas, fomentar la colaboración y dar seguimiento a proyectos, todo en un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-27T15:30:44.198642"
     }
   ],
   "nombres_usados": [
@@ -5553,6 +5560,7 @@
     "TaskUp",
     "SocialHive",
     "CommuniCare",
-    "SocialGrow"
+    "SocialGrow",
+    "PymeTask"
   ]
 }
