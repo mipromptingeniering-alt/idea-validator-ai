@@ -288,6 +288,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260327163339",
+    "nombre": "SocialEZ",
+    "tipo": "SaaS",
+    "resumen": "SocialEZ es una herramienta de gestión de redes sociales diseñada específicamente para pequeñas y medianas empresas, que simplifica la creación, progr...",
+    "score": 75,
+    "landing_url": "IDEA-20260327163339.html"
+  },
+  {
     "id": "IDEA-20260327153044",
     "nombre": "PymeTask",
     "tipo": "SaaS",

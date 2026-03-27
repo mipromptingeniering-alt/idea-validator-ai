@@ -4871,6 +4871,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-27T16:33:39.937541"
+    },
+    {
+      "nombre": "PayLive",
+      "descripcion": "PayLive permite a freelancers y pequeñas empresas enviar y recibir pagos internacionales de forma rápida y asequible, eliminando las complicaciones típicas asociadas con el cambio de divisas y las altas tarifas de transferencia. La plataforma incorpora un conversor de divisas en tiempo real y un sistema de tarifas transparentes para mantener los costos bajos.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-03-27T17:29:01.649017"
     }
   ],
   "nombres_usados": [
@@ -5569,6 +5576,7 @@
     "CommuniCare",
     "SocialGrow",
     "PymeTask",
-    "SocialEZ"
+    "SocialEZ",
+    "PayLive"
   ]
 }
