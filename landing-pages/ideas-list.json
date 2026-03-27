@@ -288,6 +288,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260327153044",
+    "nombre": "PymeTask",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de tareas y comunicación para pymes que simplifica el flujo de trabajo en equipos diversos....",
+    "score": 75,
+    "landing_url": "IDEA-20260327153044.html"
+  },
+  {
     "id": "IDEA-20260327134242",
     "nombre": "SocialGrow",
     "tipo": "SaaS",

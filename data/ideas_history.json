@@ -4864,6 +4864,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-27T15:30:44.198642"
+    },
+    {
+      "nombre": "SocialEZ",
+      "descripcion": "SocialEZ permite a las PYMES gestionar sus redes sociales de forma sencilla y eficiente. Ofrece plantillas personalizables, programación de publicaciones y análisis de rendimiento, todo desde una única plataforma intuitiva. Los usuarios podrán crear contenido atractivo sin necesidad de experiencia previa en marketing digital.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-27T16:33:39.937541"
     }
   ],
   "nombres_usados": [
@@ -5561,6 +5568,7 @@
     "SocialHive",
     "CommuniCare",
     "SocialGrow",
-    "PymeTask"
+    "PymeTask",
+    "SocialEZ"
   ]
 }
