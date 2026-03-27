@@ -288,6 +288,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260327112810",
+    "nombre": "SocialHive",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para la gestión de redes sociales, diseñada específicamente para pequeñas y medianas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260327112810.html"
+  },
+  {
     "id": "IDEA-20260327104021",
     "nombre": "TaskUp",
     "tipo": "SaaS",

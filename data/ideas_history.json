@@ -4843,6 +4843,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-27T11:28:10.370585"
+    },
+    {
+      "nombre": "CommuniCare",
+      "descripcion": "CommuniCare es una herramienta que ayuda a los equipos de trabajo remoto a mejorar su comunicación a través de análisis de texto y recomendaciones personalizadas. Con funciones como análisis de tono, sugerencias de respuesta y recordatorios de comunicación, los usuarios pueden interactuar más efectivamente, reduciendo los malentendidos y aumentando la productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-27T12:02:57.739113"
     }
   ],
   "nombres_usados": [
@@ -5537,6 +5544,7 @@
     "GastoFácil",
     "TherapyHub",
     "TaskUp",
-    "SocialHive"
+    "SocialHive",
+    "CommuniCare"
   ]
 }
