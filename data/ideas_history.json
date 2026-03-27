@@ -4836,6 +4836,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-27T10:40:22.080506"
+    },
+    {
+      "nombre": "SocialHive",
+      "descripcion": "SocialHive permite a las pymes gestionar sus cuentas en varias redes sociales desde un solo lugar, automatizando la publicación de contenidos, analizando el rendimiento y ofreciendo recomendaciones personalizadas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-27T11:28:10.370585"
     }
   ],
   "nombres_usados": [
@@ -5529,6 +5536,7 @@
     "BrandBuddy",
     "GastoFácil",
     "TherapyHub",
-    "TaskUp"
+    "TaskUp",
+    "SocialHive"
   ]
 }
