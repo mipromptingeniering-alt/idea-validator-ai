@@ -296,6 +296,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260327191048",
+    "nombre": "AdminSimplify",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS que simplifica la gestión administrativa para autónomos y pequeños emprendedores....",
+    "score": 75,
+    "landing_url": "IDEA-20260327191048.html"
+  },
+  {
     "id": "IDEA-20260327163339",
     "nombre": "SocialEZ",
     "tipo": "SaaS",

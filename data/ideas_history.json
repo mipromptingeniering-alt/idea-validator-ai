@@ -4885,6 +4885,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-27T19:10:48.547466"
+    },
+    {
+      "nombre": "FreelanceMatch",
+      "descripcion": "FreelanceMatch es una plataforma que utiliza inteligencia artificial para emparejar freelancers con pequeñas empresas. Permite a los empresarios publicar proyectos y recibir propuestas de freelancers en función de sus habilidades y experiencia, ahorrando tiempo en la búsqueda de talento adecuado.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-27T19:50:14.867504"
     }
   ],
   "nombres_usados": [
@@ -5585,6 +5592,7 @@
     "PymeTask",
     "SocialEZ",
     "PayLive",
-    "AdminSimplify"
+    "AdminSimplify",
+    "FreelanceMatch"
   ]
 }
