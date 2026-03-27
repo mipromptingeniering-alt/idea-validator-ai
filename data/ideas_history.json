@@ -4927,6 +4927,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-27T22:58:58.196980"
+    },
+    {
+      "nombre": "Relatiovyn",
+      "descripcion": "Relatiovyn es un software como servicio que permite a las PYMEs gestionar sus relaciones con los clientes de manera más eficiente. Ofrece una interfaz sencilla y funciones que permiten la personalización del servicio, gestión de contactos, seguimiento de interacciones y generación de reportes automatizados, todo adaptado a las necesidades de las pequeñas empresas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-27T23:59:20.517989"
     }
   ],
   "nombres_usados": [
@@ -5633,6 +5640,7 @@
     "RemoteBalance",
     "TimeNest",
     "Colaboreasy",
-    "ProductiMate"
+    "ProductiMate",
+    "Relatiovyn"
   ]
 }
