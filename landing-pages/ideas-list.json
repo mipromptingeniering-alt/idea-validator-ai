@@ -216,6 +216,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260327203143",
+    "nombre": "EduFlex",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de aprendizaje adaptativo que ofrece recursos educativos personalizados para estudiantes en situaciones de vulnerabilidad....",
+    "score": 76,
+    "landing_url": "IDEA-20260327203143.html"
+  },
+  {
     "id": "IDEA-20260322105154",
     "nombre": "TaskLinker",
     "tipo": "SaaS",
