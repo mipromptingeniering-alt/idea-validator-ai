@@ -4878,6 +4878,13 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-03-27T17:29:01.649017"
+    },
+    {
+      "nombre": "AdminSimplify",
+      "descripcion": "AdminSimplify es una herramienta que permite a los autónomos gestionar su facturación, seguimiento de pagos y tareas administrativas de manera sencilla y efectiva. Ofrece plantillas personalizables, recordatorios automáticos de pago y un sistema de informes para que los emprendedores tengan una visión clara de su flujo de caja.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-27T19:10:48.547466"
     }
   ],
   "nombres_usados": [
@@ -5577,6 +5584,7 @@
     "SocialGrow",
     "PymeTask",
     "SocialEZ",
-    "PayLive"
+    "PayLive",
+    "AdminSimplify"
   ]
 }

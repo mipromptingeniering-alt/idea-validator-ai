@@ -48,6 +48,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260327172901",
+    "nombre": "PayLive",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que facilita pagos internacionales para freelancers y pequeñas empresas con tarifas bajas y un proceso simple....",
+    "score": 78,
+    "landing_url": "IDEA-20260327172901.html"
+  },
+  {
     "id": "IDEA-20260325235742",
     "nombre": "DataMate",
     "tipo": "SaaS",
