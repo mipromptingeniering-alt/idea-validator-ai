@@ -4955,6 +4955,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-28T09:32:14.359060"
+    },
+    {
+      "nombre": "CreativoFocus",
+      "descripcion": "CreativoFocus es una herramienta de gestión del tiempo diseñada específicamente para profesionales creativos. Ofrece una interfaz intuitiva que permite a los usuarios establecer prioridades, establecer plazos y dividir proyectos en tareas visuales. Además, incluye características de productividad como recordatorios y seguimiento del tiempo, todo en un ambiente que estimula la creatividad.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-03-28T10:04:30.571813"
     }
   ],
   "nombres_usados": [
@@ -5665,6 +5672,7 @@
     "Relatiovyn",
     "Subscriptify",
     "MarketMind",
-    "ProposAI"
+    "ProposAI",
+    "CreativoFocus"
   ]
 }
