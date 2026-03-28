@@ -304,6 +304,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260328054413",
+    "nombre": "MarketMind",
+    "tipo": "SaaS",
+    "resumen": "MarketMind es una plataforma SaaS diseñada para ayudar a PYMES a realizar análisis de mercado automatizados y personalizados....",
+    "score": 75,
+    "landing_url": "IDEA-20260328054413.html"
+  },
+  {
     "id": "IDEA-20260328043145",
     "nombre": "Subscriptify",
     "tipo": "SaaS",

@@ -4948,6 +4948,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-28T05:44:14.010579"
+    },
+    {
+      "nombre": "ProposAI",
+      "descripcion": "ProposAI permite a los usuarios ingresar detalles sobre el proyecto y el cliente, y luego utiliza algoritmos de IA para generar propuestas personalizadas y optimizadas, ofreciendo plantillas, sugerencias de contenido y diseño profesional. Además, proporciona análisis de rendimiento para ayudar a los usuarios a perfeccionar sus propuestas a lo largo del tiempo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-28T09:32:14.359060"
     }
   ],
   "nombres_usados": [
@@ -5657,6 +5664,7 @@
     "ProductiMate",
     "Relatiovyn",
     "Subscriptify",
-    "MarketMind"
+    "MarketMind",
+    "ProposAI"
   ]
 }
