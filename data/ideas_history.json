@@ -4962,6 +4962,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-03-28T10:04:30.571813"
+    },
+    {
+      "nombre": "TimeFlow AI",
+      "descripcion": "TimeFlow AI es una aplicación web que utiliza algoritmos de inteligencia artificial para analizar las actividades diarias de los usuarios, sugiriendo automáticamente la mejor forma de organizar el tiempo y establecer prioridades, basándose en su nivel de energía y productividad en diferentes momentos del día.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-28T10:52:16.001638"
     }
   ],
   "nombres_usados": [
@@ -5673,6 +5680,7 @@
     "Subscriptify",
     "MarketMind",
     "ProposAI",
-    "CreativoFocus"
+    "CreativoFocus",
+    "TimeFlow AI"
   ]
 }
