@@ -304,6 +304,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260328194448",
+    "nombre": "AdInsights Hub",
+    "tipo": "SaaS",
+    "resumen": "AdInsights Hub es una plataforma de análisis de marketing que centraliza datos de múltiples fuentes en tiempo real, ofreciendo recomendaciones persona...",
+    "score": 75,
+    "landing_url": "IDEA-20260328194448.html"
+  },
+  {
     "id": "IDEA-20260328175406",
     "nombre": "Mindful Planner",
     "tipo": "SaaS",

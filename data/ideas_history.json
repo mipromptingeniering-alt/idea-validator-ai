@@ -5046,6 +5046,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-28T19:44:48.267686"
+    },
+    {
+      "nombre": "SocialPilot Pro",
+      "descripcion": "SocialPilot Pro permite a pequeños empresarios programar publicaciones, analizar interacciones y recibir sugerencias personalizadas de contenido para maximizar su presencia en línea, sin necesidad de ser expertos en marketing digital.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-03-28T20:00:23.171822"
     }
   ],
   "nombres_usados": [
@@ -5769,6 +5776,7 @@
     "MenteSana",
     "Mindful Planner",
     "Gestión Fácil",
-    "AdInsights Hub"
+    "AdInsights Hub",
+    "SocialPilot Pro"
   ]
 }
