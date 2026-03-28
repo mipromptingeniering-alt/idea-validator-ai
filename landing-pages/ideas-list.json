@@ -304,6 +304,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260328141813",
+    "nombre": "AhorraSmart",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que combina la gestión financiera personal con recomendaciones personalizadas y gamificación para incentivar el ahorro....",
+    "score": 75,
+    "landing_url": "IDEA-20260328141813.html"
+  },
+  {
     "id": "IDEA-20260328123601",
     "nombre": "PymeWeb 360",
     "tipo": "SaaS",

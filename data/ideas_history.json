@@ -4997,6 +4997,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-28T14:18:13.829460"
+    },
+    {
+      "nombre": "SalesBoost",
+      "descripcion": "SalesBoost es un software de gestión de relaciones con los clientes que simplifica el proceso de ventas para pequeñas y medianas empresas. Ofrece herramientas para capturar y seguir oportunidades de venta, gestionar contactos y automatizar campañas de marketing, todo en una interfaz intuitiva y de bajo costo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-28T15:25:00.787185"
     }
   ],
   "nombres_usados": [
@@ -5713,6 +5720,7 @@
     "MarketIntegrate",
     "CreaMonetiza",
     "PymeWeb 360",
-    "AhorraSmart"
+    "AhorraSmart",
+    "SalesBoost"
   ]
 }
