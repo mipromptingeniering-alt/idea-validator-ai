@@ -4969,6 +4969,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-28T10:52:16.001638"
+    },
+    {
+      "nombre": "MarketIntegrate",
+      "descripcion": "MarketIntegrate permite a las empresas integrar y gestionar todas sus herramientas de marketing digital desde un solo lugar. Ofrece dashboards personalizables, recomendaciones automáticas basadas en datos y una interfaz amigable para la gestión eficiente de campañas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-28T11:22:32.506988"
     }
   ],
   "nombres_usados": [
@@ -5681,6 +5688,7 @@
     "MarketMind",
     "ProposAI",
     "CreativoFocus",
-    "TimeFlow AI"
+    "TimeFlow AI",
+    "MarketIntegrate"
   ]
 }
