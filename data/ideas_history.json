@@ -4976,6 +4976,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-28T11:22:32.506988"
+    },
+    {
+      "nombre": "CreaMonetiza",
+      "descripcion": "CreaMonetiza es una herramienta todo en uno que permite a los creadores de contenido analizar su audiencia, programar publicaciones, optimizar su SEO, y acceder a múltiples vías de monetización, como suscripciones y patrocinio. Objetivo: ayudar a los creadores a maximizar su impacto y sus ingresos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-28T11:50:51.128588"
     }
   ],
   "nombres_usados": [
@@ -5689,6 +5696,7 @@
     "ProposAI",
     "CreativoFocus",
     "TimeFlow AI",
-    "MarketIntegrate"
+    "MarketIntegrate",
+    "CreaMonetiza"
   ]
 }

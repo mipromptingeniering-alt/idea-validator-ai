@@ -304,6 +304,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260328112232",
+    "nombre": "MarketIntegrate",
+    "tipo": "SaaS",
+    "resumen": "Plataforma que centraliza herramientas de marketing digital, optimizando procesos y ofreciendo análisis inteligentes....",
+    "score": 75,
+    "landing_url": "IDEA-20260328112232.html"
+  },
+  {
     "id": "IDEA-20260328105215",
     "nombre": "TimeFlow AI",
     "tipo": "SaaS",
