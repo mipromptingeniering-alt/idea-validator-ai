@@ -304,6 +304,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260328155255",
+    "nombre": "MentalCare Pro",
+    "tipo": "SaaS",
+    "resumen": "Plataforma integral de gestión para profesionales de la salud mental, que combina la programación de citas, seguimiento de pacientes y análisis de dat...",
+    "score": 75,
+    "landing_url": "IDEA-20260328155255.html"
+  },
+  {
     "id": "IDEA-20260328152500",
     "nombre": "SalesBoost",
     "tipo": "SaaS",

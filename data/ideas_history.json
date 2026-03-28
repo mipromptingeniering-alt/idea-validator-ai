@@ -5011,6 +5011,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-28T15:52:55.366759"
+    },
+    {
+      "nombre": "MedInfo Hub",
+      "descripcion": "MedInfo Hub es una solución SaaS que permite a médicos y otros profesionales de la salud acceder a información clínica, protocolos de tratamiento y recomendaciones personalizadas en un solo lugar, administrado por un motor de IA que adapta la información a las necesidades del usuario.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-03-28T16:24:39.300015"
     }
   ],
   "nombres_usados": [
@@ -5729,6 +5736,7 @@
     "PymeWeb 360",
     "AhorraSmart",
     "SalesBoost",
-    "MentalCare Pro"
+    "MentalCare Pro",
+    "MedInfo Hub"
   ]
 }
