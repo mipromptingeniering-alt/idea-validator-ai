@@ -304,6 +304,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260328043145",
+    "nombre": "Subscriptify",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS que permite a los creadores de contenido gestionar suscripciones y monetizar su contenido de manera directa con sus seguidores....",
+    "score": 75,
+    "landing_url": "IDEA-20260328043145.html"
+  },
+  {
     "id": "IDEA-20260327235920",
     "nombre": "Relatiovyn",
     "tipo": "SaaS",

@@ -4941,6 +4941,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-28T04:31:45.375189"
+    },
+    {
+      "nombre": "MarketMind",
+      "descripcion": "MarketMind proporciona un análisis detallado del mercado de una empresa, basándose en datos accesibles y utilizando algoritmos de inteligencia artificial para generar recomendaciones de estrategias comerciales. La plataforma es fácil de usar, permitiendo a los emprendedores obtener insights relevantes sin necesidad de ser expertos en análisis de datos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-28T05:44:14.010579"
     }
   ],
   "nombres_usados": [
@@ -5649,6 +5656,7 @@
     "Colaboreasy",
     "ProductiMate",
     "Relatiovyn",
-    "Subscriptify"
+    "Subscriptify",
+    "MarketMind"
   ]
 }
