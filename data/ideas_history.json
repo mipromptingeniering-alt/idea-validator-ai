@@ -5032,6 +5032,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-28T17:54:06.488218"
+    },
+    {
+      "nombre": "Gestión Fácil",
+      "descripcion": "Gestión Fácil permite a las PYMEs crear, asignar y seguir tareas de manera sencilla. La herramienta ofrece plantillas predefinidas, integración con herramientas que ya utilizan las empresas, y reportes simples que permiten a los equipos mantenerse organizados y productivos sin complicaciones.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-28T18:29:10.571224"
     }
   ],
   "nombres_usados": [
@@ -5753,6 +5760,7 @@
     "MentalCare Pro",
     "MedInfo Hub",
     "MenteSana",
-    "Mindful Planner"
+    "Mindful Planner",
+    "Gestión Fácil"
   ]
 }
