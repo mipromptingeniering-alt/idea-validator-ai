@@ -48,6 +48,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260328200023",
+    "nombre": "SocialPilot Pro",
+    "tipo": "SaaS",
+    "resumen": "Herramienta integral de gestión de redes sociales para pequeñas empresas....",
+    "score": 78,
+    "landing_url": "IDEA-20260328200023.html"
+  },
+  {
     "id": "IDEA-20260327172901",
     "nombre": "PayLive",
     "tipo": "SaaS",

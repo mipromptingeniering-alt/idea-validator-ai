@@ -5053,6 +5053,13 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-03-28T20:00:23.171822"
+    },
+    {
+      "nombre": "LearnEngage",
+      "descripcion": "LearnEngage se integra con plataformas de e-learning populares y utiliza algoritmos de aprendizaje automático para analizar la interacción del usuario, proporcionando informes detallados y sugerencias para optimizar los contenidos y la metodología de enseñanza.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-28T21:02:36.067246"
     }
   ],
   "nombres_usados": [
@@ -5777,6 +5784,7 @@
     "Mindful Planner",
     "Gestión Fácil",
     "AdInsights Hub",
-    "SocialPilot Pro"
+    "SocialPilot Pro",
+    "LearnEngage"
   ]
 }
