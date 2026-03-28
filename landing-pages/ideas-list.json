@@ -304,6 +304,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260328172659",
+    "nombre": "MenteSana",
+    "tipo": "SaaS",
+    "resumen": "MenteSana es una plataforma que ofrece herramientas para la gestión del bienestar mental, diseñada para profesionales de la salud....",
+    "score": 75,
+    "landing_url": "IDEA-20260328172659.html"
+  },
+  {
     "id": "IDEA-20260328155255",
     "nombre": "MentalCare Pro",
     "tipo": "SaaS",

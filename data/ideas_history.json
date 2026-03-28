@@ -5025,6 +5025,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-28T17:27:00.093705"
+    },
+    {
+      "nombre": "Mindful Planner",
+      "descripcion": "Mindful Planner es un software de planificación que permite a los usuarios organizar su día, establecer metas y practicar ejercicios de mindfulness a lo largo del día, integrando recordatorios para descansar y meditar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-28T17:54:06.488218"
     }
   ],
   "nombres_usados": [
@@ -5745,6 +5752,7 @@
     "SalesBoost",
     "MentalCare Pro",
     "MedInfo Hub",
-    "MenteSana"
+    "MenteSana",
+    "Mindful Planner"
   ]
 }
