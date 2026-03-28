@@ -5018,6 +5018,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-03-28T16:24:39.300015"
+    },
+    {
+      "nombre": "MenteSana",
+      "descripcion": "MenteSana permite a los terapeutas y psicólogos gestionar el bienestar mental de sus pacientes mediante un sistema de autoevaluaciones, seguimiento de síntomas y acceso a recursos educativos y ejercicios personalizados. La plataforma incluye funcionalidades de telemedicina, chat seguro y análisis de los progresos del paciente en tiempo real.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-28T17:27:00.093705"
     }
   ],
   "nombres_usados": [
@@ -5737,6 +5744,7 @@
     "AhorraSmart",
     "SalesBoost",
     "MentalCare Pro",
-    "MedInfo Hub"
+    "MedInfo Hub",
+    "MenteSana"
   ]
 }

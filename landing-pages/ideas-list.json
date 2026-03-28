@@ -4928,6 +4928,14 @@
     "landing_url": "IDEA-20260216160937.html"
   },
   {
+    "id": "IDEA-20260328162439",
+    "nombre": "MedInfo Hub",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de acceso a información clínica centralizada para profesionales de la salud....",
+    "score": 72,
+    "landing_url": "IDEA-20260328162439.html"
+  },
+  {
     "id": "IDEA-20260328100430",
     "nombre": "CreativoFocus",
     "tipo": "SaaS",
