@@ -304,6 +304,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260328152500",
+    "nombre": "SalesBoost",
+    "tipo": "SaaS",
+    "resumen": "Un CRM asequible y fácil de usar para PYMEs, que integra funciones de seguimiento de clientes y automatización de marketing....",
+    "score": 75,
+    "landing_url": "IDEA-20260328152500.html"
+  },
+  {
     "id": "IDEA-20260328141813",
     "nombre": "AhorraSmart",
     "tipo": "SaaS",

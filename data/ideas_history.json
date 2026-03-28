@@ -5004,6 +5004,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-28T15:25:00.787185"
+    },
+    {
+      "nombre": "MentalCare Pro",
+      "descripcion": "MentalCare Pro es una herramienta diseñada para terapeutas y consejeros que busca optimizar la gestión de consultas, facilitar la comunicación con los pacientes y ofrecer análisis de progreso a través de métricas personalizables. Se integran recordatorios automáticos, facturación simplificada y recursos educativos para pacientes, mejorando la experiencia general.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-28T15:52:55.366759"
     }
   ],
   "nombres_usados": [
@@ -5721,6 +5728,7 @@
     "CreaMonetiza",
     "PymeWeb 360",
     "AhorraSmart",
-    "SalesBoost"
+    "SalesBoost",
+    "MentalCare Pro"
   ]
 }
