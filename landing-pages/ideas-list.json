@@ -304,6 +304,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260327235920",
+    "nombre": "Relatiovyn",
+    "tipo": "SaaS",
+    "resumen": "Un CRM diseñado específicamente para pequeñas y medianas empresas, que simplifica la gestión de relaciones con los clientes y automatiza tareas....",
+    "score": 75,
+    "landing_url": "IDEA-20260327235920.html"
+  },
+  {
     "id": "IDEA-20260327225858",
     "nombre": "ProductiMate",
     "tipo": "SaaS",

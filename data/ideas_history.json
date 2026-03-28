@@ -4934,6 +4934,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-27T23:59:20.517989"
+    },
+    {
+      "nombre": "Subscriptify",
+      "descripcion": "Subscriptify es una herramienta que permite a los creadores definir y ofrecer planes de suscripción personalizados a sus seguidores, gestionar pagos recurrentes, entregar contenido exclusivo y analizar el comportamiento de los suscriptores. Integra herramientas de marketing y comunicación para retener a los suscriptores y reducir la tasa de abandono.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-28T04:31:45.375189"
     }
   ],
   "nombres_usados": [
@@ -5641,6 +5648,7 @@
     "TimeNest",
     "Colaboreasy",
     "ProductiMate",
-    "Relatiovyn"
+    "Relatiovyn",
+    "Subscriptify"
   ]
 }
