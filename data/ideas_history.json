@@ -5060,6 +5060,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-28T21:02:36.067246"
+    },
+    {
+      "nombre": "GestorSimple",
+      "descripcion": "GestorSimple es una plataforma en línea que permite a los emprendedores y pequeñas empresas gestionar sus proyectos, tareas y recursos de una manera simple y eficaz, sin necesidad de conocimientos técnicos avanzados. Ofrece plantillas personalizables, integración con otras herramientas y un sistema de gestión de tareas intuitivo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-28T21:44:17.407719"
     }
   ],
   "nombres_usados": [
@@ -5785,6 +5792,7 @@
     "Gestión Fácil",
     "AdInsights Hub",
     "SocialPilot Pro",
-    "LearnEngage"
+    "LearnEngage",
+    "GestorSimple"
   ]
 }

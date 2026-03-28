@@ -312,6 +312,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260328210235",
+    "nombre": "LearnEngage",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de análisis y feedback para e-learning que mide el engagement del estudiante y proporciona recomendaciones personalizadas para mejorar ...",
+    "score": 75,
+    "landing_url": "IDEA-20260328210235.html"
+  },
+  {
     "id": "IDEA-20260328194448",
     "nombre": "AdInsights Hub",
     "tipo": "SaaS",
