@@ -4990,6 +4990,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-28T12:36:01.827362"
+    },
+    {
+      "nombre": "AhorraSmart",
+      "descripcion": "AhorraSmart es una aplicación que permite a los usuarios gestionar sus gastos, establecer presupuestos y recibir consejos financieros personalizados basados en su comportamiento de gasto. Además, incorpora un sistema de recompensas que motiva a los usuarios a alcanzar sus objetivos de ahorro a través de desafíos y logros.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-28T14:18:13.829460"
     }
   ],
   "nombres_usados": [
@@ -5705,6 +5712,7 @@
     "TimeFlow AI",
     "MarketIntegrate",
     "CreaMonetiza",
-    "PymeWeb 360"
+    "PymeWeb 360",
+    "AhorraSmart"
   ]
 }
