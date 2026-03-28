@@ -4983,6 +4983,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-28T11:50:51.128588"
+    },
+    {
+      "nombre": "PymeWeb 360",
+      "descripcion": "PymeWeb 360 es una solución todo en uno que permite a las pequeñas y medianas empresas crear su sitio web sin necesidad de conocimientos técnicos, y al mismo tiempo proporciona herramientas de marketing digital y análisis para maximizar su presencia online.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-28T12:36:01.827362"
     }
   ],
   "nombres_usados": [
@@ -5697,6 +5704,7 @@
     "CreativoFocus",
     "TimeFlow AI",
     "MarketIntegrate",
-    "CreaMonetiza"
+    "CreaMonetiza",
+    "PymeWeb 360"
   ]
 }

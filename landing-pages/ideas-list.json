@@ -304,6 +304,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260328115051",
+    "nombre": "CreaMonetiza",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para creadores de contenido que ayuda a gestionar su audiencia y monetizar su trabajo de manera efectiva....",
+    "score": 75,
+    "landing_url": "IDEA-20260328115051.html"
+  },
+  {
     "id": "IDEA-20260328112232",
     "nombre": "MarketIntegrate",
     "tipo": "SaaS",
