@@ -5144,6 +5144,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260328182910",
+    "nombre": "Gestión Fácil",
+    "tipo": "SaaS",
+    "resumen": "Gestión Fácil es una herramienta de gestión de proyectos diseñada específicamente para pequeñas y medianas empresas, enfocada en la simplicidad y la a...",
+    "score": 70,
+    "landing_url": "IDEA-20260328182910.html"
+  },
+  {
     "id": "IDEA-20260326184031",
     "nombre": "DataFusionPro",
     "tipo": "SaaS",
