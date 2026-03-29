@@ -5179,6 +5179,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-29T19:46:13.878603"
+    },
+    {
+      "nombre": "EasiSocial",
+      "descripcion": "EasiSocial permitirá a las pymes gestionar sus redes sociales de manera sencilla y eficiente. A través de una plataforma intuitiva, los usuarios podrán programar publicaciones, analizar métricas de interacción y utilizar plantillas de contenido que se alineen con su marca. Además, se incluirán funcionalidades de automatización para mejorar la interacción con los seguidores.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-29T21:25:09.106146"
     }
   ],
   "nombres_usados": [
@@ -5921,6 +5928,7 @@
     "BudgetBuddy",
     "FlexTime",
     "TeamPlay",
-    "TaskFit"
+    "TaskFit",
+    "EasiSocial"
   ]
 }

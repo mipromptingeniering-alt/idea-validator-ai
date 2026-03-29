@@ -312,6 +312,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260329194613",
+    "nombre": "TaskFit",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de tareas que se adapta a la forma de trabajar de cada usuario, proporcionando un enfoque personalizado para aumentar la pro...",
+    "score": 75,
+    "landing_url": "IDEA-20260329194613.html"
+  },
+  {
     "id": "IDEA-20260329183005",
     "nombre": "TeamPlay",
     "tipo": "SaaS",
