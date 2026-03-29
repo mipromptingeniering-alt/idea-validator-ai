@@ -5088,6 +5088,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-29T05:56:40.143124"
+    },
+    {
+      "nombre": "GestorPyme",
+      "descripcion": "GestorPyme es una herramienta SaaS diseñada específicamente para pequeñas y medianas empresas que desean optimizar su presencia digital. La plataforma permite gestionar publicaciones en redes sociales, automatizar campañas de marketing y ofrecer herramientas de atención al cliente en un solo lugar. Todo esto con una interfaz sencilla para que los usuarios sin experiencia técnica puedan navegar y utilizar la herramienta con eficacia.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-29T06:57:06.272778"
     }
   ],
   "nombres_usados": [
@@ -5817,6 +5824,7 @@
     "GestorSimple",
     "SatisFeedback",
     "DataSimplicidad",
-    "Marketero"
+    "Marketero",
+    "GestorPyme"
   ]
 }

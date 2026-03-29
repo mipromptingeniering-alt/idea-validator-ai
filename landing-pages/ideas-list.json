@@ -312,6 +312,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260329055640",
+    "nombre": "Marketero",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de automatización de marketing digital con formación integrada para pequeñas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260329055640.html"
+  },
+  {
     "id": "IDEA-20260329014615",
     "nombre": "DataSimplicidad",
     "tipo": "SaaS",
