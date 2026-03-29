@@ -5095,6 +5095,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-29T06:57:06.272778"
+    },
+    {
+      "nombre": "TimeCollab",
+      "descripcion": "TimeCollab combina técnicas de gestión del tiempo como el Pomodoro con funciones de colaboración, permitiendo a los equipos establecer metas, realizar seguimiento y comunicarse de manera efectiva en un entorno digital.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-29T08:31:44.309858"
     }
   ],
   "nombres_usados": [
@@ -5825,6 +5832,7 @@
     "SatisFeedback",
     "DataSimplicidad",
     "Marketero",
-    "GestorPyme"
+    "GestorPyme",
+    "TimeCollab"
   ]
 }
