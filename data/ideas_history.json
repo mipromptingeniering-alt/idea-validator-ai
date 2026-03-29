@@ -5116,6 +5116,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-29T09:59:39.275514"
+    },
+    {
+      "nombre": "ProjectHub",
+      "descripcion": "ProjectHub permite a los usuarios organizar sus proyectos en un espacio centralizado. Los usuarios pueden añadir tareas, asignar tiempos, comunicarse con colaboradores y generar facturas automáticamente, todo en una interfaz intuitiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-29T11:04:31.628483"
     }
   ],
   "nombres_usados": [
@@ -5849,6 +5856,7 @@
     "GestorPyme",
     "TimeCollab",
     "FocusHive",
-    "FinanTech para PYMES"
+    "FinanTech para PYMES",
+    "ProjectHub"
   ]
 }

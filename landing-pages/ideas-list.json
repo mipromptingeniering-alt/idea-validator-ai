@@ -312,6 +312,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260329095939",
+    "nombre": "FinanTech para PYMES",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que ofrece herramientas de gestión financiera junto con educación financiera para PYMES....",
+    "score": 75,
+    "landing_url": "IDEA-20260329095939.html"
+  },
+  {
     "id": "IDEA-20260329092130",
     "nombre": "FocusHive",
     "tipo": "SaaS",
