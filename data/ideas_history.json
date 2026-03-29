@@ -5193,6 +5193,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-29T21:53:18.216282"
+    },
+    {
+      "nombre": "EduAdapt",
+      "descripcion": "EduAdapt es una plataforma de aprendizaje en línea que utiliza algoritmos de inteligencia artificial para personalizar el contenido educativo, optimizando así la experiencia de aprendizaje de los usuarios. Al evaluar el estilo de aprendizaje y el progreso reportado de cada estudiante, la plataforma adapta automáticamente los cursos y recursos, aumentando la retención y efectividad del aprendizaje.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-29T22:56:49.485490"
     }
   ],
   "nombres_usados": [
@@ -5937,6 +5944,7 @@
     "TeamPlay",
     "TaskFit",
     "EasiSocial",
-    "FinanciaRápido"
+    "FinanciaRápido",
+    "EduAdapt"
   ]
 }

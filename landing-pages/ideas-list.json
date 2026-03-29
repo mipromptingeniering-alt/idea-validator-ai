@@ -312,6 +312,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260329215318",
+    "nombre": "FinanciaRápido",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma financiera fácil de usar para freelancers y pequeñas empresas que combina herramientas de gestión contable con recursos educativos....",
+    "score": 75,
+    "landing_url": "IDEA-20260329215318.html"
+  },
+  {
     "id": "IDEA-20260329212508",
     "nombre": "EasiSocial",
     "tipo": "SaaS",
