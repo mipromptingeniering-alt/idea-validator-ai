@@ -5144,6 +5144,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-29T15:37:03.426965"
+    },
+    {
+      "nombre": "EduOrganize",
+      "descripcion": "EduOrganize es una aplicación que permite a los padres gestionar las tareas escolares, actividades extracurriculares y citas, mientras se comunica fácilmente con maestros y otros padres. Ofrece recordatorios y una vista de calendario que integra eventos de la escuela y actividades de los niños.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-29T16:02:15.289478"
     }
   ],
   "nombres_usados": [
@@ -5881,6 +5888,7 @@
     "ProjectHub",
     "FreelaManager",
     "FidelizaPro",
-    "Balance Remote"
+    "Balance Remote",
+    "EduOrganize"
   ]
 }

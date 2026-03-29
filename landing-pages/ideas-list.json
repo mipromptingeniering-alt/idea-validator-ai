@@ -5256,6 +5256,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260329153703",
+    "nombre": "Balance Remote",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que combina gestión de tareas y recursos de bienestar para trabajadores remotos....",
+    "score": 70,
+    "landing_url": "IDEA-20260329153703.html"
+  },
+  {
     "id": "IDEA-20260328182910",
     "nombre": "Gestión Fácil",
     "tipo": "SaaS",
