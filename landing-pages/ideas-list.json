@@ -312,6 +312,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260329145957",
+    "nombre": "FidelizaPro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de fidelización y retención de clientes diseñada específicamente para PYMEs, que integra múltiples canales de comunicación y...",
+    "score": 75,
+    "landing_url": "IDEA-20260329145957.html"
+  },
+  {
     "id": "IDEA-20260329143227",
     "nombre": "FreelaManager",
     "tipo": "SaaS",

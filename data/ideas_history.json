@@ -5137,6 +5137,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-29T14:59:57.225115"
+    },
+    {
+      "nombre": "Balance Remote",
+      "descripcion": "Balance Remote es un software de gestión que ayuda a los trabajadores a equilibrar su carga de trabajo con recursos de bienestar, como meditaciones guiadas, ejercicios de estiramiento y técnicas de productividad. Los usuarios pueden establecer metas diarias de trabajo y bienestar, y recibir recordatorios personalizados.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-29T15:37:03.426965"
     }
   ],
   "nombres_usados": [
@@ -5873,6 +5880,7 @@
     "FinanTech para PYMES",
     "ProjectHub",
     "FreelaManager",
-    "FidelizaPro"
+    "FidelizaPro",
+    "Balance Remote"
   ]
 }
