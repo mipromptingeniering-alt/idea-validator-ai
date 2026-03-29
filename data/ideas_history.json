@@ -5186,6 +5186,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-29T21:25:09.106146"
+    },
+    {
+      "nombre": "FinanciaRápido",
+      "descripcion": "FinanciaRápido es una plataforma SaaS que permite a freelancers y pequeñas empresas gestionar sus finanzas de manera sencilla. Ofrece herramientas para el seguimiento de gastos, generación de informes financieros, y educación financiera a través de tutoriales y plantillas personalizables, todo desde una misma interfaz.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-29T21:53:18.216282"
     }
   ],
   "nombres_usados": [
@@ -5929,6 +5936,7 @@
     "FlexTime",
     "TeamPlay",
     "TaskFit",
-    "EasiSocial"
+    "EasiSocial",
+    "FinanciaRápido"
   ]
 }

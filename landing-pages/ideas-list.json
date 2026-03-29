@@ -312,6 +312,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260329212508",
+    "nombre": "EasiSocial",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de redes sociales diseñada específicamente para pequeñas y medianas empresas, que permite programar publicaciones, analizar...",
+    "score": 75,
+    "landing_url": "IDEA-20260329212508.html"
+  },
+  {
     "id": "IDEA-20260329194613",
     "nombre": "TaskFit",
     "tipo": "SaaS",
