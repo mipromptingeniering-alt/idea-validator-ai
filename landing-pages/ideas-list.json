@@ -312,6 +312,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260329143227",
+    "nombre": "FreelaManager",
+    "tipo": "SaaS",
+    "resumen": "Plataforma integral para la gestión de freelancers, que integra gestión de proyectos, seguimiento de tiempo y facturación....",
+    "score": 75,
+    "landing_url": "IDEA-20260329143227.html"
+  },
+  {
     "id": "IDEA-20260329110431",
     "nombre": "ProjectHub",
     "tipo": "SaaS",

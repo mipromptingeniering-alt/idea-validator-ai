@@ -5130,6 +5130,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-29T14:32:27.516501"
+    },
+    {
+      "nombre": "FidelizaPro",
+      "descripcion": "FidelizaPro permite a las pequeñas y medianas empresas crear y administrar programas de fidelización a través de email, SMS y redes sociales, ofreciendo herramientas analíticas para personalizar y optimizar sus campañas. La plataforma incluye plantillas predefinidas y un sistema de automatización que facilita la interacción con los clientes.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-29T14:59:57.225115"
     }
   ],
   "nombres_usados": [
@@ -5865,6 +5872,7 @@
     "FocusHive",
     "FinanTech para PYMES",
     "ProjectHub",
-    "FreelaManager"
+    "FreelaManager",
+    "FidelizaPro"
   ]
 }
