@@ -312,6 +312,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260329160215",
+    "nombre": "EduOrganize",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión para que los padres organicen las tareas y actividades escolares de sus hijos, conectando con maestros y otros padres....",
+    "score": 75,
+    "landing_url": "IDEA-20260329160215.html"
+  },
+  {
     "id": "IDEA-20260329145957",
     "nombre": "FidelizaPro",
     "tipo": "SaaS",

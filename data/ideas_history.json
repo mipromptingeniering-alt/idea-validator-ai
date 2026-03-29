@@ -5151,6 +5151,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-29T16:02:15.289478"
+    },
+    {
+      "nombre": "BudgetBuddy",
+      "descripcion": "BudgetBuddy permite a las PYMES gestionar sus presupuestos de manera sencilla y atractiva a través de un enfoque basado en juegos. Los usuarios pueden establecer objetivos, recibir recomendaciones personalizadas y visualizar el progreso de sus finanzas de forma interactiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-29T17:23:50.861931"
     }
   ],
   "nombres_usados": [
@@ -5889,6 +5896,7 @@
     "FreelaManager",
     "FidelizaPro",
     "Balance Remote",
-    "EduOrganize"
+    "EduOrganize",
+    "BudgetBuddy"
   ]
 }
