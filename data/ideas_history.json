@@ -5109,6 +5109,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-29T09:21:30.342687"
+    },
+    {
+      "nombre": "FinanTech para PYMES",
+      "descripcion": "FinanTech para PYMES es una plataforma SaaS que combina la gestión de gastos, ingresos y presupuestos con recursos educativos interactivos que ayudan a los propietarios de pequeñas empresas a comprender mejor sus finanzas y tomar decisiones informadas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-29T09:59:39.275514"
     }
   ],
   "nombres_usados": [
@@ -5841,6 +5848,7 @@
     "Marketero",
     "GestorPyme",
     "TimeCollab",
-    "FocusHive"
+    "FocusHive",
+    "FinanTech para PYMES"
   ]
 }
