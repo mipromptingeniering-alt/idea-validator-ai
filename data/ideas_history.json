@@ -5123,6 +5123,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-29T11:04:31.628483"
+    },
+    {
+      "nombre": "FreelaManager",
+      "descripcion": "FreelaManager es una herramienta diseñada para freelancers que combina gestión de proyectos, seguimiento del tiempo y generación de facturas en una sola plataforma, ayudando a los usuarios a maximizar su tiempo y eficiencia en la gestión de clientes.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-29T14:32:27.516501"
     }
   ],
   "nombres_usados": [
@@ -5857,6 +5864,7 @@
     "TimeCollab",
     "FocusHive",
     "FinanTech para PYMES",
-    "ProjectHub"
+    "ProjectHub",
+    "FreelaManager"
   ]
 }

@@ -312,6 +312,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260329110431",
+    "nombre": "ProjectHub",
+    "tipo": "SaaS",
+    "resumen": "ProjectHub es una herramienta de gestión de proyectos todo-en-uno diseñada para freelancers y pequeñas empresas, que integra tareas, seguimiento de ti...",
+    "score": 75,
+    "landing_url": "IDEA-20260329110431.html"
+  },
+  {
     "id": "IDEA-20260329095939",
     "nombre": "FinanTech para PYMES",
     "tipo": "SaaS",
