@@ -312,6 +312,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260328223411",
+    "nombre": "SatisFeedback",
+    "tipo": "SaaS",
+    "resumen": "SatisFeedback es una herramienta SaaS que permite a las pymes medir la satisfacción del cliente a través de encuestas simples y obtener análisis autom...",
+    "score": 75,
+    "landing_url": "IDEA-20260328223411.html"
+  },
+  {
     "id": "IDEA-20260328214417",
     "nombre": "GestorSimple",
     "tipo": "SaaS",
