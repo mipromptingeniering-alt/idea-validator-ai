@@ -312,6 +312,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260329183005",
+    "nombre": "TeamPlay",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma gamificada para mejorar la interacción social y la productividad en equipos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260329183005.html"
+  },
+  {
     "id": "IDEA-20260329172350",
     "nombre": "BudgetBuddy",
     "tipo": "SaaS",
