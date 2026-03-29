@@ -5102,6 +5102,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-29T08:31:44.309858"
+    },
+    {
+      "nombre": "FocusHive",
+      "descripcion": "FocusHive permite a los usuarios gestionar su tiempo de manera efectiva, establecer metas semanales, planificar proyectos, y acceder a recursos para mejorar su bienestar y productividad. La plataforma incluye recordatorios de pausas, análisis de tiempo real y herramientas de motivación.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-29T09:21:30.342687"
     }
   ],
   "nombres_usados": [
@@ -5833,6 +5840,7 @@
     "DataSimplicidad",
     "Marketero",
     "GestorPyme",
-    "TimeCollab"
+    "TimeCollab",
+    "FocusHive"
   ]
 }

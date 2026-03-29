@@ -312,6 +312,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260329083144",
+    "nombre": "TimeCollab",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión del tiempo y colaboración en línea que ayuda a los equipos remotos a maximizar su productividad....",
+    "score": 75,
+    "landing_url": "IDEA-20260329083144.html"
+  },
+  {
     "id": "IDEA-20260329065706",
     "nombre": "GestorPyme",
     "tipo": "SaaS",
