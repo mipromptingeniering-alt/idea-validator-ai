@@ -5272,6 +5272,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260329175433",
+    "nombre": "FlexTime",
+    "tipo": "MicroSaaS",
+    "resumen": "Una herramienta de gestión de tiempo y recursos altamente personalizable para emprendedores y pequeños negocios....",
+    "score": 70,
+    "landing_url": "IDEA-20260329175433.html"
+  },
+  {
     "id": "IDEA-20260329153703",
     "nombre": "Balance Remote",
     "tipo": "SaaS",

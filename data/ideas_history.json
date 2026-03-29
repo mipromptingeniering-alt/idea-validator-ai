@@ -5165,6 +5165,13 @@
       "tipo": "MicroSaaS",
       "score": 70,
       "fecha": "2026-03-29T17:54:33.503834"
+    },
+    {
+      "nombre": "TeamPlay",
+      "descripcion": "TeamPlay permite a los equipos remotos interactuar y colaborar en un espacio virtual donde pueden competir en juegos, completar desafíos y recibir recompensas por sus logros. Incluye herramientas para establecer objetivos, seguimiento de progreso y actividades recreativas para fomentar la cohesión del grupo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-29T18:30:05.335020"
     }
   ],
   "nombres_usados": [
@@ -5905,6 +5912,7 @@
     "Balance Remote",
     "EduOrganize",
     "BudgetBuddy",
-    "FlexTime"
+    "FlexTime",
+    "TeamPlay"
   ]
 }
