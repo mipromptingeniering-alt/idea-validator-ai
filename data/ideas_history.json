@@ -5158,6 +5158,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-29T17:23:50.861931"
+    },
+    {
+      "nombre": "FlexTime",
+      "descripcion": "FlexTime permite a los usuarios gestionar su tiempo y recursos de manera flexible y personalizada. Ofrece herramientas de seguimiento de tareas, gestión de proyectos y planificación de calendarios, adaptándose a las necesidades específicas de cada usuario. La interfaz es intuitive y permite la integración con otras herramientas populares.",
+      "tipo": "MicroSaaS",
+      "score": 70,
+      "fecha": "2026-03-29T17:54:33.503834"
     }
   ],
   "nombres_usados": [
@@ -5897,6 +5904,7 @@
     "FidelizaPro",
     "Balance Remote",
     "EduOrganize",
-    "BudgetBuddy"
+    "BudgetBuddy",
+    "FlexTime"
   ]
 }

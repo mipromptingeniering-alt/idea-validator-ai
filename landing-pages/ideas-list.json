@@ -312,6 +312,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260329172350",
+    "nombre": "BudgetBuddy",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma online que gamifica la gestión de presupuestos y gastos para pequeñas y medianas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260329172350.html"
+  },
+  {
     "id": "IDEA-20260329160215",
     "nombre": "EduOrganize",
     "tipo": "SaaS",
