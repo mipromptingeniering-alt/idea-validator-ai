@@ -5242,6 +5242,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-30T11:51:50.397577"
+    },
+    {
+      "nombre": "SimpleProjects",
+      "descripcion": "SimpleProjects es una plataforma intuitiva que permite a pequeñas empresas y emprendedores gestionar sus proyectos de manera efectiva sin la complejidad de las herramientas tradicionales. Ofrece funciones personalizables que se adaptan a las necesidades específicas de cada usuario.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-30T14:27:08.416846"
     }
   ],
   "nombres_usados": [
@@ -5993,6 +6000,7 @@
     "PymeSync",
     "Producify",
     "FreelanceFinanzas",
-    "ComuniSync"
+    "ComuniSync",
+    "SimpleProjects"
   ]
 }

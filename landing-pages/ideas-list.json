@@ -320,6 +320,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260330115150",
+    "nombre": "ComuniSync",
+    "tipo": "SaaS",
+    "resumen": "Un sistema de gestión de comunicación multicanal para PYMES que centraliza y automatiza la atención al cliente....",
+    "score": 75,
+    "landing_url": "IDEA-20260330115150.html"
+  },
+  {
     "id": "IDEA-20260330105617",
     "nombre": "FreelanceFinanzas",
     "tipo": "SaaS",
