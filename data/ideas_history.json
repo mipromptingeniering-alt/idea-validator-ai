@@ -5291,6 +5291,13 @@
       "tipo": "MicroSaaS",
       "score": 70,
       "fecha": "2026-03-30T21:56:48.597162"
+    },
+    {
+      "nombre": "MeetSmart",
+      "descripcion": "MeetSmart permite a los equipos coordinar reuniones de manera automática, ajustando los horarios en función de la disponibilidad y las prioridades de los miembros del equipo. Además, utiliza inteligencia artificial para analizar el historial de reuniones y ofrecer recomendaciones sobre cuándo y cómo realizar las reuniones para maximizar la productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-30T23:04:37.698779"
     }
   ],
   "nombres_usados": [
@@ -6049,6 +6056,7 @@
     "PymeSmartMarketing",
     "SocialMotion",
     "Redes PYMES",
-    "Marketing Autopilot"
+    "Marketing Autopilot",
+    "MeetSmart"
   ]
 }

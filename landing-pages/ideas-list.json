@@ -5392,6 +5392,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260330215648",
+    "nombre": "Marketing Autopilot",
+    "tipo": "MicroSaaS",
+    "resumen": "Una plataforma de automatización de marketing que permite a las pequeñas empresas crear campañas automatizadas sin necesidad de experiencia técnica....",
+    "score": 70,
+    "landing_url": "IDEA-20260330215648.html"
+  },
+  {
     "id": "IDEA-20260330154958",
     "nombre": "Ventas Sencillas",
     "tipo": "SaaS",
