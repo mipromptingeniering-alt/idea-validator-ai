@@ -5298,6 +5298,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-30T23:04:37.698779"
+    },
+    {
+      "nombre": "Pyme Digital Pro",
+      "descripcion": "Pyme Digital Pro es una plataforma SaaS que integra herramientas de SEO, gestión de redes sociales y email marketing en una única solución asequible y fácil de usar, permitiendo a las pymes establecer y gestionar su presencia online sin necesidad de conocimientos técnicos avanzados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-30T23:51:20.907583"
     }
   ],
   "nombres_usados": [
@@ -6057,6 +6064,7 @@
     "SocialMotion",
     "Redes PYMES",
     "Marketing Autopilot",
-    "MeetSmart"
+    "MeetSmart",
+    "Pyme Digital Pro"
   ]
 }

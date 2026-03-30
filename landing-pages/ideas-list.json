@@ -320,6 +320,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260330230437",
+    "nombre": "MeetSmart",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta para optimizar y gestionar reuniones de manera eficiente en entornos de trabajo remoto....",
+    "score": 75,
+    "landing_url": "IDEA-20260330230437.html"
+  },
+  {
     "id": "IDEA-20260330202527",
     "nombre": "Redes PYMES",
     "tipo": "SaaS",
