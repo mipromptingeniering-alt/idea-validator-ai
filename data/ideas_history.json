@@ -5214,6 +5214,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-30T01:50:47.191265"
+    },
+    {
+      "nombre": "PymeSync",
+      "descripcion": "PymeSync permite a las pequeñas y medianas empresas gestionar sus contactos, seguir oportunidades de venta y ofrecer un servicio de atención al cliente eficaz, todo desde un solo lugar. Con una interfaz intuitiva y opciones de personalización, las PYMEs pueden adaptarla a sus procesos únicos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-30T04:39:51.222115"
     }
   ],
   "nombres_usados": [
@@ -5961,6 +5968,7 @@
     "FinanciaRápido",
     "EduAdapt",
     "PYMEWeb",
-    "MindSpace"
+    "MindSpace",
+    "PymeSync"
   ]
 }
