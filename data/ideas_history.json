@@ -5221,6 +5221,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-30T04:39:51.222115"
+    },
+    {
+      "nombre": "Producify",
+      "descripcion": "Producify permite a los equipos remotos gestionar sus tareas, realizar un seguimiento de su tiempo y acceder a recursos de bienestar mental, todo en un solo lugar. La plataforma facilita la visualización del flujo de trabajo y proporciona análisis sobre la productividad y el bienestar del equipo.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-30T08:08:21.098621"
     }
   ],
   "nombres_usados": [
@@ -5969,6 +5976,7 @@
     "EduAdapt",
     "PYMEWeb",
     "MindSpace",
-    "PymeSync"
+    "PymeSync",
+    "Producify"
   ]
 }
