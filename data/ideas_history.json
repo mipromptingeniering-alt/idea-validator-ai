@@ -5228,6 +5228,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-30T08:08:21.098621"
+    },
+    {
+      "nombre": "FreelanceFinanzas",
+      "descripcion": "FreelanceFinanzas es una herramienta SaaS que permite a los freelancers llevar un registro de sus ingresos, emitir facturas y obtener un resumen de sus finanzas personales. Además, ofrece consejos financieros personalizados y plantillas de facturación adaptadas a las necesidades del usuario.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-30T10:56:17.673518"
     }
   ],
   "nombres_usados": [
@@ -5977,6 +5984,7 @@
     "PYMEWeb",
     "MindSpace",
     "PymeSync",
-    "Producify"
+    "Producify",
+    "FreelanceFinanzas"
   ]
 }

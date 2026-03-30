@@ -5336,6 +5336,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260330080820",
+    "nombre": "Producify",
+    "tipo": "SaaS",
+    "resumen": "Producify es una plataforma de gestión del trabajo remoto que ayuda a los equipos a aumentar su productividad y bienestar mediante la integración de h...",
+    "score": 70,
+    "landing_url": "IDEA-20260330080820.html"
+  },
+  {
     "id": "IDEA-20260329175433",
     "nombre": "FlexTime",
     "tipo": "MicroSaaS",
