@@ -5263,6 +5263,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-30T16:48:32.564303"
+    },
+    {
+      "nombre": "PymeSmartMarketing",
+      "descripcion": "PymeSmartMarketing permite a las pequeñas y medianas empresas crear, gestionar y optimizar campañas de marketing digital de manera sencilla. A través de un asistente virtual impulsado por inteligencia artificial, los usuarios pueden seleccionar objetivos, plataformas y presupuestos, recibiendo recomendaciones automáticas y reportes de rendimiento.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-30T18:40:16.316088"
     }
   ],
   "nombres_usados": [
@@ -6017,6 +6024,7 @@
     "ComuniSync",
     "SimpleProjects",
     "Ventas Sencillas",
-    "CreArtive Planner"
+    "CreArtive Planner",
+    "PymeSmartMarketing"
   ]
 }
