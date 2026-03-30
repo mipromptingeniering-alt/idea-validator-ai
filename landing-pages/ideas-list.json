@@ -320,6 +320,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260330194000",
+    "nombre": "SocialMotion",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de diseño gráfico en línea que permite a los usuarios crear contenido visual animado para redes sociales de forma rápida y fácil....",
+    "score": 75,
+    "landing_url": "IDEA-20260330194000.html"
+  },
+  {
     "id": "IDEA-20260330184016",
     "nombre": "PymeSmartMarketing",
     "tipo": "SaaS",

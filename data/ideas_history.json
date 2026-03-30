@@ -5277,6 +5277,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-30T19:40:00.948480"
+    },
+    {
+      "nombre": "Redes PYMES",
+      "descripcion": "Redes PYMES es una plataforma que permite a las pequeñas y medianas empresas gestionar su presencia en múltiples redes sociales de manera integral. Incluye funcionalidades para programar publicaciones, analizar métricas de interacción específicas del sector y comunicarse directamente con sus clientes, todo con una interfaz amigable y fácil de usar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-30T20:25:27.391164"
     }
   ],
   "nombres_usados": [
@@ -6033,6 +6040,7 @@
     "Ventas Sencillas",
     "CreArtive Planner",
     "PymeSmartMarketing",
-    "SocialMotion"
+    "SocialMotion",
+    "Redes PYMES"
   ]
 }
