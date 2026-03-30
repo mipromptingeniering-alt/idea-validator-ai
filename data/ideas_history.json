@@ -5207,6 +5207,13 @@
       "tipo": "SaaS",
       "score": 76,
       "fecha": "2026-03-29T23:56:12.453778"
+    },
+    {
+      "nombre": "MindSpace",
+      "descripcion": "MindSpace es una herramienta SaaS diseñada para trabajadores remotos que busca mejorar su productividad y salud mental al ofrecer una plataforma personalizada que integra técnicas de gestión del tiempo y ejercicios de mindfulness. La app permite a los usuarios crear un espacio de trabajo virtual adaptado a sus necesidades y preferencias, fomentando así un mejor equilibrio entre la vida laboral y personal.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-30T01:50:47.191265"
     }
   ],
   "nombres_usados": [
@@ -5953,6 +5960,7 @@
     "EasiSocial",
     "FinanciaRápido",
     "EduAdapt",
-    "PYMEWeb"
+    "PYMEWeb",
+    "MindSpace"
   ]
 }
