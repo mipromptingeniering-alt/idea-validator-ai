@@ -5235,6 +5235,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-30T10:56:17.673518"
+    },
+    {
+      "nombre": "ComuniSync",
+      "descripcion": "ComuniSync es una plataforma SaaS que permite a las pequeñas y medianas empresas integrar y gestionar la comunicación con sus clientes a través de correo electrónico, redes sociales y chat en vivo. Utiliza inteligencia artificial para optimizar la respuesta a clientes, sugiriendo respuestas rápidas y priorizando conversaciones importantes.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-30T11:51:50.397577"
     }
   ],
   "nombres_usados": [
@@ -5985,6 +5992,7 @@
     "MindSpace",
     "PymeSync",
     "Producify",
-    "FreelanceFinanzas"
+    "FreelanceFinanzas",
+    "ComuniSync"
   ]
 }
