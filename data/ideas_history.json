@@ -5270,6 +5270,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-30T18:40:16.316088"
+    },
+    {
+      "nombre": "SocialMotion",
+      "descripcion": "SocialMotion es un SaaS que ofrece plantillas animadas personalizables específicamente diseñadas para diferentes tipos de publicaciones en redes sociales. Los usuarios pueden arrastrar y soltar elementos, agregar texto y elegir entre varias animaciones predefinidas, todo sin necesidad de experiencia previa en diseño. La plataforma también se integra con herramientas de programación de publicaciones para facilitar la gestión de contenido.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-30T19:40:00.948480"
     }
   ],
   "nombres_usados": [
@@ -6025,6 +6032,7 @@
     "SimpleProjects",
     "Ventas Sencillas",
     "CreArtive Planner",
-    "PymeSmartMarketing"
+    "PymeSmartMarketing",
+    "SocialMotion"
   ]
 }
