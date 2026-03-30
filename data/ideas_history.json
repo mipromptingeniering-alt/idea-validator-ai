@@ -5249,6 +5249,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-30T14:27:08.416846"
+    },
+    {
+      "nombre": "Ventas Sencillas",
+      "descripcion": "Ventas Sencillas ofrece una interfaz intuitiva para gestionar contactos, seguimiento de ventas, automatización de correos electrónicos y un sistema de tickets para atención al cliente, todo en un solo lugar. Los usuarios pueden personalizar el flujo de trabajo y recibir reportes en tiempo real para tomar decisiones informadas.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-03-30T15:49:58.886151"
     }
   ],
   "nombres_usados": [
@@ -6001,6 +6008,7 @@
     "Producify",
     "FreelanceFinanzas",
     "ComuniSync",
-    "SimpleProjects"
+    "SimpleProjects",
+    "Ventas Sencillas"
   ]
 }
