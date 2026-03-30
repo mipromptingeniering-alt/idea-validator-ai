@@ -5256,6 +5256,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-03-30T15:49:58.886151"
+    },
+    {
+      "nombre": "CreArtive Planner",
+      "descripcion": "CreArtive Planner ofrece un entorno intuitivo y visual que permite a los creativos organizar sus tareas, proyectos y plazos de entrega, integrando funcionalidades como plantillas personalizables, herramientas de colaboración y un calendario visual.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-30T16:48:32.564303"
     }
   ],
   "nombres_usados": [
@@ -6009,6 +6016,7 @@
     "FreelanceFinanzas",
     "ComuniSync",
     "SimpleProjects",
-    "Ventas Sencillas"
+    "Ventas Sencillas",
+    "CreArtive Planner"
   ]
 }
