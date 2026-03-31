@@ -5354,6 +5354,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-31T17:38:36.165164"
+    },
+    {
+      "nombre": "Wellness Scheduler",
+      "descripcion": "Wellness Scheduler permite a terapeutas, coaches y otros profesionales de la salud gestionar sus citas de manera eficiente. Incluye recordatorios automáticos para los clientes, un sistema de seguimiento del progreso y recursos educativos que fomentan el compromiso del cliente. La plataforma busca optimizar el tiempo del profesional y mejorar la experiencia del usuario.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-31T19:40:50.560997"
     }
   ],
   "nombres_usados": [
@@ -6121,6 +6128,7 @@
     "FeedbackFlow",
     "SocialTrend Pro",
     "PME Admin Hub",
-    "Marketero SMART"
+    "Marketero SMART",
+    "Wellness Scheduler"
   ]
 }
