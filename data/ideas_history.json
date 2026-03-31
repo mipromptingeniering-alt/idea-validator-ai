@@ -5305,6 +5305,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-30T23:51:20.907583"
+    },
+    {
+      "nombre": "ProductivityHub",
+      "descripcion": "ProductivityHub es una solución SaaS que integra el seguimiento del tiempo, la gestión de tareas y la comunicación en un solo lugar. Utiliza inteligencia artificial para analizar el comportamiento de los usuarios y proporcionar recomendaciones personalizadas que optimicen su productividad y bienestar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-31T01:28:29.339157"
     }
   ],
   "nombres_usados": [
@@ -6065,6 +6072,7 @@
     "Redes PYMES",
     "Marketing Autopilot",
     "MeetSmart",
-    "Pyme Digital Pro"
+    "Pyme Digital Pro",
+    "ProductivityHub"
   ]
 }
