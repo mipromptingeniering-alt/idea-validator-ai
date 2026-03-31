@@ -5240,6 +5240,14 @@
     "landing_url": "IDEA-20260216160937.html"
   },
   {
+    "id": "IDEA-20260331163808",
+    "nombre": "PME Admin Hub",
+    "tipo": "SaaS",
+    "resumen": "Gestión integral de tareas administrativas y recursos humanos para PYMEs....",
+    "score": 72,
+    "landing_url": "IDEA-20260331163808.html"
+  },
+  {
     "id": "IDEA-20260331083624",
     "nombre": "FeedbackFlow",
     "tipo": "SaaS",

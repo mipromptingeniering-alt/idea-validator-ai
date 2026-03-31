@@ -5347,6 +5347,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-03-31T16:38:08.297203"
+    },
+    {
+      "nombre": "Marketero SMART",
+      "descripcion": "Marketero SMART es una herramienta que ayuda a emprendedores y pequeñas empresas a crear, gestionar y optimizar sus campañas de marketing digital de manera sencilla, mediante una interfaz amigable y herramientas de inteligencia artificial que sugieren mejoras en tiempo real.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-31T17:38:36.165164"
     }
   ],
   "nombres_usados": [
@@ -6113,6 +6120,7 @@
     "FinanciaTuIdea",
     "FeedbackFlow",
     "SocialTrend Pro",
-    "PME Admin Hub"
+    "PME Admin Hub",
+    "Marketero SMART"
   ]
 }
