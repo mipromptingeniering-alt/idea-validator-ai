@@ -5368,6 +5368,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-31T20:24:15.032712"
+    },
+    {
+      "nombre": "Pyme360",
+      "descripcion": "Pyme360 permite a las pymes gestionar sus proyectos, recursos humanos y contabilidad en una única plataforma. Con una interfaz fácil de usar y funciones modulares, los usuarios pueden personalizar su experiencia para satisfacer sus necesidades específicas.",
+      "tipo": "SaaS",
+      "score": 76,
+      "fecha": "2026-03-31T22:26:45.026302"
     }
   ],
   "nombres_usados": [
@@ -6137,6 +6144,7 @@
     "PME Admin Hub",
     "Marketero SMART",
     "Wellness Scheduler",
-    "SocialSchedulerPro"
+    "SocialSchedulerPro",
+    "Pyme360"
   ]
 }

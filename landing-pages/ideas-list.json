@@ -320,6 +320,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260331202414",
+    "nombre": "SocialSchedulerPro",
+    "tipo": "SaaS",
+    "resumen": "Herramienta de gestión de redes sociales automatizada para pymes que optimiza la planificación de contenidos y análisis de rendimiento....",
+    "score": 75,
+    "landing_url": "IDEA-20260331202414.html"
+  },
+  {
     "id": "IDEA-20260331194050",
     "nombre": "Wellness Scheduler",
     "tipo": "SaaS",
