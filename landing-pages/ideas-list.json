@@ -320,6 +320,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260331194050",
+    "nombre": "Wellness Scheduler",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de gestión de citas para profesionales de la salud y el bienestar que integra programación, recordatorios y seguimiento del progreso del cl...",
+    "score": 75,
+    "landing_url": "IDEA-20260331194050.html"
+  },
+  {
     "id": "IDEA-20260331173836",
     "nombre": "Marketero SMART",
     "tipo": "SaaS",

@@ -5361,6 +5361,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-31T19:40:50.560997"
+    },
+    {
+      "nombre": "SocialSchedulerPro",
+      "descripcion": "SocialSchedulerPro es una plataforma SaaS que permite a las pequeñas y medianas empresas programar, editar y analizar su contenido en redes sociales de manera sencilla y automatizada. Utiliza inteligencia artificial para recomendar publicaciones óptimas y analizar el rendimiento de forma simplificada.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-31T20:24:15.032712"
     }
   ],
   "nombres_usados": [
@@ -6129,6 +6136,7 @@
     "SocialTrend Pro",
     "PME Admin Hub",
     "Marketero SMART",
-    "Wellness Scheduler"
+    "Wellness Scheduler",
+    "SocialSchedulerPro"
   ]
 }
