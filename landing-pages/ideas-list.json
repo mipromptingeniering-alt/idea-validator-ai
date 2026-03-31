@@ -320,6 +320,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260331071940",
+    "nombre": "FinanciaTuIdea",
+    "tipo": "SaaS",
+    "resumen": "Plataforma que ofrece asesoría financiera y acceso a microcréditos para emprendedores....",
+    "score": 75,
+    "landing_url": "IDEA-20260331071940.html"
+  },
+  {
     "id": "IDEA-20260331055941",
     "nombre": "SecurAccess",
     "tipo": "SaaS",

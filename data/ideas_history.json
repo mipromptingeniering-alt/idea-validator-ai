@@ -5326,6 +5326,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-31T07:19:40.166738"
+    },
+    {
+      "nombre": "FeedbackFlow",
+      "descripcion": "FeedbackFlow permite a las pequeñas y medianas empresas centralizar las consultas de los clientes, recoger feedback, y analizarlo para mejorar sus ofertas. La interfaz es intuitiva y no requiere formación técnica, permitiendo a los dueños de negocios centrarse en su core business.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-03-31T08:36:24.324554"
     }
   ],
   "nombres_usados": [
@@ -6089,6 +6096,7 @@
     "Pyme Digital Pro",
     "ProductivityHub",
     "SecurAccess",
-    "FinanciaTuIdea"
+    "FinanciaTuIdea",
+    "FeedbackFlow"
   ]
 }
