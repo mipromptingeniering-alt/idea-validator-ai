@@ -5319,6 +5319,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-31T05:59:41.928809"
+    },
+    {
+      "nombre": "FinanciaTuIdea",
+      "descripcion": "FinanciaTuIdea es una plataforma digital que proporciona a los emprendedores acceso a asesoría financiera personalizada y opciones de financiamiento a través de microcréditos. Los usuarios pueden recibir orientación sobre cómo gestionar sus finanzas y qué opciones de financiamiento son las más adecuadas para sus planes de negocio, además de tener acceso fácil a fondos necesarios para el lanzamiento y escalado de sus proyectos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-31T07:19:40.166738"
     }
   ],
   "nombres_usados": [
@@ -6081,6 +6088,7 @@
     "MeetSmart",
     "Pyme Digital Pro",
     "ProductivityHub",
-    "SecurAccess"
+    "SecurAccess",
+    "FinanciaTuIdea"
   ]
 }

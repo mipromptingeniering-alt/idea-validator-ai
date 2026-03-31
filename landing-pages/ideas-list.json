@@ -320,6 +320,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260331055941",
+    "nombre": "SecurAccess",
+    "tipo": "SaaS",
+    "resumen": "SecurAccess es un gestor de contraseñas fácil de usar diseñado para freelancers y pequeños negocios, que ofrece integración con herramientas de produc...",
+    "score": 75,
+    "landing_url": "IDEA-20260331055941.html"
+  },
+  {
     "id": "IDEA-20260331012829",
     "nombre": "ProductivityHub",
     "tipo": "SaaS",
