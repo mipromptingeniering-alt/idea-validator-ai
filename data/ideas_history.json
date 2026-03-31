@@ -5375,6 +5375,13 @@
       "tipo": "SaaS",
       "score": 76,
       "fecha": "2026-03-31T22:26:45.026302"
+    },
+    {
+      "nombre": "BizSphere",
+      "descripcion": "BizSphere permite a los pequeños negocios manejar redes sociales, campañas de marketing por correo y solicitudes de atención al cliente desde una única interfaz, optimizando procesos y recursos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-31T22:57:32.447029"
     }
   ],
   "nombres_usados": [
@@ -6145,6 +6152,7 @@
     "Marketero SMART",
     "Wellness Scheduler",
     "SocialSchedulerPro",
-    "Pyme360"
+    "Pyme360",
+    "BizSphere"
   ]
 }

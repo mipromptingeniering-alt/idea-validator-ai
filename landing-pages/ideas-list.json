@@ -224,6 +224,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260331222644",
+    "nombre": "Pyme360",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral de gestión para pequeñas y medianas empresas que combina gestión de proyectos, recursos humanos y contabilidad....",
+    "score": 76,
+    "landing_url": "IDEA-20260331222644.html"
+  },
+  {
     "id": "IDEA-20260329235612",
     "nombre": "PYMEWeb",
     "tipo": "SaaS",
