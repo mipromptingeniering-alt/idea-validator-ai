@@ -5232,6 +5232,14 @@
     "landing_url": "IDEA-20260216160937.html"
   },
   {
+    "id": "IDEA-20260331083624",
+    "nombre": "FeedbackFlow",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma sencilla y accesible para que las PYMEs gestionen la atención al cliente y recojan retroalimentación de productos y servicios....",
+    "score": 72,
+    "landing_url": "IDEA-20260331083624.html"
+  },
+  {
     "id": "IDEA-20260328162439",
     "nombre": "MedInfo Hub",
     "tipo": "SaaS",

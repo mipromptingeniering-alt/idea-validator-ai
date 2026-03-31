@@ -5333,6 +5333,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-03-31T08:36:24.324554"
+    },
+    {
+      "nombre": "SocialTrend Pro",
+      "descripcion": "SocialTrend Pro ofrece a los marketers una herramienta integral que combina datos en tiempo real sobre las últimas tendencias de algoritmos de redes sociales con inteligencia artificial para ofrecer recomendaciones precisas y personalizadas, ayudando a los usuarios a maximizar su retorno de inversión en marketing digital.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-31T12:39:34.939786"
     }
   ],
   "nombres_usados": [
@@ -6097,6 +6104,7 @@
     "ProductivityHub",
     "SecurAccess",
     "FinanciaTuIdea",
-    "FeedbackFlow"
+    "FeedbackFlow",
+    "SocialTrend Pro"
   ]
 }
