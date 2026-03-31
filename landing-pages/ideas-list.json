@@ -320,6 +320,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260331012829",
+    "nombre": "ProductivityHub",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta integral para la gestión del tiempo y la productividad para equipos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260331012829.html"
+  },
+  {
     "id": "IDEA-20260330235120",
     "nombre": "Pyme Digital Pro",
     "tipo": "SaaS",

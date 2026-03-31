@@ -5312,6 +5312,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-31T01:28:29.339157"
+    },
+    {
+      "nombre": "SecurAccess",
+      "descripcion": "SecurAccess permite a los usuarios gestionar todas sus contraseñas de manera segura con una interfaz amigable, integrándose con herramientas populares para facilitar el acceso a cuentas y asegurar información sensible.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-03-31T05:59:41.928809"
     }
   ],
   "nombres_usados": [
@@ -6073,6 +6080,7 @@
     "Marketing Autopilot",
     "MeetSmart",
     "Pyme Digital Pro",
-    "ProductivityHub"
+    "ProductivityHub",
+    "SecurAccess"
   ]
 }
