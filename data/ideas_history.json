@@ -5340,6 +5340,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-31T12:39:34.939786"
+    },
+    {
+      "nombre": "PME Admin Hub",
+      "descripcion": "PME Admin Hub es una plataforma SaaS que permite a las pequeñas y medianas empresas gestionar tareas administrativas como nómina, seguimiento de tiempo, gestión de empleados y reportes, todo en un solo lugar. La interfaz es intuitiva, y las funcionalidades pueden ser personalizadas según el tamaño y tipo de la empresa.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-03-31T16:38:08.297203"
     }
   ],
   "nombres_usados": [
@@ -6105,6 +6112,7 @@
     "SecurAccess",
     "FinanciaTuIdea",
     "FeedbackFlow",
-    "SocialTrend Pro"
+    "SocialTrend Pro",
+    "PME Admin Hub"
   ]
 }
