@@ -328,6 +328,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260401223318",
+    "nombre": "FlowCraft",
+    "tipo": "SaaS",
+    "resumen": "FlowCraft es una herramienta de gestión de flujo de trabajo diseñada para pequeñas y medianas empresas que desean optimizar su productividad a través ...",
+    "score": 75,
+    "landing_url": "IDEA-20260401223318.html"
+  },
+  {
     "id": "IDEA-20260401210629",
     "nombre": "InspiraLab",
     "tipo": "SaaS",
