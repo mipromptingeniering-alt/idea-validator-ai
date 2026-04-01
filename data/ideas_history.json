@@ -5459,6 +5459,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-01T17:37:28.155239"
+    },
+    {
+      "nombre": "CommUnity",
+      "descripcion": "CommUnity permite a los equipos remotos interactuar a través de actividades de equipo virtuales, competiciones amistosas y espacios de comentarios, reforzando las relaciones laborales y mejorando la moral del equipo. La plataforma incluye una función de 'cafe virtual', donde los empleados pueden programar charlas informales, así como la opción de participar en juegos y desafíos que fomentan la colaboración entre compañeros.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-01T19:43:26.836780"
     }
   ],
   "nombres_usados": [
@@ -6241,6 +6248,7 @@
     "SereneMind",
     "ProjectPlay",
     "RealTime Marketer",
-    "EasyProjectFlow"
+    "EasyProjectFlow",
+    "CommUnity"
   ]
 }

@@ -5568,6 +5568,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260401173728",
+    "nombre": "EasyProjectFlow",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de proyectos que permite personalizar flujos de trabajo y tareas de forma sencilla....",
+    "score": 70,
+    "landing_url": "IDEA-20260401173728.html"
+  },
+  {
     "id": "IDEA-20260401104035",
     "nombre": "SalesSimplicity",
     "tipo": "SaaS",
