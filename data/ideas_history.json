@@ -5466,6 +5466,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-01T19:43:26.836780"
+    },
+    {
+      "nombre": "EasyReach",
+      "descripcion": "EasyReach proporciona herramientas de marketing digital como creación de sitios web simples, gestión de redes sociales, y generación de contenido optimizado, todo en un solo lugar. Además, ofrece guías y tutoriales fáciles de seguir para ayudar a los usuarios a maximizar el uso de las herramientas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-01T20:26:10.371701"
     }
   ],
   "nombres_usados": [
@@ -6249,6 +6256,7 @@
     "ProjectPlay",
     "RealTime Marketer",
     "EasyProjectFlow",
-    "CommUnity"
+    "CommUnity",
+    "EasyReach"
   ]
 }
