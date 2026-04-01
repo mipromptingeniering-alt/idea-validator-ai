@@ -5452,6 +5452,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-01T15:52:01.990380"
+    },
+    {
+      "nombre": "EasyProjectFlow",
+      "descripcion": "EasyProjectFlow es una herramienta de gestión de proyectos que se adapta a las particularidades de cada equipo, permitiendo a los usuarios crear flujos de trabajo personalizados y gestionar tareas de manera eficiente. La plataforma incluye integración con herramientas populares como Slack, Google Drive y Trello.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-01T17:37:28.155239"
     }
   ],
   "nombres_usados": [
@@ -6233,6 +6240,7 @@
     "SocialBridge",
     "SereneMind",
     "ProjectPlay",
-    "RealTime Marketer"
+    "RealTime Marketer",
+    "EasyProjectFlow"
   ]
 }

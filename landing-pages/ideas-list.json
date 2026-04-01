@@ -328,6 +328,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260401155201",
+    "nombre": "RealTime Marketer",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que permite a los especialistas en marketing medir y optimizar sus campañas digitales en tiempo real....",
+    "score": 75,
+    "landing_url": "IDEA-20260401155201.html"
+  },
+  {
     "id": "IDEA-20260401141628",
     "nombre": "ProjectPlay",
     "tipo": "SaaS",
