@@ -5417,6 +5417,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-01T09:43:04.806690"
+    },
+    {
+      "nombre": "SalesSimplicity",
+      "descripcion": "SalesSimplicity ofrece a las pymes herramientas simples y efectivas para gestionar sus contactos, realizar seguimientos de ventas y automatizar tareas, todo desde una plataforma intuitiva y de fácil acceso.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-01T10:40:35.511028"
     }
   ],
   "nombres_usados": [
@@ -6193,6 +6200,7 @@
     "EasyTaskManager",
     "InventarioFácil",
     "SocialTrend",
-    "Marketer Assistant"
+    "Marketer Assistant",
+    "SalesSimplicity"
   ]
 }
