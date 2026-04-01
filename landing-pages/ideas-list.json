@@ -328,6 +328,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260401124108",
+    "nombre": "SereneMind",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma digital que ayuda a los usuarios a gestionar el estrés y la ansiedad a través de técnicas de terapia, meditación y seguimiento personal...",
+    "score": 75,
+    "landing_url": "IDEA-20260401124108.html"
+  },
+  {
     "id": "IDEA-20260401113532",
     "nombre": "SocialBridge",
     "tipo": "SaaS",

@@ -5438,6 +5438,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-01T12:41:08.907757"
+    },
+    {
+      "nombre": "ProjectPlay",
+      "descripcion": "ProjectPlay permite a los equipos gestionar proyectos de manera visual mediante tableros interactivos, mientras que su sistema de recompensas gamificadas promueve la colaboración y el compromiso. Los usuarios pueden asignar tareas, seguir el progreso, y ganar puntos por completar tareas, lo que fomenta un ambiente de trabajo más dinámico y motivador.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-01T14:16:28.917517"
     }
   ],
   "nombres_usados": [
@@ -6217,6 +6224,7 @@
     "Marketer Assistant",
     "SalesSimplicity",
     "SocialBridge",
-    "SereneMind"
+    "SereneMind",
+    "ProjectPlay"
   ]
 }
