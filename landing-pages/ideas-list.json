@@ -328,6 +328,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260401082150",
+    "nombre": "SocialTrend",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de redes sociales que automatiza la publicación de contenido y analiza tendencias para optimizar la estrategia digital de pe...",
+    "score": 75,
+    "landing_url": "IDEA-20260401082150.html"
+  },
+  {
     "id": "IDEA-20260401071007",
     "nombre": "InventarioFácil",
     "tipo": "SaaS",

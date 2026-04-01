@@ -5410,6 +5410,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-01T08:21:50.258269"
+    },
+    {
+      "nombre": "Marketer Assistant",
+      "descripcion": "Marketer Assistant es una herramienta que utiliza inteligencia artificial para ayudar a los usuarios a desarrollar campañas de marketing digital personalizadas. La plataforma ofrece plantillas, recomendaciones de contenido y análisis en tiempo real, facilitando la gestión de campañas en redes sociales, correos electrónicos y publicidad online.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-01T09:43:04.806690"
     }
   ],
   "nombres_usados": [
@@ -6185,6 +6192,7 @@
     "DesignFlow",
     "EasyTaskManager",
     "InventarioFácil",
-    "SocialTrend"
+    "SocialTrend",
+    "Marketer Assistant"
   ]
 }
