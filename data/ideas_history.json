@@ -5403,6 +5403,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-01T07:10:07.683032"
+    },
+    {
+      "nombre": "SocialTrend",
+      "descripcion": "SocialTrend es una herramienta que permite a los emprendedores programar publicaciones, monitorear la interacción y recibir recomendaciones personalizadas basadas en análisis de tendencias de redes sociales. Con un enfoque en la simplicidad y la usabilidad, capacita a los usuarios para maximizar su alcance sin necesidad de conocimientos técnicos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-01T08:21:50.258269"
     }
   ],
   "nombres_usados": [
@@ -6177,6 +6184,7 @@
     "BizSphere",
     "DesignFlow",
     "EasyTaskManager",
-    "InventarioFácil"
+    "InventarioFácil",
+    "SocialTrend"
   ]
 }
