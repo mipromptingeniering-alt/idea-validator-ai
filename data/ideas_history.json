@@ -5382,6 +5382,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-03-31T22:57:32.447029"
+    },
+    {
+      "nombre": "DesignFlow",
+      "descripcion": "DesignFlow ofrece herramientas para gestionar proyectos, colaborar con clientes en tiempo real, y generar facturas de manera sencilla. La plataforma incluye un tablero visual, pipelines personalizables para diferentes tipos de proyectos, y una función de chat para mantener la comunicación enfocada y efectiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-01T00:04:01.328380"
     }
   ],
   "nombres_usados": [
@@ -6153,6 +6160,7 @@
     "Wellness Scheduler",
     "SocialSchedulerPro",
     "Pyme360",
-    "BizSphere"
+    "BizSphere",
+    "DesignFlow"
   ]
 }
