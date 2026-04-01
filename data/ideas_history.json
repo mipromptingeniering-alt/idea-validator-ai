@@ -5424,6 +5424,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-01T10:40:35.511028"
+    },
+    {
+      "nombre": "SocialBridge",
+      "descripcion": "Con SocialBridge, las PYMES pueden gestionar todas sus cuentas de redes sociales desde una única plataforma, programar publicaciones, recibir análisis de rendimiento y acceder a plantillas de contenido optimizadas. La plataforma está diseñada para ser intuitiva, lo que minimiza la curva de aprendizaje y maximiza el impacto en línea.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-01T11:35:32.282027"
     }
   ],
   "nombres_usados": [
@@ -6201,6 +6208,7 @@
     "InventarioFácil",
     "SocialTrend",
     "Marketer Assistant",
-    "SalesSimplicity"
+    "SalesSimplicity",
+    "SocialBridge"
   ]
 }
