@@ -328,6 +328,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260401141628",
+    "nombre": "ProjectPlay",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de proyectos que combina planificación visual y gamificación para equipos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260401141628.html"
+  },
+  {
     "id": "IDEA-20260401124108",
     "nombre": "SereneMind",
     "tipo": "SaaS",

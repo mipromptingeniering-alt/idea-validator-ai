@@ -5445,6 +5445,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-01T14:16:28.917517"
+    },
+    {
+      "nombre": "RealTime Marketer",
+      "descripcion": "RealTime Marketer es una herramienta SaaS que conecta las cuentas de publicidad digital de los usuarios y ofrece análisis en tiempo real sobre el rendimiento de sus campañas. Utiliza algoritmos de inteligencia artificial para proporcionar recomendaciones proactivas sobre cómo ajustar la inversión, los anuncios y los canales para maximizar el retorno de la inversión (ROI).",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-01T15:52:01.990380"
     }
   ],
   "nombres_usados": [
@@ -6225,6 +6232,7 @@
     "SalesSimplicity",
     "SocialBridge",
     "SereneMind",
-    "ProjectPlay"
+    "ProjectPlay",
+    "RealTime Marketer"
   ]
 }
