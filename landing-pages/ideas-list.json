@@ -328,6 +328,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260401034429",
+    "nombre": "EasyTaskManager",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de tareas y proyectos diseñada específicamente para freelancers y pequeñas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260401034429.html"
+  },
+  {
     "id": "IDEA-20260401000401",
     "nombre": "DesignFlow",
     "tipo": "SaaS",

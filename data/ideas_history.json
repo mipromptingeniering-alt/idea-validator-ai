@@ -5396,6 +5396,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-01T03:44:29.160305"
+    },
+    {
+      "nombre": "InventarioFácil",
+      "descripcion": "InventarioFácil es un software basado en la nube que permite a los pequeños comercios gestionar su inventario, realizar ventas en línea y analizar tendencias de ventas de manera sencilla y asequible.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-01T07:10:07.683032"
     }
   ],
   "nombres_usados": [
@@ -6169,6 +6176,7 @@
     "Pyme360",
     "BizSphere",
     "DesignFlow",
-    "EasyTaskManager"
+    "EasyTaskManager",
+    "InventarioFácil"
   ]
 }
