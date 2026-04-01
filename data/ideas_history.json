@@ -5389,6 +5389,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-01T00:04:01.328380"
+    },
+    {
+      "nombre": "EasyTaskManager",
+      "descripcion": "EasyTaskManager permite a los usuarios crear, asignar y gestionar tareas de manera sencilla, con recordatorios automáticos y análisis de productividad. La herramienta se integra con aplicaciones populares como Slack y Google Calendar, facilitando la colaboración y la planificación.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-01T03:44:29.160305"
     }
   ],
   "nombres_usados": [
@@ -6161,6 +6168,7 @@
     "SocialSchedulerPro",
     "Pyme360",
     "BizSphere",
-    "DesignFlow"
+    "DesignFlow",
+    "EasyTaskManager"
   ]
 }

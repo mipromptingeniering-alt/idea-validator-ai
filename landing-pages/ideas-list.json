@@ -328,6 +328,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260401000401",
+    "nombre": "DesignFlow",
+    "tipo": "SaaS",
+    "resumen": "DesignFlow es una plataforma de gestión de proyectos diseñada específicamente para profesionales del diseño gráfico que optimiza el flujo de trabajo y...",
+    "score": 75,
+    "landing_url": "IDEA-20260401000401.html"
+  },
+  {
     "id": "IDEA-20260331225732",
     "nombre": "BizSphere",
     "tipo": "SaaS",
