@@ -5473,6 +5473,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-01T20:26:10.371701"
+    },
+    {
+      "nombre": "InspiraLab",
+      "descripcion": "InspiraLab combina un banco de recursos creativos (imágenes, textos, sonidos) con herramientas interactivas que fomentan la creatividad a través de prompts, ejercicios y desafíos creativos. La plataforma también permite a los usuarios compartir sus propios recursos y colaboraciones, creando una comunidad activa de creativos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-01T21:06:29.165133"
     }
   ],
   "nombres_usados": [
@@ -6257,6 +6264,7 @@
     "RealTime Marketer",
     "EasyProjectFlow",
     "CommUnity",
-    "EasyReach"
+    "EasyReach",
+    "InspiraLab"
   ]
 }
