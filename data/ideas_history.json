@@ -5431,6 +5431,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-01T11:35:32.282027"
+    },
+    {
+      "nombre": "SereneMind",
+      "descripcion": "SereneMind ofrece un enfoque innovador para la salud mental al permitir que los usuarios trabajen en su bienestar emocional a través de una combinación de recursos de autoayuda, meditación guiada y un sistema de seguimiento que se adapta a sus necesidades específicas. La plataforma utiliza inteligencia artificial para personalizar el contenido y las sugerencias, así como para rastrear el progreso del usuario.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-01T12:41:08.907757"
     }
   ],
   "nombres_usados": [
@@ -6209,6 +6216,7 @@
     "SocialTrend",
     "Marketer Assistant",
     "SalesSimplicity",
-    "SocialBridge"
+    "SocialBridge",
+    "SereneMind"
   ]
 }
