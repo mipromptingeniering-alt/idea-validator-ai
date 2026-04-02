@@ -5592,6 +5592,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-02T20:06:53.576549"
+    },
+    {
+      "nombre": "EduFilter",
+      "descripcion": "EduFilter es un servicio de software que utiliza algoritmos de inteligencia artificial para ofrecer a los estudiantes contenido educativo curado y adaptado a sus necesidades específicas, ayudándolos a encontrar recursos relevantes sin sentirse abrumados por la oferta disponible en línea.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-02T21:29:53.108008"
     }
   ],
   "nombres_usados": [
@@ -6393,6 +6400,7 @@
     "MarkEase",
     "Wellness Tracker",
     "TaskTime Integrator",
-    "IdeaPilot"
+    "IdeaPilot",
+    "EduFilter"
   ]
 }

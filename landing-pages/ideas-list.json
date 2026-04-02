@@ -344,6 +344,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260402200653",
+    "nombre": "IdeaPilot",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que ayuda a emprendedores y pequeñas empresas a gestionar ideas, validar conceptos y prototipar rápidamente....",
+    "score": 75,
+    "landing_url": "IDEA-20260402200653.html"
+  },
+  {
     "id": "IDEA-20260402193456",
     "nombre": "TaskTime Integrator",
     "tipo": "SaaS",
