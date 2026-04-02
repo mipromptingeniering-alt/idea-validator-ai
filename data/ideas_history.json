@@ -5515,6 +5515,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-02T05:48:59.105499"
+    },
+    {
+      "nombre": "TimeOpti",
+      "descripcion": "TimeOpti permite a los usuarios gestionar sus tareas y proyectos de manera eficiente, ofreciendo análisis de productividad y sugerencias personalizadas basadas en datos. Con una interfaz amigable y personalizable, los usuarios pueden establecer objetivos, planificar su día y recibir recordatorios inteligentes.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-02T08:13:58.348076"
     }
   ],
   "nombres_usados": [
@@ -6305,6 +6312,7 @@
     "FinanzaEasy",
     "CitaSalud",
     "TeamVibe",
-    "Campaña360"
+    "Campaña360",
+    "TimeOpti"
   ]
 }
