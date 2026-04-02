@@ -5571,6 +5571,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-02T15:40:24.177779"
+    },
+    {
+      "nombre": "Wellness Tracker",
+      "descripcion": "Wellness Tracker es una herramienta que permite a los equipos remotos gestionar sus tareas diarias mientras monitorea su bienestar emocional. Proporciona informes sobre el estado de ánimo, recomendaciones para pausas activas y ejercicios de relajación, y integra técnicas de gestión del tiempo eficientes.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-02T18:34:53.987802"
     }
   ],
   "nombres_usados": [
@@ -6369,6 +6376,7 @@
     "TaskCollab",
     "Finanzas Flexibles",
     "MarketIntellect",
-    "MarkEase"
+    "MarkEase",
+    "Wellness Tracker"
   ]
 }
