@@ -5522,6 +5522,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-02T08:13:58.348076"
+    },
+    {
+      "nombre": "FinPlanJoven",
+      "descripcion": "FinPlanJoven permite a los usuarios crear un presupuesto, hacer un seguimiento de sus gastos e ingresos, y establecer metas financieras mientras reciben orientación educativa sobre finanzas personales a través de contenido interactivo y fácil de entender.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-02T09:15:30.577054"
     }
   ],
   "nombres_usados": [
@@ -6313,6 +6320,7 @@
     "CitaSalud",
     "TeamVibe",
     "Campaña360",
-    "TimeOpti"
+    "TimeOpti",
+    "FinPlanJoven"
   ]
 }
