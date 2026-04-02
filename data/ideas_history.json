@@ -5529,6 +5529,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-02T09:15:30.577054"
+    },
+    {
+      "nombre": "StudyFlow",
+      "descripcion": "StudyFlow permite a los estudiantes organizar su tiempo y tareas de manera eficiente, proporcionando recordatorios, técnicas de productividad adaptadas a su estilo de aprendizaje y análisis de rendimiento. La aplicación integra calendarios, listas de tareas y sesiones de estudio personalizadas para maximizar la productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-02T10:13:05.012851"
     }
   ],
   "nombres_usados": [
@@ -6321,6 +6328,7 @@
     "TeamVibe",
     "Campaña360",
     "TimeOpti",
-    "FinPlanJoven"
+    "FinPlanJoven",
+    "StudyFlow"
   ]
 }

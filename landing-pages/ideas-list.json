@@ -336,6 +336,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260402091530",
+    "nombre": "FinPlanJoven",
+    "tipo": "SaaS",
+    "resumen": "FinPlanJoven es una plataforma de planificación financiera personal diseñada específicamente para jóvenes profesionales, que ofrece herramientas intui...",
+    "score": 75,
+    "landing_url": "IDEA-20260402091530.html"
+  },
+  {
     "id": "IDEA-20260402081358",
     "nombre": "TimeOpti",
     "tipo": "SaaS",
