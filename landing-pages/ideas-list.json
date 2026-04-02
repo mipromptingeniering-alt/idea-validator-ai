@@ -344,6 +344,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260402143517",
+    "nombre": "MarketIntellect",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que centraliza el análisis de datos de campañas de marketing a través de múltiples plataformas y proporciona insights predictivos en ti...",
+    "score": 75,
+    "landing_url": "IDEA-20260402143517.html"
+  },
+  {
     "id": "IDEA-20260402115647",
     "nombre": "TaskCollab",
     "tipo": "SaaS",
