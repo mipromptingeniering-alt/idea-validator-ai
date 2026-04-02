@@ -5672,6 +5672,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260402130112",
+    "nombre": "Finanzas Flexibles",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de contabilidad en la nube diseñada específicamente para pymes, que simplifica la gestión financiera con herramientas accesibles y sopo...",
+    "score": 70,
+    "landing_url": "IDEA-20260402130112.html"
+  },
+  {
     "id": "IDEA-20260401173728",
     "nombre": "EasyProjectFlow",
     "tipo": "SaaS",

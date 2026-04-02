@@ -5557,6 +5557,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-02T13:01:12.898792"
+    },
+    {
+      "nombre": "MarketIntellect",
+      "descripcion": "MarketIntellect es una herramienta de análisis de marketing que permite a los profesionales del marketing digital ver y analizar el rendimiento de sus campañas en un solo lugar. Integra datos de plataformas como Google Ads, Facebook Ads, Instagram, y más. La plataforma no solo muestra los datos históricos, sino que también utiliza análisis predictivos para sugerir estrategias para futuras campañas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-02T14:35:18.099303"
     }
   ],
   "nombres_usados": [
@@ -6353,6 +6360,7 @@
     "StudyFlow",
     "MindNavigator",
     "TaskCollab",
-    "Finanzas Flexibles"
+    "Finanzas Flexibles",
+    "MarketIntellect"
   ]
 }
