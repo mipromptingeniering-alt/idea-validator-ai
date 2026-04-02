@@ -5494,6 +5494,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-01T23:20:27.241435"
+    },
+    {
+      "nombre": "CitaSalud",
+      "descripcion": "CitaSalud es una herramienta integral que permite a los psicólogos y terapeutas gestionar sus citas, enviar recordatorios automáticos a los pacientes, realizar seguimientos de su estado y ofrecer consultas online. La plataforma incluye un repositorio de recursos para que los pacientes accedan a material educativo sobre salud mental.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-04-02T01:25:31.703124"
     }
   ],
   "nombres_usados": [
@@ -6281,6 +6288,7 @@
     "EasyReach",
     "InspiraLab",
     "FlowCraft",
-    "FinanzaEasy"
+    "FinanzaEasy",
+    "CitaSalud"
   ]
 }

@@ -328,6 +328,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260401232027",
+    "nombre": "FinanzaEasy",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión financiera que educa a los usuarios sobre finanzas personales a través de una experiencia gamificada....",
+    "score": 75,
+    "landing_url": "IDEA-20260401232027.html"
+  },
+  {
     "id": "IDEA-20260401223318",
     "nombre": "FlowCraft",
     "tipo": "SaaS",
