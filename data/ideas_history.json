@@ -5613,6 +5613,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-02T22:51:28.325153"
+    },
+    {
+      "nombre": "Marketing Simple",
+      "descripcion": "Marketing Simple permite a las pequeñas y medianas empresas gestionar sus campañas de marketing digital de manera efectiva sin necesidad de contar con experiencia previa en marketing. Ofrece herramientas para programar publicaciones en redes sociales, crear y enviar boletines de email, y analizar el rendimiento de las campañas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-02T23:28:14.842919"
     }
   ],
   "nombres_usados": [
@@ -6417,6 +6424,7 @@
     "IdeaPilot",
     "EduFilter",
     "DataPulse",
-    "Social Balance"
+    "Social Balance",
+    "Marketing Simple"
   ]
 }

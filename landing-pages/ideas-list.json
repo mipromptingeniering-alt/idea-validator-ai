@@ -5728,6 +5728,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260402225128",
+    "nombre": "Social Balance",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que ayuda a los usuarios a equilibrar su tiempo en redes sociales y mejorar su bienestar digital....",
+    "score": 70,
+    "landing_url": "IDEA-20260402225128.html"
+  },
+  {
     "id": "IDEA-20260402130112",
     "nombre": "Finanzas Flexibles",
     "tipo": "SaaS",
