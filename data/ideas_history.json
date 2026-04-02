@@ -5578,6 +5578,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-02T18:34:53.987802"
+    },
+    {
+      "nombre": "TaskTime Integrator",
+      "descripcion": "TaskTime Integrator es una herramienta SaaS que permite a los usuarios gestionar sus tareas diarias, tiempo de trabajo y colaborar con colegas desde una única plataforma. Incluye características como seguimiento de tiempo, asignación de tareas, integración de calendarios, y reportes de productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-02T19:34:56.988663"
     }
   ],
   "nombres_usados": [
@@ -6377,6 +6384,7 @@
     "Finanzas Flexibles",
     "MarketIntellect",
     "MarkEase",
-    "Wellness Tracker"
+    "Wellness Tracker",
+    "TaskTime Integrator"
   ]
 }
