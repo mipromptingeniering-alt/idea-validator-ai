@@ -5550,6 +5550,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-02T11:56:47.662788"
+    },
+    {
+      "nombre": "Finanzas Flexibles",
+      "descripcion": "Finanzas Flexibles es una solución de contabilidad en línea que permite a las pequeñas y medianas empresas gestionar sus finanzas, desde facturación hasta generación de reportes, de manera intuitiva y sin necesidad de conocimientos previos en contabilidad. Incorpora tutoriales interactivos y soporte en tiempo real para ayudar a los usuarios a maximizar el uso del software.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-02T13:01:12.898792"
     }
   ],
   "nombres_usados": [
@@ -6345,6 +6352,7 @@
     "FinPlanJoven",
     "StudyFlow",
     "MindNavigator",
-    "TaskCollab"
+    "TaskCollab",
+    "Finanzas Flexibles"
   ]
 }

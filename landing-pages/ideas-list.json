@@ -344,6 +344,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260402115647",
+    "nombre": "TaskCollab",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de tareas que prioriza la colaboración en tiempo real para equipos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260402115647.html"
+  },
+  {
     "id": "IDEA-20260402101304",
     "nombre": "StudyFlow",
     "tipo": "SaaS",
