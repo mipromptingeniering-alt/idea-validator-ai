@@ -5599,6 +5599,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-02T21:29:53.108008"
+    },
+    {
+      "nombre": "DataPulse",
+      "descripcion": "DataPulse es una herramienta diseñada específicamente para pequeñas y medianas empresas que buscan entender sus datos de ventas, marketing y operaciones sin la necesidad de analistas especializados. La plataforma utiliza algoritmos de inteligencia artificial para analizar datos y proporcionar informes visuales y recomendaciones que ayudan a las empresas a optimizar su rendimiento.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-04-02T22:02:38.897363"
     }
   ],
   "nombres_usados": [
@@ -6401,6 +6408,7 @@
     "Wellness Tracker",
     "TaskTime Integrator",
     "IdeaPilot",
-    "EduFilter"
+    "EduFilter",
+    "DataPulse"
   ]
 }
