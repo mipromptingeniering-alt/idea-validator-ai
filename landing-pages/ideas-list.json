@@ -344,6 +344,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260402193456",
+    "nombre": "TaskTime Integrator",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma unificada de gestión de tareas y tiempo para profesionales independientes y pequeños equipos....",
+    "score": 75,
+    "landing_url": "IDEA-20260402193456.html"
+  },
+  {
     "id": "IDEA-20260402183453",
     "nombre": "Wellness Tracker",
     "tipo": "SaaS",

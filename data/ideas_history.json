@@ -5585,6 +5585,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-02T19:34:56.988663"
+    },
+    {
+      "nombre": "IdeaPilot",
+      "descripcion": "IdeaPilot es un software como servicio que permite a los usuarios capturar ideas, realizar encuestas para validar su viabilidad en el mercado y crear prototipos básicos para presentaciones. Integra herramientas de análisis de mercado y facilita la colaboración entre equipos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-02T20:06:53.576549"
     }
   ],
   "nombres_usados": [
@@ -6385,6 +6392,7 @@
     "MarketIntellect",
     "MarkEase",
     "Wellness Tracker",
-    "TaskTime Integrator"
+    "TaskTime Integrator",
+    "IdeaPilot"
   ]
 }
