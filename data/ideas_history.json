@@ -5508,6 +5508,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-02T04:05:14.754959"
+    },
+    {
+      "nombre": "Campaña360",
+      "descripcion": "Campaña360 es una herramienta que permite a los profesionales del marketing digital integrar y analizar fácilmente el rendimiento de sus campañas en diversas plataformas, desde redes sociales hasta email marketing, proporcionando informes visuales y recomendaciones automatizadas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-02T05:48:59.105499"
     }
   ],
   "nombres_usados": [
@@ -6297,6 +6304,7 @@
     "FlowCraft",
     "FinanzaEasy",
     "CitaSalud",
-    "TeamVibe"
+    "TeamVibe",
+    "Campaña360"
   ]
 }
