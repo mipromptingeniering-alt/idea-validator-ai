@@ -5606,6 +5606,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-04-02T22:02:38.897363"
+    },
+    {
+      "nombre": "Social Balance",
+      "descripcion": "Social Balance es una herramienta que permite a los usuarios establecer límites de tiempo en sus aplicaciones de redes sociales, mientras les ofrece sugerencias de actividades alternativas basadas en sus intereses para reducir el tiempo de pantalla. Además, incluye un sistema motivacional que fomenta hábitos saludables.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-02T22:51:28.325153"
     }
   ],
   "nombres_usados": [
@@ -6409,6 +6416,7 @@
     "TaskTime Integrator",
     "IdeaPilot",
     "EduFilter",
-    "DataPulse"
+    "DataPulse",
+    "Social Balance"
   ]
 }
