@@ -48,6 +48,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260402012531",
+    "nombre": "CitaSalud",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de citas y seguimiento de pacientes para profesionales de la salud mental....",
+    "score": 78,
+    "landing_url": "IDEA-20260402012531.html"
+  },
+  {
     "id": "IDEA-20260328200023",
     "nombre": "SocialPilot Pro",
     "tipo": "SaaS",

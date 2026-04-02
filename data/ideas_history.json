@@ -5501,6 +5501,13 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-04-02T01:25:31.703124"
+    },
+    {
+      "nombre": "TeamVibe",
+      "descripcion": "TeamVibe es una plataforma digital diseñada para empresas con empleados que trabajan desde casa. Integra actividades de bienestar, desafíos de equipo y un sistema de recompensas gamificado, fomentando un ambiente de trabajo más saludable y conectado. Los usuarios pueden participar en desafíos semanales, asistir a sesiones de bienestar y comunicarse a través de foros de equipos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-02T04:05:14.754959"
     }
   ],
   "nombres_usados": [
@@ -6289,6 +6296,7 @@
     "InspiraLab",
     "FlowCraft",
     "FinanzaEasy",
-    "CitaSalud"
+    "CitaSalud",
+    "TeamVibe"
   ]
 }
