@@ -5543,6 +5543,13 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-04-02T11:10:45.802119"
+    },
+    {
+      "nombre": "TaskCollab",
+      "descripcion": "TaskCollab permite a los equipos gestionar sus tareas y proyectos de manera eficiente, integrando herramientas de comunicación como chat y videollamadas, y utilizando un sistema de tableros visuales intuitivos. Los usuarios pueden asignar tareas, establecer plazos y colaborar directamente en cada tarea a través de comentarios y archivos compartidos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-02T11:56:47.662788"
     }
   ],
   "nombres_usados": [
@@ -6337,6 +6344,7 @@
     "TimeOpti",
     "FinPlanJoven",
     "StudyFlow",
-    "MindNavigator"
+    "MindNavigator",
+    "TaskCollab"
   ]
 }

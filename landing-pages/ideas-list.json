@@ -48,6 +48,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260402111045",
+    "nombre": "MindNavigator",
+    "tipo": "SaaS",
+    "resumen": "Plataforma digital personalizada que ayuda a los usuarios a gestionar su salud mental mediante recomendaciones de recursos interactivos y seguimiento ...",
+    "score": 78,
+    "landing_url": "IDEA-20260402111045.html"
+  },
+  {
     "id": "IDEA-20260402012531",
     "nombre": "CitaSalud",
     "tipo": "SaaS",
