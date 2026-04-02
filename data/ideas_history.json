@@ -5536,6 +5536,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-02T10:13:05.012851"
+    },
+    {
+      "nombre": "MindNavigator",
+      "descripcion": "MindNavigator utiliza un cuestionario inicial para evaluar el estado emocional del usuario y, a partir de ahí, ofrece recursos personalizados como ejercicios de mindfulness, vídeos, artículos y herramientas prácticas que se actualizan según el progreso del usuario. Además, integra un diario emocional para el seguimiento de su evolución.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-04-02T11:10:45.802119"
     }
   ],
   "nombres_usados": [
@@ -6329,6 +6336,7 @@
     "Campaña360",
     "TimeOpti",
     "FinPlanJoven",
-    "StudyFlow"
+    "StudyFlow",
+    "MindNavigator"
   ]
 }

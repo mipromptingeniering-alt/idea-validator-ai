@@ -336,6 +336,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260402101304",
+    "nombre": "StudyFlow",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo y tareas diseñada exclusivamente para estudiantes universitarios....",
+    "score": 75,
+    "landing_url": "IDEA-20260402101304.html"
+  },
+  {
     "id": "IDEA-20260402091530",
     "nombre": "FinPlanJoven",
     "tipo": "SaaS",
