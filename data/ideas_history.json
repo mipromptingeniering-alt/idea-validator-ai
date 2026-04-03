@@ -5634,6 +5634,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-03T04:38:09.245466"
+    },
+    {
+      "nombre": "EZ Project Manager",
+      "descripcion": "EZ Project Manager proporciona herramientas intuitivas para la creación de tareas, seguimiento de proyectos y colaboración en tiempo real. Incluye integraciones con herramientas populares y opciones de personalización para adaptarse a las necesidades de cada empresa.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-03T07:36:57.091521"
     }
   ],
   "nombres_usados": [
@@ -6441,6 +6448,7 @@
     "Social Balance",
     "Marketing Simple",
     "ContentBoost",
-    "TeamUp"
+    "TeamUp",
+    "EZ Project Manager"
   ]
 }

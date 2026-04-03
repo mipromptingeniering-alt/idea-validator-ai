@@ -344,6 +344,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260403043809",
+    "nombre": "TeamUp",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que gamifica la colaboración y mejora el bienestar de equipos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260403043809.html"
+  },
+  {
     "id": "IDEA-20260403020658",
     "nombre": "ContentBoost",
     "tipo": "SaaS",
