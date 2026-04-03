@@ -5697,6 +5697,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-03T16:46:02.926554"
+    },
+    {
+      "nombre": "CollaboCare",
+      "descripcion": "CollaboCare es una plataforma SaaS diseñada para ayudar a los equipos remotos a mejorar su productividad y bienestar. Ofrece herramientas de gestión de tareas, comunicación asíncrona, seguimiento del tiempo dedicado a proyectos y módulos de bienestar que sugieren descansos y ejercicios mentales para mantener la moral alta.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-03T17:58:20.225574"
     }
   ],
   "nombres_usados": [
@@ -6513,6 +6520,7 @@
     "CollabMood",
     "CollabCreator",
     "PymeWebPro",
-    "PymeSupport"
+    "PymeSupport",
+    "CollaboCare"
   ]
 }

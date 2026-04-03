@@ -344,6 +344,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260403164602",
+    "nombre": "PymeSupport",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de gestión de atención al cliente diseñada específicamente para pequeñas y medianas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260403164602.html"
+  },
+  {
     "id": "IDEA-20260403143718",
     "nombre": "CollabMood",
     "tipo": "SaaS",
