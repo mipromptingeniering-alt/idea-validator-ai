@@ -344,6 +344,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260403083031",
+    "nombre": "Freelance Finance Assistant",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma todo-en-uno para que freelancers gestionen sus finanzas, presupuestos y facturación de manera sencilla y eficiente....",
+    "score": 75,
+    "landing_url": "IDEA-20260403083031.html"
+  },
+  {
     "id": "IDEA-20260403073656",
     "nombre": "EZ Project Manager",
     "tipo": "SaaS",

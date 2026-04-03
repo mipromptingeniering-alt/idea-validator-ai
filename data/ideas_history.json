@@ -5648,6 +5648,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-03T08:30:31.662005"
+    },
+    {
+      "nombre": "EmprendeWeb",
+      "descripcion": "EmprendeWeb es una plataforma diseñada para facilitar la creación de sitios web y gestión de marketing para pequeños emprendedores. Permite crear páginas web atractivas con plantillas personalizables, herramientas de SEO, integración con redes sociales y sistemas de pago, todo en un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-03T09:30:58.713271"
     }
   ],
   "nombres_usados": [
@@ -6457,6 +6464,7 @@
     "ContentBoost",
     "TeamUp",
     "EZ Project Manager",
-    "Freelance Finance Assistant"
+    "Freelance Finance Assistant",
+    "EmprendeWeb"
   ]
 }
