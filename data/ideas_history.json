@@ -5676,6 +5676,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-03T14:37:18.267099"
+    },
+    {
+      "nombre": "CollabCreator",
+      "descripcion": "CollabCreator es una herramienta SaaS que permite a los creadores de contenido encontrar colaboradores, gestionar proyectos y comunicarse de manera efectiva. La plataforma incluirá funciones de seguimiento del progreso, recursos compartidos y herramientas de gestión de tareas para facilitar la creación de contenido de alta calidad.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-04-03T15:28:12.208375"
     }
   ],
   "nombres_usados": [
@@ -6489,6 +6496,7 @@
     "EmprendeWeb",
     "TaskNinja",
     "EduCentral",
-    "CollabMood"
+    "CollabMood",
+    "CollabCreator"
   ]
 }
