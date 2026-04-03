@@ -5662,6 +5662,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-03T10:09:36.285488"
+    },
+    {
+      "nombre": "EduCentral",
+      "descripcion": "EduCentral ofrece a los estudiantes un espacio donde pueden almacenar notas, programar tareas, colaborar con compañeros y acceder a materiales académicos relevantes. Con integración de calendarios y herramientas de gestión de proyectos, se busca eliminar el desorden que generan múltiples plataformas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-03T11:03:22.175434"
     }
   ],
   "nombres_usados": [
@@ -6473,6 +6480,7 @@
     "EZ Project Manager",
     "Freelance Finance Assistant",
     "EmprendeWeb",
-    "TaskNinja"
+    "TaskNinja",
+    "EduCentral"
   ]
 }
