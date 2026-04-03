@@ -5704,6 +5704,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-03T17:58:20.225574"
+    },
+    {
+      "nombre": "CreativSync",
+      "descripcion": "CreativSync es una herramienta de gestión de proyectos que permite a los equipos creativos colaborar en tiempo real, organizar ideas visualmente y gestionar su flujo de trabajo de manera intuitiva. Incluye tableros de ideas, gestión de tareas y espacios de trabajo personalizados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-03T18:47:23.356639"
     }
   ],
   "nombres_usados": [
@@ -6521,6 +6528,7 @@
     "CollabCreator",
     "PymeWebPro",
     "PymeSupport",
-    "CollaboCare"
+    "CollaboCare",
+    "CreativSync"
   ]
 }

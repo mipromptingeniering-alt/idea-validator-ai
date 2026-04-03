@@ -344,6 +344,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260403175820",
+    "nombre": "CollaboCare",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de colaboración para trabajadores remotos que integra gestión del tiempo, comunicación y bienestar....",
+    "score": 75,
+    "landing_url": "IDEA-20260403175820.html"
+  },
+  {
     "id": "IDEA-20260403164602",
     "nombre": "PymeSupport",
     "tipo": "SaaS",
