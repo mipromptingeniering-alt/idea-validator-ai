@@ -5732,6 +5732,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-03T22:24:44.994334"
+    },
+    {
+      "nombre": "TimeGenie",
+      "descripcion": "TimeGenie es un SaaS que permite a emprendedores y freelancers gestionar su tiempo de forma efectiva. Usa IA para analizar la forma en que se utilizan las horas y sugiere ajustes para maximizar la productividad. Ofrece integración con calendarios y herramientas de gestión de proyectos.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-03T23:38:29.530301"
     }
   ],
   "nombres_usados": [
@@ -6553,6 +6560,7 @@
     "CreativSync",
     "DataDash",
     "CRM Simplificado",
-    "EffiTask"
+    "EffiTask",
+    "TimeGenie"
   ]
 }

@@ -5848,6 +5848,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260403222444",
+    "nombre": "EffiTask",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de tareas y colaboración diseñada especialmente para pequeñas empresas y profesionales independientes....",
+    "score": 70,
+    "landing_url": "IDEA-20260403222444.html"
+  },
+  {
     "id": "IDEA-20260403155953",
     "nombre": "PymeWebPro",
     "tipo": "SaaS",
