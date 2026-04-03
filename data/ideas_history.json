@@ -5669,6 +5669,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-03T11:03:22.175434"
+    },
+    {
+      "nombre": "CollabMood",
+      "descripcion": "CollabMood es una plataforma diseñada para mejorar la comunicación y colaboración en equipos remotos mediante la integración de herramientas de gestión de proyectos y el seguimiento del bienestar emocional de los miembros del equipo. Ofrece funciones como chat en tiempo real, gestión de tareas, encuestas de bienestar y actividades de team building virtual.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-03T14:37:18.267099"
     }
   ],
   "nombres_usados": [
@@ -6481,6 +6488,7 @@
     "Freelance Finance Assistant",
     "EmprendeWeb",
     "TaskNinja",
-    "EduCentral"
+    "EduCentral",
+    "CollabMood"
   ]
 }

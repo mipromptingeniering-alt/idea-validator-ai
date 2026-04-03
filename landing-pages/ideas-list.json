@@ -344,6 +344,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260403110322",
+    "nombre": "EduCentral",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para que los estudiantes universitarios gestionen su contenido académico, colaboren en proyectos y organicen su tiempo de mane...",
+    "score": 75,
+    "landing_url": "IDEA-20260403110322.html"
+  },
+  {
     "id": "IDEA-20260403100936",
     "nombre": "TaskNinja",
     "tipo": "SaaS",
