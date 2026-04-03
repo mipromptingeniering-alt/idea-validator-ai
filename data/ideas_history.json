@@ -5627,6 +5627,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-03T02:06:58.580078"
+    },
+    {
+      "nombre": "TeamUp",
+      "descripcion": "TeamUp es una herramienta que combina la productividad con el bienestar emocional, permitiendo a los equipos remotos colaborar en proyectos y participar en actividades de bienestar a través de un enfoque gamificado. Ofrece retos, recompensas y un espacio social para fomentar la conexión.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-03T04:38:09.245466"
     }
   ],
   "nombres_usados": [
@@ -6433,6 +6440,7 @@
     "DataPulse",
     "Social Balance",
     "Marketing Simple",
-    "ContentBoost"
+    "ContentBoost",
+    "TeamUp"
   ]
 }
