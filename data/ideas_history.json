@@ -5718,6 +5718,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-03T21:26:29.704276"
+    },
+    {
+      "nombre": "CRM Simplificado",
+      "descripcion": "CRM Simplificado es una herramienta SaaS que permite a PYMEs gestionar contactos, seguimiento de ventas y comunicación con clientes de forma fácil y efectiva. Incorpora automatización de correos electrónicos, seguimiento de interacciones y reportes básicos para ayudar a las empresas a maximizar su rendimiento sin el costo y la complejidad de sistemas más grandes.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-03T21:55:53.084393"
     }
   ],
   "nombres_usados": [
@@ -6537,6 +6544,7 @@
     "PymeSupport",
     "CollaboCare",
     "CreativSync",
-    "DataDash"
+    "DataDash",
+    "CRM Simplificado"
   ]
 }

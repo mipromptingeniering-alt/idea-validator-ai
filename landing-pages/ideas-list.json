@@ -344,6 +344,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260403212629",
+    "nombre": "DataDash",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de análisis que centraliza y simplifica el rendimiento de campañas de marketing digital en múltiples canales....",
+    "score": 75,
+    "landing_url": "IDEA-20260403212629.html"
+  },
+  {
     "id": "IDEA-20260403184723",
     "nombre": "CreativSync",
     "tipo": "SaaS",
