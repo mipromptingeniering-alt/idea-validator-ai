@@ -344,6 +344,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260403073656",
+    "nombre": "EZ Project Manager",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de proyectos sencilla y personalizable para PYMEs, que permite optimizar la colaboración y la productividad del equipo....",
+    "score": 75,
+    "landing_url": "IDEA-20260403073656.html"
+  },
+  {
     "id": "IDEA-20260403043809",
     "nombre": "TeamUp",
     "tipo": "SaaS",

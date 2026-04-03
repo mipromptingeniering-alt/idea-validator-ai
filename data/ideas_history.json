@@ -5641,6 +5641,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-03T07:36:57.091521"
+    },
+    {
+      "nombre": "Freelance Finance Assistant",
+      "descripcion": "Freelance Finance Assistant es una herramienta que ayuda a los profesionales independientes a llevar un control efectivo de sus ingresos y gastos, crear y enviar facturas, y ofrecer recordatorios de pagos y plazos de impuestos. Con integraciones con plataformas populares y un diseño intuitivo, facilita la gestión financiera.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-03T08:30:31.662005"
     }
   ],
   "nombres_usados": [
@@ -6449,6 +6456,7 @@
     "Marketing Simple",
     "ContentBoost",
     "TeamUp",
-    "EZ Project Manager"
+    "EZ Project Manager",
+    "Freelance Finance Assistant"
   ]
 }
