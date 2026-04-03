@@ -5725,6 +5725,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-03T21:55:53.084393"
+    },
+    {
+      "nombre": "EffiTask",
+      "descripcion": "EffiTask permite a los usuarios gestionar sus tareas diarias, colaborar con equipos y automatizar procesos repetitivos. La plataforma ofrece un diseño intuitivo y funcionalidades específicas para mejorar la productividad, como recordatorios automáticos y generación de informes.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-03T22:24:44.994334"
     }
   ],
   "nombres_usados": [
@@ -6545,6 +6552,7 @@
     "CollaboCare",
     "CreativSync",
     "DataDash",
-    "CRM Simplificado"
+    "CRM Simplificado",
+    "EffiTask"
   ]
 }
