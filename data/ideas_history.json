@@ -5690,6 +5690,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-03T15:59:53.794158"
+    },
+    {
+      "nombre": "PymeSupport",
+      "descripcion": "PymeSupport es una herramienta de gestión de atención al cliente que permite a las pymes gestionar consultas y quejas de manera eficiente, incluyendo funcionalidades como chat en vivo, gestión de tickets y un centro de soporte de autoservicio.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-03T16:46:02.926554"
     }
   ],
   "nombres_usados": [
@@ -6505,6 +6512,7 @@
     "EduCentral",
     "CollabMood",
     "CollabCreator",
-    "PymeWebPro"
+    "PymeWebPro",
+    "PymeSupport"
   ]
 }

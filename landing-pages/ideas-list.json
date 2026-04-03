@@ -5808,6 +5808,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260403155953",
+    "nombre": "PymeWebPro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral que permite a las pymes gestionar su presencia en línea, incluyendo su sitio web, redes sociales y SEO en un solo lugar....",
+    "score": 70,
+    "landing_url": "IDEA-20260403155953.html"
+  },
+  {
     "id": "IDEA-20260402225128",
     "nombre": "Social Balance",
     "tipo": "SaaS",
