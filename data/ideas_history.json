@@ -5683,6 +5683,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-04-03T15:28:12.208375"
+    },
+    {
+      "nombre": "PymeWebPro",
+      "descripcion": "PymeWebPro permite a las pequeñas y medianas empresas crear y gestionar su sitio web, optimizar su presencia en redes sociales y mejorar su posicionamiento en buscadores, todo en una sola plataforma fácil de usar. Los usuarios pueden elegir plantillas personalizables y recibir recomendaciones basadas en análisis de rendimiento.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-03T15:59:53.794158"
     }
   ],
   "nombres_usados": [
@@ -6497,6 +6504,7 @@
     "TaskNinja",
     "EduCentral",
     "CollabMood",
-    "CollabCreator"
+    "CollabCreator",
+    "PymeWebPro"
   ]
 }

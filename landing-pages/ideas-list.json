@@ -5576,6 +5576,14 @@
     "landing_url": "IDEA-20260216160937.html"
   },
   {
+    "id": "IDEA-20260403152812",
+    "nombre": "CollabCreator",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de colaboración diseñada para creadores de contenido que facilita la búsqueda, gestión y comunicación con colaboradores....",
+    "score": 72,
+    "landing_url": "IDEA-20260403152812.html"
+  },
+  {
     "id": "IDEA-20260402220238",
     "nombre": "DataPulse",
     "tipo": "SaaS",
