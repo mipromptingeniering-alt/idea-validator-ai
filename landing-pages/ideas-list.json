@@ -344,6 +344,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260403093058",
+    "nombre": "EmprendeWeb",
+    "tipo": "SaaS",
+    "resumen": "Herramienta todo-en-uno para que emprendedores y pequeñas empresas creen su presencia en línea fácilmente....",
+    "score": 75,
+    "landing_url": "IDEA-20260403093058.html"
+  },
+  {
     "id": "IDEA-20260403083031",
     "nombre": "Freelance Finance Assistant",
     "tipo": "SaaS",

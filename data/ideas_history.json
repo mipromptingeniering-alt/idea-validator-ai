@@ -5655,6 +5655,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-03T09:30:58.713271"
+    },
+    {
+      "nombre": "TaskNinja",
+      "descripcion": "TaskNinja ayuda a los equipos a gestionar sus tareas de manera eficiente, comunicarse de forma efectiva y hacer un seguimiento del tiempo que dedican a cada proyecto. Utiliza IA para analizar el rendimiento del equipo y sugiere mejoras personalizadas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-03T10:09:36.285488"
     }
   ],
   "nombres_usados": [
@@ -6465,6 +6472,7 @@
     "TeamUp",
     "EZ Project Manager",
     "Freelance Finance Assistant",
-    "EmprendeWeb"
+    "EmprendeWeb",
+    "TaskNinja"
   ]
 }
