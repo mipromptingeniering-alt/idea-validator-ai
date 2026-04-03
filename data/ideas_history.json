@@ -5620,6 +5620,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-02T23:28:14.842919"
+    },
+    {
+      "nombre": "ContentBoost",
+      "descripcion": "ContentBoost ofrece un conjunto de herramientas que analizan el rendimiento del contenido publicado en redes sociales y brindan recomendaciones en tiempo real para mejorar la interacción y el alcance. Además, la plataforma proporciona formación sobre marketing digital adaptada a cada empresa.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-03T02:06:58.580078"
     }
   ],
   "nombres_usados": [
@@ -6425,6 +6432,7 @@
     "EduFilter",
     "DataPulse",
     "Social Balance",
-    "Marketing Simple"
+    "Marketing Simple",
+    "ContentBoost"
   ]
 }
