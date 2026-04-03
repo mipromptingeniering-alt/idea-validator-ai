@@ -344,6 +344,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260403184723",
+    "nombre": "CreativSync",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de proyectos diseñada específicamente para profesionales creativos que potencia la colaboración y organización de ideas....",
+    "score": 75,
+    "landing_url": "IDEA-20260403184723.html"
+  },
+  {
     "id": "IDEA-20260403175820",
     "nombre": "CollaboCare",
     "tipo": "SaaS",

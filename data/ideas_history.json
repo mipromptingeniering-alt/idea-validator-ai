@@ -5711,6 +5711,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-03T18:47:23.356639"
+    },
+    {
+      "nombre": "DataDash",
+      "descripcion": "DataDash permite a los profesionales del marketing seguir y analizar el rendimiento de sus campañas de manera centralizada y en tiempo real. La herramienta integra datos de redes sociales, correo electrónico, publicidad PPC y más, proporcionando reportes visuales que facilitan la interpretación de datos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-03T21:26:29.704276"
     }
   ],
   "nombres_usados": [
@@ -6529,6 +6536,7 @@
     "PymeWebPro",
     "PymeSupport",
     "CollaboCare",
-    "CreativSync"
+    "CreativSync",
+    "DataDash"
   ]
 }
