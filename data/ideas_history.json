@@ -5823,6 +5823,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-04T19:08:14.937289"
+    },
+    {
+      "nombre": "EasyDigital Manager",
+      "descripcion": "EasyDigital Manager es una herramienta que permite a los emprendedores y pequeños negocios gestionar sus cuentas de redes sociales, automatizar publicaciones y obtener análisis detallados sobre su rendimiento, todo en una interfaz sencilla e intuitiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-04T19:44:14.966149"
     }
   ],
   "nombres_usados": [
@@ -6657,6 +6664,7 @@
     "HealthMate",
     "RemoteTimeMaster",
     "CollaboMate",
-    "ContentBuddy"
+    "ContentBuddy",
+    "EasyDigital Manager"
   ]
 }
