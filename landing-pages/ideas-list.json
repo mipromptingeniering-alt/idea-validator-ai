@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260404203944",
+    "nombre": "FinanClic",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión financiera diseñada específicamente para autónomos y pequeñas empresas, que facilita la facturación, seguimiento de gastos y...",
+    "score": 75,
+    "landing_url": "IDEA-20260404203944.html"
+  },
+  {
     "id": "IDEA-20260404200032",
     "nombre": "MindBuddy",
     "tipo": "SaaS",

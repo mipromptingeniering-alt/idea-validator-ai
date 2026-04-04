@@ -5844,6 +5844,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-04T20:39:45.073230"
+    },
+    {
+      "nombre": "ShopSmart AI",
+      "descripcion": "ShopSmart AI se integra fácilmente con plataformas de e-commerce existentes y ofrece recomendaciones de productos personalizadas en tiempo real basadas en el comportamiento del usuario, aumentando así la probabilidad de conversión y reduciendo el abandono del carrito.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-04T21:03:32.737331"
     }
   ],
   "nombres_usados": [
@@ -6681,6 +6688,7 @@
     "ContentBuddy",
     "EasyDigital Manager",
     "MindBuddy",
-    "FinanClic"
+    "FinanClic",
+    "ShopSmart AI"
   ]
 }
