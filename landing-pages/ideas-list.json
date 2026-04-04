@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260404133915",
+    "nombre": "SocialMax",
+    "tipo": "SaaS",
+    "resumen": "Herramienta de gestión de redes sociales diseñada específicamente para pequeñas y medianas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260404133915.html"
+  },
+  {
     "id": "IDEA-20260404115044",
     "nombre": "WellSync",
     "tipo": "SaaS",

@@ -5795,6 +5795,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-04T13:39:15.902535"
+    },
+    {
+      "nombre": "HealthMate",
+      "descripcion": "HealthMate es una plataforma SaaS que permite a los profesionales de la salud gestionar sus citas, llevar un seguimiento de los tratamientos de sus pacientes y optimizar su tiempo. A través de una interfaz intuitiva, los usuarios pueden programar citas, realizar seguimientos, y recibir recordatorios automáticos, mejorando así la atención y la satisfacción del paciente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-04T14:19:01.232313"
     }
   ],
   "nombres_usados": [
@@ -6625,6 +6632,7 @@
     "SkillMentor",
     "WellSync",
     "ProjectPulse",
-    "SocialMax"
+    "SocialMax",
+    "HealthMate"
   ]
 }
