@@ -5760,6 +5760,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-04T05:02:50.861712"
+    },
+    {
+      "nombre": "NutriPlan",
+      "descripcion": "NutriPlan genera planes de comidas personalizados basados en las preferencias alimenticias de la familia, restricciones dietéticas y el tiempo disponible para cocinar. Además, proporciona listas de compras automatizadas y recetas claras. Se integra con servicios de entrega de alimentos para facilitar el acceso a los ingredientes.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-04T06:11:25.587624"
     }
   ],
   "nombres_usados": [
@@ -6585,6 +6592,7 @@
     "TimeGenie",
     "ConnectSphere",
     "SociaLytics",
-    "EmoTracker"
+    "EmoTracker",
+    "NutriPlan"
   ]
 }
