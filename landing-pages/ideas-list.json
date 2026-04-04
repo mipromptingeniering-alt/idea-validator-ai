@@ -5848,6 +5848,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260403233829",
+    "nombre": "TimeGenie",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo que utiliza inteligencia artificial para ayudar a optimizar la productividad y la programación personal....",
+    "score": 70,
+    "landing_url": "IDEA-20260403233829.html"
+  },
+  {
     "id": "IDEA-20260403222444",
     "nombre": "EffiTask",
     "tipo": "SaaS",

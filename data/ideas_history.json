@@ -5739,6 +5739,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-03T23:38:29.530301"
+    },
+    {
+      "nombre": "ConnectSphere",
+      "descripcion": "ConnectSphere es una solución digital que permite a los empleados participar en actividades de equipo virtuales, como juegos, espacios de relajación y sesiones de bienestar, todo en un solo lugar. La plataforma promueve la interacción social y el fortalecimiento de la cultura laboral a distancia.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-04T00:02:18.594738"
     }
   ],
   "nombres_usados": [
@@ -6561,6 +6568,7 @@
     "DataDash",
     "CRM Simplificado",
     "EffiTask",
-    "TimeGenie"
+    "TimeGenie",
+    "ConnectSphere"
   ]
 }
