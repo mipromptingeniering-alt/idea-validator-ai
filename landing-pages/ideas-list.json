@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260404210332",
+    "nombre": "ShopSmart AI",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de personalización de e-commerce que utiliza IA para mejorar la experiencia del cliente y aumentar las conversiones....",
+    "score": 75,
+    "landing_url": "IDEA-20260404210332.html"
+  },
+  {
     "id": "IDEA-20260404203944",
     "nombre": "FinanClic",
     "tipo": "SaaS",

@@ -5851,6 +5851,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-04T21:03:32.737331"
+    },
+    {
+      "nombre": "HomeFinder Pro",
+      "descripcion": "HomeFinder Pro es un SaaS que permite a los propietarios listar sus propiedades de alquiler y a los inquilinos buscar y aplicar en alquileres de manera eficiente. Con características como filtros específicos, visitas virtuales, y opciones de contrato digital, la plataforma busca revolucionar el alquiler tradicional.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-04T22:01:54.816863"
     }
   ],
   "nombres_usados": [
@@ -6689,6 +6696,7 @@
     "EasyDigital Manager",
     "MindBuddy",
     "FinanClic",
-    "ShopSmart AI"
+    "ShopSmart AI",
+    "HomeFinder Pro"
   ]
 }
