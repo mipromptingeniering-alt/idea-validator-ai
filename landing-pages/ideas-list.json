@@ -344,6 +344,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260404080136",
+    "nombre": "SkillMentor",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de aprendizaje en línea que conecta usuarios con mentores para desarrollar habilidades técnicas a través de proyectos prácticos....",
+    "score": 75,
+    "landing_url": "IDEA-20260404080136.html"
+  },
+  {
     "id": "IDEA-20260404061125",
     "nombre": "NutriPlan",
     "tipo": "SaaS",

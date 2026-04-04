@@ -5774,6 +5774,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-04T08:01:36.232452"
+    },
+    {
+      "nombre": "WellSync",
+      "descripcion": "WellSync es un software que ayuda a los empleados remotos a gestionar su tiempo, fomentar su bienestar mental y socializar con compañeros a través de un sistema de gamificación que promueve la participación activa y el cumplimiento de objetivos personales y profesionales.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-04T11:50:45.099650"
     }
   ],
   "nombres_usados": [
@@ -6601,6 +6608,7 @@
     "SociaLytics",
     "EmoTracker",
     "NutriPlan",
-    "SkillMentor"
+    "SkillMentor",
+    "WellSync"
   ]
 }
