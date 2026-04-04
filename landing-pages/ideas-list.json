@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260404183033",
+    "nombre": "CollaboMate",
+    "tipo": "SaaS",
+    "resumen": "Plataforma que facilita la comunicación y colaboración entre equipos remotos mediante herramientas integradas de chat, video y gestión de proyectos....",
+    "score": 75,
+    "landing_url": "IDEA-20260404183033.html"
+  },
+  {
     "id": "IDEA-20260404141901",
     "nombre": "HealthMate",
     "tipo": "SaaS",

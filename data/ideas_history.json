@@ -5816,6 +5816,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-04T18:30:33.580979"
+    },
+    {
+      "nombre": "ContentBuddy",
+      "descripcion": "ContentBuddy permite a las PYMEs generar publicaciones personalizadas y relevantes para sus redes sociales en cuestión de minutos, utilizando un sistema de sugerencias basado en inteligencia artificial que se adapta a la industria y objetivos de cada negocio. Además, incluye plantillas listas para usar y un calendario de publicaciones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-04T19:08:14.937289"
     }
   ],
   "nombres_usados": [
@@ -6649,6 +6656,7 @@
     "SocialMax",
     "HealthMate",
     "RemoteTimeMaster",
-    "CollaboMate"
+    "CollaboMate",
+    "ContentBuddy"
   ]
 }
