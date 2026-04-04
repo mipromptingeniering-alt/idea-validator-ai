@@ -5781,6 +5781,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-04T11:50:45.099650"
+    },
+    {
+      "nombre": "ProjectPulse",
+      "descripcion": "ProjectPulse permite a los usuarios gestionar proyectos, asignar tareas, realizar seguimiento del tiempo trabajado y generar facturas automáticas, todo desde un único dashboard intuitivo. Esta solución facilita el trabajo colaborativo y mejora la organización del día a día de los usuarios.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-04-04T12:36:54.442289"
     }
   ],
   "nombres_usados": [
@@ -6609,6 +6616,7 @@
     "EmoTracker",
     "NutriPlan",
     "SkillMentor",
-    "WellSync"
+    "WellSync",
+    "ProjectPulse"
   ]
 }
