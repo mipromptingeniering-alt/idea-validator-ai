@@ -344,6 +344,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260404000218",
+    "nombre": "ConnectSphere",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma interactiva para conectar a empleados remotos a través de actividades de equipo y eventos virtuales....",
+    "score": 75,
+    "landing_url": "IDEA-20260404000218.html"
+  },
+  {
     "id": "IDEA-20260403215552",
     "nombre": "CRM Simplificado",
     "tipo": "SaaS",

@@ -5746,6 +5746,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-04T00:02:18.594738"
+    },
+    {
+      "nombre": "SociaLytics",
+      "descripcion": "SociaLytics es una herramienta de gestión de redes sociales que le permite a las pequeñas empresas programar publicaciones, analizar el rendimiento de su contenido y recibir recomendaciones personalizadas basadas en las tendencias actuales y el comportamiento de sus seguidores. Con una interfaz intuitiva y fácil de usar, permite a los emprendedores centrarse en hacer crecer sus negocios.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-04T03:14:34.764728"
     }
   ],
   "nombres_usados": [
@@ -6569,6 +6576,7 @@
     "CRM Simplificado",
     "EffiTask",
     "TimeGenie",
-    "ConnectSphere"
+    "ConnectSphere",
+    "SociaLytics"
   ]
 }
