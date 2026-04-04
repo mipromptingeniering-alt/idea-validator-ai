@@ -5830,6 +5830,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-04T19:44:14.966149"
+    },
+    {
+      "nombre": "MindBuddy",
+      "descripcion": "MindBuddy utiliza inteligencia artificial para ofrecer recomendaciones personalizadas de contenido relacionado con la salud mental (artículos, podcasts, ejercicios de mindfulness) y permite a los usuarios agendar sesiones con terapeutas certificados a un costo accesible. La plataforma tiene como objetivo ayudar a los usuarios a gestionar su salud mental de manera más efectiva y tratar problemas comunes como la ansiedad y la depresión.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-04T20:00:32.798883"
     }
   ],
   "nombres_usados": [
@@ -6665,6 +6672,7 @@
     "RemoteTimeMaster",
     "CollaboMate",
     "ContentBuddy",
-    "EasyDigital Manager"
+    "EasyDigital Manager",
+    "MindBuddy"
   ]
 }
