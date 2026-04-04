@@ -5767,6 +5767,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-04T06:11:25.587624"
+    },
+    {
+      "nombre": "SkillMentor",
+      "descripcion": "SkillMentor es una plataforma que permite a los usuarios encontrar mentores en áreas técnicas específicas, quienes los guiarán a través de proyectos prácticos y personalizados. Además, los usuarios podrán acceder a recursos y herramientas de aprendizaje para complementar su formación.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-04T08:01:36.232452"
     }
   ],
   "nombres_usados": [
@@ -6593,6 +6600,7 @@
     "ConnectSphere",
     "SociaLytics",
     "EmoTracker",
-    "NutriPlan"
+    "NutriPlan",
+    "SkillMentor"
   ]
 }

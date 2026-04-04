@@ -344,6 +344,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260404061125",
+    "nombre": "NutriPlan",
+    "tipo": "SaaS",
+    "resumen": "NutriPlan es una plataforma que ayuda a las familias ocupadas a planificar sus comidas de forma saludable y eficiente....",
+    "score": 75,
+    "landing_url": "IDEA-20260404061125.html"
+  },
+  {
     "id": "IDEA-20260404050250",
     "nombre": "EmoTracker",
     "tipo": "SaaS",
