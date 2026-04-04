@@ -5809,6 +5809,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-04T16:27:08.749538"
+    },
+    {
+      "nombre": "CollaboMate",
+      "descripcion": "CollaboMate es una herramienta todo-en-uno diseñada para equipos que trabajan a distancia, que permite la comunicación a través de canales de chat y videoconferencias, así como la gestión de proyectos y tareas con tableros intuitivos. La integración con otras herramientas populares permite que los equipos mantengan su flujo de trabajo sin interrupciones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-04T18:30:33.580979"
     }
   ],
   "nombres_usados": [
@@ -6641,6 +6648,7 @@
     "ProjectPulse",
     "SocialMax",
     "HealthMate",
-    "RemoteTimeMaster"
+    "RemoteTimeMaster",
+    "CollaboMate"
   ]
 }

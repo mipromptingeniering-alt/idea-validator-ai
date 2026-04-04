@@ -5920,6 +5920,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260404162708",
+    "nombre": "RemoteTimeMaster",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión del tiempo diseñada específicamente para trabajadores remotos, que combina inteligencia artificial con integración de plata...",
+    "score": 70,
+    "landing_url": "IDEA-20260404162708.html"
+  },
+  {
     "id": "IDEA-20260403233829",
     "nombre": "TimeGenie",
     "tipo": "SaaS",
