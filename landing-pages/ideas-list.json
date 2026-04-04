@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260404141901",
+    "nombre": "HealthMate",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión integral para profesionales de la salud que optimiza la atención al paciente y la organización del tiempo....",
+    "score": 75,
+    "landing_url": "IDEA-20260404141901.html"
+  },
+  {
     "id": "IDEA-20260404133915",
     "nombre": "SocialMax",
     "tipo": "SaaS",

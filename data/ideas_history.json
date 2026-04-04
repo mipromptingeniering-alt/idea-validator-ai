@@ -5802,6 +5802,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-04T14:19:01.232313"
+    },
+    {
+      "nombre": "RemoteTimeMaster",
+      "descripcion": "RemoteTimeMaster es una app SaaS que ayuda a los trabajadores remotos a gestionar su tiempo de manera efectiva al aprender de sus hábitos y optimizar su día a día. La aplicación se integra con plataformas como Slack, Zoom y Google Calendar, y utiliza inteligencia artificial para sugerir mejoras en la gestión del tiempo y las tareas.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-04T16:27:08.749538"
     }
   ],
   "nombres_usados": [
@@ -6633,6 +6640,7 @@
     "WellSync",
     "ProjectPulse",
     "SocialMax",
-    "HealthMate"
+    "HealthMate",
+    "RemoteTimeMaster"
   ]
 }
