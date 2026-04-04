@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260404200032",
+    "nombre": "MindBuddy",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de salud mental personalizada que combina recursos digitales y acceso a profesionales de la salud mental....",
+    "score": 75,
+    "landing_url": "IDEA-20260404200032.html"
+  },
+  {
     "id": "IDEA-20260404194414",
     "nombre": "EasyDigital Manager",
     "tipo": "SaaS",

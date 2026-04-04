@@ -5837,6 +5837,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-04T20:00:32.798883"
+    },
+    {
+      "nombre": "FinanClic",
+      "descripcion": "FinanClic permite a los usuarios crear facturas personalizadas, registrar gastos en tiempo real y visualizar sus ingresos y proyecciones a través de un dashboard intuitivo. Se integra con aplicaciones bancarias y de pago para simplificar el proceso financiero.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-04T20:39:45.073230"
     }
   ],
   "nombres_usados": [
@@ -6673,6 +6680,7 @@
     "CollaboMate",
     "ContentBuddy",
     "EasyDigital Manager",
-    "MindBuddy"
+    "MindBuddy",
+    "FinanClic"
   ]
 }
