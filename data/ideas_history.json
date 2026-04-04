@@ -5865,6 +5865,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-04T23:24:04.755312"
+    },
+    {
+      "nombre": "FreelanceFinder",
+      "descripcion": "FreelanceFinder permite a los profesionales independientes buscar, comparar y evaluar oportunidades laborales de diferentes plataformas en un solo lugar, mientras que también ofrece herramientas de análisis de reputación de empleadores para garantizar la seguridad y confiabilidad de cada oferta.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-04T23:53:23.348463"
     }
   ],
   "nombres_usados": [
@@ -6705,6 +6712,7 @@
     "FinanClic",
     "ShopSmart AI",
     "HomeFinder Pro",
-    "FitBuddy"
+    "FitBuddy",
+    "FreelanceFinder"
   ]
 }
