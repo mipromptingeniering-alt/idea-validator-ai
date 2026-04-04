@@ -344,6 +344,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260404031434",
+    "nombre": "SociaLytics",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS que ayuda a pequeñas empresas a gestionar su contenido en redes sociales de manera eficiente utilizando inteligencia artificial....",
+    "score": 75,
+    "landing_url": "IDEA-20260404031434.html"
+  },
+  {
     "id": "IDEA-20260404000218",
     "nombre": "ConnectSphere",
     "tipo": "SaaS",

@@ -5753,6 +5753,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-04T03:14:34.764728"
+    },
+    {
+      "nombre": "EmoTracker",
+      "descripcion": "EmoTracker permite a los usuarios registrar diariamente sus emociones, recibir recomendaciones personalizadas para el autocuidado y participar en una comunidad de apoyo. La aplicación utiliza inteligencia artificial para analizar los patrones emocionales y ofrecer recursos adecuados para mejorar el bienestar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-04T05:02:50.861712"
     }
   ],
   "nombres_usados": [
@@ -6577,6 +6584,7 @@
     "EffiTask",
     "TimeGenie",
     "ConnectSphere",
-    "SociaLytics"
+    "SociaLytics",
+    "EmoTracker"
   ]
 }
