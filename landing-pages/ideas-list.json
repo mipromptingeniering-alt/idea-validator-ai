@@ -48,6 +48,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260404123654",
+    "nombre": "ProjectPulse",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta todo-en-uno para la gestión de proyectos y seguimiento de tiempo para freelancers y emprendedores....",
+    "score": 78,
+    "landing_url": "IDEA-20260404123654.html"
+  },
+  {
     "id": "IDEA-20260402111045",
     "nombre": "MindNavigator",
     "tipo": "SaaS",

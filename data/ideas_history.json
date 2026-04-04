@@ -5788,6 +5788,13 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-04-04T12:36:54.442289"
+    },
+    {
+      "nombre": "SocialMax",
+      "descripcion": "SocialMax permite a las pymes gestionar y automatizar sus publicaciones en redes sociales, realizar analíticas de rendimiento y recibir asesorías personalizadas sobre contenido y estrategias, todo en un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-04T13:39:15.902535"
     }
   ],
   "nombres_usados": [
@@ -6617,6 +6624,7 @@
     "NutriPlan",
     "SkillMentor",
     "WellSync",
-    "ProjectPulse"
+    "ProjectPulse",
+    "SocialMax"
   ]
 }
