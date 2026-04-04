@@ -5858,6 +5858,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-04T22:01:54.816863"
+    },
+    {
+      "nombre": "FitBuddy",
+      "descripcion": "FitBuddy utiliza algoritmos de inteligencia artificial para adaptar planes de ejercicio y nutrición a las necesidades específicas de cada usuario. Además, ofrece funciones de red social para que los usuarios puedan motivarse entre sí y compartir sus logros y avances.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-04T23:24:04.755312"
     }
   ],
   "nombres_usados": [
@@ -6697,6 +6704,7 @@
     "MindBuddy",
     "FinanClic",
     "ShopSmart AI",
-    "HomeFinder Pro"
+    "HomeFinder Pro",
+    "FitBuddy"
   ]
 }
