@@ -5886,6 +5886,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-05T04:23:45.770428"
+    },
+    {
+      "nombre": "MultiMarket Manager",
+      "descripcion": "MultiMarket Manager es una herramienta SaaS diseñada específicamente para ayudar a los pequeños y medianos comercios a centralizar la gestión de su inventario, pedidos y atención al cliente en varios marketplaces como Amazon, eBay, Etsy y su propia tienda online. Permite actualizaciones automáticas de stock, gestión de pedidos y análisis de ventas, todo desde un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-05T07:06:48.837990"
     }
   ],
   "nombres_usados": [
@@ -6729,6 +6736,7 @@
     "FitBuddy",
     "FreelanceFinder",
     "TimeManagerU",
-    "RemoteFocus"
+    "RemoteFocus",
+    "MultiMarket Manager"
   ]
 }
