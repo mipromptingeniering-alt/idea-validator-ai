@@ -5907,6 +5907,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-05T08:59:52.920527"
+    },
+    {
+      "nombre": "EmprendeFacil",
+      "descripcion": "EmprendeFacil es un software como servicio que ofrece a emprendedores y pequeñas empresas todas las herramientas necesarias para ejecutar campañas de marketing digital exitosas. Desde la creación de newsletters hasta la gestión de redes sociales, todo en un solo lugar y sin complicaciones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-05T10:06:27.458064"
     }
   ],
   "nombres_usados": [
@@ -6753,6 +6760,7 @@
     "RemoteFocus",
     "MultiMarket Manager",
     "ChitChat",
-    "WellnessProject"
+    "WellnessProject",
+    "EmprendeFacil"
   ]
 }
