@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260405195407",
+    "nombre": "EventEase",
+    "tipo": "SaaS",
+    "resumen": "Plataforma todo-en-uno para la planificación y promoción de eventos virtuales y híbridos....",
+    "score": 75,
+    "landing_url": "IDEA-20260405195407.html"
+  },
+  {
     "id": "IDEA-20260405192214",
     "nombre": "TeamRewards",
     "tipo": "SaaS",

@@ -5984,6 +5984,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-05T19:54:07.274083"
+    },
+    {
+      "nombre": "MarketEZ",
+      "descripcion": "MarketEZ es una solución SaaS que combina herramientas de creación de contenido, gestión de redes sociales, email marketing y analítica, todo apoyado por un asistente de inteligencia artificial que ayuda a los usuarios a entender cómo optimizar sus campañas. La interfaz es intuitiva y se adapta al nivel de experiencia del usuario.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-05T20:23:23.720125"
     }
   ],
   "nombres_usados": [
@@ -6841,6 +6848,7 @@
     "ChatProject",
     "WellnessBot",
     "TeamRewards",
-    "EventEase"
+    "EventEase",
+    "MarketEZ"
   ]
 }
