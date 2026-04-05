@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260405105402",
+    "nombre": "CreatorRevenue",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que ayuda a creadores de contenido a gestionar y monetizar sus ingresos de manera simple y eficiente....",
+    "score": 75,
+    "landing_url": "IDEA-20260405105402.html"
+  },
+  {
     "id": "IDEA-20260405100627",
     "nombre": "EmprendeFacil",
     "tipo": "SaaS",
