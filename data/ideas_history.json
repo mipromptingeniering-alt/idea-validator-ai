@@ -5872,6 +5872,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-04T23:53:23.348463"
+    },
+    {
+      "nombre": "TimeManagerU",
+      "descripcion": "TimeManagerU permite a los estudiantes crear un horario personalizado basado en sus asignaturas, tareas y objetivos personales. Utiliza inteligencia artificial para analizar el rendimiento del usuario y adaptar las recomendaciones de gestión del tiempo, además de gamificar el proceso para mantener a los estudiantes motivados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-05T01:44:01.455750"
     }
   ],
   "nombres_usados": [
@@ -6713,6 +6720,7 @@
     "ShopSmart AI",
     "HomeFinder Pro",
     "FitBuddy",
-    "FreelanceFinder"
+    "FreelanceFinder",
+    "TimeManagerU"
   ]
 }

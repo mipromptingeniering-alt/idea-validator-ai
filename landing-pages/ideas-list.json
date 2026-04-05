@@ -5984,6 +5984,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260404235323",
+    "nombre": "FreelanceFinder",
+    "tipo": "SaaS",
+    "resumen": "FreelanceFinder es una plataforma SaaS que centraliza y optimiza la búsqueda de oportunidades freelance y trabajos temporales desde diversas plataform...",
+    "score": 70,
+    "landing_url": "IDEA-20260404235323.html"
+  },
+  {
     "id": "IDEA-20260404162708",
     "nombre": "RemoteTimeMaster",
     "tipo": "SaaS",
