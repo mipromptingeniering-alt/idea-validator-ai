@@ -5928,6 +5928,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-05T11:51:04.630689"
+    },
+    {
+      "nombre": "FocusMaster Pro",
+      "descripcion": "FocusMaster Pro es una herramienta de software como servicio que combina diferentes técnicas de gestión del tiempo y productividad, permitiendo a los usuarios personalizar su flujo de trabajo y establecer objetivos diarios, semanales y mensuales. Proporciona reportes de progreso para ayudar a los usuarios a identificar áreas de mejora.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-05T12:38:03.853651"
     }
   ],
   "nombres_usados": [
@@ -6777,6 +6784,7 @@
     "WellnessProject",
     "EmprendeFacil",
     "CreatorRevenue",
-    "MealPlanify"
+    "MealPlanify",
+    "FocusMaster Pro"
   ]
 }

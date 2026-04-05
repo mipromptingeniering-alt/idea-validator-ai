@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260405115104",
+    "nombre": "MealPlanify",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de planificación de comidas que organiza recetas, listas de compras y reduce el desperdicio de alimentos....",
+    "score": 75,
+    "landing_url": "IDEA-20260405115104.html"
+  },
+  {
     "id": "IDEA-20260405105402",
     "nombre": "CreatorRevenue",
     "tipo": "SaaS",
