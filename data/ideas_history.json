@@ -5956,6 +5956,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-05T14:59:54.153172"
+    },
+    {
+      "nombre": "ChatProject",
+      "descripcion": "ChatProject permite a los equipos comunicarse en tiempo real mientras gestionan sus proyectos en una sola interfaz. Incluye funciones de mensajería instantánea, tableros de tareas, y seguimiento del tiempo, todo diseñado para mejorar la eficiencia y la colaboración.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-05T17:23:04.907158"
     }
   ],
   "nombres_usados": [
@@ -6809,6 +6816,7 @@
     "FocusMaster Pro",
     "OrganizaPro",
     "AdSync",
-    "AutoFacturador"
+    "AutoFacturador",
+    "ChatProject"
   ]
 }
