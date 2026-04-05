@@ -5914,6 +5914,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-05T10:06:27.458064"
+    },
+    {
+      "nombre": "CreatorRevenue",
+      "descripcion": "CreatorRevenue es una herramienta SaaS que proporciona a los creadores de contenido las herramientas necesarias para centralizar sus ingresos, gestionar suscripciones de múltiples plataformas y analizar su rendimiento financiero en tiempo real. Con una interfaz intuitiva y herramientas de análisis avanzadas, los creadores pueden optimizar su flujo de ingresos y tomar decisiones informadas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-05T10:54:02.576394"
     }
   ],
   "nombres_usados": [
@@ -6761,6 +6768,7 @@
     "MultiMarket Manager",
     "ChitChat",
     "WellnessProject",
-    "EmprendeFacil"
+    "EmprendeFacil",
+    "CreatorRevenue"
   ]
 }
