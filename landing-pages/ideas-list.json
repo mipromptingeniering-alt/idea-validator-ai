@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260405080049",
+    "nombre": "ChitChat",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de gamificación para fomentar la conexión social y la productividad entre equipos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260405080049.html"
+  },
+  {
     "id": "IDEA-20260405070648",
     "nombre": "MultiMarket Manager",
     "tipo": "SaaS",
