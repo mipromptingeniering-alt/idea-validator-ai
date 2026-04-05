@@ -5935,6 +5935,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-05T12:38:03.853651"
+    },
+    {
+      "nombre": "OrganizaPro",
+      "descripcion": "OrganizaPro permite a los usuarios gestionar sus tareas diarias mediante una interfaz intuitiva, permitiendo la personalización de flujos de trabajo para adaptarse a sus necesidades específicas. Los usuarios pueden establecer recordatorios, categorizar tareas y ver su progreso en tiempo real.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-04-05T13:41:05.965561"
     }
   ],
   "nombres_usados": [
@@ -6785,6 +6792,7 @@
     "EmprendeFacil",
     "CreatorRevenue",
     "MealPlanify",
-    "FocusMaster Pro"
+    "FocusMaster Pro",
+    "OrganizaPro"
   ]
 }

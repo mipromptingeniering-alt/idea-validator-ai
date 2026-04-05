@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260405123803",
+    "nombre": "FocusMaster Pro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo que utiliza técnicas de productividad probadas para ayudar a los usuarios a maximizar su eficiencia....",
+    "score": 75,
+    "landing_url": "IDEA-20260405123803.html"
+  },
+  {
     "id": "IDEA-20260405115104",
     "nombre": "MealPlanify",
     "tipo": "SaaS",
