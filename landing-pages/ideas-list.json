@@ -6112,6 +6112,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260405202323",
+    "nombre": "MarketEZ",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de marketing digital todo en uno diseñada específicamente para pequeñas y medianas empresas, con un asistente de IA integrado....",
+    "score": 70,
+    "landing_url": "IDEA-20260405202323.html"
+  },
+  {
     "id": "IDEA-20260404235323",
     "nombre": "FreelanceFinder",
     "tipo": "SaaS",

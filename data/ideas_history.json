@@ -5991,6 +5991,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-05T20:23:23.720125"
+    },
+    {
+      "nombre": "AutoSocial Manager",
+      "descripcion": "AutoSocial Manager es un software como servicio diseñado para ayudar a las pymes a optimizar su presencia en redes sociales mediante la generación automática de contenido, análisis de rendimiento y programación de publicaciones. Ofrece una interfaz amigable y un asistente virtual que guía al usuario en la creación de una estrategia de marketing digital efectiva.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-04-05T20:57:00.026696"
     }
   ],
   "nombres_usados": [
@@ -6849,6 +6856,7 @@
     "WellnessBot",
     "TeamRewards",
     "EventEase",
-    "MarketEZ"
+    "MarketEZ",
+    "AutoSocial Manager"
   ]
 }
