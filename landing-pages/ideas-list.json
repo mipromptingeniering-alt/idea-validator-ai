@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260405134105",
+    "nombre": "OrganizaPro",
+    "tipo": "MicroSaaS",
+    "resumen": "Una herramienta de gestión de tareas simple y personalizable para pequeños emprendedores y freelancers....",
+    "score": 75,
+    "landing_url": "IDEA-20260405134105.html"
+  },
+  {
     "id": "IDEA-20260405123803",
     "nombre": "FocusMaster Pro",
     "tipo": "SaaS",

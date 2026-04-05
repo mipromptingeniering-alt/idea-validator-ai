@@ -5942,6 +5942,13 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-04-05T13:41:05.965561"
+    },
+    {
+      "nombre": "AdSync",
+      "descripcion": "AdSync permite a los usuarios conectar sus cuentas de publicidad en diversas plataformas y gestionar todas sus campañas desde un solo lugar. Incorpora un sistema basado en IA que brinda recomendaciones en tiempo real para la optimización de anuncios.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-05T14:20:39.200863"
     }
   ],
   "nombres_usados": [
@@ -6793,6 +6800,7 @@
     "CreatorRevenue",
     "MealPlanify",
     "FocusMaster Pro",
-    "OrganizaPro"
+    "OrganizaPro",
+    "AdSync"
   ]
 }
