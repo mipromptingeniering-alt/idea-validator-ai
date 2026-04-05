@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260405192214",
+    "nombre": "TeamRewards",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de tareas que gamifica la colaboración remota y mejora la moral del equipo a través de recompensas....",
+    "score": 75,
+    "landing_url": "IDEA-20260405192214.html"
+  },
+  {
     "id": "IDEA-20260405175525",
     "nombre": "WellnessBot",
     "tipo": "SaaS",

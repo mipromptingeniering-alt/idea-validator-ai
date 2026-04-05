@@ -5977,6 +5977,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-05T19:22:14.600305"
+    },
+    {
+      "nombre": "EventEase",
+      "descripcion": "EventEase es una solución SaaS que permite a los organizadores de eventos crear, gestionar y promocionar eventos virtuales e híbridos de manera sencilla y accesible. Con herramientas integradas de registro, marketing y comunicación, EventEase reduce la complejidad de la planificación de eventos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-05T19:54:07.274083"
     }
   ],
   "nombres_usados": [
@@ -6833,6 +6840,7 @@
     "AutoFacturador",
     "ChatProject",
     "WellnessBot",
-    "TeamRewards"
+    "TeamRewards",
+    "EventEase"
   ]
 }
