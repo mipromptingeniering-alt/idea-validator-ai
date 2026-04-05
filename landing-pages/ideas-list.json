@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260405175525",
+    "nombre": "WellnessBot",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de bienestar laboral que personaliza recomendaciones y recursos para la gestión del estrés y la salud mental....",
+    "score": 75,
+    "landing_url": "IDEA-20260405175525.html"
+  },
+  {
     "id": "IDEA-20260405172304",
     "nombre": "ChatProject",
     "tipo": "SaaS",

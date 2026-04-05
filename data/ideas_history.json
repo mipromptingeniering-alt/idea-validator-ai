@@ -5970,6 +5970,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-05T17:55:25.805463"
+    },
+    {
+      "nombre": "TeamRewards",
+      "descripcion": "TeamRewards es una herramienta de gestión de proyectos diseñada específicamente para equipos remotos. Integra la gestión de tareas con un sistema de recompensas y gamificación, donde los miembros del equipo pueden ganar puntos al completar tareas, colaborar y participar en actividades grupales. Estos puntos pueden ser canjeados por recompensas como días libres, tarjetas de regalo o donaciones a organizaciones benéficas de su elección.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-05T19:22:14.600305"
     }
   ],
   "nombres_usados": [
@@ -6825,6 +6832,7 @@
     "AdSync",
     "AutoFacturador",
     "ChatProject",
-    "WellnessBot"
+    "WellnessBot",
+    "TeamRewards"
   ]
 }
