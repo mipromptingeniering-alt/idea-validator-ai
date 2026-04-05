@@ -5893,6 +5893,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-05T07:06:48.837990"
+    },
+    {
+      "nombre": "ChitChat",
+      "descripcion": "ChitChat es una plataforma SaaS diseñada para ayudar a los equipos remotos a mejorar su comunicación y productividad mediante la gamificación de interacciones. A través de juegos, desafíos y espacios virtuales de conversación, los usuarios podrán establecer conexiones más profundas y mantener su motivación de trabajo alta.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-05T08:00:49.458581"
     }
   ],
   "nombres_usados": [
@@ -6737,6 +6744,7 @@
     "FreelanceFinder",
     "TimeManagerU",
     "RemoteFocus",
-    "MultiMarket Manager"
+    "MultiMarket Manager",
+    "ChitChat"
   ]
 }
