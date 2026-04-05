@@ -6012,6 +6012,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-05T22:22:29.418254"
+    },
+    {
+      "nombre": "CollabZone",
+      "descripcion": "CollabZone permite a los equipos gestionar tareas, comunicarse en tiempo real y organizar información de manera eficiente, todo en una interfaz intuitiva. Las pequeñas empresas pueden mejorar su productividad y colaboración sin necesidad de múltiples herramientas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-05T23:31:24.166683"
     }
   ],
   "nombres_usados": [
@@ -6873,6 +6880,7 @@
     "MarketEZ",
     "AutoSocial Manager",
     "Simplicidad CRM",
-    "FeedbackSnap"
+    "FeedbackSnap",
+    "CollabZone"
   ]
 }
