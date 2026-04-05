@@ -6005,6 +6005,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-05T21:28:20.745751"
+    },
+    {
+      "nombre": "FeedbackSnap",
+      "descripcion": "FeedbackSnap es una herramienta diseñada para ayudar a las pequeñas y medianas empresas a gestionar su relación con los clientes mediante la recopilación automatizada de feedback a través de encuestas y comentarios. Ofrece análisis en tiempo real y recomendaciones personalizadas para mejorar la experiencia del cliente y, en última instancia, aumentar la retención de clientes.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-05T22:22:29.418254"
     }
   ],
   "nombres_usados": [
@@ -6865,6 +6872,7 @@
     "EventEase",
     "MarketEZ",
     "AutoSocial Manager",
-    "Simplicidad CRM"
+    "Simplicidad CRM",
+    "FeedbackSnap"
   ]
 }

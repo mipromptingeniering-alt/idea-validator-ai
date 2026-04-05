@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260405212820",
+    "nombre": "Simplicidad CRM",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma CRM modular y asequible específicamente diseñada para pequeñas y medianas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260405212820.html"
+  },
+  {
     "id": "IDEA-20260405195407",
     "nombre": "EventEase",
     "tipo": "SaaS",
