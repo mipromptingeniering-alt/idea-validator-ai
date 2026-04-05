@@ -5998,6 +5998,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-04-05T20:57:00.026696"
+    },
+    {
+      "nombre": "Simplicidad CRM",
+      "descripcion": "Simplicidad CRM es una herramienta de gestión de relaciones con clientes que permite a las PYMEs gestionar su proceso de ventas, seguimiento de clientes potenciales y la comunicación con clientes de manera eficiente. Los usuarios pueden elegir entre módulos como gestión de contactos, automatización de correos electrónicos, análisis de ventas y gestión de tareas, lo que permite personalizar la herramienta según sus necesidades.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-05T21:28:20.745751"
     }
   ],
   "nombres_usados": [
@@ -6857,6 +6864,7 @@
     "TeamRewards",
     "EventEase",
     "MarketEZ",
-    "AutoSocial Manager"
+    "AutoSocial Manager",
+    "Simplicidad CRM"
   ]
 }
