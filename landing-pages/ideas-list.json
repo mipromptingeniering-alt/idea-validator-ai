@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260405172304",
+    "nombre": "ChatProject",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que combina chat y gestión de proyectos para equipos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260405172304.html"
+  },
+  {
     "id": "IDEA-20260405145954",
     "nombre": "AutoFacturador",
     "tipo": "SaaS",

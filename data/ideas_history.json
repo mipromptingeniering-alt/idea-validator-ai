@@ -5963,6 +5963,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-05T17:23:04.907158"
+    },
+    {
+      "nombre": "WellnessBot",
+      "descripcion": "WellnessBot utiliza inteligencia artificial para ofrecer a los empleados recursos personalizados de bienestar, como ejercicios de respiración, meditación guiada y consejos para mejorar la gestión del tiempo y reducir el estrés. También permite la integración con plataformas de trabajo como Slack y Microsoft Teams.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-05T17:55:25.805463"
     }
   ],
   "nombres_usados": [
@@ -6817,6 +6824,7 @@
     "OrganizaPro",
     "AdSync",
     "AutoFacturador",
-    "ChatProject"
+    "ChatProject",
+    "WellnessBot"
   ]
 }
