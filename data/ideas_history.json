@@ -5949,6 +5949,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-05T14:20:39.200863"
+    },
+    {
+      "nombre": "AutoFacturador",
+      "descripcion": "AutoFacturador permite a los usuarios crear y enviar facturas fácilmente, gestionar sus gastos y generar reportes financieros simples, todo desde una interfaz intuitiva y amigable. Además, incluye recordatorios de pagos y fechas fiscales relevantes.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-05T14:59:54.153172"
     }
   ],
   "nombres_usados": [
@@ -6801,6 +6808,7 @@
     "MealPlanify",
     "FocusMaster Pro",
     "OrganizaPro",
-    "AdSync"
+    "AdSync",
+    "AutoFacturador"
   ]
 }

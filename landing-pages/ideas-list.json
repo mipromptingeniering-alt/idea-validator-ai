@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260405142039",
+    "nombre": "AdSync",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma única para gestionar campañas de marketing digital en múltiples canales con una inteligencia artificial que optimiza el rendimiento....",
+    "score": 75,
+    "landing_url": "IDEA-20260405142039.html"
+  },
+  {
     "id": "IDEA-20260405134105",
     "nombre": "OrganizaPro",
     "tipo": "MicroSaaS",
