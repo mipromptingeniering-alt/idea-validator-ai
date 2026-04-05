@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260405014401",
+    "nombre": "TimeManagerU",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión del tiempo diseñada específicamente para estudiantes universitarios, que utiliza IA para personalizar la experiencia de org...",
+    "score": 75,
+    "landing_url": "IDEA-20260405014401.html"
+  },
+  {
     "id": "IDEA-20260404232404",
     "nombre": "FitBuddy",
     "tipo": "SaaS",
