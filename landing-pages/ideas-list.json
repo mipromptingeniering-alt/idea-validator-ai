@@ -6224,6 +6224,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260406183524",
+    "nombre": "Simplicidad PYMES",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de tareas sencilla y económica diseñada específicamente para PYMES....",
+    "score": 70,
+    "landing_url": "IDEA-20260406183524.html"
+  },
+  {
     "id": "IDEA-20260405202323",
     "nombre": "MarketEZ",
     "tipo": "SaaS",

@@ -6096,6 +6096,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-06T18:35:24.995909"
+    },
+    {
+      "nombre": "FreelanceTaxMate",
+      "descripcion": "FreelanceTaxMate es una herramienta diseñada específicamente para freelancers que simplifica la gestión financiera y fiscal. Permite registrar ingresos y gastos, generar informes de impuestos y proporciona recomendaciones automatizadas para optimizar las cargas fiscales.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-06T19:40:05.717644"
     }
   ],
   "nombres_usados": [
@@ -6969,6 +6976,7 @@
     "WorkFlowEase",
     "DataSavvy",
     "WorkFlow Genius",
-    "Simplicidad PYMES"
+    "Simplicidad PYMES",
+    "FreelanceTaxMate"
   ]
 }
