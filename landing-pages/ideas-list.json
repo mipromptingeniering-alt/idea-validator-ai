@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260406160053",
+    "nombre": "DataSavvy",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de análisis de datos fácil de usar que ayuda a los marketers a visualizar y transformar datos en decisiones estratégicas....",
+    "score": 75,
+    "landing_url": "IDEA-20260406160053.html"
+  },
+  {
     "id": "IDEA-20260406141458",
     "nombre": "WorkFlowEase",
     "tipo": "SaaS",
