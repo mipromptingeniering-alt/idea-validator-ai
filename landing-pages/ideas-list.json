@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260406130801",
+    "nombre": "ProjectFlow",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para la gestión de proyectos, tareas y facturación orientada a freelancers y trabajadores autónomos....",
+    "score": 75,
+    "landing_url": "IDEA-20260406130801.html"
+  },
+  {
     "id": "IDEA-20260406111212",
     "nombre": "SmartCRM para PYMEs",
     "tipo": "SaaS",
