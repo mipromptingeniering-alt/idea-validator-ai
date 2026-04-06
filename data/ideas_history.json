@@ -6103,6 +6103,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-06T19:40:05.717644"
+    },
+    {
+      "nombre": "Mindful Time Manager",
+      "descripcion": "Mindful Time Manager es una herramienta que permite a los usuarios planificar su semana, establecer metas diarias y, a su vez, incluir breves sesiones de meditación y autocuidado en su agenda. Se basa en la premisa de que un enfoque equilibrado del trabajo y la vida personal mejora la eficiencia y la satisfacción.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-06T20:21:49.770236"
     }
   ],
   "nombres_usados": [
@@ -6977,6 +6984,7 @@
     "DataSavvy",
     "WorkFlow Genius",
     "Simplicidad PYMES",
-    "FreelanceTaxMate"
+    "FreelanceTaxMate",
+    "Mindful Time Manager"
   ]
 }

@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260406194005",
+    "nombre": "FreelanceTaxMate",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que gestiona las finanzas de freelancers, automatizando el seguimiento de ingresos, gastos y asesoría fiscal....",
+    "score": 75,
+    "landing_url": "IDEA-20260406194005.html"
+  },
+  {
     "id": "IDEA-20260406173842",
     "nombre": "WorkFlow Genius",
     "tipo": "SaaS",
