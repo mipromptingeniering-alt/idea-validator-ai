@@ -6089,6 +6089,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-06T17:38:42.335737"
+    },
+    {
+      "nombre": "Simplicidad PYMES",
+      "descripcion": "Simplicidad PYMES es una aplicación SaaS que permite a las pequeñas y medianas empresas gestionar sus proyectos y tareas de forma intuitiva, facilitando la digitalización de sus procesos sin complicaciones innecesarias.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-06T18:35:24.995909"
     }
   ],
   "nombres_usados": [
@@ -6961,6 +6968,7 @@
     "ProjectFlow",
     "WorkFlowEase",
     "DataSavvy",
-    "WorkFlow Genius"
+    "WorkFlow Genius",
+    "Simplicidad PYMES"
   ]
 }
