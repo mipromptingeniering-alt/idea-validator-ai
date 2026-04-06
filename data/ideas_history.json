@@ -6019,6 +6019,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-05T23:31:24.166683"
+    },
+    {
+      "nombre": "CreatiWell",
+      "descripcion": "CreatiWell es una herramienta SaaS que combina la gestión de proyectos con recursos de bienestar. Los usuarios podrán hacer seguimiento de sus tareas, establecer fechas límite, y recibir recordatorios para descansos y ejercicios de mindfulness. Además, la plataforma ofrecerá análisis de estado de ánimo y recomendaciones personalizadas para mejorar la salud mental.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-06T00:03:33.701419"
     }
   ],
   "nombres_usados": [
@@ -6881,6 +6888,7 @@
     "AutoSocial Manager",
     "Simplicidad CRM",
     "FeedbackSnap",
-    "CollabZone"
+    "CollabZone",
+    "CreatiWell"
   ]
 }

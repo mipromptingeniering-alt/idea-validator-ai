@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260405233124",
+    "nombre": "CollabZone",
+    "tipo": "SaaS",
+    "resumen": "CollabZone es una plataforma de colaboración diseñada para pequeñas empresas que combina gestión de proyectos, comunicación y organización en un solo ...",
+    "score": 75,
+    "landing_url": "IDEA-20260405233124.html"
+  },
+  {
     "id": "IDEA-20260405222229",
     "nombre": "FeedbackSnap",
     "tipo": "SaaS",
