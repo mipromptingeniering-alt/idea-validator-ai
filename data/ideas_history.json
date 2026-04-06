@@ -6124,6 +6124,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-06T23:03:36.051442"
+    },
+    {
+      "nombre": "CommSync",
+      "descripcion": "CommSync es una aplicación SaaS que permite a los equipos distribuidos comunicarse de manera efectiva y gestionar sus proyectos en un solo lugar. Integra funciones de chat, videoconferencias, gestión de tareas y calendarios compartidos, facilitando la colaboración y la organización.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-06T23:50:24.240555"
     }
   ],
   "nombres_usados": [
@@ -7001,6 +7008,7 @@
     "FreelanceTaxMate",
     "Mindful Time Manager",
     "OptiAd",
-    "PyMEs Marketing Pro"
+    "PyMEs Marketing Pro",
+    "CommSync"
   ]
 }

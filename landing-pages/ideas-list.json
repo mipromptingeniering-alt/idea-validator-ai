@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260406230335",
+    "nombre": "PyMEs Marketing Pro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de marketing digital diseñada específicamente para pequeñas y medianas empresas, que ofrece herramientas automatizadas y capacitaciones...",
+    "score": 75,
+    "landing_url": "IDEA-20260406230335.html"
+  },
+  {
     "id": "IDEA-20260406222728",
     "nombre": "OptiAd",
     "tipo": "SaaS",
