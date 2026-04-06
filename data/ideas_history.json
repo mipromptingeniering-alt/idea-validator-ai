@@ -6033,6 +6033,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-06T05:50:33.464399"
+    },
+    {
+      "nombre": "FinBot",
+      "descripcion": "FinBot utiliza inteligencia artificial para automatizar tareas contables diarias, ofrecer reportes financieros, y brindar asesoramiento personalizado para optimizar los impuestos y gastos. Su interfaz es amigable y permite integrar cuentas bancarias, lo que facilita el seguimiento de ingresos y gastos en tiempo real.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-06T07:19:17.885734"
     }
   ],
   "nombres_usados": [
@@ -6897,6 +6904,7 @@
     "FeedbackSnap",
     "CollabZone",
     "CreatiWell",
-    "DigiMarket Pro"
+    "DigiMarket Pro",
+    "FinBot"
   ]
 }
