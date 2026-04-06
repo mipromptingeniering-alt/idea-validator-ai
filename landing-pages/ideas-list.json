@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260406000333",
+    "nombre": "CreatiWell",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral diseñada para ayudar a los creativos a gestionar su tiempo y recursos, mientras cuidan de su salud mental....",
+    "score": 75,
+    "landing_url": "IDEA-20260406000333.html"
+  },
+  {
     "id": "IDEA-20260405233124",
     "nombre": "CollabZone",
     "tipo": "SaaS",
