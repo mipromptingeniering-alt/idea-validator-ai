@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260406222728",
+    "nombre": "OptiAd",
+    "tipo": "SaaS",
+    "resumen": "OptiAd es una plataforma que utiliza IA para automatizar y optimizar campañas publicitarias en diversas plataformas digitales....",
+    "score": 75,
+    "landing_url": "IDEA-20260406222728.html"
+  },
+  {
     "id": "IDEA-20260406202149",
     "nombre": "Mindful Time Manager",
     "tipo": "SaaS",

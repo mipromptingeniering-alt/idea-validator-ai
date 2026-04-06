@@ -6117,6 +6117,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-06T22:27:28.333421"
+    },
+    {
+      "nombre": "PyMEs Marketing Pro",
+      "descripcion": "PyMEs Marketing Pro es un software de marketing digital que permite a las PYMEs automatizar sus campañas de email marketing, gestionar redes sociales y optimizar su presencia en línea, todo desde una interfaz fácil de usar. Además, incluye módulos de capacitación para enseñar a los usuarios a maximizar el uso de estas herramientas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-06T23:03:36.051442"
     }
   ],
   "nombres_usados": [
@@ -6993,6 +7000,7 @@
     "Simplicidad PYMES",
     "FreelanceTaxMate",
     "Mindful Time Manager",
-    "OptiAd"
+    "OptiAd",
+    "PyMEs Marketing Pro"
   ]
 }
