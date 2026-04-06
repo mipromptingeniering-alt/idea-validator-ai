@@ -6040,6 +6040,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-06T07:19:17.885734"
+    },
+    {
+      "nombre": "Wellness Time Manager",
+      "descripcion": "Wellness Time Manager ayuda a los profesionales que trabajan desde casa a gestionar su tiempo de manera efectiva mientras promueve su bienestar físico y mental, integrando recordatorios de ejercicio, meditación, y herramientas de planificación.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-04-06T08:51:09.447852"
     }
   ],
   "nombres_usados": [
@@ -6905,6 +6912,7 @@
     "CollabZone",
     "CreatiWell",
     "DigiMarket Pro",
-    "FinBot"
+    "FinBot",
+    "Wellness Time Manager"
   ]
 }
