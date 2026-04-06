@@ -6075,6 +6075,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-06T14:14:58.659119"
+    },
+    {
+      "nombre": "DataSavvy",
+      "descripcion": "DataSavvy es una herramienta de análisis de datos basada en inteligencia artificial que simplifica la visualización de datos y proporciona recomendaciones personalizadas. Su enfoque está en ayudar a los profesionales del marketing a comprender rápidamente sus datos y optimizar sus campañas sin necesidad de ser expertos en análisis.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-06T16:00:53.288102"
     }
   ],
   "nombres_usados": [
@@ -6945,6 +6952,7 @@
     "EduTasks",
     "SmartCRM para PYMEs",
     "ProjectFlow",
-    "WorkFlowEase"
+    "WorkFlowEase",
+    "DataSavvy"
   ]
 }

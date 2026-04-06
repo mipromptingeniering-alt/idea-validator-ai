@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260406141458",
+    "nombre": "WorkFlowEase",
+    "tipo": "SaaS",
+    "resumen": "Un software de gestión de flujos de trabajo diseñado específicamente para pequeñas y medianas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260406141458.html"
+  },
+  {
     "id": "IDEA-20260406130801",
     "nombre": "ProjectFlow",
     "tipo": "SaaS",
