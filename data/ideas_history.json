@@ -6047,6 +6047,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-04-06T08:51:09.447852"
+    },
+    {
+      "nombre": "EduTasks",
+      "descripcion": "EduTasks es una plataforma donde los padres pueden visualizar, asignar y supervisar las tareas escolares de sus hijos. Incluye un calendario compartido, recordatorios y una sección para comunicación con profesores. Los niños pueden gestionar su propia lista de tareas y recibir recompensas por completar sus objetivos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-06T10:02:14.216552"
     }
   ],
   "nombres_usados": [
@@ -6913,6 +6920,7 @@
     "CreatiWell",
     "DigiMarket Pro",
     "FinBot",
-    "Wellness Time Manager"
+    "Wellness Time Manager",
+    "EduTasks"
   ]
 }
