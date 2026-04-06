@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260406202149",
+    "nombre": "Mindful Time Manager",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de tiempo que integra planificación de tareas y prácticas de mindfulness para aumentar la productividad sin sacrificar el bi...",
+    "score": 75,
+    "landing_url": "IDEA-20260406202149.html"
+  },
+  {
     "id": "IDEA-20260406194005",
     "nombre": "FreelanceTaxMate",
     "tipo": "SaaS",

@@ -6110,6 +6110,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-06T20:21:49.770236"
+    },
+    {
+      "nombre": "OptiAd",
+      "descripcion": "OptiAd ofrece un análisis en tiempo real del rendimiento de las campañas publicitarias, sugiriendo ajustes y optimizaciones basadas en datos históricos y tendencias actuales. Los usuarios pueden integrar múltiples cuentas publicitarias y recibir recomendaciones personalizadas para maximizar su retorno de inversión.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-06T22:27:28.333421"
     }
   ],
   "nombres_usados": [
@@ -6985,6 +6992,7 @@
     "WorkFlow Genius",
     "Simplicidad PYMES",
     "FreelanceTaxMate",
-    "Mindful Time Manager"
+    "Mindful Time Manager",
+    "OptiAd"
   ]
 }
