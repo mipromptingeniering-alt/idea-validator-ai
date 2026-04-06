@@ -6061,6 +6061,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-06T11:12:12.382109"
+    },
+    {
+      "nombre": "ProjectFlow",
+      "descripcion": "ProjectFlow permite a los usuarios gestionar sus proyectos, tareas, y facturación de manera centralizada. Incluye características como recordatorios de vencimientos, generación de facturas automáticas, y panel de control intuitivo que facilita la visualización de progreso y cumplimiento de plazos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-06T13:08:01.934648"
     }
   ],
   "nombres_usados": [
@@ -6929,6 +6936,7 @@
     "FinBot",
     "Wellness Time Manager",
     "EduTasks",
-    "SmartCRM para PYMEs"
+    "SmartCRM para PYMEs",
+    "ProjectFlow"
   ]
 }
