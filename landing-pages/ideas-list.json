@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260406100214",
+    "nombre": "EduTasks",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta digital para que padres e hijos organiZen y gestionen tareas y deberes escolares....",
+    "score": 75,
+    "landing_url": "IDEA-20260406100214.html"
+  },
+  {
     "id": "IDEA-20260406071917",
     "nombre": "FinBot",
     "tipo": "SaaS",

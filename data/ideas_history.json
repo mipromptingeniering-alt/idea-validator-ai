@@ -6054,6 +6054,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-06T10:02:14.216552"
+    },
+    {
+      "nombre": "SmartCRM para PYMEs",
+      "descripcion": "SmartCRM permite a las PYMEs gestionar sus contactos, hacer seguimientos automáticos, programar recordatorios y recibir análisis sobre el comportamiento de los clientes. Integrándose con herramientas de mensajería para que la comunicación sea fluida y directa.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-06T11:12:12.382109"
     }
   ],
   "nombres_usados": [
@@ -6921,6 +6928,7 @@
     "DigiMarket Pro",
     "FinBot",
     "Wellness Time Manager",
-    "EduTasks"
+    "EduTasks",
+    "SmartCRM para PYMEs"
   ]
 }
