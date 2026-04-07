@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260407202414",
+    "nombre": "ContentEase",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de gestión de redes sociales centrada en pequeñas empresas, que proporciona plantillas personalizables y análisis de desempeño....",
+    "score": 75,
+    "landing_url": "IDEA-20260407202414.html"
+  },
+  {
     "id": "IDEA-20260407194149",
     "nombre": "WebNinja",
     "tipo": "MicroSaaS",

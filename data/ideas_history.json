@@ -6229,6 +6229,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-07T20:24:15.017285"
+    },
+    {
+      "nombre": "PYME Social Manager",
+      "descripcion": "PYME Social Manager es un software como servicio que permite a las pequeñas y medianas empresas gestionar sus cuentas de redes sociales de manera sencilla y eficiente. Ofrece funcionalidades de programación de publicaciones, respuestas automáticas a comentarios y mensajes, y generación de informes de rendimiento. Todo en una interfaz intuitiva y amigable que requiere poco o ningún conocimiento técnico.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-07T21:08:54.991845"
     }
   ],
   "nombres_usados": [
@@ -7121,6 +7128,7 @@
     "Contabilizei",
     "SubManage",
     "WebNinja",
-    "ContentEase"
+    "ContentEase",
+    "PYME Social Manager"
   ]
 }
