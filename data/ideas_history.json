@@ -6208,6 +6208,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-07T16:39:35.554046"
+    },
+    {
+      "nombre": "SubManage",
+      "descripcion": "SubManage permite a los usuarios agrupar todas sus suscripciones en una sola plataforma, visualizar el costo total mensual, recibir recordatorios de pagos y cancelaciones, y analizar el uso real de cada suscripción para tomar decisiones informadas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-07T17:39:41.906681"
     }
   ],
   "nombres_usados": [
@@ -7097,6 +7104,7 @@
     "TimeHealth",
     "TaskJoy",
     "CreativeTime Manager",
-    "Contabilizei"
+    "Contabilizei",
+    "SubManage"
   ]
 }
