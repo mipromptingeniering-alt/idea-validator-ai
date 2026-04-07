@@ -6152,6 +6152,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-07T07:10:40.905203"
+    },
+    {
+      "nombre": "LearnSmart",
+      "descripcion": "LearnSmart es una herramienta que permite a los usuarios definir sus objetivos de aprendizaje y recibir una curación personalizada de contenido en forma de artículos, videos y cursos, basándose en sus intereses y progreso. La inteligencia artificial analiza el comportamiento del usuario para ajustar las recomendaciones y ayudarle a concentrarse en lo que realmente le beneficiará.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-07T08:19:56.493195"
     }
   ],
   "nombres_usados": [
@@ -7033,6 +7040,7 @@
     "CommSync",
     "TeamTime Connect",
     "FeedbackSimple",
-    "EcoPyme"
+    "EcoPyme",
+    "LearnSmart"
   ]
 }
