@@ -6236,6 +6236,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-07T21:08:54.991845"
+    },
+    {
+      "nombre": "WellManage",
+      "descripcion": "WellManage es una solución SaaS diseñada para ayudar a terapeutas, coaches y otros profesionales del bienestar a gestionar sus prácticas de manera más efectiva. Ofrece funciones como la programación automática de citas, una herramienta de facturación, y un sistema para llevar un registro del progreso de los clientes, incluyendo la posibilidad de enviar recordatorios y encuestas de bienestar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-07T21:56:56.401654"
     }
   ],
   "nombres_usados": [
@@ -7129,6 +7136,7 @@
     "SubManage",
     "WebNinja",
     "ContentEase",
-    "PYME Social Manager"
+    "PYME Social Manager",
+    "WellManage"
   ]
 }
