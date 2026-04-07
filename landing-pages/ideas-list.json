@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260406235024",
+    "nombre": "CommSync",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral que combina la gestión de proyectos, la programación de reuniones y la comunicación en tiempo real para equipos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260406235024.html"
+  },
+  {
     "id": "IDEA-20260406230335",
     "nombre": "PyMEs Marketing Pro",
     "tipo": "SaaS",

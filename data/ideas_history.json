@@ -6131,6 +6131,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-06T23:50:24.240555"
+    },
+    {
+      "nombre": "TeamTime Connect",
+      "descripcion": "TeamTime Connect combina herramientas de gestión del tiempo y comunicación en un solo lugar. Permite a los usuarios establecer temporizadores, gestionar sus tareas y comunicarse en tiempo real con sus equipos mediante chat y video, todo en una interfaz intuitiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-07T01:29:48.994658"
     }
   ],
   "nombres_usados": [
@@ -7009,6 +7016,7 @@
     "Mindful Time Manager",
     "OptiAd",
     "PyMEs Marketing Pro",
-    "CommSync"
+    "CommSync",
+    "TeamTime Connect"
   ]
 }
