@@ -6201,6 +6201,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-04-07T15:44:14.272619"
+    },
+    {
+      "nombre": "Contabilizei",
+      "descripcion": "Contabilizei permite a los emprendedores y pequeñas empresas llevar un control de sus ingresos y gastos de manera sencilla, generando reportes y asesorando sobre decisiones financieras. La interfaz amigable y las sugerencias automáticas brindan asistencia en tiempo real, lo que facilita la toma de decisiones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-07T16:39:35.554046"
     }
   ],
   "nombres_usados": [
@@ -7089,6 +7096,7 @@
     "Adminify",
     "TimeHealth",
     "TaskJoy",
-    "CreativeTime Manager"
+    "CreativeTime Manager",
+    "Contabilizei"
   ]
 }
