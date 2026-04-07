@@ -6166,6 +6166,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-07T09:46:27.389852"
+    },
+    {
+      "nombre": "InsightHub",
+      "descripcion": "InsightHub permite a los marketers monitorear y analizar el rendimiento de sus campañas de publicidad digital en tiempo real, integrando datos de múltiples fuentes como Google Ads, Facebook Ads, Instagram y más, proporcionando un dashboard intuitivo con recomendaciones automáticas para optimizar el rendimiento.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-07T10:40:18.035034"
     }
   ],
   "nombres_usados": [
@@ -7049,6 +7056,7 @@
     "FeedbackSimple",
     "EcoPyme",
     "LearnSmart",
-    "CollaboTask"
+    "CollaboTask",
+    "InsightHub"
   ]
 }
