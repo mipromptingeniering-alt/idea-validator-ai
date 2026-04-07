@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260407124243",
+    "nombre": "TimeHealth",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo que ayuda a profesionales a priorizar tareas mientras cuida su bienestar mental....",
+    "score": 75,
+    "landing_url": "IDEA-20260407124243.html"
+  },
+  {
     "id": "IDEA-20260407113633",
     "nombre": "Adminify",
     "tipo": "SaaS",

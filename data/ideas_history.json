@@ -6187,6 +6187,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-07T12:42:43.312155"
+    },
+    {
+      "nombre": "TaskJoy",
+      "descripcion": "TaskJoy permite a los equipos gestionar sus proyectos y tareas de una manera divertida y eficiente. Utiliza mecanismos de gamificación para motivar a los miembros del equipo a completar tareas y colaborar, proporcionando una experiencia de usuario intuitiva y atractiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-07T14:14:34.363468"
     }
   ],
   "nombres_usados": [
@@ -7073,6 +7080,7 @@
     "CollaboTask",
     "InsightHub",
     "Adminify",
-    "TimeHealth"
+    "TimeHealth",
+    "TaskJoy"
   ]
 }
