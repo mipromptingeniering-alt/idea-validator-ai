@@ -6145,6 +6145,13 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-04-07T05:59:50.301392"
+    },
+    {
+      "nombre": "EcoPyme",
+      "descripcion": "EcoPyme es una solución SaaS que proporciona herramientas para que las pequeñas y medianas empresas puedan medir su huella de carbono, optimizar el uso de recursos y cumplir con las normativas ambientales de forma eficiente y accesible.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-07T07:10:40.905203"
     }
   ],
   "nombres_usados": [
@@ -7025,6 +7032,7 @@
     "PyMEs Marketing Pro",
     "CommSync",
     "TeamTime Connect",
-    "FeedbackSimple"
+    "FeedbackSimple",
+    "EcoPyme"
   ]
 }
