@@ -6215,6 +6215,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-07T17:39:41.906681"
+    },
+    {
+      "nombre": "WebNinja",
+      "descripcion": "WebNinja proporciona un constructor de sitios web intuitivo, con plantillas específicas para diferentes industrias, integración con redes sociales y herramientas de SEO, permitiendo a los usuarios tener una presencia online efectiva y accesible.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-04-07T19:41:49.740490"
     }
   ],
   "nombres_usados": [
@@ -7105,6 +7112,7 @@
     "TaskJoy",
     "CreativeTime Manager",
     "Contabilizei",
-    "SubManage"
+    "SubManage",
+    "WebNinja"
   ]
 }
