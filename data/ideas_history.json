@@ -6243,6 +6243,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-07T21:56:56.401654"
+    },
+    {
+      "nombre": "TaskTailor",
+      "descripcion": "TaskTailor es una herramienta de gestión de tareas basada en la nube que permite a los usuarios personalizar su flujo de trabajo, integrando inteligencia artificial para aprender y adaptarse a sus rutinas. Ofrece recordatorios automáticos, sugerencias de priorización y análisis de productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-07T23:22:26.611033"
     }
   ],
   "nombres_usados": [
@@ -7137,6 +7144,7 @@
     "WebNinja",
     "ContentEase",
     "PYME Social Manager",
-    "WellManage"
+    "WellManage",
+    "TaskTailor"
   ]
 }

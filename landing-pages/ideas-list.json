@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260407215656",
+    "nombre": "WellManage",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral de gestión para profesionales del bienestar y la salud mental que simplifica la programación de citas, facturación y seguimien...",
+    "score": 75,
+    "landing_url": "IDEA-20260407215656.html"
+  },
+  {
     "id": "IDEA-20260407210854",
     "nombre": "PYME Social Manager",
     "tipo": "SaaS",
