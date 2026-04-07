@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260407141434",
+    "nombre": "TaskJoy",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de tareas y proyectos que utiliza gamificación para mejorar la colaboración y la productividad en equipos pequeños....",
+    "score": 75,
+    "landing_url": "IDEA-20260407141434.html"
+  },
+  {
     "id": "IDEA-20260407124243",
     "nombre": "TimeHealth",
     "tipo": "SaaS",

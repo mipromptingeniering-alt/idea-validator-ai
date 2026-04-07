@@ -6194,6 +6194,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-07T14:14:34.363468"
+    },
+    {
+      "nombre": "CreativeTime Manager",
+      "descripcion": "CreativeTime Manager es una herramienta SaaS que ayuda a los creativos a organizar sus tareas, gestionar su tiempo y prever plazos de entrega. Integra funciones de seguimiento de tiempo y colaboración, así como análisis predictivos para ofrecer sugerencias de gestión de proyectos basadas en datos previos.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-04-07T15:44:14.272619"
     }
   ],
   "nombres_usados": [
@@ -7081,6 +7088,7 @@
     "InsightHub",
     "Adminify",
     "TimeHealth",
-    "TaskJoy"
+    "TaskJoy",
+    "CreativeTime Manager"
   ]
 }
