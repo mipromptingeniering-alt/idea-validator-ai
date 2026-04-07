@@ -6138,6 +6138,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-07T01:29:48.994658"
+    },
+    {
+      "nombre": "FeedbackSimple",
+      "descripcion": "FeedbackSimple permite a las pequeñas y medianas empresas crear encuestas personalizadas y recopilar datos sobre la satisfacción del cliente de manera rápida y sencilla. La plataforma ofrece análisis básicos que ayudan a identificar áreas de mejora.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-04-07T05:59:50.301392"
     }
   ],
   "nombres_usados": [
@@ -7017,6 +7024,7 @@
     "OptiAd",
     "PyMEs Marketing Pro",
     "CommSync",
-    "TeamTime Connect"
+    "TeamTime Connect",
+    "FeedbackSimple"
   ]
 }

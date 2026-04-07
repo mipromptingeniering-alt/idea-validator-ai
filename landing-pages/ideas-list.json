@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260407012948",
+    "nombre": "TeamTime Connect",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que integra la gestión del tiempo y la comunicación del equipo para mejorar la productividad en entornos de trabajo remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260407012948.html"
+  },
+  {
     "id": "IDEA-20260406235024",
     "nombre": "CommSync",
     "tipo": "SaaS",
