@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260407194149",
+    "nombre": "WebNinja",
+    "tipo": "MicroSaaS",
+    "resumen": "Una plataforma que permite a pequeñas empresas crear y gestionar fácilmente sus sitios web sin necesidad de conocimientos técnicos....",
+    "score": 75,
+    "landing_url": "IDEA-20260407194149.html"
+  },
+  {
     "id": "IDEA-20260407173941",
     "nombre": "SubManage",
     "tipo": "SaaS",

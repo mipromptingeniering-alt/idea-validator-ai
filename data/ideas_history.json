@@ -6222,6 +6222,13 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-04-07T19:41:49.740490"
+    },
+    {
+      "nombre": "ContentEase",
+      "descripcion": "ContentEase es una herramienta SaaS diseñada para pequeñas empresas para facilitar la gestión de sus redes sociales. Ofrece una biblioteca de plantillas de contenido visual adaptadas a diferentes industrias y permite programar publicaciones en múltiples plataformas. Además, incluye herramientas de análisis que ayudan a las empresas a medir el rendimiento de sus publicaciones, optimizando así su estrategia de contenido.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-07T20:24:15.017285"
     }
   ],
   "nombres_usados": [
@@ -7113,6 +7120,7 @@
     "CreativeTime Manager",
     "Contabilizei",
     "SubManage",
-    "WebNinja"
+    "WebNinja",
+    "ContentEase"
   ]
 }
