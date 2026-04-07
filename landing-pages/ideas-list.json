@@ -6304,6 +6304,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260407104017",
+    "nombre": "InsightHub",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de análisis integral que centraliza y optimiza el rendimiento de las campañas de marketing digital....",
+    "score": 70,
+    "landing_url": "IDEA-20260407104017.html"
+  },
+  {
     "id": "IDEA-20260406183524",
     "nombre": "Simplicidad PYMES",
     "tipo": "SaaS",

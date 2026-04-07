@@ -6173,6 +6173,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-07T10:40:18.035034"
+    },
+    {
+      "nombre": "Adminify",
+      "descripcion": "Adminify es un software de gestión que permite a las pequeñas y medianas empresas llevar el control de sus tareas administrativas y contables de forma sencilla. A través de una interfaz amigable, los usuarios pueden registrar gastos, generar reportes y llevar un seguimiento de sus procesos operativos. La plataforma también incluye recordatorios de pagos y reportes automatizados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-07T11:36:33.824475"
     }
   ],
   "nombres_usados": [
@@ -7057,6 +7064,7 @@
     "EcoPyme",
     "LearnSmart",
     "CollaboTask",
-    "InsightHub"
+    "InsightHub",
+    "Adminify"
   ]
 }
