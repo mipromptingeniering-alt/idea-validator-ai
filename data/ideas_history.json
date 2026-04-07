@@ -6159,6 +6159,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-07T08:19:56.493195"
+    },
+    {
+      "nombre": "CollaboTask",
+      "descripcion": "CollaboTask es una solución que permite a los equipos remotos gestionar sus tareas y proyectos en un solo lugar mientras se comunican y colaboran en tiempo real. Utiliza inteligencia artificial para adaptar las tareas y brindar informes de productividad, facilitando una gestión más efectiva del tiempo y recursos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-07T09:46:27.389852"
     }
   ],
   "nombres_usados": [
@@ -7041,6 +7048,7 @@
     "TeamTime Connect",
     "FeedbackSimple",
     "EcoPyme",
-    "LearnSmart"
+    "LearnSmart",
+    "CollaboTask"
   ]
 }
