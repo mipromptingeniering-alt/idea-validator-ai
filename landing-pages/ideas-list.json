@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260408000009",
+    "nombre": "AuthentiReview",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de validación de reseñas de productos utilizando IA para autenticar la veracidad de las opiniones de los consumidores....",
+    "score": 75,
+    "landing_url": "IDEA-20260408000009.html"
+  },
+  {
     "id": "IDEA-20260407232226",
     "nombre": "TaskTailor",
     "tipo": "SaaS",

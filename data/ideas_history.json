@@ -6257,6 +6257,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-08T00:00:09.710707"
+    },
+    {
+      "nombre": "MeetingOptimizer",
+      "descripcion": "MeetingOptimizer es una plataforma que simplifica la programación de reuniones virtuales mediante el uso de IA para analizar la disponibilidad de los participantes y proponer las mejores opciones de horarios, integrándose con los calendarios existentes y plataformas de videoconferencia.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-08T05:02:16.783165"
     }
   ],
   "nombres_usados": [
@@ -7153,6 +7160,7 @@
     "PYME Social Manager",
     "WellManage",
     "TaskTailor",
-    "AuthentiReview"
+    "AuthentiReview",
+    "MeetingOptimizer"
   ]
 }
