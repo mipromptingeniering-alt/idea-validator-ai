@@ -6271,6 +6271,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-08T08:07:39.737590"
+    },
+    {
+      "nombre": "ReseñasPro",
+      "descripcion": "ReseñasPro permite a pequeñas y medianas empresas gestionar todas sus reseñas en un solo lugar, automatizando las respuestas y proporcionando análisis de sentiment para entender mejor la percepción de los clientes.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-08T09:18:23.069067"
     }
   ],
   "nombres_usados": [
@@ -7169,6 +7176,7 @@
     "TaskTailor",
     "AuthentiReview",
     "MeetingOptimizer",
-    "EduBuddy"
+    "EduBuddy",
+    "ReseñasPro"
   ]
 }

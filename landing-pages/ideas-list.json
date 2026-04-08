@@ -6408,6 +6408,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260408080739",
+    "nombre": "EduBuddy",
+    "tipo": "SaaS",
+    "resumen": "Asistente virtual para estudiantes que personaliza su ruta de aprendizaje y gestión del tiempo con técnicas de gamificación....",
+    "score": 70,
+    "landing_url": "IDEA-20260408080739.html"
+  },
+  {
     "id": "IDEA-20260407104017",
     "nombre": "InsightHub",
     "tipo": "SaaS",
