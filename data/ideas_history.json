@@ -6285,6 +6285,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-08T10:39:25.743151"
+    },
+    {
+      "nombre": "FlexiGestor",
+      "descripcion": "FlexiGestor es una plataforma que permite a los usuarios gestionar sus proyectos, tareas y finanzas en un solo lugar. Incluye seguimiento de tiempo, facturación, gestión de gastos y análisis financiero, facilitando la toma de decisiones informadas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-08T11:38:05.112631"
     }
   ],
   "nombres_usados": [
@@ -7185,6 +7192,7 @@
     "MeetingOptimizer",
     "EduBuddy",
     "ReseñasPro",
-    "TaskFlex"
+    "TaskFlex",
+    "FlexiGestor"
   ]
 }

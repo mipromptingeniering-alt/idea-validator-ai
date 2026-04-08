@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260408103925",
+    "nombre": "TaskFlex",
+    "tipo": "SaaS",
+    "resumen": "TaskFlex es una herramienta de gestión de tareas que se adapta a las necesidades específicas de cada usuario o equipo, optimizando la productividad y ...",
+    "score": 75,
+    "landing_url": "IDEA-20260408103925.html"
+  },
+  {
     "id": "IDEA-20260408050216",
     "nombre": "MeetingOptimizer",
     "tipo": "SaaS",
