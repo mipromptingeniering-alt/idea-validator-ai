@@ -6348,6 +6348,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-04-08T23:23:31.235947"
+    },
+    {
+      "nombre": "TimeSavvy",
+      "descripcion": "TimeSavvy utiliza algoritmos de inteligencia artificial para analizar el flujo de trabajo de los empleados y proporcionar recomendaciones personalizadas sobre la gestión del tiempo, la concentración y la organización de tareas. La herramienta se integra con otras aplicaciones de trabajo como calendarios, correos electrónicos y plataformas de gestión de proyectos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-08T23:57:26.282381"
     }
   ],
   "nombres_usados": [
@@ -7257,6 +7264,7 @@
     "Salud Mental al Alcance",
     "FocusFilter",
     "TaskWise",
-    "Creativo Organizado"
+    "Creativo Organizado",
+    "TimeSavvy"
   ]
 }
