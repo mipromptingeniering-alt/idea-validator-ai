@@ -6306,6 +6306,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-08T15:47:26.026560"
+    },
+    {
+      "nombre": "MKT-Made Easy",
+      "descripcion": "MKT-Made Easy es una plataforma que permite a las PYMES gestionar sus campañas de marketing digital, redes sociales, SEO, y email marketing en un solo lugar, con herramientas simplificadas y personalizadas para diferentes sectores.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-08T16:52:36.623736"
     }
   ],
   "nombres_usados": [
@@ -7209,6 +7216,7 @@
     "TaskFlex",
     "FlexiGestor",
     "WellnessPlanner",
-    "FocusZone"
+    "FocusZone",
+    "MKT-Made Easy"
   ]
 }
