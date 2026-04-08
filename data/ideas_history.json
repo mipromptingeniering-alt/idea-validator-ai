@@ -6264,6 +6264,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-08T05:02:16.783165"
+    },
+    {
+      "nombre": "EduBuddy",
+      "descripcion": "EduBuddy es un asistente virtual que ayuda a los estudiantes a gestionar su aprendizaje online mediante la personalización de contenidos, recordatorios de tareas y técnicas de gamificación para mantener su motivación. Utiliza IA para adaptar el contenido a las necesidades y ritmos de cada usuario.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-08T08:07:39.737590"
     }
   ],
   "nombres_usados": [
@@ -7161,6 +7168,7 @@
     "WellManage",
     "TaskTailor",
     "AuthentiReview",
-    "MeetingOptimizer"
+    "MeetingOptimizer",
+    "EduBuddy"
   ]
 }

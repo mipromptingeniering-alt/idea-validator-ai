@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260408050216",
+    "nombre": "MeetingOptimizer",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de programación de reuniones que utiliza inteligencia artificial para optimizar horarios y aumentar la eficiencia en la coordinación....",
+    "score": 75,
+    "landing_url": "IDEA-20260408050216.html"
+  },
+  {
     "id": "IDEA-20260408000009",
     "nombre": "AuthentiReview",
     "tipo": "SaaS",
