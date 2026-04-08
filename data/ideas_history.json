@@ -6299,6 +6299,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-08T14:15:01.259235"
+    },
+    {
+      "nombre": "FocusZone",
+      "descripcion": "FocusZone es una herramienta SaaS que permite a los usuarios crear un entorno de trabajo virtual adaptado a sus necesidades. Ofrece funciones como temporizadores Pomodoro, música ambiental, soporte de comunidad, y espacios de trabajo colaborativos. Los usuarios pueden personalizar su experiencia con plantillas visuales y técnicas de productividad probadas, así como interactuar con otros usuarios para mantener la motivación.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-08T15:47:26.026560"
     }
   ],
   "nombres_usados": [
@@ -7201,6 +7208,7 @@
     "ReseñasPro",
     "TaskFlex",
     "FlexiGestor",
-    "WellnessPlanner"
+    "WellnessPlanner",
+    "FocusZone"
   ]
 }

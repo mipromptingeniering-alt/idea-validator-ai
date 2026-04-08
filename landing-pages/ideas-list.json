@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260408141501",
+    "nombre": "WellnessPlanner",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que combina la gestión del tiempo y el bienestar mental para trabajadores remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260408141501.html"
+  },
+  {
     "id": "IDEA-20260408113804",
     "nombre": "FlexiGestor",
     "tipo": "SaaS",
