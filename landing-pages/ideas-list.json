@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260408214935",
+    "nombre": "TaskWise",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de tareas basada en IA que ayuda a los usuarios a organizar su tiempo de manera más eficiente....",
+    "score": 75,
+    "landing_url": "IDEA-20260408214935.html"
+  },
+  {
     "id": "IDEA-20260408210045",
     "nombre": "FocusFilter",
     "tipo": "SaaS",

@@ -6341,6 +6341,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-08T21:49:35.213497"
+    },
+    {
+      "nombre": "Creativo Organizado",
+      "descripcion": "Creativo Organizado es una plataforma SaaS que permite a los diseñadores, escritores y otros profesionales creativos gestionar sus proyectos y el tiempo de manera eficiente. Ofrece herramientas de planificación, seguimiento del tiempo, recordatorios y reportes de productividad, todo diseñado específicamente para el flujo de trabajo de creativos.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-04-08T23:23:31.235947"
     }
   ],
   "nombres_usados": [
@@ -7249,6 +7256,7 @@
     "BizSuite",
     "Salud Mental al Alcance",
     "FocusFilter",
-    "TaskWise"
+    "TaskWise",
+    "Creativo Organizado"
   ]
 }
