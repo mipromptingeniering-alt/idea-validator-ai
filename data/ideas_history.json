@@ -6320,6 +6320,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-08T19:23:32.954482"
+    },
+    {
+      "nombre": "Salud Mental al Alcance",
+      "descripcion": "Salud Mental al Alcance es una plataforma que conecta a profesionales de la salud mental con personas que necesitan apoyo psicológico, ofreciendo sesiones de terapia virtual a bajo costo, junto con recursos educativos y comunidades de apoyo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-08T20:07:25.470296"
     }
   ],
   "nombres_usados": [
@@ -7225,6 +7232,7 @@
     "WellnessPlanner",
     "FocusZone",
     "MKT-Made Easy",
-    "BizSuite"
+    "BizSuite",
+    "Salud Mental al Alcance"
   ]
 }

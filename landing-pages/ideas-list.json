@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260408192332",
+    "nombre": "BizSuite",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para la gestión de ventas, marketing y atención al cliente diseñada para pequeñas y medianas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260408192332.html"
+  },
+  {
     "id": "IDEA-20260408165236",
     "nombre": "MKT-Made Easy",
     "tipo": "SaaS",
