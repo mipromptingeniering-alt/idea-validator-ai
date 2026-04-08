@@ -6327,6 +6327,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-08T20:07:25.470296"
+    },
+    {
+      "nombre": "FocusFilter",
+      "descripcion": "FocusFilter es una herramienta de productividad que permite a los usuarios personalizar su feed de redes sociales y otras plataformas digitales mediante inteligencia artificial, limitando las distracciones y priorizando contenido de interés real.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-08T21:00:45.169173"
     }
   ],
   "nombres_usados": [
@@ -7233,6 +7240,7 @@
     "FocusZone",
     "MKT-Made Easy",
     "BizSuite",
-    "Salud Mental al Alcance"
+    "Salud Mental al Alcance",
+    "FocusFilter"
   ]
 }

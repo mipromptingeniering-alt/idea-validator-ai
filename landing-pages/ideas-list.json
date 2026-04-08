@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260408200725",
+    "nombre": "Salud Mental al Alcance",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de terapia virtual asequible dirigida a comunidades con acceso limitado a servicios de salud mental....",
+    "score": 75,
+    "landing_url": "IDEA-20260408200725.html"
+  },
+  {
     "id": "IDEA-20260408192332",
     "nombre": "BizSuite",
     "tipo": "SaaS",
