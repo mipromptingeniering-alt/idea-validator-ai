@@ -6334,6 +6334,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-08T21:00:45.169173"
+    },
+    {
+      "nombre": "TaskWise",
+      "descripcion": "TaskWise proporciona una plataforma intuitiva que utiliza algoritmos de inteligencia artificial para ayudar a los usuarios a priorizar y programar sus tareas diarias. Funcionalidades como recordatorios inteligentes, integración de calendario y análisis de productividad permiten a los usuarios maximizar su rendimiento.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-08T21:49:35.213497"
     }
   ],
   "nombres_usados": [
@@ -7241,6 +7248,7 @@
     "MKT-Made Easy",
     "BizSuite",
     "Salud Mental al Alcance",
-    "FocusFilter"
+    "FocusFilter",
+    "TaskWise"
   ]
 }
