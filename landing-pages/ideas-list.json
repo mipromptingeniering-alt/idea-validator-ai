@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260408113804",
+    "nombre": "FlexiGestor",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta integral de gestión de proyectos y finanzas para autónomos y pequeños emprendedores....",
+    "score": 75,
+    "landing_url": "IDEA-20260408113804.html"
+  },
+  {
     "id": "IDEA-20260408103925",
     "nombre": "TaskFlex",
     "tipo": "SaaS",

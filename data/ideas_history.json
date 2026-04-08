@@ -6292,6 +6292,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-08T11:38:05.112631"
+    },
+    {
+      "nombre": "WellnessPlanner",
+      "descripcion": "WellnessPlanner es una herramienta digital que ayuda a los trabajadores remotos a organizar su tiempo mientras cuidan su salud mental. Incluye funcionalidades para planificar tareas, establecer metas personales, y realizar ejercicios de mindfulness.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-08T14:15:01.259235"
     }
   ],
   "nombres_usados": [
@@ -7193,6 +7200,7 @@
     "EduBuddy",
     "ReseñasPro",
     "TaskFlex",
-    "FlexiGestor"
+    "FlexiGestor",
+    "WellnessPlanner"
   ]
 }
