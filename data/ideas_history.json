@@ -6313,6 +6313,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-08T16:52:36.623736"
+    },
+    {
+      "nombre": "BizSuite",
+      "descripcion": "BizSuite permite a las PYMES gestionar sus contactos, automatizar campañas de marketing, y brindar soporte al cliente todo en una única plataforma sin complicaciones, a un precio accesible.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-08T19:23:32.954482"
     }
   ],
   "nombres_usados": [
@@ -7217,6 +7224,7 @@
     "FlexiGestor",
     "WellnessPlanner",
     "FocusZone",
-    "MKT-Made Easy"
+    "MKT-Made Easy",
+    "BizSuite"
   ]
 }
