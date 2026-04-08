@@ -6408,6 +6408,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260408091822",
+    "nombre": "ReseñasPro",
+    "tipo": "SaaS",
+    "resumen": "Plataforma para gestionar y responder automáticamente a reseñas en línea, mejorando la reputación digital de las PYMEs....",
+    "score": 70,
+    "landing_url": "IDEA-20260408091822.html"
+  },
+  {
     "id": "IDEA-20260408080739",
     "nombre": "EduBuddy",
     "tipo": "SaaS",

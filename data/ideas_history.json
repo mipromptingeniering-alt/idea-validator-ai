@@ -6278,6 +6278,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-08T09:18:23.069067"
+    },
+    {
+      "nombre": "TaskFlex",
+      "descripcion": "TaskFlex permite a los usuarios gestionar sus tareas de manera flexible, proporcionando plantillas personalizables, recordatorios inteligentes y la capacidad de integrarse con herramientas ya existentes como calendarios y aplicaciones de mensajería. Los usuarios pueden crear flujos de trabajo adaptados a sus rutinas diarias, lo que mejora la eficiencia y reduce el estrés.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-08T10:39:25.743151"
     }
   ],
   "nombres_usados": [
@@ -7177,6 +7184,7 @@
     "AuthentiReview",
     "MeetingOptimizer",
     "EduBuddy",
-    "ReseñasPro"
+    "ReseñasPro",
+    "TaskFlex"
   ]
 }
