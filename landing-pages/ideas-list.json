@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260407232226",
+    "nombre": "TaskTailor",
+    "tipo": "SaaS",
+    "resumen": "Un planificador de tareas digital altamente personalizable impulsado por IA que se adapta a tus hábitos y preferencias....",
+    "score": 75,
+    "landing_url": "IDEA-20260407232226.html"
+  },
+  {
     "id": "IDEA-20260407215656",
     "nombre": "WellManage",
     "tipo": "SaaS",
