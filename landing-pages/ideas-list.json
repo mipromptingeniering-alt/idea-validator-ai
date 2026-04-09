@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260409155400",
+    "nombre": "FinanzaFácil Freelance",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma todo en uno para ayudar a freelancers en la gestión de sus finanzas, incluyendo facturación, seguimiento de gastos y asesoría financier...",
+    "score": 75,
+    "landing_url": "IDEA-20260409155400.html"
+  },
+  {
     "id": "IDEA-20260409141206",
     "nombre": "MindCalm",
     "tipo": "SaaS",

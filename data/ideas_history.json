@@ -6411,6 +6411,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-09T15:54:00.702710"
+    },
+    {
+      "nombre": "MotivaTime",
+      "descripcion": "MotivaTime combina herramientas de seguimiento de tareas y gestión del tiempo con elementos de gamificación, como recompensas y desafíos, para fomentar un ambiente de trabajo más dinámico y motivador. Los usuarios pueden crear sus propias metas, recibir feedback y competir con compañeros en un entorno lúdico.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-09T17:58:46.900656"
     }
   ],
   "nombres_usados": [
@@ -7329,6 +7336,7 @@
     "MarketUp",
     "AtenciónPyme",
     "MindCalm",
-    "FinanzaFácil Freelance"
+    "FinanzaFácil Freelance",
+    "MotivaTime"
   ]
 }
