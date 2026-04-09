@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260409085944",
+    "nombre": "FinanciaClick",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión financiera diseñada para freelancers y pequeñas empresas que simplifica la contabilidad y brinda asesoramiento automático....",
+    "score": 75,
+    "landing_url": "IDEA-20260409085944.html"
+  },
+  {
     "id": "IDEA-20260409060959",
     "nombre": "WorkLife Balance Gamifier",
     "tipo": "SaaS",

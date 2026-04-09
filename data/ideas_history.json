@@ -6383,6 +6383,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-09T08:59:45.064719"
+    },
+    {
+      "nombre": "MarketUp",
+      "descripcion": "MarketUp es una plataforma de aprendizaje online que permite a los profesionales del marketing digital, especialmente aquellos de pequeñas y medianas empresas, aprender sobre las últimas tendencias y herramientas del sector. A través de módulos de cursos actualizados regularmente y simuladores de campaña interactivos, los usuarios pueden aplicar lo que aprenden en un entorno práctico y seguro.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-09T10:15:55.511652"
     }
   ],
   "nombres_usados": [
@@ -7297,6 +7304,7 @@
     "HealthTime Manager",
     "SocialAssist",
     "WorkLife Balance Gamifier",
-    "FinanciaClick"
+    "FinanciaClick",
+    "MarketUp"
   ]
 }
