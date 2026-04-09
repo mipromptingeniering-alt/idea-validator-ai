@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260408235726",
+    "nombre": "TimeSavvy",
+    "tipo": "SaaS",
+    "resumen": "TimeSavvy es una plataforma de gestión del tiempo basada en inteligencia artificial que ayuda a las PYMES a optimizar su productividad....",
+    "score": 75,
+    "landing_url": "IDEA-20260408235726.html"
+  },
+  {
     "id": "IDEA-20260408214935",
     "nombre": "TaskWise",
     "tipo": "SaaS",

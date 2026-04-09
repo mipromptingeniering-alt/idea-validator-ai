@@ -6355,6 +6355,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-08T23:57:26.282381"
+    },
+    {
+      "nombre": "HealthTime Manager",
+      "descripcion": "HealthTime Manager es una herramienta de software que permite a los profesionales de la salud gestionar sus citas de manera efectiva. Ofrece funcionalidades como agendamiento automático, recordatorios, videos consultas, y análisis de tiempos de atención. Todo esto en una interfaz intuitiva diseñada especialmente para el sector salud.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-09T01:59:55.442521"
     }
   ],
   "nombres_usados": [
@@ -7265,6 +7272,7 @@
     "FocusFilter",
     "TaskWise",
     "Creativo Organizado",
-    "TimeSavvy"
+    "TimeSavvy",
+    "HealthTime Manager"
   ]
 }
