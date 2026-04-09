@@ -6404,6 +6404,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-09T14:12:07.139511"
+    },
+    {
+      "nombre": "FinanzaFácil Freelance",
+      "descripcion": "FinanzaFácil Freelance es una herramienta integral que permite a los trabajadores independientes gestionar sus finanzas de manera eficiente. Ofrece funciones de facturación, seguimiento de gastos, generación de informes financieros y asesoría financiera a través de una comunidad de expertos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-09T15:54:00.702710"
     }
   ],
   "nombres_usados": [
@@ -7321,6 +7328,7 @@
     "FinanciaClick",
     "MarketUp",
     "AtenciónPyme",
-    "MindCalm"
+    "MindCalm",
+    "FinanzaFácil Freelance"
   ]
 }
