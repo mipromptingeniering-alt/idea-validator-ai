@@ -6376,6 +6376,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-09T06:10:00.023870"
+    },
+    {
+      "nombre": "FinanciaClick",
+      "descripcion": "FinanciaClick es un software de contabilidad en línea que permite a freelancers y pequeñas empresas gestionar sus finanzas de manera sencilla. Integra funcionalidades como la gestión de ingresos y gastos, generación de informes financieros y asesoría automatizada sobre ahorros y gastos innecesarios. A través de una interfaz amigable y fácil de usar, los usuarios pueden mantener sus cuentas al día sin necesidad de conocimientos contables previos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-09T08:59:45.064719"
     }
   ],
   "nombres_usados": [
@@ -7289,6 +7296,7 @@
     "TimeSavvy",
     "HealthTime Manager",
     "SocialAssist",
-    "WorkLife Balance Gamifier"
+    "WorkLife Balance Gamifier",
+    "FinanciaClick"
   ]
 }
