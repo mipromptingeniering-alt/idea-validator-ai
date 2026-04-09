@@ -6390,6 +6390,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-09T10:15:55.511652"
+    },
+    {
+      "nombre": "AtenciónPyme",
+      "descripcion": "AtenciónPyme es una plataforma SaaS que permite a las pequeñas y medianas empresas gestionar consultas y reclamos de sus clientes a través de múltiples canales como chat, email y redes sociales, todo en un solo lugar. Incluye funciones de automatización para respuestas frecuentes y análisis de satisfacción del cliente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-09T11:18:13.362223"
     }
   ],
   "nombres_usados": [
@@ -7305,6 +7312,7 @@
     "SocialAssist",
     "WorkLife Balance Gamifier",
     "FinanciaClick",
-    "MarketUp"
+    "MarketUp",
+    "AtenciónPyme"
   ]
 }

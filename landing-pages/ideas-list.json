@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260409101555",
+    "nombre": "MarketUp",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de aprendizaje en marketing digital con contenido en tiempo real y simuladores de campañas....",
+    "score": 75,
+    "landing_url": "IDEA-20260409101555.html"
+  },
+  {
     "id": "IDEA-20260409085944",
     "nombre": "FinanciaClick",
     "tipo": "SaaS",
