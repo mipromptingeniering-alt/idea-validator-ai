@@ -6425,6 +6425,13 @@
       "tipo": "SaaS",
       "score": 76,
       "fecha": "2026-04-09T20:08:03.811432"
+    },
+    {
+      "nombre": "SimpleSocialManager",
+      "descripcion": "SimpleSocialManager es una plataforma que ayuda a pequeñas empresas a gestionar sus redes sociales de manera eficiente. Ofrece herramientas para programar publicaciones, generar contenido automatizado y realizar análisis de interacciones para optimizar la estrategia de marketing digital.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-09T21:56:53.236198"
     }
   ],
   "nombres_usados": [
@@ -7345,6 +7352,7 @@
     "MindCalm",
     "FinanzaFácil Freelance",
     "MotivaTime",
-    "TutorMatch"
+    "TutorMatch",
+    "SimpleSocialManager"
   ]
 }

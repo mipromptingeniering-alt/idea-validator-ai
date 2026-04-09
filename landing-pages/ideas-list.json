@@ -248,6 +248,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260409200803",
+    "nombre": "TutorMatch",
+    "tipo": "SaaS",
+    "resumen": "TutorMatch es una plataforma en línea que conecta a padres de niños en edad escolar con tutores calificados en su área para facilitar el apoyo educati...",
+    "score": 76,
+    "landing_url": "IDEA-20260409200803.html"
+  },
+  {
     "id": "IDEA-20260331222644",
     "nombre": "Pyme360",
     "tipo": "SaaS",
