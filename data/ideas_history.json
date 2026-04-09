@@ -6362,6 +6362,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-09T01:59:55.442521"
+    },
+    {
+      "nombre": "SocialAssist",
+      "descripcion": "SocialAssist es una herramienta SaaS que permite a las pequeñas y medianas empresas gestionar su presencia en redes sociales de manera eficiente. Utiliza IA para generar contenido atractivo, programar publicaciones en los momentos óptimos y analizar el rendimiento de las publicaciones, facilitando así la tarea de marketing digital.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-09T04:36:56.621943"
     }
   ],
   "nombres_usados": [
@@ -7273,6 +7280,7 @@
     "TaskWise",
     "Creativo Organizado",
     "TimeSavvy",
-    "HealthTime Manager"
+    "HealthTime Manager",
+    "SocialAssist"
   ]
 }

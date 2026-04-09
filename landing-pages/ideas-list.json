@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260409015955",
+    "nombre": "HealthTime Manager",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de citas para profesionales de la salud que optimiza la agenda y mejora la experiencia del paciente....",
+    "score": 75,
+    "landing_url": "IDEA-20260409015955.html"
+  },
+  {
     "id": "IDEA-20260408235726",
     "nombre": "TimeSavvy",
     "tipo": "SaaS",
