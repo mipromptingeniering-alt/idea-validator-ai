@@ -6369,6 +6369,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-09T04:36:56.621943"
+    },
+    {
+      "nombre": "WorkLife Balance Gamifier",
+      "descripcion": "WorkLife Balance Gamifier es una herramienta que permite a los trabajadores gestionar sus tareas diarias mientras se aseguran de tomar descansos regulares y prácticas de bienestar a lo largo de su jornada laboral. Utiliza un sistema de puntos y recompensas para fomentar el equilibrio entre trabajo y vida personal.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-09T06:10:00.023870"
     }
   ],
   "nombres_usados": [
@@ -7281,6 +7288,7 @@
     "Creativo Organizado",
     "TimeSavvy",
     "HealthTime Manager",
-    "SocialAssist"
+    "SocialAssist",
+    "WorkLife Balance Gamifier"
   ]
 }

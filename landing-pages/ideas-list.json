@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260409043656",
+    "nombre": "SocialAssist",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de redes sociales que utiliza inteligencia artificial para automatizar y optimizar publicaciones para PYMES....",
+    "score": 75,
+    "landing_url": "IDEA-20260409043656.html"
+  },
+  {
     "id": "IDEA-20260409015955",
     "nombre": "HealthTime Manager",
     "tipo": "SaaS",
