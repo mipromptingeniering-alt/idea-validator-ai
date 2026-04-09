@@ -352,6 +352,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260409111813",
+    "nombre": "AtenciónPyme",
+    "tipo": "SaaS",
+    "resumen": "Un software de atención al cliente accesible y fácil de usar, diseñado específicamente para PYMEs....",
+    "score": 75,
+    "landing_url": "IDEA-20260409111813.html"
+  },
+  {
     "id": "IDEA-20260409101555",
     "nombre": "MarketUp",
     "tipo": "SaaS",

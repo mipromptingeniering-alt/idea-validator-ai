@@ -6397,6 +6397,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-09T11:18:13.362223"
+    },
+    {
+      "nombre": "MindCalm",
+      "descripcion": "MindCalm es una plataforma digital que ayuda a los usuarios a gestionar su ansiedad y estrés a través de un enfoque respaldado por la terapia cognitiva conductual. Integra ejercicios, seguimiento del estado emocional y un sistema de recompensas para fomentar la constancia en el uso.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-09T14:12:07.139511"
     }
   ],
   "nombres_usados": [
@@ -7313,6 +7320,7 @@
     "WorkLife Balance Gamifier",
     "FinanciaClick",
     "MarketUp",
-    "AtenciónPyme"
+    "AtenciónPyme",
+    "MindCalm"
   ]
 }
