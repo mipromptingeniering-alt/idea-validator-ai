@@ -6432,6 +6432,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-09T21:56:53.236198"
+    },
+    {
+      "nombre": "TaskMate",
+      "descripcion": "TaskMate es una herramienta de gestión de tareas que permite a los usuarios organizar su trabajo de manera visual a través de tableros y listas simples. Ofrece integración con herramientas populares como Google Calendar, Slack y Trello. Además, cuenta con una comunidad en línea donde los usuarios pueden compartir mejores prácticas, consejos y motivación.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-04-09T22:37:01.969518"
     }
   ],
   "nombres_usados": [
@@ -7353,6 +7360,7 @@
     "FinanzaFácil Freelance",
     "MotivaTime",
     "TutorMatch",
-    "SimpleSocialManager"
+    "SimpleSocialManager",
+    "TaskMate"
   ]
 }
