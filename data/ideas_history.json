@@ -6418,6 +6418,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-09T17:58:46.900656"
+    },
+    {
+      "nombre": "TutorMatch",
+      "descripcion": "A través de TutorMatch, los padres pueden buscar, evaluar y contratar tutores locales para ayuda en tareas, materias específicas o educación en línea. La plataforma ofrece un sistema de calificaciones, estadísticas de rendimiento del tutor y opciones de chat en vivo para coordinar horarios y sesiones.",
+      "tipo": "SaaS",
+      "score": 76,
+      "fecha": "2026-04-09T20:08:03.811432"
     }
   ],
   "nombres_usados": [
@@ -7337,6 +7344,7 @@
     "AtenciónPyme",
     "MindCalm",
     "FinanzaFácil Freelance",
-    "MotivaTime"
+    "MotivaTime",
+    "TutorMatch"
   ]
 }
