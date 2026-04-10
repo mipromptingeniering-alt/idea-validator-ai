@@ -6474,6 +6474,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-10T11:35:22.374151"
+    },
+    {
+      "nombre": "FinAnálisis",
+      "descripcion": "FinAnálisis permite a los usuarios realizar un seguimiento de sus ingresos y gastos, generar informes financieros, y visualizar sus datos a través de gráficos interactivos. Ofrece una integración con plataformas de pago y bancos, permitiendo una sincronización automática de transacciones. Además, incluye recomendaciones personalizadas para mejorar la salud financiera del negocio.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-10T14:03:31.659345"
     }
   ],
   "nombres_usados": [
@@ -7401,6 +7408,7 @@
     "Prioritize It",
     "FlexiTask",
     "FinanciaFlex",
-    "CashFlow Insights"
+    "CashFlow Insights",
+    "FinAnálisis"
   ]
 }

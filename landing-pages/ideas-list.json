@@ -360,6 +360,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260410113522",
+    "nombre": "CashFlow Insights",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de flujo de caja intuitiva y con IA para PYMES....",
+    "score": 75,
+    "landing_url": "IDEA-20260410113522.html"
+  },
+  {
     "id": "IDEA-20260410104533",
     "nombre": "FinanciaFlex",
     "tipo": "SaaS",
