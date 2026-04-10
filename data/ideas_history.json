@@ -6544,6 +6544,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-10T23:04:12.987112"
+    },
+    {
+      "nombre": "TimeSync Pro",
+      "descripcion": "TimeSync Pro permite a los freelancers gestionar su tiempo y proyectos mediante la automatización de tareas repetitivas, ayudando a priorizar actividades y optimizar la carga de trabajo. La plataforma incluye funciones de seguimiento del tiempo, planificación de proyectos y recordatorios inteligentes.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-10T23:51:37.793835"
     }
   ],
   "nombres_usados": [
@@ -7481,6 +7488,7 @@
     "SaludConnect",
     "DocuComply",
     "FocusFit",
-    "ConviertePYME"
+    "ConviertePYME",
+    "TimeSync Pro"
   ]
 }

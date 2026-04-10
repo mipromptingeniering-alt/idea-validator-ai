@@ -360,6 +360,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260410230412",
+    "nombre": "ConviertePYME",
+    "tipo": "SaaS",
+    "resumen": "Plataforma SaaS que permite a las PYMES crear sitios web optimizados para la conversión con recomendaciones automatizadas...",
+    "score": 75,
+    "landing_url": "IDEA-20260410230412.html"
+  },
+  {
     "id": "IDEA-20260410222906",
     "nombre": "FocusFit",
     "tipo": "SaaS",
