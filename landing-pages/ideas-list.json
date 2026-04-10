@@ -360,6 +360,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260410070209",
+    "nombre": "Prioritize It",
+    "tipo": "MicroSaaS",
+    "resumen": "Una herramienta de gestión de tareas centrada en la priorización y la simplicidad para freelancers y pequeñas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260410070209.html"
+  },
+  {
     "id": "IDEA-20260410051334",
     "nombre": "DataHub Marketing",
     "tipo": "SaaS",

@@ -6453,6 +6453,13 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-04-10T07:02:09.675972"
+    },
+    {
+      "nombre": "FlexiTask",
+      "descripcion": "FlexiTask es una plataforma en la nube que ayuda a los profesionales independientes a gestionar sus proyectos y tareas de una manera flexible y adaptada a su estilo de trabajo. Los usuarios pueden crear plantillas personalizadas, integrar herramientas que ya utilizan y obtener informes sobre su productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-10T09:52:29.291026"
     }
   ],
   "nombres_usados": [
@@ -7377,6 +7384,7 @@
     "SimpleSocialManager",
     "TaskMate",
     "DataHub Marketing",
-    "Prioritize It"
+    "Prioritize It",
+    "FlexiTask"
   ]
 }
