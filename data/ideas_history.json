@@ -6516,6 +6516,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-10T19:52:53.181864"
+    },
+    {
+      "nombre": "SaludConnect",
+      "descripcion": "SaludConnect es una herramienta que permite a los médicos y terapeutas gestionar sus citas de manera eficiente y comunicarse con sus pacientes a través de recordatorios automatizados y encuestas de satisfacción. Integrando la gestión de citas con feedback en tiempo real, SaludConnect busca mejorar la experiencia del paciente y minimizar las cancelaciones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-10T21:02:26.019381"
     }
   ],
   "nombres_usados": [
@@ -7449,6 +7456,7 @@
     "FeedbackEasy",
     "PyMExpansiva",
     "StudyBuddy",
-    "PymeCollab"
+    "PymeCollab",
+    "SaludConnect"
   ]
 }
