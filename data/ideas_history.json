@@ -6530,6 +6530,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-10T21:53:44.373078"
+    },
+    {
+      "nombre": "FocusFit",
+      "descripcion": "FocusFit es una plataforma que permite a los usuarios crear horarios de trabajo adaptativos, recordatorios personalizables y técnicas de productividad, como la técnica Pomodoro, todo en una interfaz intuitiva. Los usuarios pueden integrar su calendario y recibir recomendaciones basadas en sus hábitos y objetivos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-10T22:29:06.918742"
     }
   ],
   "nombres_usados": [
@@ -7465,6 +7472,7 @@
     "StudyBuddy",
     "PymeCollab",
     "SaludConnect",
-    "DocuComply"
+    "DocuComply",
+    "FocusFit"
   ]
 }

@@ -6672,6 +6672,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260410215344",
+    "nombre": "DocuComply",
+    "tipo": "SaaS",
+    "resumen": "DocuComply es una plataforma de gestión de documentos que ayuda a las pymes a garantizar que sus documentos cumplen con normativas y estándares de man...",
+    "score": 70,
+    "landing_url": "IDEA-20260410215344.html"
+  },
+  {
     "id": "IDEA-20260410191057",
     "nombre": "StudyBuddy",
     "tipo": "SaaS",
