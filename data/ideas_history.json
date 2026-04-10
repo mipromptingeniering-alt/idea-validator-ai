@@ -6495,6 +6495,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-10T17:06:22.546055"
+    },
+    {
+      "nombre": "PyMExpansiva",
+      "descripcion": "PyMExpansiva es una herramienta SaaS que permite a pequeñas y medianas empresas gestionar sus campañas de marketing digital de manera sencilla y efectiva. Integrando análisis de datos en tiempo real, los usuarios pueden entender mejor a su público objetivo y optimizar sus campañas para maximizar el retorno de inversión.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-10T18:03:39.274803"
     }
   ],
   "nombres_usados": [
@@ -7425,6 +7432,7 @@
     "CashFlow Insights",
     "FinAnálisis",
     "SocialHubIQ",
-    "FeedbackEasy"
+    "FeedbackEasy",
+    "PyMExpansiva"
   ]
 }

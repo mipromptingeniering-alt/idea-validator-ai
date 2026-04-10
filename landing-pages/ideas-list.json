@@ -360,6 +360,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260410170622",
+    "nombre": "FeedbackEasy",
+    "tipo": "SaaS",
+    "resumen": "FeedbackEasy es una plataforma SaaS que permite a las PYMEs recopilar, gestionar y analizar el feedback de sus clientes de manera sencilla y eficaz....",
+    "score": 75,
+    "landing_url": "IDEA-20260410170622.html"
+  },
+  {
     "id": "IDEA-20260410150607",
     "nombre": "SocialHubIQ",
     "tipo": "SaaS",
