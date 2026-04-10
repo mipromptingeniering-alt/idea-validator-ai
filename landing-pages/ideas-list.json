@@ -360,6 +360,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260410104533",
+    "nombre": "FinanciaFlex",
+    "tipo": "SaaS",
+    "resumen": "Gestor financiero para freelancers que simplifica la facturación, monitoreo de gastos y planificación fiscal....",
+    "score": 75,
+    "landing_url": "IDEA-20260410104533.html"
+  },
+  {
     "id": "IDEA-20260410095229",
     "nombre": "FlexiTask",
     "tipo": "SaaS",

@@ -6467,6 +6467,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-10T10:45:33.741891"
+    },
+    {
+      "nombre": "CashFlow Insights",
+      "descripcion": "CashFlow Insights permite a las pequeñas y medianas empresas visualizar su flujo de caja en tiempo real, prever problemas financieros, y recibir recomendaciones personalizadas para optimizar sus ingresos y gastos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-10T11:35:22.374151"
     }
   ],
   "nombres_usados": [
@@ -7393,6 +7400,7 @@
     "DataHub Marketing",
     "Prioritize It",
     "FlexiTask",
-    "FinanciaFlex"
+    "FinanciaFlex",
+    "CashFlow Insights"
   ]
 }
