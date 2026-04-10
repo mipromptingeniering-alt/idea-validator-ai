@@ -6488,6 +6488,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-10T15:06:07.192048"
+    },
+    {
+      "nombre": "FeedbackEasy",
+      "descripcion": "FeedbackEasy proporciona un panel intuitivo para que las pequeñas y medianas empresas recojan comentarios de clientes a través de encuestas, formularios y reseñas en línea. La herramienta utiliza inteligencia artificial para analizar el sentimiento del feedback y ofrecer informes claros que ayuden a las empresas a tomar decisiones informadas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-10T17:06:22.546055"
     }
   ],
   "nombres_usados": [
@@ -7417,6 +7424,7 @@
     "FinanciaFlex",
     "CashFlow Insights",
     "FinAnálisis",
-    "SocialHubIQ"
+    "SocialHubIQ",
+    "FeedbackEasy"
   ]
 }
