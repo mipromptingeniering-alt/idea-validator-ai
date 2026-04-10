@@ -6523,6 +6523,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-10T21:02:26.019381"
+    },
+    {
+      "nombre": "DocuComply",
+      "descripcion": "DocuComply permite a las pymes subir y gestionar sus documentos, recibir alertas sobre cambios en normativas relevantes y realizar auditorías internas de cumplimiento de manera sencilla. Además, ofrece guías y plantillas personalizadas para facilitar la creación de documentos conforme a las normas.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-10T21:53:44.373078"
     }
   ],
   "nombres_usados": [
@@ -7457,6 +7464,7 @@
     "PyMExpansiva",
     "StudyBuddy",
     "PymeCollab",
-    "SaludConnect"
+    "SaludConnect",
+    "DocuComply"
   ]
 }
