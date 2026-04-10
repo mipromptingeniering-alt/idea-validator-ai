@@ -6439,6 +6439,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-04-09T22:37:01.969518"
+    },
+    {
+      "nombre": "DataHub Marketing",
+      "descripcion": "DataHub Marketing permite a los profesionales del marketing gestionar y analizar métricas de diversas plataformas (como Google Analytics, redes sociales, email marketing, etc.) en un solo lugar, ofreciendo insights automáticos y sugerencias para mejorar el rendimiento.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-10T05:13:34.500943"
     }
   ],
   "nombres_usados": [
@@ -7361,6 +7368,7 @@
     "MotivaTime",
     "TutorMatch",
     "SimpleSocialManager",
-    "TaskMate"
+    "TaskMate",
+    "DataHub Marketing"
   ]
 }
