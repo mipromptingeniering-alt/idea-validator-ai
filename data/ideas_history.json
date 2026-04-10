@@ -6481,6 +6481,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-10T14:03:31.659345"
+    },
+    {
+      "nombre": "SocialHubIQ",
+      "descripcion": "SocialHubIQ permite a los profesionales del marketing gestionar todas sus cuentas de redes sociales desde un solo lugar, programar publicaciones, interactuar con la audiencia y recibir análisis detallados sobre el rendimiento. La herramienta utiliza inteligencia artificial para ofrecer recomendaciones sobre el contenido a publicar en función del rendimiento pasado y las tendencias del sector.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-10T15:06:07.192048"
     }
   ],
   "nombres_usados": [
@@ -7409,6 +7416,7 @@
     "FlexiTask",
     "FinanciaFlex",
     "CashFlow Insights",
-    "FinAnálisis"
+    "FinAnálisis",
+    "SocialHubIQ"
   ]
 }
