@@ -6460,6 +6460,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-10T09:52:29.291026"
+    },
+    {
+      "nombre": "FinanciaFlex",
+      "descripcion": "FinanciaFlex es una solución todo-en-uno diseñada específicamente para profesionales independientes. Ofrece herramientas para crear y enviar facturas, rastrear gastos, realizar un seguimiento de ingresos, y planificar impuestos, todo desde una interfaz intuitiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-10T10:45:33.741891"
     }
   ],
   "nombres_usados": [
@@ -7385,6 +7392,7 @@
     "TaskMate",
     "DataHub Marketing",
     "Prioritize It",
-    "FlexiTask"
+    "FlexiTask",
+    "FinanciaFlex"
   ]
 }
