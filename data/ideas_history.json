@@ -6509,6 +6509,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-10T19:10:57.632570"
+    },
+    {
+      "nombre": "PymeCollab",
+      "descripcion": "PymeCollab permite a las pymes gestionar proyectos, tareas, comunicación entre equipos y seguimiento del progreso de manera integrada. Desarrollada pensando en la simplicidad y la accesibilidad, la plataforma ofrece una experiencia de usuario intuitiva, ideal para aquellos que no tienen experiencia previa con herramientas digitales complejas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-10T19:52:53.181864"
     }
   ],
   "nombres_usados": [
@@ -7441,6 +7448,7 @@
     "SocialHubIQ",
     "FeedbackEasy",
     "PyMExpansiva",
-    "StudyBuddy"
+    "StudyBuddy",
+    "PymeCollab"
   ]
 }

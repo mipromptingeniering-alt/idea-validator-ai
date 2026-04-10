@@ -6656,6 +6656,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260410191057",
+    "nombre": "StudyBuddy",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo y productividad diseñada específicamente para estudiantes universitarios....",
+    "score": 70,
+    "landing_url": "IDEA-20260410191057.html"
+  },
+  {
     "id": "IDEA-20260409215653",
     "nombre": "SimpleSocialManager",
     "tipo": "SaaS",
