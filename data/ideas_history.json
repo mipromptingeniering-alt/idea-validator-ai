@@ -6446,6 +6446,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-10T05:13:34.500943"
+    },
+    {
+      "nombre": "Prioritize It",
+      "descripcion": "Prioritize It es una aplicación web que permite a los usuarios organizar sus tareas de manera intuitiva, clasificándolas por urgencia e importancia. Incluye recordatorios, tableros de tareas y estadísticas de productividad.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-04-10T07:02:09.675972"
     }
   ],
   "nombres_usados": [
@@ -7369,6 +7376,7 @@
     "TutorMatch",
     "SimpleSocialManager",
     "TaskMate",
-    "DataHub Marketing"
+    "DataHub Marketing",
+    "Prioritize It"
   ]
 }

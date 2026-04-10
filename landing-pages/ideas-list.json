@@ -360,6 +360,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260410051334",
+    "nombre": "DataHub Marketing",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma todo-en-uno que centraliza las métricas de marketing digital y ofrece recomendaciones basadas en IA para maximizar el rendimiento de la...",
+    "score": 75,
+    "landing_url": "IDEA-20260410051334.html"
+  },
+  {
     "id": "IDEA-20260409175846",
     "nombre": "MotivaTime",
     "tipo": "SaaS",
