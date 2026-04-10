@@ -360,6 +360,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260410222906",
+    "nombre": "FocusFit",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión del tiempo personalizada que se adapta a las rutinas diarias de los usuarios, ayudándoles a aumentar su productividad de ma...",
+    "score": 75,
+    "landing_url": "IDEA-20260410222906.html"
+  },
+  {
     "id": "IDEA-20260410210225",
     "nombre": "SaludConnect",
     "tipo": "SaaS",

@@ -6537,6 +6537,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-10T22:29:06.918742"
+    },
+    {
+      "nombre": "ConviertePYME",
+      "descripcion": "ConviertePYME es una plataforma que permite a pequeñas y medianas empresas crear sitios web de manera sencilla y rápida, mientras que utiliza algoritmos de inteligencia artificial para analizar el tráfico del sitio y ofrecer mejoras personalizadas para maximizar las conversiones. Incluye plantillas optimizadas y herramientas de análisis.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-10T23:04:12.987112"
     }
   ],
   "nombres_usados": [
@@ -7473,6 +7480,7 @@
     "PymeCollab",
     "SaludConnect",
     "DocuComply",
-    "FocusFit"
+    "FocusFit",
+    "ConviertePYME"
   ]
 }
