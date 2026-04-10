@@ -6502,6 +6502,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-10T18:03:39.274803"
+    },
+    {
+      "nombre": "StudyBuddy",
+      "descripcion": "StudyBuddy permite a los estudiantes planificar su semana, asignar tiempo para el estudio, las tareas, y las actividades extracurriculares. Ofrece recordatorios, funciones de calendario y herramientas de productividad adaptadas a la vida estudiantil.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-10T19:10:57.632570"
     }
   ],
   "nombres_usados": [
@@ -7433,6 +7440,7 @@
     "FinAnálisis",
     "SocialHubIQ",
     "FeedbackEasy",
-    "PyMExpansiva"
+    "PyMExpansiva",
+    "StudyBuddy"
   ]
 }

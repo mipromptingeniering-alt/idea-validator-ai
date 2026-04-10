@@ -360,6 +360,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260410180339",
+    "nombre": "PyMExpansiva",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de marketing digital todo en uno, diseñada específicamente para PYMEs, que combina análisis de datos y automatización de campañas de market...",
+    "score": 75,
+    "landing_url": "IDEA-20260410180339.html"
+  },
+  {
     "id": "IDEA-20260410170622",
     "nombre": "FeedbackEasy",
     "tipo": "SaaS",
