@@ -6558,6 +6558,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-11T01:25:17.533451"
+    },
+    {
+      "nombre": "InfoSift",
+      "descripcion": "La plataforma permite a los usuarios registrar sus intereses y recibir resúmenes diarios semanales de artículos, investigaciones, y contenido de video relacionados con su campo de trabajo. Utiliza algoritmos de aprendizaje automático para mejorar la relevancia del contenido compartido con el tiempo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-11T06:36:32.593341"
     }
   ],
   "nombres_usados": [
@@ -7497,6 +7504,7 @@
     "FocusFit",
     "ConviertePYME",
     "TimeSync Pro",
-    "EasyFinance"
+    "EasyFinance",
+    "InfoSift"
   ]
 }
