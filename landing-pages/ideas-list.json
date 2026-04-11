@@ -6456,6 +6456,14 @@
     "landing_url": "IDEA-20260216160937.html"
   },
   {
+    "id": "IDEA-20260411145444",
+    "nombre": "WellTask",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de tareas que integra bienestar y productividad, ayudando a los usuarios a organizar su tiempo y cuidar su salud mental....",
+    "score": 72,
+    "landing_url": "IDEA-20260411145444.html"
+  },
+  {
     "id": "IDEA-20260409223701",
     "nombre": "TaskMate",
     "tipo": "SaaS",

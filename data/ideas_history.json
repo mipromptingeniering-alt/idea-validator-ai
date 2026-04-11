@@ -6600,6 +6600,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-04-11T14:54:44.934834"
+    },
+    {
+      "nombre": "SkillSprint",
+      "descripcion": "SkillSprint es una plataforma en línea que permite a los emprendedores aprender habilidades prácticas de manera rápida y efectiva a través de cursos cortos y mentoría con expertos del sector. Los usuarios pueden aplicar los conocimientos directamente en sus negocios mientras reciben orientación personalizada para maximizar el impacto de lo aprendido.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-11T16:27:04.849425"
     }
   ],
   "nombres_usados": [
@@ -7545,6 +7552,7 @@
     "CampañaIQ",
     "AdhereTrack",
     "TimeBloom",
-    "WellTask"
+    "WellTask",
+    "SkillSprint"
   ]
 }
