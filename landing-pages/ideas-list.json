@@ -360,6 +360,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260411162704",
+    "nombre": "SkillSprint",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de aprendizaje para emprendedores que ofrece cursos cortos y mentoría personalizada para desarrollar habilidades empresariales específicas....",
+    "score": 75,
+    "landing_url": "IDEA-20260411162704.html"
+  },
+  {
     "id": "IDEA-20260411140550",
     "nombre": "TimeBloom",
     "tipo": "SaaS",

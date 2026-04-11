@@ -6607,6 +6607,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-11T16:27:04.849425"
+    },
+    {
+      "nombre": "FinAnalyze",
+      "descripcion": "FinAnalyze es una herramienta que utiliza inteligencia artificial para ayudar a emprendedores a gestionar sus finanzas, proporcionando análisis financieros, proyecciones y recomendaciones personalizadas. Permite a los usuarios ingresar datos sobre sus ingresos y gastos, y en base a estos, genera reportes y sugerencias sobre cómo optimizar sus finanzas.",
+      "tipo": "SaaS",
+      "score": 74,
+      "fecha": "2026-04-11T17:03:24.673984"
     }
   ],
   "nombres_usados": [
@@ -7553,6 +7560,7 @@
     "AdhereTrack",
     "TimeBloom",
     "WellTask",
-    "SkillSprint"
+    "SkillSprint",
+    "FinAnalyze"
   ]
 }
