@@ -6586,6 +6586,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-11T11:02:16.445261"
+    },
+    {
+      "nombre": "TimeBloom",
+      "descripcion": "TimeBloom permite a los equipos remotos gestionar su tiempo de manera efectiva a través de tareas gamificadas que fomentan la colaboración, el seguimiento del tiempo y la mejora contínua del bienestar laboral. Incluye análisis de datos para ayudar a los gerentes a identificar cuellos de botella.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-11T14:05:50.783826"
     }
   ],
   "nombres_usados": [
@@ -7529,6 +7536,7 @@
     "InfoSift",
     "CreaFact",
     "CampañaIQ",
-    "AdhereTrack"
+    "AdhereTrack",
+    "TimeBloom"
   ]
 }
