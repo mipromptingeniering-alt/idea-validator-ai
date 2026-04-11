@@ -6593,6 +6593,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-11T14:05:50.783826"
+    },
+    {
+      "nombre": "WellTask",
+      "descripcion": "WellTask permite a los usuarios gestionar sus tareas diarias mientras reciben recomendaciones personalizadas para pausas y ejercicios de bienestar, ayudando a reducir el estrés y mejorar la eficiencia.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-04-11T14:54:44.934834"
     }
   ],
   "nombres_usados": [
@@ -7537,6 +7544,7 @@
     "CreaFact",
     "CampañaIQ",
     "AdhereTrack",
-    "TimeBloom"
+    "TimeBloom",
+    "WellTask"
   ]
 }
