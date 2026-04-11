@@ -6565,6 +6565,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-11T06:36:32.593341"
+    },
+    {
+      "nombre": "CreaFact",
+      "descripcion": "CreaFact es una herramienta SaaS diseñada para ayudar a profesionales creativos a gestionar sus proyectos, tiempo y facturación de manera sencilla y eficiente, brindando plantillas personalizables y seguimiento de proyectos integrados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-11T08:24:01.142894"
     }
   ],
   "nombres_usados": [
@@ -7505,6 +7512,7 @@
     "ConviertePYME",
     "TimeSync Pro",
     "EasyFinance",
-    "InfoSift"
+    "InfoSift",
+    "CreaFact"
   ]
 }

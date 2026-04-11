@@ -360,6 +360,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260411063632",
+    "nombre": "InfoSift",
+    "tipo": "SaaS",
+    "resumen": "InfoSift es una plataforma que utiliza inteligencia artificial para curar y personalizar contenido relevante para profesionales, ayudándoles a mantene...",
+    "score": 75,
+    "landing_url": "IDEA-20260411063632.html"
+  },
+  {
     "id": "IDEA-20260411012517",
     "nombre": "EasyFinance",
     "tipo": "SaaS",
