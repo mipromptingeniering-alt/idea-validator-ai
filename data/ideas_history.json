@@ -6579,6 +6579,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-11T10:26:38.223949"
+    },
+    {
+      "nombre": "AdhereTrack",
+      "descripcion": "AdhereTrack permite a los médicos crear regímenes de tratamiento personalizables y enviar recordatorios automáticos a los pacientes. Además, ofrece un dashboard donde los médicos pueden monitorizar la adherencia y realizar seguimiento proactivo.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-11T11:02:16.445261"
     }
   ],
   "nombres_usados": [
@@ -7521,6 +7528,7 @@
     "EasyFinance",
     "InfoSift",
     "CreaFact",
-    "CampañaIQ"
+    "CampañaIQ",
+    "AdhereTrack"
   ]
 }

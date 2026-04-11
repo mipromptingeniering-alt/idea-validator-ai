@@ -360,6 +360,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260411102638",
+    "nombre": "CampañaIQ",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que integra la gestión de campañas de marketing digital en múltiples canales, utilizando IA para optimizar resultados....",
+    "score": 75,
+    "landing_url": "IDEA-20260411102638.html"
+  },
+  {
     "id": "IDEA-20260411082400",
     "nombre": "CreaFact",
     "tipo": "SaaS",
