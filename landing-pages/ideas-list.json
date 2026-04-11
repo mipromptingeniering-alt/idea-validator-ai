@@ -360,6 +360,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260411230011",
+    "nombre": "Connect&Grow",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que conecta freelancers y emprendedores, facilitando no solo la búsqueda de clientes, sino también la creación de relaciones colaborati...",
+    "score": 75,
+    "landing_url": "IDEA-20260411230011.html"
+  },
+  {
     "id": "IDEA-20260411222624",
     "nombre": "FinanCero",
     "tipo": "SaaS",

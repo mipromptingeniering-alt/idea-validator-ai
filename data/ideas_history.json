@@ -6670,6 +6670,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-11T23:00:12.126584"
+    },
+    {
+      "nombre": "Marketing Buddy",
+      "descripcion": "Marketing Buddy ofrece herramientas de gestión de redes sociales, creación de contenido, análisis de SEO y automatización de correos electrónicos en una interfaz intuitiva. Además, incluye un recurso educativo que enseña a los usuarios a usar estas herramientas de manera efectiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-11T23:39:17.132238"
     }
   ],
   "nombres_usados": [
@@ -7625,6 +7632,7 @@
     "Mentorify",
     "TaskZen",
     "FinanCero",
-    "Connect&Grow"
+    "Connect&Grow",
+    "Marketing Buddy"
   ]
 }
