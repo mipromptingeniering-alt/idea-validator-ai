@@ -6628,6 +6628,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-11T19:23:58.745443"
+    },
+    {
+      "nombre": "EasyShop Creator",
+      "descripcion": "EasyShop Creator es una herramienta que permite a las PYMES construir y gestionar su propia tienda en línea. Con una interfaz intuitiva, plantillas personalizables y soporte técnico 24/7, el objetivo es eliminar las barreras de entrada al comercio electrónico para los dueños de negocios que no tienen experiencia técnica.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-11T19:54:59.349244"
     }
   ],
   "nombres_usados": [
@@ -7577,6 +7584,7 @@
     "SkillSprint",
     "FinAnalyze",
     "Task & Bill",
-    "PymeFinance"
+    "PymeFinance",
+    "EasyShop Creator"
   ]
 }
