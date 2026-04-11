@@ -360,6 +360,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260411202306",
+    "nombre": "MarketIntel",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de marketing digital que integra datos de múltiples canales y ofrece recomendaciones automatizadas para mejorar el rendimien...",
+    "score": 75,
+    "landing_url": "IDEA-20260411202306.html"
+  },
+  {
     "id": "IDEA-20260411195459",
     "nombre": "EasyShop Creator",
     "tipo": "SaaS",

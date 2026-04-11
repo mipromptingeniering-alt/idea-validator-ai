@@ -6642,6 +6642,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-11T20:23:06.533556"
+    },
+    {
+      "nombre": "Mentorify",
+      "descripcion": "Mentorify es una plataforma donde los estudiantes y jóvenes profesionales pueden encontrar mentores que se alineen con sus intereses y objetivos profesionales. Utilizando inteligencia artificial, la plataforma sugiere mentores adecuados, ofreciendo una experiencia personalizada y plataformas de seguimiento para medir el progreso.",
+      "tipo": "SaaS",
+      "score": 74,
+      "fecha": "2026-04-11T20:57:33.462524"
     }
   ],
   "nombres_usados": [
@@ -7593,6 +7600,7 @@
     "Task & Bill",
     "PymeFinance",
     "EasyShop Creator",
-    "MarketIntel"
+    "MarketIntel",
+    "Mentorify"
   ]
 }
