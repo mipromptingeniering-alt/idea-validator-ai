@@ -6614,6 +6614,13 @@
       "tipo": "SaaS",
       "score": 74,
       "fecha": "2026-04-11T17:03:24.673984"
+    },
+    {
+      "nombre": "Task & Bill",
+      "descripcion": "Task & Bill es un software que permite a los emprendedores y freelancers gestionar su tiempo y tareas, así como generar facturas de manera automatizada. Integra funciones de planificación, seguimiento del tiempo y facturación, todo en un solo lugar, facilitando la organización y aumentando la productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-11T17:48:50.370298"
     }
   ],
   "nombres_usados": [
@@ -7561,6 +7568,7 @@
     "TimeBloom",
     "WellTask",
     "SkillSprint",
-    "FinAnalyze"
+    "FinAnalyze",
+    "Task & Bill"
   ]
 }
