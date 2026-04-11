@@ -6621,6 +6621,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-11T17:48:50.370298"
+    },
+    {
+      "nombre": "PymeFinance",
+      "descripcion": "PymeFinance es una plataforma que permite a las pymes gestionar sus finanzas de manera efectiva y sencilla, combinando herramientas de contabilidad, análisis de flujo de caja y previsiones financieras. La plataforma está diseñada con una interfaz intuitiva, permitiendo que incluso aquellos sin experiencia en finanzas puedan utilizarla.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-11T19:23:58.745443"
     }
   ],
   "nombres_usados": [
@@ -7569,6 +7576,7 @@
     "WellTask",
     "SkillSprint",
     "FinAnalyze",
-    "Task & Bill"
+    "Task & Bill",
+    "PymeFinance"
   ]
 }

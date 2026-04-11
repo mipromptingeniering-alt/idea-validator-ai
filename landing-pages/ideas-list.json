@@ -360,6 +360,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260411174850",
+    "nombre": "Task & Bill",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma todo en uno para que emprendedores y freelancers gestionen su tiempo, tareas y facturación de manera eficiente....",
+    "score": 75,
+    "landing_url": "IDEA-20260411174850.html"
+  },
+  {
     "id": "IDEA-20260411162704",
     "nombre": "SkillSprint",
     "tipo": "SaaS",
