@@ -6663,6 +6663,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-11T22:26:24.517094"
+    },
+    {
+      "nombre": "Connect&Grow",
+      "descripcion": "Connect&Grow es un SaaS diseñado para ayudar a freelancers y pequeños emprendedores a encontrar clientes potenciales mientras construyen conexiones con otros profesionales. La plataforma permite crear perfiles detallados, enviar propuestas y participar en grupos de networking y mentoría. Adicionalmente, incluye herramientas de gestión de proyectos para ayudar a los usuarios a llevar sus trabajos con los clientes de manera más efectiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-11T23:00:12.126584"
     }
   ],
   "nombres_usados": [
@@ -7617,6 +7624,7 @@
     "MarketIntel",
     "Mentorify",
     "TaskZen",
-    "FinanCero"
+    "FinanCero",
+    "Connect&Grow"
   ]
 }

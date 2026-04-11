@@ -360,6 +360,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260411222624",
+    "nombre": "FinanCero",
+    "tipo": "SaaS",
+    "resumen": "FinanCero es una plataforma de gestión financiera diseñada específicamente para freelancers que automatiza la facturación y ofrece recomendaciones fis...",
+    "score": 75,
+    "landing_url": "IDEA-20260411222624.html"
+  },
+  {
     "id": "IDEA-20260411212939",
     "nombre": "TaskZen",
     "tipo": "SaaS",
