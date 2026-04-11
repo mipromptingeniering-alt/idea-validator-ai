@@ -360,6 +360,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260411212939",
+    "nombre": "TaskZen",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de tareas que utiliza IA para optimizar la programación del día a día y mejorar el bienestar del usuario....",
+    "score": 75,
+    "landing_url": "IDEA-20260411212939.html"
+  },
+  {
     "id": "IDEA-20260411202306",
     "nombre": "MarketIntel",
     "tipo": "SaaS",

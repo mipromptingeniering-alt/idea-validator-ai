@@ -6656,6 +6656,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-11T21:29:39.748986"
+    },
+    {
+      "nombre": "FinanCero",
+      "descripcion": "FinanCero utiliza inteligencia artificial para simplificar la gestión financiera de freelancers y autónomos. Permite emitir facturas de manera rápida, gestionar gastos, y recibir recordatorios de vencimientos y recomendaciones fiscales, todo en una interfaz amigable y sencilla.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-11T22:26:24.517094"
     }
   ],
   "nombres_usados": [
@@ -7609,6 +7616,7 @@
     "EasyShop Creator",
     "MarketIntel",
     "Mentorify",
-    "TaskZen"
+    "TaskZen",
+    "FinanCero"
   ]
 }
