@@ -6572,6 +6572,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-11T08:24:01.142894"
+    },
+    {
+      "nombre": "CampañaIQ",
+      "descripcion": "CampañaIQ permite a los marketers gestionar, analizar y optimizar campañas en redes sociales, email y publicidad online desde una única plataforma, además de ofrecer recomendaciones basadas en IA para mejorar el rendimiento de las campañas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-11T10:26:38.223949"
     }
   ],
   "nombres_usados": [
@@ -7513,6 +7520,7 @@
     "TimeSync Pro",
     "EasyFinance",
     "InfoSift",
-    "CreaFact"
+    "CreaFact",
+    "CampañaIQ"
   ]
 }

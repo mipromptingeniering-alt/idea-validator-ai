@@ -360,6 +360,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260411082400",
+    "nombre": "CreaFact",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de proyectos y facturación para creativos....",
+    "score": 75,
+    "landing_url": "IDEA-20260411082400.html"
+  },
+  {
     "id": "IDEA-20260411063632",
     "nombre": "InfoSift",
     "tipo": "SaaS",
