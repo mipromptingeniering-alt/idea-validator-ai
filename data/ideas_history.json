@@ -6551,6 +6551,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-10T23:51:37.793835"
+    },
+    {
+      "nombre": "EasyFinance",
+      "descripcion": "EasyFinance es una plataforma de software como servicio que permite a los usuarios registrar y categorizar ingresos y gastos de manera intuitiva. Incluye funciones de generación de informes y recordatorios de facturación para ayudar a los usuarios a mantenerse al día con sus finanzas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-11T01:25:17.533451"
     }
   ],
   "nombres_usados": [
@@ -7489,6 +7496,7 @@
     "DocuComply",
     "FocusFit",
     "ConviertePYME",
-    "TimeSync Pro"
+    "TimeSync Pro",
+    "EasyFinance"
   ]
 }

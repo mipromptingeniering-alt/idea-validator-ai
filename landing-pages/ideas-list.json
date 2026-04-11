@@ -6688,6 +6688,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260410235137",
+    "nombre": "TimeSync Pro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que integra gestión del tiempo y de proyectos, diseñada específicamente para freelancers y profesionales independientes....",
+    "score": 70,
+    "landing_url": "IDEA-20260410235137.html"
+  },
+  {
     "id": "IDEA-20260410215344",
     "nombre": "DocuComply",
     "tipo": "SaaS",
