@@ -6635,6 +6635,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-11T19:54:59.349244"
+    },
+    {
+      "nombre": "MarketIntel",
+      "descripcion": "MarketIntel permite a los marketers conectar sus cuentas de publicidad en diferentes plataformas (Google Ads, Facebook Ads, Instagram, etc.) y proporciona un análisis consolidado y recomendaciones personalizadas basadas en el rendimiento de las campañas. Utilizando inteligencia artificial, la plataforma no solo presenta datos, sino que también sugiere ajustes para optimizar la inversión publicitaria.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-11T20:23:06.533556"
     }
   ],
   "nombres_usados": [
@@ -7585,6 +7592,7 @@
     "FinAnalyze",
     "Task & Bill",
     "PymeFinance",
-    "EasyShop Creator"
+    "EasyShop Creator",
+    "MarketIntel"
   ]
 }
