@@ -6649,6 +6649,13 @@
       "tipo": "SaaS",
       "score": 74,
       "fecha": "2026-04-11T20:57:33.462524"
+    },
+    {
+      "nombre": "TaskZen",
+      "descripcion": "TaskZen es una aplicación que ayuda a los usuarios a gestionar sus tareas diarias de manera eficiente, priorizando las actividades según el estilo de vida y el estado emocional del usuario. Combina técnicas de productividad con un enfoque en la salud mental, proporcionando recomendaciones personalizadas para equilibrar trabajo y descanso.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-11T21:29:39.748986"
     }
   ],
   "nombres_usados": [
@@ -7601,6 +7608,7 @@
     "PymeFinance",
     "EasyShop Creator",
     "MarketIntel",
-    "Mentorify"
+    "Mentorify",
+    "TaskZen"
   ]
 }

@@ -6488,6 +6488,14 @@
     "landing_url": "https://idea-idea-20260210230254-ktb3nx9g8-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260411205733",
+    "nombre": "Mentorify",
+    "tipo": "SaaS",
+    "resumen": "Un sistema de emparejamiento de mentorías que conecta profesionales jóvenes con mentores según intereses y objetivos específicos....",
+    "score": 74,
+    "landing_url": "IDEA-20260411205733.html"
+  },
+  {
     "id": "IDEA-20260411170324",
     "nombre": "FinAnalyze",
     "tipo": "SaaS",
