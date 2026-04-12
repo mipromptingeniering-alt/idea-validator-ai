@@ -6691,6 +6691,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-12T03:45:07.435999"
+    },
+    {
+      "nombre": "Atención AI",
+      "descripcion": "Atención AI ofrece un sistema integral que combina chatbots, análisis de datos y personalización de respuestas para mejorar la experiencia del cliente y reducir el tiempo de respuesta. La plataforma permite a las PYMEs automatizar parte de su atención al cliente mientras obtienen información valiosa sobre las necesidades y comportamientos de los clientes.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-04-12T07:04:54.181357"
     }
   ],
   "nombres_usados": [
@@ -7649,6 +7656,7 @@
     "Connect&Grow",
     "Marketing Buddy",
     "TalentEase",
-    "MarketWise"
+    "MarketWise",
+    "Atención AI"
   ]
 }
