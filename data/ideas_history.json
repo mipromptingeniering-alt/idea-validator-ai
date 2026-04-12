@@ -6747,6 +6747,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-12T17:57:50.877832"
+    },
+    {
+      "nombre": "PymeXpert",
+      "descripcion": "Un sistema que ofrece módulos para la gestión de tareas, control de inventarios, seguimiento de ventas, y generación de informes personalizados. Los usuarios pueden elegir y personalizar los módulos según sus necesidades específicas, lo que les permite optimizar su flujo de trabajo sin invertir en soluciones costosas y complejas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-12T18:45:45.256681"
     }
   ],
   "nombres_usados": [
@@ -7713,6 +7720,7 @@
     "Freelance Simplify",
     "Marketing Hub",
     "FocusFlex",
-    "HabitUp"
+    "HabitUp",
+    "PymeXpert"
   ]
 }

@@ -368,6 +368,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260412175750",
+    "nombre": "HabitUp",
+    "tipo": "SaaS",
+    "resumen": "Una aplicación que ayuda a las personas a establecer, seguir y mejorar sus hábitos saludables de forma gamificada....",
+    "score": 75,
+    "landing_url": "IDEA-20260412175750.html"
+  },
+  {
     "id": "IDEA-20260412155734",
     "nombre": "FocusFlex",
     "tipo": "SaaS",
