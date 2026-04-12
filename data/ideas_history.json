@@ -6712,6 +6712,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-12T11:21:11.975778"
+    },
+    {
+      "nombre": "PrioritizeMe",
+      "descripcion": "PrioritizeMe ayuda a los usuarios a planificar su jornada, sugiriendo prioridades basadas en plazos, importancia y esfuerzo, así como ofreciendo recordatorios y seguimiento del progreso.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-12T12:41:26.286796"
     }
   ],
   "nombres_usados": [
@@ -7673,6 +7680,7 @@
     "MarketWise",
     "Atención AI",
     "FitSync",
-    "WellCom"
+    "WellCom",
+    "PrioritizeMe"
   ]
 }

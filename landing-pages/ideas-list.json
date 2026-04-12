@@ -368,6 +368,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260412112111",
+    "nombre": "WellCom",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que combina bienestar mental y socialización para trabajadores remotos a través de actividades en equipo y eventos virtuales....",
+    "score": 75,
+    "landing_url": "IDEA-20260412112111.html"
+  },
+  {
     "id": "IDEA-20260412080832",
     "nombre": "FitSync",
     "tipo": "SaaS",
