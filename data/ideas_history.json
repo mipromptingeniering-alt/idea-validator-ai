@@ -6726,6 +6726,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-12T13:46:45.225694"
+    },
+    {
+      "nombre": "Marketing Hub",
+      "descripcion": "Marketing Hub es una solución SaaS que permite a los equipos de marketing digital gestionar de manera centralizada sus campañas a través de diversas plataformas. Ofrece herramientas de visualización, análisis de datos en tiempo real y colaboración en equipo, ayudando a optimizar las estrategias de marketing y mejorar el retorno de inversión.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-12T14:35:23.514552"
     }
   ],
   "nombres_usados": [
@@ -7689,6 +7696,7 @@
     "FitSync",
     "WellCom",
     "PrioritizeMe",
-    "Freelance Simplify"
+    "Freelance Simplify",
+    "Marketing Hub"
   ]
 }

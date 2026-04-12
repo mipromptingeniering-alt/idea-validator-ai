@@ -6872,6 +6872,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260412134645",
+    "nombre": "Freelance Simplify",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma todo-en-uno que ayuda a freelancers a gestionar sus tareas administrativas de forma sencilla y eficaz....",
+    "score": 70,
+    "landing_url": "IDEA-20260412134645.html"
+  },
+  {
     "id": "IDEA-20260411110216",
     "nombre": "AdhereTrack",
     "tipo": "SaaS",
