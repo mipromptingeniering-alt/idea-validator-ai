@@ -368,6 +368,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260412184545",
+    "nombre": "PymeXpert",
+    "tipo": "SaaS",
+    "resumen": "PymeXpert es una solución SaaS que permite a las pequeñas y medianas empresas gestionar sus operaciones de manera más eficiente a través de un conjunt...",
+    "score": 75,
+    "landing_url": "IDEA-20260412184545.html"
+  },
+  {
     "id": "IDEA-20260412175750",
     "nombre": "HabitUp",
     "tipo": "SaaS",

@@ -6754,6 +6754,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-12T18:45:45.256681"
+    },
+    {
+      "nombre": "EduTask Manager",
+      "descripcion": "EduTask Manager permite a los padres agregar y gestionar las tareas escolares de sus hijos, establecer recordatorios, y recibir actualizaciones sobre su progreso académico. Incluye funciones de comunicación con profesores y recursos educativos adicionales.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-12T20:04:07.925881"
     }
   ],
   "nombres_usados": [
@@ -7721,6 +7728,7 @@
     "Marketing Hub",
     "FocusFlex",
     "HabitUp",
-    "PymeXpert"
+    "PymeXpert",
+    "EduTask Manager"
   ]
 }
