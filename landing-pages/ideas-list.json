@@ -48,6 +48,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260412070454",
+    "nombre": "Atención AI",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de atención al cliente impulsada por IA que ayuda a las PYMEs a gestionar y optimizar sus interacciones con los clientes a través de múltip...",
+    "score": 78,
+    "landing_url": "IDEA-20260412070454.html"
+  },
+  {
     "id": "IDEA-20260404123654",
     "nombre": "ProjectPulse",
     "tipo": "SaaS",

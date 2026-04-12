@@ -6698,6 +6698,13 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-04-12T07:04:54.181357"
+    },
+    {
+      "nombre": "FitSync",
+      "descripcion": "FitSync utiliza inteligencia artificial para crear un programa de ejercicios personalizado que se adapta a la agenda del usuario, permitiendo que las rutinas sean flexibles y eficaces. Conectándose a calendarios y aplicaciones de productividad, la app ofrece recordatorios y sugerencias de ejercicios que se pueden realizar en cualquier lugar y en cualquier momento.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-12T08:08:32.815021"
     }
   ],
   "nombres_usados": [
@@ -7657,6 +7664,7 @@
     "Marketing Buddy",
     "TalentEase",
     "MarketWise",
-    "Atención AI"
+    "Atención AI",
+    "FitSync"
   ]
 }
