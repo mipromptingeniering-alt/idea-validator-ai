@@ -6677,6 +6677,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-11T23:39:17.132238"
+    },
+    {
+      "nombre": "TalentEase",
+      "descripcion": "TalentEase es una herramienta SaaS que ayuda a las pequeñas y medianas empresas a optimizar sus procesos de recursos humanos. Utiliza algoritmos de inteligencia artificial para analizar currículos, identificar candidatos adecuados y proporcionar evaluaciones de desempeño, facilitando la contratación y la gestión del talento.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-12T00:03:59.077040"
     }
   ],
   "nombres_usados": [
@@ -7633,6 +7640,7 @@
     "TaskZen",
     "FinanCero",
     "Connect&Grow",
-    "Marketing Buddy"
+    "Marketing Buddy",
+    "TalentEase"
   ]
 }
