@@ -368,6 +368,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260412143523",
+    "nombre": "Marketing Hub",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integradora para la gestión y análisis de datos de campañas de marketing digital....",
+    "score": 75,
+    "landing_url": "IDEA-20260412143523.html"
+  },
+  {
     "id": "IDEA-20260412124126",
     "nombre": "PrioritizeMe",
     "tipo": "SaaS",

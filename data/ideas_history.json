@@ -6733,6 +6733,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-12T14:35:23.514552"
+    },
+    {
+      "nombre": "FocusFlex",
+      "descripcion": "FocusFlex es un sistema que permite a los usuarios gestionar sus tareas diarias mientras reciben recomendaciones personalizadas basadas en su comportamiento y estados de ánimo. La herramienta adaptativa incluye temporizadores Pomodoro y espacios de descanso sugeridos basados en datos recogidos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-12T15:57:35.052313"
     }
   ],
   "nombres_usados": [
@@ -7697,6 +7704,7 @@
     "WellCom",
     "PrioritizeMe",
     "Freelance Simplify",
-    "Marketing Hub"
+    "Marketing Hub",
+    "FocusFlex"
   ]
 }
