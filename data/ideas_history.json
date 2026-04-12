@@ -6740,6 +6740,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-12T15:57:35.052313"
+    },
+    {
+      "nombre": "HabitUp",
+      "descripcion": "HabitUp es una plataforma que permite a los usuarios fijar metas de salud, registrar su progreso y recibir coaching personalizado a través de una comunidad de apoyo. La app utiliza elementos de gamificación para motivar a los usuarios a cumplir con sus hábitos diarios y ofrece reportes semanales.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-12T17:57:50.877832"
     }
   ],
   "nombres_usados": [
@@ -7705,6 +7712,7 @@
     "PrioritizeMe",
     "Freelance Simplify",
     "Marketing Hub",
-    "FocusFlex"
+    "FocusFlex",
+    "HabitUp"
   ]
 }
