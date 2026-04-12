@@ -6719,6 +6719,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-12T12:41:26.286796"
+    },
+    {
+      "nombre": "Freelance Simplify",
+      "descripcion": "Freelance Simplify es una solución SaaS diseñada para freelancers y pequeños emprendedores que buscan una forma fácil de gestionar su facturación, clientes y programación de citas, todo en un solo lugar. La plataforma proporciona plantillas de facturas, recordatorios de citas, y un sistema de gestión de clientes que permite mejorar la eficiencia del trabajo diario.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-12T13:46:45.225694"
     }
   ],
   "nombres_usados": [
@@ -7681,6 +7688,7 @@
     "Atención AI",
     "FitSync",
     "WellCom",
-    "PrioritizeMe"
+    "PrioritizeMe",
+    "Freelance Simplify"
   ]
 }

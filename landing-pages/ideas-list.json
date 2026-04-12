@@ -368,6 +368,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260412124126",
+    "nombre": "PrioritizeMe",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de tareas que permite a los usuarios priorizar y organizar su día de manera efectiva....",
+    "score": 75,
+    "landing_url": "IDEA-20260412124126.html"
+  },
+  {
     "id": "IDEA-20260412112111",
     "nombre": "WellCom",
     "tipo": "SaaS",
