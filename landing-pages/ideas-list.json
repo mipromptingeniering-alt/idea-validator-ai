@@ -360,6 +360,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260412000358",
+    "nombre": "TalentEase",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de talento diseñada específicamente para pymes que utilizan inteligencia artificial para mejorar el proceso de selección y r...",
+    "score": 75,
+    "landing_url": "IDEA-20260412000358.html"
+  },
+  {
     "id": "IDEA-20260411233916",
     "nombre": "Marketing Buddy",
     "tipo": "SaaS",

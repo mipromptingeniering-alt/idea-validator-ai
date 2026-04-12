@@ -6684,6 +6684,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-12T00:03:59.077040"
+    },
+    {
+      "nombre": "MarketWise",
+      "descripcion": "MarketWise es una herramienta SaaS diseñada para ayudar a pequeñas y medianas empresas a crear y gestionar estrategias de marketing digital personalizadas basadas en datos del mercado y análisis de competencia. A través de un dashboard fácil de usar, los usuarios pueden recibir recomendaciones estratégicas, plantillas de contenido y herramientas de automatización para mejorar su alcance y efectividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-12T03:45:07.435999"
     }
   ],
   "nombres_usados": [
@@ -7641,6 +7648,7 @@
     "FinanCero",
     "Connect&Grow",
     "Marketing Buddy",
-    "TalentEase"
+    "TalentEase",
+    "MarketWise"
   ]
 }
