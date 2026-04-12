@@ -6761,6 +6761,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-12T20:04:07.925881"
+    },
+    {
+      "nombre": "Taskly",
+      "descripcion": "Taskly permite a los usuarios crear, asignar y seguir el progreso de tareas de manera intuitiva, integrándose fácilmente con herramientas como Slack y Google Calendar, lo que facilita la colaboración en equipos remotos.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-04-12T20:51:15.832861"
     }
   ],
   "nombres_usados": [
@@ -7729,6 +7736,7 @@
     "FocusFlex",
     "HabitUp",
     "PymeXpert",
-    "EduTask Manager"
+    "EduTask Manager",
+    "Taskly"
   ]
 }

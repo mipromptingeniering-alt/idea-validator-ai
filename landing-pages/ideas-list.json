@@ -6904,6 +6904,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260412200407",
+    "nombre": "EduTask Manager",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que ayuda a los padres a gestionar las tareas escolares y el rendimiento académico de sus hijos de manera eficiente....",
+    "score": 70,
+    "landing_url": "IDEA-20260412200407.html"
+  },
+  {
     "id": "IDEA-20260412134645",
     "nombre": "Freelance Simplify",
     "tipo": "SaaS",
