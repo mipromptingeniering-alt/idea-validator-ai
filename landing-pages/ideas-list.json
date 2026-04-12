@@ -368,6 +368,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260412080832",
+    "nombre": "FitSync",
+    "tipo": "SaaS",
+    "resumen": "FitSync es una aplicación que personaliza rutinas de ejercicio basadas en la disponibilidad y preferencias del usuario, integrándose con su agenda dia...",
+    "score": 75,
+    "landing_url": "IDEA-20260412080832.html"
+  },
+  {
     "id": "IDEA-20260412034507",
     "nombre": "MarketWise",
     "tipo": "SaaS",

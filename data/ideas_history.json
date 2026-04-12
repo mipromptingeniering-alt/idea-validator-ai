@@ -6705,6 +6705,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-12T08:08:32.815021"
+    },
+    {
+      "nombre": "WellCom",
+      "descripcion": "WellCom ofrece una variedad de actividades virtuales para equipos remotos, como meditación guiada, juegos en línea y sesiones de bienestar, promoviendo la conexión entre colegas y mejorando el estado mental y emocional de los empleados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-12T11:21:11.975778"
     }
   ],
   "nombres_usados": [
@@ -7665,6 +7672,7 @@
     "TalentEase",
     "MarketWise",
     "Atención AI",
-    "FitSync"
+    "FitSync",
+    "WellCom"
   ]
 }
