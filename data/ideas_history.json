@@ -6775,6 +6775,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-12T22:27:54.471887"
+    },
+    {
+      "nombre": "BalancePact",
+      "descripcion": "BalancePact es una herramienta que permite a los usuarios planificar su jornada laboral de manera efectiva, incorporando pausas para el bienestar y la meditación. Los usuarios pueden establecer objetivos diarios y recibir recordatorios que fomenten un equilibrio saludable entre el trabajo y el descanso.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-12T23:02:42.163650"
     }
   ],
   "nombres_usados": [
@@ -7745,6 +7752,7 @@
     "PymeXpert",
     "EduTask Manager",
     "Taskly",
-    "DesignTrack"
+    "DesignTrack",
+    "BalancePact"
   ]
 }

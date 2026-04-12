@@ -368,6 +368,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260412222754",
+    "nombre": "DesignTrack",
+    "tipo": "SaaS",
+    "resumen": "DesignTrack es una herramienta de gestión de proyectos y seguimiento de tiempo diseñada específicamente para diseñadores gráficos....",
+    "score": 75,
+    "landing_url": "IDEA-20260412222754.html"
+  },
+  {
     "id": "IDEA-20260412205115",
     "nombre": "Taskly",
     "tipo": "MicroSaaS",
