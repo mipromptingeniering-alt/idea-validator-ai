@@ -6768,6 +6768,13 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-04-12T20:51:15.832861"
+    },
+    {
+      "nombre": "DesignTrack",
+      "descripcion": "DesignTrack permite a los diseñadores registrar el tiempo que invierten en cada proyecto, gestionar tareas y colaborar con clientes. Con una interfaz intuitiva, ofrece análisis de rendimiento y recomendaciones para mejorar la eficiencia. También incluye plantillas adaptadas a diferentes tipos de trabajos de diseño.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-12T22:27:54.471887"
     }
   ],
   "nombres_usados": [
@@ -7737,6 +7744,7 @@
     "HabitUp",
     "PymeXpert",
     "EduTask Manager",
-    "Taskly"
+    "Taskly",
+    "DesignTrack"
   ]
 }

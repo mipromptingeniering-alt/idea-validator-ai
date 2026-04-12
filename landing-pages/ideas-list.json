@@ -368,6 +368,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260412205115",
+    "nombre": "Taskly",
+    "tipo": "MicroSaaS",
+    "resumen": "Taskly es una herramienta de gestión de tareas enfocada en la simplicidad y la integración con herramientas de trabajo colaborativo....",
+    "score": 75,
+    "landing_url": "IDEA-20260412205115.html"
+  },
+  {
     "id": "IDEA-20260412184545",
     "nombre": "PymeXpert",
     "tipo": "SaaS",
