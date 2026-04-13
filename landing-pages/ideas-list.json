@@ -6664,6 +6664,14 @@
     "landing_url": "https://idea-idea-20260210230254-ktb3nx9g8-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260413162245",
+    "nombre": "FocusSphere",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión del tiempo que adapta técnicas de productividad personalizadas a las necesidades y estados de ánimo del usuario....",
+    "score": 74,
+    "landing_url": "IDEA-20260413162245.html"
+  },
+  {
     "id": "IDEA-20260411205733",
     "nombre": "Mentorify",
     "tipo": "SaaS",

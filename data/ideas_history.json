@@ -6824,6 +6824,13 @@
       "tipo": "SaaS",
       "score": 74,
       "fecha": "2026-04-13T16:22:45.247669"
+    },
+    {
+      "nombre": "SalesSync",
+      "descripcion": "SalesSync permite a las PYMES gestionar su proceso de ventas, automatizar el marketing y analizar el rendimiento desde una única plataforma intuitiva. Incluye funcionalidades como gestión de contactos, campañas de email marketing y informes de rendimiento en tiempo real.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-13T17:36:45.026646"
     }
   ],
   "nombres_usados": [
@@ -7801,6 +7808,7 @@
     "SmartTasker",
     "ClientGenius",
     "FriendMatch",
-    "FocusSphere"
+    "FocusSphere",
+    "SalesSync"
   ]
 }
