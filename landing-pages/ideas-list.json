@@ -256,6 +256,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260413200026",
+    "nombre": "HealthPro Manager",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para profesionales de la salud y el bienestar que facilita la gestión de clientes, citas y planes personalizados....",
+    "score": 76,
+    "landing_url": "IDEA-20260413200026.html"
+  },
+  {
     "id": "IDEA-20260409200803",
     "nombre": "TutorMatch",
     "tipo": "SaaS",

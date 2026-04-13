@@ -6845,6 +6845,13 @@
       "tipo": "SaaS",
       "score": 76,
       "fecha": "2026-04-13T20:00:26.630010"
+    },
+    {
+      "nombre": "AdOptiMate",
+      "descripcion": "AdOptiMate es una herramienta SaaS que permite a los profesionales de marketing gestionar campañas en diversas plataformas publicitarias desde un solo lugar. Utiliza algoritmos de inteligencia artificial para analizar el rendimiento de las campañas, asegurando que se asignen presupuestos óptimos y se realicen ajustes automáticos en los anuncios para maximizar el retorno de inversión (ROI).",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-13T20:59:42.700389"
     }
   ],
   "nombres_usados": [
@@ -7825,6 +7832,7 @@
     "FocusSphere",
     "SalesSync",
     "DigitalResourceTracker",
-    "HealthPro Manager"
+    "HealthPro Manager",
+    "AdOptiMate"
   ]
 }
