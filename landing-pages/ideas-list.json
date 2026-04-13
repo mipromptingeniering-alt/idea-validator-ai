@@ -376,6 +376,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260413223710",
+    "nombre": "FitGamify",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de salud y bienestar que utiliza inteligencia artificial para personalizar planes de nutrición y ejercicio, combinando gamificación par...",
+    "score": 75,
+    "landing_url": "IDEA-20260413223710.html"
+  },
+  {
     "id": "IDEA-20260413205942",
     "nombre": "AdOptiMate",
     "tipo": "SaaS",

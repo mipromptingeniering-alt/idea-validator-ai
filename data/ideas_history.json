@@ -6859,6 +6859,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-13T22:37:10.585588"
+    },
+    {
+      "nombre": "SimpleTask",
+      "descripcion": "SimpleTask permite a los usuarios crear, organizar y asignar tareas de manera intuitiva, con recordatorios automáticos y seguimiento del progreso. Su interfaz simplificada evita la sobrecarga de información y permite que cualquier persona, independientemente de su experiencia en gestión de proyectos, pueda usarla fácilmente.",
+      "tipo": "MicroSaaS",
+      "score": 70,
+      "fecha": "2026-04-13T23:28:05.162185"
     }
   ],
   "nombres_usados": [
@@ -7841,6 +7848,7 @@
     "DigitalResourceTracker",
     "HealthPro Manager",
     "AdOptiMate",
-    "FitGamify"
+    "FitGamify",
+    "SimpleTask"
   ]
 }
