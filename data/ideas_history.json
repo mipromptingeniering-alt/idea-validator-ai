@@ -6796,6 +6796,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-13T07:11:04.451274"
+    },
+    {
+      "nombre": "SmartTasker",
+      "descripcion": "SmartTasker analiza las tareas diarias de los usuarios y sugiere una planificación óptima, teniendo en cuenta los momentos de mayor productividad, plazos y prioridades. Además, ofrece recordatorios y análisis semanales para mejorar la gestión del tiempo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-13T09:12:05.455543"
     }
   ],
   "nombres_usados": [
@@ -7769,6 +7776,7 @@
     "DesignTrack",
     "BalancePact",
     "Inspirol",
-    "CurateAI"
+    "CurateAI",
+    "SmartTasker"
   ]
 }
