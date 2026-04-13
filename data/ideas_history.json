@@ -6831,6 +6831,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-13T17:36:45.026646"
+    },
+    {
+      "nombre": "DigitalResourceTracker",
+      "descripcion": "DigitalResourceTracker ofrece un tablero intuitivo donde los equipos pueden ver el uso de todas sus herramientas digitales, recibir alertas sobre suscripciones no utilizadas y obtener recomendaciones basadas en datos sobre la optimización de recursos.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-04-13T18:48:40.244025"
     }
   ],
   "nombres_usados": [
@@ -7809,6 +7816,7 @@
     "ClientGenius",
     "FriendMatch",
     "FocusSphere",
-    "SalesSync"
+    "SalesSync",
+    "DigitalResourceTracker"
   ]
 }
