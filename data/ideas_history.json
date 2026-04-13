@@ -6803,6 +6803,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-13T09:12:05.455543"
+    },
+    {
+      "nombre": "ClientGenius",
+      "descripcion": "ClientGenius permite a los pequeños negocios gestionar su base de datos de clientes, automatizar seguimientos, y recibir recomendaciones personalizadas sobre cómo interactuar con cada cliente potencial basado en datos de comportamiento previos. La plataforma ayudará a maximizar la conversión de prospectos a clientes a través de un enfoque más centrado y analítico.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-13T10:55:04.685615"
     }
   ],
   "nombres_usados": [
@@ -7777,6 +7784,7 @@
     "BalancePact",
     "Inspirol",
     "CurateAI",
-    "SmartTasker"
+    "SmartTasker",
+    "ClientGenius"
   ]
 }

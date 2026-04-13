@@ -368,6 +368,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260413091205",
+    "nombre": "SmartTasker",
+    "tipo": "SaaS",
+    "resumen": "SmartTasker es una aplicación de gestión del tiempo impulsada por IA que ayuda a los usuarios a organizar sus tareas diarias de manera eficiente....",
+    "score": 75,
+    "landing_url": "IDEA-20260413091205.html"
+  },
+  {
     "id": "IDEA-20260413071104",
     "nombre": "CurateAI",
     "tipo": "SaaS",
