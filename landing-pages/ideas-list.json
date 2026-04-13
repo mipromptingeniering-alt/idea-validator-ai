@@ -368,6 +368,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260413105504",
+    "nombre": "ClientGenius",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de clientes impulsada por inteligencia artificial, diseñada específicamente para pequeños emprendedores y freelancers, que a...",
+    "score": 75,
+    "landing_url": "IDEA-20260413105504.html"
+  },
+  {
     "id": "IDEA-20260413091205",
     "nombre": "SmartTasker",
     "tipo": "SaaS",

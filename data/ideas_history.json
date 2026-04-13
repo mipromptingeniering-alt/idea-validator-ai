@@ -6810,6 +6810,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-13T10:55:04.685615"
+    },
+    {
+      "nombre": "FriendMatch",
+      "descripcion": "FriendMatch es una aplicación que utiliza algoritmos de afinidad para ayudar a las personas a encontrar amigos compatibles basados en intereses, hobbies y objetivos. Los usuarios completan un perfil con sus preferencias, y la plataforma sugiere conexiones. Además, incluye herramientas para organizar encuentros virtuales y presenciales, así como un sistema de verificación de identidad para aumentar la seguridad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-13T13:43:04.878655"
     }
   ],
   "nombres_usados": [
@@ -7785,6 +7792,7 @@
     "Inspirol",
     "CurateAI",
     "SmartTasker",
-    "ClientGenius"
+    "ClientGenius",
+    "FriendMatch"
   ]
 }
