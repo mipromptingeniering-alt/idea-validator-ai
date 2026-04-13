@@ -6782,6 +6782,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-12T23:02:42.163650"
+    },
+    {
+      "nombre": "Inspirol",
+      "descripcion": "Inspirol es una herramienta SaaS diseñada para ayudar a profesionales creativos a recopilar, organizar y compartir recursos visuales de una manera intuitiva y colaborativa. Permite la creación de tableros de inspiración donde los usuarios pueden arrastrar y soltar imágenes, enlaces y notas, así como colaborar en tiempo real con otros usuarios de la plataforma.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-13T01:53:37.450103"
     }
   ],
   "nombres_usados": [
@@ -7753,6 +7760,7 @@
     "EduTask Manager",
     "Taskly",
     "DesignTrack",
-    "BalancePact"
+    "BalancePact",
+    "Inspirol"
   ]
 }
