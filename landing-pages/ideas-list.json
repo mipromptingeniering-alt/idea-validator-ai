@@ -368,6 +368,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260413015337",
+    "nombre": "Inspirol",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de organización visual que permite a los creativos curar, organizar y colaborar en sus recursos visuales y de inspiración....",
+    "score": 75,
+    "landing_url": "IDEA-20260413015337.html"
+  },
+  {
     "id": "IDEA-20260412230242",
     "nombre": "BalancePact",
     "tipo": "SaaS",

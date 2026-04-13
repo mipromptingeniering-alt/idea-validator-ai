@@ -6789,6 +6789,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-13T01:53:37.450103"
+    },
+    {
+      "nombre": "CurateAI",
+      "descripcion": "CurateAI es un servicio de suscripción que integra un algoritmo de IA que analiza las preferencias y hábitos de consumo de los usuarios para ofrecerles contenido adaptado a sus intereses. La herramienta permite guardar, organizar y compartir contenido, además de proporcionar recomendaciones diarias de artículos, videos y otros materiales en función de los gustos del usuario.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-13T07:11:04.451274"
     }
   ],
   "nombres_usados": [
@@ -7761,6 +7768,7 @@
     "Taskly",
     "DesignTrack",
     "BalancePact",
-    "Inspirol"
+    "Inspirol",
+    "CurateAI"
   ]
 }
