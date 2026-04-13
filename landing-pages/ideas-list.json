@@ -368,6 +368,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260413134304",
+    "nombre": "FriendMatch",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma para conectar personas con intereses similares de manera efectiva y segura....",
+    "score": 75,
+    "landing_url": "IDEA-20260413134304.html"
+  },
+  {
     "id": "IDEA-20260413105504",
     "nombre": "ClientGenius",
     "tipo": "SaaS",
