@@ -6704,6 +6704,14 @@
     "landing_url": "IDEA-20260216160937.html"
   },
   {
+    "id": "IDEA-20260413184840",
+    "nombre": "DigitalResourceTracker",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS que permite a empresas monitorear y optimizar el uso de sus herramientas digitales....",
+    "score": 72,
+    "landing_url": "IDEA-20260413184840.html"
+  },
+  {
     "id": "IDEA-20260411145444",
     "nombre": "WellTask",
     "tipo": "SaaS",

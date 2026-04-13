@@ -6838,6 +6838,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-04-13T18:48:40.244025"
+    },
+    {
+      "nombre": "HealthPro Manager",
+      "descripcion": "HealthPro Manager es un software como servicio que permite a entrenadores personales, nutricionistas y otros profesionales de la salud gestionar sus clientes de manera eficiente. La plataforma ofrece herramientas para programar citas, crear y seguir planes de entrenamiento/nutrición, y realizar un seguimiento del progreso del cliente a través de métricas personalizadas. Además, incluye una interfaz fácil de usar y un sistema de recordatorios para mantener a los clientes comprometidos.",
+      "tipo": "SaaS",
+      "score": 76,
+      "fecha": "2026-04-13T20:00:26.630010"
     }
   ],
   "nombres_usados": [
@@ -7817,6 +7824,7 @@
     "FriendMatch",
     "FocusSphere",
     "SalesSync",
-    "DigitalResourceTracker"
+    "DigitalResourceTracker",
+    "HealthPro Manager"
   ]
 }
