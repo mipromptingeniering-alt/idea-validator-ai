@@ -376,6 +376,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260413205942",
+    "nombre": "AdOptiMate",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de optimización automática de campañas publicitarias que utiliza IA para maximizar el rendimiento y reducir la carga de trabajo de los ...",
+    "score": 75,
+    "landing_url": "IDEA-20260413205942.html"
+  },
+  {
     "id": "IDEA-20260413173644",
     "nombre": "SalesSync",
     "tipo": "SaaS",

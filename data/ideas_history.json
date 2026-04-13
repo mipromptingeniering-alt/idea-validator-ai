@@ -6852,6 +6852,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-13T20:59:42.700389"
+    },
+    {
+      "nombre": "FitGamify",
+      "descripcion": "FitGamify permite a los usuarios ingresar sus datos de salud y objetivos, luego utiliza IA para crear un plan de salud personalizado. Además, incorpora elementos de gamificación, como desafíos y recompensas, para motivar a los usuarios y fomentar la competencia amistosa entre amigos y familiares.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-13T22:37:10.585588"
     }
   ],
   "nombres_usados": [
@@ -7833,6 +7840,7 @@
     "SalesSync",
     "DigitalResourceTracker",
     "HealthPro Manager",
-    "AdOptiMate"
+    "AdOptiMate",
+    "FitGamify"
   ]
 }
