@@ -6736,6 +6736,14 @@
     "landing_url": "IDEA-20260216160937.html"
   },
   {
+    "id": "IDEA-20260414101607",
+    "nombre": "DataDecisions",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de análisis de datos asequible y fácil de usar para PYMES que permite tomar decisiones informadas basadas en datos....",
+    "score": 72,
+    "landing_url": "IDEA-20260414101607.html"
+  },
+  {
     "id": "IDEA-20260414033943",
     "nombre": "CashFlow AI",
     "tipo": "SaaS",

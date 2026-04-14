@@ -6901,6 +6901,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-04-14T10:16:07.570711"
+    },
+    {
+      "nombre": "WorkFlowPro",
+      "descripcion": "WorkFlowPro permite a los equipos gestionar sus proyectos de manera eficiente, generar facturas, y comunicarse en un solo lugar, eliminando la necesidad de múltiples herramientas. La interfaz es intuitiva y se adapta a diferentes tipos de proyectos, facilitando la colaboración y el seguimiento de tareas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-14T11:35:05.696626"
     }
   ],
   "nombres_usados": [
@@ -7889,6 +7896,7 @@
     "CashFlow AI",
     "ScreenBalance",
     "CollabSpace",
-    "DataDecisions"
+    "DataDecisions",
+    "WorkFlowPro"
   ]
 }
