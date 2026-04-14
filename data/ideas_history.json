@@ -6936,6 +6936,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-14T20:29:10.850420"
+    },
+    {
+      "nombre": "Freelance Time & Rate Optimizer",
+      "descripcion": "Freelance Time & Rate Optimizer permite a los freelancers registrar sus horas de trabajo, asignar tareas, y calcular tarifas en función del mercado y su experiencia. Incluye recomendaciones personalizadas sobre tarifas y sugerencias para mejorar la eficiencia en la gestión del tiempo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-14T21:13:51.351538"
     }
   ],
   "nombres_usados": [
@@ -7929,6 +7936,7 @@
     "WorkLifeBalanceAI",
     "EasyBiz Digital",
     "SocialFusion",
-    "FlowManage"
+    "FlowManage",
+    "Freelance Time & Rate Optimizer"
   ]
 }
