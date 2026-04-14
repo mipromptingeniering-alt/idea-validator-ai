@@ -6873,6 +6873,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-14T00:06:44.090901"
+    },
+    {
+      "nombre": "CashFlow AI",
+      "descripcion": "CashFlow AI es una aplicación basada en la nube que permite a los propietarios de pequeñas empresas introducir sus ingresos y gastos, y luego utiliza algoritmos de inteligencia artificial para pronosticar el flujo de caja a corto y largo plazo. Además, la plataforma ofrece recomendaciones personalizadas para mejorar la gestión financiera.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-04-14T03:39:43.552411"
     }
   ],
   "nombres_usados": [
@@ -7857,6 +7864,7 @@
     "AdOptiMate",
     "FitGamify",
     "SimpleTask",
-    "ProyCRM"
+    "ProyCRM",
+    "CashFlow AI"
   ]
 }

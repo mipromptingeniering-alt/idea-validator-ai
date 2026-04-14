@@ -376,6 +376,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260414000643",
+    "nombre": "ProyCRM",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma todo en uno para gestionar proyectos y relaciones con clientes, diseñada para profesionales independientes y pequeñas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260414000643.html"
+  },
+  {
     "id": "IDEA-20260413223710",
     "nombre": "FitGamify",
     "tipo": "SaaS",
