@@ -6880,6 +6880,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-04-14T03:39:43.552411"
+    },
+    {
+      "nombre": "ScreenBalance",
+      "descripcion": "ScreenBalance permite a los padres establecer límites de tiempo en el uso de dispositivos, recibir informes semanales de uso y sugerencias personalizadas de actividades alternativas para sus hijos. Además, incluye una función de seguimiento del bienestar, donde los niños pueden registrar actividades físicas y hábitos de estudio.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-14T05:49:38.098142"
     }
   ],
   "nombres_usados": [
@@ -7865,6 +7872,7 @@
     "FitGamify",
     "SimpleTask",
     "ProyCRM",
-    "CashFlow AI"
+    "CashFlow AI",
+    "ScreenBalance"
   ]
 }

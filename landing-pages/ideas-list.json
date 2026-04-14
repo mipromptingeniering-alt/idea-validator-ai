@@ -6736,6 +6736,14 @@
     "landing_url": "IDEA-20260216160937.html"
   },
   {
+    "id": "IDEA-20260414033943",
+    "nombre": "CashFlow AI",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta SaaS que utiliza inteligencia artificial para ayudar a pequeñas empresas a gestionar y predecir su flujo de caja....",
+    "score": 72,
+    "landing_url": "IDEA-20260414033943.html"
+  },
+  {
     "id": "IDEA-20260413184840",
     "nombre": "DigitalResourceTracker",
     "tipo": "SaaS",
