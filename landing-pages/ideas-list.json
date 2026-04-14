@@ -7016,6 +7016,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260413232804",
+    "nombre": "SimpleTask",
+    "tipo": "MicroSaaS",
+    "resumen": "Una herramienta de gestión de tareas sencilla y accesible para freelancers y pequeñas empresas....",
+    "score": 70,
+    "landing_url": "IDEA-20260413232804.html"
+  },
+  {
     "id": "IDEA-20260412200407",
     "nombre": "EduTask Manager",
     "tipo": "SaaS",

@@ -6866,6 +6866,13 @@
       "tipo": "MicroSaaS",
       "score": 70,
       "fecha": "2026-04-13T23:28:05.162185"
+    },
+    {
+      "nombre": "ProyCRM",
+      "descripcion": "ProyCRM combina la gestión de tareas, seguimiento de tiempo y gestión de relaciones con clientes en una interfaz intuitiva. Permite a los usuarios asignar tareas, establecer plazos, realizar seguimientos de tiempo y registrar interacciones con clientes, todo desde un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-14T00:06:44.090901"
     }
   ],
   "nombres_usados": [
@@ -7849,6 +7856,7 @@
     "HealthPro Manager",
     "AdOptiMate",
     "FitGamify",
-    "SimpleTask"
+    "SimpleTask",
+    "ProyCRM"
   ]
 }
