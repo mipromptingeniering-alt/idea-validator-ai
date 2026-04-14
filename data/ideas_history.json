@@ -6894,6 +6894,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-14T07:20:02.797348"
+    },
+    {
+      "nombre": "DataDecisions",
+      "descripcion": "DataDecisions es una solución SaaS que permite a las pequeñas y medianas empresas conectar sus fuentes de datos, visualizar la información de manera intuitiva y obtener informes que les ayuden a tomar decisiones estratégicas en tiempo real. La plataforma incluye un asistente de configuración guiada para personalizar los análisis a las necesidades específicas de cada negocio.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-04-14T10:16:07.570711"
     }
   ],
   "nombres_usados": [
@@ -7881,6 +7888,7 @@
     "ProyCRM",
     "CashFlow AI",
     "ScreenBalance",
-    "CollabSpace"
+    "CollabSpace",
+    "DataDecisions"
   ]
 }
