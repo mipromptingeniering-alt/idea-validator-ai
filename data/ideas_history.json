@@ -6915,6 +6915,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-14T14:24:26.120719"
+    },
+    {
+      "nombre": "EasyBiz Digital",
+      "descripcion": "EasyBiz Digital ofrece herramientas fáciles de usar para crear sitios web, administrar redes sociales y realizar análisis de marketing, todo en una interfaz intuitiva y accesible, diseñando planes específicos para pequeñas empresas con recursos limitados.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-04-14T15:47:15.367413"
     }
   ],
   "nombres_usados": [
@@ -7905,6 +7912,7 @@
     "CollabSpace",
     "DataDecisions",
     "WorkFlowPro",
-    "WorkLifeBalanceAI"
+    "WorkLifeBalanceAI",
+    "EasyBiz Digital"
   ]
 }
