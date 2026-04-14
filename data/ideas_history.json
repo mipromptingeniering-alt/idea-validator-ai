@@ -6950,6 +6950,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-14T22:06:16.796218"
+    },
+    {
+      "nombre": "HealthProfile Pro",
+      "descripcion": "HealthProfile Pro ofrece herramientas fáciles de usar para crear, programar y analizar el contenido de perfiles de salud en diversas plataformas, asegurando que los mensajes sean coherentes y cumplan con regulaciones pertinentes. Los usuarios pueden gestionar su reputación en línea y promocionar sus servicios de forma segura y ética.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-14T23:03:23.093028"
     }
   ],
   "nombres_usados": [
@@ -7945,6 +7952,7 @@
     "SocialFusion",
     "FlowManage",
     "Freelance Time & Rate Optimizer",
-    "WebPro"
+    "WebPro",
+    "HealthProfile Pro"
   ]
 }

@@ -376,6 +376,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260414220616",
+    "nombre": "WebPro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS integral que permite a emprendedores y profesionales crear y gestionar su presencia en línea, con herramientas de marketing y vent...",
+    "score": 75,
+    "landing_url": "IDEA-20260414220616.html"
+  },
+  {
     "id": "IDEA-20260414211351",
     "nombre": "Freelance Time & Rate Optimizer",
     "tipo": "SaaS",
