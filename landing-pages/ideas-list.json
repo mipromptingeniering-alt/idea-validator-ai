@@ -376,6 +376,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260414113505",
+    "nombre": "WorkFlowPro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para la gestión de proyectos, facturación y comunicación para emprendedores y pequeñas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260414113505.html"
+  },
+  {
     "id": "IDEA-20260414000643",
     "nombre": "ProyCRM",
     "tipo": "SaaS",

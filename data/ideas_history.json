@@ -6908,6 +6908,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-14T11:35:05.696626"
+    },
+    {
+      "nombre": "WorkLifeBalanceAI",
+      "descripcion": "WorkLifeBalanceAI es un software que ayuda a los trabajadores remotos a gestionar su tiempo de manera efectiva, ofreciendo recordatorios personalizados para pausas, técnicas de mindfulness y optimización de tareas, todo basado en un análisis continuo del comportamiento del usuario.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-14T14:24:26.120719"
     }
   ],
   "nombres_usados": [
@@ -7897,6 +7904,7 @@
     "ScreenBalance",
     "CollabSpace",
     "DataDecisions",
-    "WorkFlowPro"
+    "WorkFlowPro",
+    "WorkLifeBalanceAI"
   ]
 }
