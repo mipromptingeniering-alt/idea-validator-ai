@@ -6943,6 +6943,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-14T21:13:51.351538"
+    },
+    {
+      "nombre": "WebPro",
+      "descripcion": "WebPro es un software que facilita la creación de sitios web profesionales sin necesidad de conocimientos técnicos. Además, incluye herramientas de automatización de marketing, gestión de clientes y análisis de datos para ayudar a los usuarios a atraer y retener clientes.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-14T22:06:16.796218"
     }
   ],
   "nombres_usados": [
@@ -7937,6 +7944,7 @@
     "EasyBiz Digital",
     "SocialFusion",
     "FlowManage",
-    "Freelance Time & Rate Optimizer"
+    "Freelance Time & Rate Optimizer",
+    "WebPro"
   ]
 }
