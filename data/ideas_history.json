@@ -6929,6 +6929,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-14T19:21:41.646074"
+    },
+    {
+      "nombre": "FlowManage",
+      "descripcion": "FlowManage ofrece una solución simple y flexible para gestionar tareas, compartir documentos y colaborar con clientes y equipos en tiempo real. Con una interfaz intuitiva, permite a los usuarios personalizar su espacio de trabajo y optimizar su productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-14T20:29:10.850420"
     }
   ],
   "nombres_usados": [
@@ -7921,6 +7928,7 @@
     "WorkFlowPro",
     "WorkLifeBalanceAI",
     "EasyBiz Digital",
-    "SocialFusion"
+    "SocialFusion",
+    "FlowManage"
   ]
 }
