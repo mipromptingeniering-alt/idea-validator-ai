@@ -6922,6 +6922,13 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-04-14T15:47:15.367413"
+    },
+    {
+      "nombre": "SocialFusion",
+      "descripcion": "SocialFusion permite a los profesionales del marketing gestionar todas sus cuentas de redes sociales desde un solo tablero, con herramientas de análisis que proporcionan informes y recomendaciones en tiempo real, optimizando así el rendimiento de cada publicación y campaña.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-14T19:21:41.646074"
     }
   ],
   "nombres_usados": [
@@ -7913,6 +7920,7 @@
     "DataDecisions",
     "WorkFlowPro",
     "WorkLifeBalanceAI",
-    "EasyBiz Digital"
+    "EasyBiz Digital",
+    "SocialFusion"
   ]
 }
