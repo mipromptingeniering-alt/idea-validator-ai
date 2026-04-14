@@ -7032,6 +7032,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260414054937",
+    "nombre": "ScreenBalance",
+    "tipo": "SaaS",
+    "resumen": "ScreenBalance es una plataforma de gestión de tiempo de pantalla que permite a los padres monitorear y regular el uso de dispositivos digitales de sus...",
+    "score": 70,
+    "landing_url": "IDEA-20260414054937.html"
+  },
+  {
     "id": "IDEA-20260413232804",
     "nombre": "SimpleTask",
     "tipo": "MicroSaaS",

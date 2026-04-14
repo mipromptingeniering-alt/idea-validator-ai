@@ -6887,6 +6887,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-14T05:49:38.098142"
+    },
+    {
+      "nombre": "CollabSpace",
+      "descripcion": "CollabSpace ofrece un entorno de trabajo virtual inmersivo donde los empleados pueden interactuar en tiempo real, organizar tareas y compartir documentos, recreando la experiencia de una oficina física con herramientas de colaboración integradas.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-14T07:20:02.797348"
     }
   ],
   "nombres_usados": [
@@ -7873,6 +7880,7 @@
     "SimpleTask",
     "ProyCRM",
     "CashFlow AI",
-    "ScreenBalance"
+    "ScreenBalance",
+    "CollabSpace"
   ]
 }
