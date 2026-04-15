@@ -6971,6 +6971,13 @@
       "tipo": "MicroSaaS",
       "score": 70,
       "fecha": "2026-04-15T11:15:43.062879"
+    },
+    {
+      "nombre": "SimpleMarket",
+      "descripcion": "SimpleMarket es un software como servicio diseñado para ayudar a las pequeñas y medianas empresas a implementar y gestionar estrategias de marketing digital sin necesidad de experiencia previa. La plataforma ofrece herramientas intuitivas para crear campañas, gestionar redes sociales y analizar resultados con un enfoque en la simplicidad y la efectividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-15T15:21:47.391386"
     }
   ],
   "nombres_usados": [
@@ -7969,6 +7976,7 @@
     "WebPro",
     "HealthProfile Pro",
     "Inventario Inteligente",
-    "Prioritask"
+    "Prioritask",
+    "SimpleMarket"
   ]
 }

@@ -7112,6 +7112,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260415111542",
+    "nombre": "Prioritask",
+    "tipo": "MicroSaaS",
+    "resumen": "Una aplicación de gestión de tareas enfocada en la priorización eficaz de actividades....",
+    "score": 70,
+    "landing_url": "IDEA-20260415111542.html"
+  },
+  {
     "id": "IDEA-20260414072002",
     "nombre": "CollabSpace",
     "tipo": "SaaS",
