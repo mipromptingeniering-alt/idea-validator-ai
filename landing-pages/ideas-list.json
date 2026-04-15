@@ -376,6 +376,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260415230046",
+    "nombre": "FreelanceSync",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para freelancers que combina gestión de proyectos, facturación y comunicación con clientes....",
+    "score": 75,
+    "landing_url": "IDEA-20260415230046.html"
+  },
+  {
     "id": "IDEA-20260415220258",
     "nombre": "SocialBoost",
     "tipo": "SaaS",

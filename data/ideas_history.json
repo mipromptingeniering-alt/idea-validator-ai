@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TimeMaster",
-      "descripcion": "TimeMaster es una plataforma que permite a los usuarios gestionar sus tareas y proyectos utilizando metodologías de productividad como Pomodoro y Kanban. Ofrece recordatorios, estadísticas de tiempo y una interfaz fácil de usar que se adapta a las preferencias individuales.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-10T23:44:54.529682"
-    },
-    {
       "nombre": "SociaBot",
       "descripcion": "SociaBot permite a las pymes crear, programar y publicar contenido en múltiples redes sociales desde una única plataforma, mientras que un chatbot AI responde automáticamente a preguntas comunes y comentarios de los clientes.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-15T23:00:46.345335"
+    },
+    {
+      "nombre": "SocialEase",
+      "descripcion": "SocialEase permite a las pymes programar publicaciones, gestionar interacciones y analizar métricas en una única interfaz intuitiva, con funcionalidades automatizadas para maximizar la visibilidad en plataformas sociales.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-15T23:50:23.145654"
     }
   ],
   "nombres_usados": [
-    "TimeMaster",
     "SociaBot",
     "TaskBill",
     "Pymex CRM",
@@ -8001,6 +8000,7 @@
     "SiteBuilder AI",
     "TaskLib",
     "SocialBoost",
-    "FreelanceSync"
+    "FreelanceSync",
+    "SocialEase"
   ]
 }
