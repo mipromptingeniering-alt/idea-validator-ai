@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialEase",
-      "descripcion": "SocialEase permite a las pequeñas y medianas empresas gestionar sus redes sociales de manera eficiente y accesible. Proporciona herramientas de programación de publicaciones, análisis de interacción y un dashboard intuitivo que muestra el rendimiento de las campañas en tiempo real. Además, incluye plantillas adaptadas a diferentes sectores para facilitar la creación de contenido atractivo.",
-      "tipo": "SaaS",
-      "score": 76,
-      "fecha": "2026-02-10T23:14:01.436793"
-    },
-    {
       "nombre": "TeamPulse",
       "descripcion": "TeamPulse es una herramienta de SaaS que ayuda a los equipos remotos a ser más productivos al tiempo que promueve el bienestar mental. A través de una interfaz intuitiva, los usuarios pueden gestionar tareas, establecer metas, y participar en actividades que fomenten la cohesión del equipo y el bienestar personal, como ejercicios de mindfulness y encuestas de clima laboral.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-04-15T21:04:58.555281"
+    },
+    {
+      "nombre": "SocialBoost",
+      "descripcion": "SocialBoost ayuda a pequeños negocios y emprendedores a crear, programar y analizar su contenido en redes sociales de manera intuitiva. Utilizando IA, proporciona sugerencias de contenido y análisis de la audiencia para maximizar el engagement y las ventas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-15T22:02:59.111415"
     }
   ],
   "nombres_usados": [
-    "SocialEase",
     "TeamPulse",
     "TimeMaster",
     "SociaBot",
@@ -8001,6 +8000,7 @@
     "TimeBlox",
     "FinanPlay",
     "SiteBuilder AI",
-    "TaskLib"
+    "TaskLib",
+    "SocialBoost"
   ]
 }

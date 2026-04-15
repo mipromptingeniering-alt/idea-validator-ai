@@ -376,6 +376,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260415210458",
+    "nombre": "TaskLib",
+    "tipo": "MicroSaaS",
+    "resumen": "Una herramienta de gestión de tareas simplificada, diseñada específicamente para freelancers y pequeñas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260415210458.html"
+  },
+  {
     "id": "IDEA-20260415190322",
     "nombre": "SiteBuilder AI",
     "tipo": "SaaS",
