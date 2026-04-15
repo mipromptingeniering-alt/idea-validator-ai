@@ -7120,6 +7120,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260415163438",
+    "nombre": "TimeBlox",
+    "tipo": "SaaS",
+    "resumen": "TimeBlox es una plataforma de gestión del tiempo que utiliza la gamificación y la personalización para ayudar a usuarios a mejorar su productividad mi...",
+    "score": 70,
+    "landing_url": "IDEA-20260415163438.html"
+  },
+  {
     "id": "IDEA-20260415111542",
     "nombre": "Prioritask",
     "tipo": "MicroSaaS",

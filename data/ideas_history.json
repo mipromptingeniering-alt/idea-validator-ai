@@ -6985,6 +6985,13 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-15T16:34:38.484538"
+    },
+    {
+      "nombre": "FinanPlay",
+      "descripcion": "FinanPlay combina la gestión de presupuestos, gastos e ingresos con un enfoque lúdico, donde los usuarios pueden completar retos y recibir recompensas por alcanzar hitos financieros. Esto no solo permite una mejor gestión, sino que también educa a los usuarios sobre finanzas personales y empresariales.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-15T17:45:52.630408"
     }
   ],
   "nombres_usados": [
@@ -7985,6 +7992,7 @@
     "Inventario Inteligente",
     "Prioritask",
     "SimpleMarket",
-    "TimeBlox"
+    "TimeBlox",
+    "FinanPlay"
   ]
 }
