@@ -6992,6 +6992,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-15T17:45:52.630408"
+    },
+    {
+      "nombre": "SiteBuilder AI",
+      "descripcion": "SiteBuilder AI utiliza inteligencia artificial para guiar a los usuarios en la creación de sus sitios web, proporcionando plantillas personalizadas, recomendaciones de contenido y herramientas SEO integradas. La plataforma permite la creación rápida de sitios web, optimizados para móviles y fácil conexión a redes sociales, todo sin saber codificar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-15T19:03:23.102406"
     }
   ],
   "nombres_usados": [
@@ -7993,6 +8000,7 @@
     "Prioritask",
     "SimpleMarket",
     "TimeBlox",
-    "FinanPlay"
+    "FinanPlay",
+    "SiteBuilder AI"
   ]
 }
