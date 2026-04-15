@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TeamPulse",
-      "descripcion": "TeamPulse es una herramienta de SaaS que ayuda a los equipos remotos a ser más productivos al tiempo que promueve el bienestar mental. A través de una interfaz intuitiva, los usuarios pueden gestionar tareas, establecer metas, y participar en actividades que fomenten la cohesión del equipo y el bienestar personal, como ejercicios de mindfulness y encuestas de clima laboral.",
-      "tipo": "SaaS",
-      "score": 80,
-      "fecha": "2026-02-10T23:29:39.679996"
-    },
-    {
       "nombre": "TimeMaster",
       "descripcion": "TimeMaster es una plataforma que permite a los usuarios gestionar sus tareas y proyectos utilizando metodologías de productividad como Pomodoro y Kanban. Ofrece recordatorios, estadísticas de tiempo y una interfaz fácil de usar que se adapta a las preferencias individuales.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-15T22:02:59.111415"
+    },
+    {
+      "nombre": "FreelanceSync",
+      "descripcion": "FreelanceSync es una herramienta diseñada para ayudar a los freelancers a organizar su trabajo, gestionar proyectos, enviar facturas y comunicarse con sus clientes desde un solo lugar, mejorando la productividad y reduciendo la carga administrativa.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-15T23:00:46.345335"
     }
   ],
   "nombres_usados": [
-    "TeamPulse",
     "TimeMaster",
     "SociaBot",
     "TaskBill",
@@ -8001,6 +8000,7 @@
     "FinanPlay",
     "SiteBuilder AI",
     "TaskLib",
-    "SocialBoost"
+    "SocialBoost",
+    "FreelanceSync"
   ]
 }
