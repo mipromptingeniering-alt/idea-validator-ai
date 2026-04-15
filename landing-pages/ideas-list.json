@@ -376,6 +376,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260415152147",
+    "nombre": "SimpleMarket",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de marketing digital simplificada para pymes que facilita la creación y gestión de campañas publicitarias en línea....",
+    "score": 75,
+    "landing_url": "IDEA-20260415152147.html"
+  },
+  {
     "id": "IDEA-20260415021357",
     "nombre": "Inventario Inteligente",
     "tipo": "SaaS",

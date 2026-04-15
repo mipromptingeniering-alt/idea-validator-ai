@@ -6978,6 +6978,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-15T15:21:47.391386"
+    },
+    {
+      "nombre": "TimeBlox",
+      "descripcion": "TimeBlox permite a los usuarios establecer objetivos de productividad diarios, semanales y mensuales, ofreciendo incentivos mediante un sistema de recompensas que se activa al completar tareas. La plataforma también proporciona análisis en tiempo real sobre cómo se utiliza el tiempo, permitiendo la personalización del enfoque de trabajo para cada usuario.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-15T16:34:38.484538"
     }
   ],
   "nombres_usados": [
@@ -7977,6 +7984,7 @@
     "HealthProfile Pro",
     "Inventario Inteligente",
     "Prioritask",
-    "SimpleMarket"
+    "SimpleMarket",
+    "TimeBlox"
   ]
 }
