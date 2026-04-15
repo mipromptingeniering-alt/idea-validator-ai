@@ -6957,6 +6957,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-14T23:03:23.093028"
+    },
+    {
+      "nombre": "Inventario Inteligente",
+      "descripcion": "Inventario Inteligente es una plataforma SaaS que permite a las pequeñas y medianas empresas gestionar su inventario de manera eficiente. La herramienta ofrece pronósticos de demanda, alertas de bajo stock y recomendaciones de reabastecimiento, todo integrado con sus sistemas de e-commerce y ERP.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-15T02:13:57.417204"
     }
   ],
   "nombres_usados": [
@@ -7953,6 +7960,7 @@
     "FlowManage",
     "Freelance Time & Rate Optimizer",
     "WebPro",
-    "HealthProfile Pro"
+    "HealthProfile Pro",
+    "Inventario Inteligente"
   ]
 }
