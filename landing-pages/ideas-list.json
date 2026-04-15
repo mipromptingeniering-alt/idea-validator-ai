@@ -376,6 +376,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260415021357",
+    "nombre": "Inventario Inteligente",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de inventario para PYMES que optimiza el almacenamiento y las compras mediante análisis predictivos....",
+    "score": 75,
+    "landing_url": "IDEA-20260415021357.html"
+  },
+  {
     "id": "IDEA-20260414230322",
     "nombre": "HealthProfile Pro",
     "tipo": "SaaS",

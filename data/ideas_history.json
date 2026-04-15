@@ -6964,6 +6964,13 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-15T02:13:57.417204"
+    },
+    {
+      "nombre": "Prioritask",
+      "descripcion": "Prioritask permite a los usuarios clasificar y priorizar sus tareas diarias utilizando un sistema sencillo basado en la matriz de Eisenhower. A través de una interfaz limpia y fácil de usar, los usuarios pueden ver visualmente qué tareas son urgentes y/o importantes, facilitando la toma de decisiones.",
+      "tipo": "MicroSaaS",
+      "score": 70,
+      "fecha": "2026-04-15T11:15:43.062879"
     }
   ],
   "nombres_usados": [
@@ -7961,6 +7968,7 @@
     "Freelance Time & Rate Optimizer",
     "WebPro",
     "HealthProfile Pro",
-    "Inventario Inteligente"
+    "Inventario Inteligente",
+    "Prioritask"
   ]
 }
