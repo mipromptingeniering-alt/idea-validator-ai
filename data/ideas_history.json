@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ContentGenius",
-      "descripcion": "ContentGenius permite a los emprendedores ingresar información básica sobre su negocio y su audiencia objetivo. A través de algoritmos de IA, genera automáticamente publicaciones de texto e imágenes para plataformas como Instagram, Facebook y Twitter, ahorrando tiempo y mejorando la calidad del contenido publicado.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-12T05:19:37.750544"
-    },
-    {
       "nombre": "TeamBond",
       "descripcion": "TeamBond es una herramienta que permite a los equipos realizar mini-reuniones de 10 a 15 minutos, combinando video, chat y dinámicas de grupo. La plataforma incluye templatede actividades, encuestas rápidas y espacios para compartir logros, lo que fomenta la interacción y mejora el bemalong de los empleados.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-16T21:58:13.257092"
+    },
+    {
+      "nombre": "EcoComparador",
+      "descripcion": "EcoComparador permite a los usuarios comparar productos en función de su precio, calidad y, lo más importante, su impacto ambiental y prácticas de producción responsable. Los usuarios pueden tomar decisiones de compra informadas que se alineen con sus valores éticos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-16T22:39:20.572475"
     }
   ],
   "nombres_usados": [
-    "ContentGenius",
     "TeamBond",
     "FocusBoost",
     "PyMe Online",
@@ -8001,6 +8000,7 @@
     "CashFlowSimplify",
     "BrandBoost",
     "CollabX",
-    "Contable Fácil"
+    "Contable Fácil",
+    "EcoComparador"
   ]
 }
