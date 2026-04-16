@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SociaBot",
-      "descripcion": "SociaBot permite a las pymes crear, programar y publicar contenido en múltiples redes sociales desde una única plataforma, mientras que un chatbot AI responde automáticamente a preguntas comunes y comentarios de los clientes.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-11T12:59:26.642576"
-    },
-    {
       "nombre": "TaskBill",
       "descripcion": "TaskBill permite a los usuarios gestionar sus tareas diarias, crear y enviar facturas personalizadas, y hacer un seguimiento del estado de los pagos, todo en un solo lugar. Incluye recordatorios automáticos y análisis de tiempo dedicado a cada tarea.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-15T23:50:23.145654"
+    },
+    {
+      "nombre": "SocialInsights Dashboard",
+      "descripcion": "SocialInsights Dashboard ayuda a profesionales de marketing y propietarios de pequeñas empresas a agregar, monitorear y analizar sus datos de rendimiento en redes sociales de diferentes plataformas como Facebook, Instagram y Twitter. La herramienta proporciona insights automáticos y recomendaciones de mejora basadas en el rendimiento de las campañas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-16T06:30:40.483174"
     }
   ],
   "nombres_usados": [
-    "SociaBot",
     "TaskBill",
     "Pymex CRM",
     "CollabTime",
@@ -8001,6 +8000,7 @@
     "TaskLib",
     "SocialBoost",
     "FreelanceSync",
-    "SocialEase"
+    "SocialEase",
+    "SocialInsights Dashboard"
   ]
 }

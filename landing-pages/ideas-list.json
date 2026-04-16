@@ -376,6 +376,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260415235022",
+    "nombre": "SocialEase",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma sencilla que automatiza la gestión de redes sociales para pequeñas y medianas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260415235022.html"
+  },
+  {
     "id": "IDEA-20260415230046",
     "nombre": "FreelanceSync",
     "tipo": "SaaS",
