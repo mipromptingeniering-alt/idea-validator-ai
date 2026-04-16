@@ -376,6 +376,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260416063040",
+    "nombre": "SocialInsights Dashboard",
+    "tipo": "SaaS",
+    "resumen": "Un panel de control intuitivo para el análisis de datos de redes sociales que permite a los usuarios visualizar datos de múltiples plataformas en un s...",
+    "score": 75,
+    "landing_url": "IDEA-20260416063040.html"
+  },
+  {
     "id": "IDEA-20260415235022",
     "nombre": "SocialEase",
     "tipo": "SaaS",
