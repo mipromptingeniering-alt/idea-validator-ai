@@ -376,6 +376,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260416095018",
+    "nombre": "MarketerPymes",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de marketing digital todo en uno diseñada para PYMEs, que automatiza la gestión de campañas, redes sociales y análisis de datos....",
+    "score": 75,
+    "landing_url": "IDEA-20260416095018.html"
+  },
+  {
     "id": "IDEA-20260416063040",
     "nombre": "SocialInsights Dashboard",
     "tipo": "SaaS",
