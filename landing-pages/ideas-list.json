@@ -376,6 +376,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260416223920",
+    "nombre": "EcoComparador",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de comparación de productos que prioriza la sostenibilidad y responsabilidad social....",
+    "score": 75,
+    "landing_url": "IDEA-20260416223920.html"
+  },
+  {
     "id": "IDEA-20260416215813",
     "nombre": "Contable Fácil",
     "tipo": "SaaS",

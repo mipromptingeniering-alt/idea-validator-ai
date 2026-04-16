@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TeamBond",
-      "descripcion": "TeamBond es una herramienta que permite a los equipos realizar mini-reuniones de 10 a 15 minutos, combinando video, chat y dinámicas de grupo. La plataforma incluye templatede actividades, encuestas rápidas y espacios para compartir logros, lo que fomenta la interacción y mejora el bemalong de los empleados.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-02-12T07:59:55.385251"
-    },
-    {
       "nombre": "FocusBoost",
       "descripcion": "FocusBoost es una plataforma en línea que ayuda a los freelancers a gestionar su tiempo y tareas utilizando enfoques modernos de productividad. A través de técnicas de Pomodoro, gamificación y un sistema de recompensas, los usuarios pueden mejorar su enfoque y efectividad laboral. Además, permite la integración con otras herramientas de gestión de proyectos y calendarios.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-16T22:39:20.572475"
+    },
+    {
+      "nombre": "Eventify",
+      "descripcion": "Eventify es una herramienta de gestión de eventos que permite a los organizadores crear, promocionar y coordinar eventos, mientras que los asistentes pueden interactuar entre sí y acceder a información relevante en tiempo real. Incluye funciones como programación de actividades, gestión de tickets, encuestas posteriores al evento y salas de networking virtual.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-16T23:24:58.171537"
     }
   ],
   "nombres_usados": [
-    "TeamBond",
     "FocusBoost",
     "PyMe Online",
     "WellNest",
@@ -8001,6 +8000,7 @@
     "BrandBoost",
     "CollabX",
     "Contable Fácil",
-    "EcoComparador"
+    "EcoComparador",
+    "Eventify"
   ]
 }
