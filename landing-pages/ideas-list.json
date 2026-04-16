@@ -7192,6 +7192,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260416180329",
+    "nombre": "CashFlowSimplify",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma web que permite a pequeñas empresas y emprendedores gestionar su flujo de caja de manera simple y efectiva....",
+    "score": 70,
+    "landing_url": "IDEA-20260416180329.html"
+  },
+  {
     "id": "IDEA-20260416164825",
     "nombre": "DataSync Pro",
     "tipo": "SaaS",

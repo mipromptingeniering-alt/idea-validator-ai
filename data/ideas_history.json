@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MarketerAI",
-      "descripcion": "MarketerAI permite a los usuarios diseñar campañas de marketing personalizadas utilizando inteligencia artificial que aprende de las interacciones pasadas y ajusta las estrategias en tiempo real. La plataforma ofrece plantillas predefinidas, análisis de resultados y asesoramiento automatizado para optimizar las campañas.",
-      "tipo": "SaaS",
-      "score": 78,
-      "fecha": "2026-02-11T21:54:58.861425"
-    },
-    {
       "nombre": "Contable Facil",
       "descripcion": "Contable Facil es una solución en la nube que permite a pequeñas empresas gestionar su contabilidad de manera sencilla, utilizando una interfaz amigable y con herramientas educativas que ayudan a comprender mejor la situación financiera.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-16T18:03:29.880458"
+    },
+    {
+      "nombre": "BrandBoost",
+      "descripcion": "BrandBoost permite a los usuarios crear, programar y publicar contenido en sus redes sociales, además de ofrecer análisis de rendimiento y sugerencias para mejorar la visibilidad. La plataforma usa inteligencia artificial para generar ideas de contenido y adaptar el mensaje a cada red social.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-16T19:37:12.147423"
     }
   ],
   "nombres_usados": [
-    "MarketerAI",
     "Contable Facil",
     "Invengo",
     "ContentGenius",
@@ -8001,6 +8000,7 @@
     "MarketerPymes",
     "FinTech Buddy",
     "DataSync Pro",
-    "CashFlowSimplify"
+    "CashFlowSimplify",
+    "BrandBoost"
   ]
 }
