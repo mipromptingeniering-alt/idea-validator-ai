@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "CollabTime",
-      "descripcion": "CollabTime es una herramienta que permite a los equipos remotos gestionar su tiempo, tareas y comunicación en un solo lugar. Permite a los usuarios asignar tareas, realizar un seguimiento de su progreso y comunicarse directamente a través de la plataforma, todo con una interfaz intuitiva que minimiza la curva de aprendizaje.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-11T18:43:55.122653"
-    },
-    {
       "nombre": "TimeOptimize",
       "descripcion": "TimeOptimize combina un calendario, un gestor de tareas y analíticas de tiempo en una única plataforma. Utiliza inteligencia artificial para ofrecer recomendaciones personalizadas, ayudar a priorizar tareas y mejorar la gestión del tiempo. Además, incluye recordatorios y notificaciones automáticas para mantener a los usuarios enfocados.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-16T11:56:12.851022"
+    },
+    {
+      "nombre": "DataSync Pro",
+      "descripcion": "DataSync Pro permite a las empresas conectar sus bases de datos, plataformas de CRM, redes sociales y más, ofreciendo visualizaciones personalizables y reportes automáticos. La herramienta está diseñada para que los equipos sin experiencia técnica puedan tomar decisiones de negocio informadas basadas en datos actualizados al instante.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-16T16:48:25.847929"
     }
   ],
   "nombres_usados": [
-    "CollabTime",
     "TimeOptimize",
     "MarketerAI",
     "Contable Facil",
@@ -8001,6 +8000,7 @@
     "SocialEase",
     "SocialInsights Dashboard",
     "MarketerPymes",
-    "FinTech Buddy"
+    "FinTech Buddy",
+    "DataSync Pro"
   ]
 }
