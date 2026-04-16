@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Invengo",
-      "descripcion": "Invengo proporciona a las pymes una herramienta fácil de usar para gestionar sus inventarios, realizar seguimiento de productos y pronosticar necesidades futuras, integrando además funciones de análisis de ventas para mejorar la toma de decisiones.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-11T23:58:22.885164"
-    },
-    {
       "nombre": "ContentGenius",
       "descripcion": "ContentGenius permite a los emprendedores ingresar información básica sobre su negocio y su audiencia objetivo. A través de algoritmos de IA, genera automáticamente publicaciones de texto e imágenes para plataformas como Instagram, Facebook y Twitter, ahorrando tiempo y mejorando la calidad del contenido publicado.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-16T20:29:15.083962"
+    },
+    {
+      "nombre": "Contable Fácil",
+      "descripcion": "Contable Fácil es una plataforma SaaS que permite a los usuarios gestionar su contabilidad de manera simple y eficiente, automatizando tareas como la clasificación de gastos, generación de facturas y conciliación de cuentas, todo en un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-16T21:58:13.257092"
     }
   ],
   "nombres_usados": [
-    "Invengo",
     "ContentGenius",
     "TeamBond",
     "FocusBoost",
@@ -8001,6 +8000,7 @@
     "DataSync Pro",
     "CashFlowSimplify",
     "BrandBoost",
-    "CollabX"
+    "CollabX",
+    "Contable Fácil"
   ]
 }
