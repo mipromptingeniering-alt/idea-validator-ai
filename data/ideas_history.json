@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Contable Facil",
-      "descripcion": "Contable Facil es una solución en la nube que permite a pequeñas empresas gestionar su contabilidad de manera sencilla, utilizando una interfaz amigable y con herramientas educativas que ayudan a comprender mejor la situación financiera.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-11T23:04:11.500118"
-    },
-    {
       "nombre": "Invengo",
       "descripcion": "Invengo proporciona a las pymes una herramienta fácil de usar para gestionar sus inventarios, realizar seguimiento de productos y pronosticar necesidades futuras, integrando además funciones de análisis de ventas para mejorar la toma de decisiones.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-16T19:37:12.147423"
+    },
+    {
+      "nombre": "CollabX",
+      "descripcion": "CollabX es una SaaS que proporciona un espacio de trabajo digital adaptado a las necesidades específicas de cada industria, permitiendo que los equipos remotos interactúen, gestionen proyectos y accedan a herramientas de productividad de manera centralizada y eficiente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-16T20:29:15.083962"
     }
   ],
   "nombres_usados": [
-    "Contable Facil",
     "Invengo",
     "ContentGenius",
     "TeamBond",
@@ -8001,6 +8000,7 @@
     "FinTech Buddy",
     "DataSync Pro",
     "CashFlowSimplify",
-    "BrandBoost"
+    "BrandBoost",
+    "CollabX"
   ]
 }
