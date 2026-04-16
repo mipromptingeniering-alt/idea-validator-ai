@@ -7192,6 +7192,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260416164825",
+    "nombre": "DataSync Pro",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de análisis de datos que integra, visualiza y reporta información en tiempo real desde múltiples fuentes....",
+    "score": 70,
+    "landing_url": "IDEA-20260416164825.html"
+  },
+  {
     "id": "IDEA-20260415163438",
     "nombre": "TimeBlox",
     "tipo": "SaaS",

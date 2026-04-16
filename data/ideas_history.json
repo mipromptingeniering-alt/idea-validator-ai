@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TimeOptimize",
-      "descripcion": "TimeOptimize combina un calendario, un gestor de tareas y analíticas de tiempo en una única plataforma. Utiliza inteligencia artificial para ofrecer recomendaciones personalizadas, ayudar a priorizar tareas y mejorar la gestión del tiempo. Además, incluye recordatorios y notificaciones automáticas para mantener a los usuarios enfocados.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-11T20:06:19.504185"
-    },
-    {
       "nombre": "MarketerAI",
       "descripcion": "MarketerAI permite a los usuarios diseñar campañas de marketing personalizadas utilizando inteligencia artificial que aprende de las interacciones pasadas y ajusta las estrategias en tiempo real. La plataforma ofrece plantillas predefinidas, análisis de resultados y asesoramiento automatizado para optimizar las campañas.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-16T16:48:25.847929"
+    },
+    {
+      "nombre": "CashFlowSimplify",
+      "descripcion": "CashFlowSimplify es una herramienta SaaS diseñada para ayudar a las pequeñas empresas a rastrear sus ingresos y gastos, proyectar flujos de caja y generar reportes simples que ayuden en la toma de decisiones. La interfaz es intuitiva y permite integraciones con cuentas bancarias y plataformas de pago.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-16T18:03:29.880458"
     }
   ],
   "nombres_usados": [
-    "TimeOptimize",
     "MarketerAI",
     "Contable Facil",
     "Invengo",
@@ -8001,6 +8000,7 @@
     "SocialInsights Dashboard",
     "MarketerPymes",
     "FinTech Buddy",
-    "DataSync Pro"
+    "DataSync Pro",
+    "CashFlowSimplify"
   ]
 }
