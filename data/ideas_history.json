@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FreelanceFlow",
-      "descripcion": "FreelanceFlow permite a los freelancers organizar sus proyectos, comunicarse con sus clientes de forma directa a través de la plataforma y gestionar los pagos de manera eficiente, todo en un solo lugar. La plataforma prioriza la facilidad de uso y la versatilidad, facilitando a los usuarios mantenerse organizados y conectados.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-12T21:06:03.586960"
-    },
-    {
       "nombre": "MindManage",
       "descripcion": "MindManage es una herramienta de gestión diseñada específicamente para terapeutas y profesionales de la salud mental, que les permite organizar citas, enviar recordatorios automáticos a sus clientes y hacer un seguimiento de su progreso de manera eficiente. La plataforma también incluirá recursos educativos para que los profesionales estén actualizados en su campo.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-17T13:57:12.877715"
+    },
+    {
+      "nombre": "SkillTailor",
+      "descripcion": "SkillTailor es una plataforma SaaS que permite a los usuarios crear un perfil profesional donde ingresan sus habilidades actuales, objetivos de carrera y áreas de interés. A partir de esta información, la plataforma utiliza algoritmos de IA para sugerir cursos, recursos y trayectorias educativas personalizadas, facilitando un aprendizaje más efectivo y enfocado.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-17T14:52:46.884079"
     }
   ],
   "nombres_usados": [
-    "FreelanceFlow",
     "MindManage",
     "FocusMate",
     "Casha",
@@ -8001,6 +8000,7 @@
     "FreelanceFi",
     "Digital Seniors",
     "DataInsights Lite",
-    "TeamPulse"
+    "TeamPulse",
+    "SkillTailor"
   ]
 }

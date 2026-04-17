@@ -384,6 +384,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260417135712",
+    "nombre": "TeamPulse",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de colaboración para equipos remotos que combina gestión de proyectos con gamificación....",
+    "score": 75,
+    "landing_url": "IDEA-20260417135712.html"
+  },
+  {
     "id": "IDEA-20260417111426",
     "nombre": "DataInsights Lite",
     "tipo": "SaaS",
