@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "PyMe Online",
-      "descripcion": "PyMe Online es una solución basada en la nube que permite a las pequeñas y medianas empresas crear, gestionar y optimizar su presencia en línea. La plataforma ofrece herramientas para diseñar sitios web atractivos, gestionar redes sociales y realizar ventas en línea, todo desde un único panel de control.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-12T12:04:53.694384"
-    },
-    {
       "nombre": "WellNest",
       "descripcion": "WellNest es una herramienta SaaS que ayuda a los trabajadores remotos a gestionar su tiempo de manera eficaz mientras promueve la salud mental a través de actividades de bienestar, meditación guiada y sesiones de 'check-in' grupales. Los usuarios pueden programar su tiempo de trabajo y bienestar en la misma plataforma, fomentando un equilibrio saludable entre ambas áreas.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-04-17T00:03:17.453954"
+    },
+    {
+      "nombre": "FreelanceFi",
+      "descripcion": "FreelanceFi es una aplicación web que permite a freelancers gestionar fácilmente sus ingresos, gastos y facturación, con integraciones a plataformas de pago como PayPal y Stripe. Con una interfaz intuitiva, esta herramienta proporciona reportes financieros básicos y recordatorios de pagos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-17T07:21:51.916625"
     }
   ],
   "nombres_usados": [
-    "PyMe Online",
     "WellNest",
     "Productividad Personal Pro",
     "Freelancer Hub",
@@ -8001,6 +8000,7 @@
     "Contable Fácil",
     "EcoComparador",
     "Eventify",
-    "TimeMaster"
+    "TimeMaster",
+    "FreelanceFi"
   ]
 }
