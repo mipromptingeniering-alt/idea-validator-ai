@@ -384,6 +384,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260417224418",
+    "nombre": "Freelance Hub",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para la gestión de proyectos, seguimiento de tiempo y generación de facturas para freelancers y autónomos....",
+    "score": 75,
+    "landing_url": "IDEA-20260417224418.html"
+  },
+  {
     "id": "IDEA-20260417210907",
     "nombre": "Marketing Simplicity",
     "tipo": "SaaS",

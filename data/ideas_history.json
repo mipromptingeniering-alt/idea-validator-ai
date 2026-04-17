@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Finanzas Fácil",
-      "descripcion": "Finanzas Fácil permite a los usuarios gestionar ingresos, gastos, presupuestos y flujo de caja a través de una interfaz intuitiva y fácil de usar. Ofrece informes personalizados y recordatorios de pagos, así como la opción de generar facturas automáticas y llevar un registro de las cuentas por cobrar.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-13T05:15:48.460056"
-    },
-    {
       "nombre": "TimeFlow",
       "descripcion": "TimeFlow permite a los usuarios gestionar múltiples proyectos y tareas, establecer recordatorios, y visualizar su tiempo de trabajo con gráficos y reportes. También incluye una función de facturación automática basada en el tiempo registrado por proyecto.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-17T22:44:18.217030"
+    },
+    {
+      "nombre": "Freelance Flow",
+      "descripcion": "Freelance Flow es una plataforma que ayuda a los trabajadores independientes a gestionar su tiempo de manera eficiente, permitiéndoles llevar un seguimiento de las horas trabajadas, proyectos en curso y previsiones de ingresos, todo en un solo lugar. Con gráficos intuitivos y alertas personalizadas, permite a los usuarios optimizar su rendimiento y establecer metas realistas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-17T23:24:53.985620"
     }
   ],
   "nombres_usados": [
-    "Finanzas Fácil",
     "TimeFlow",
     "TeamSync",
     "Freelance Manager Pro",
@@ -8001,6 +8000,7 @@
     "SkillTailor",
     "AdSmart Insights",
     "Marketing Simplicity",
-    "Freelance Hub"
+    "Freelance Hub",
+    "Freelance Flow"
   ]
 }
