@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Productividad Personal Pro",
-      "descripcion": "Productividad Personal Pro es una herramienta que permite a los usuarios registrar su tiempo en diferentes tareas, visualizar su rendimiento a lo largo de la semana y recibir consejos personalizados para optimizar su día a día. Además, facilita la integración de técnicas de gestión del tiempo, como la técnica Pomodoro y la planificación semanal.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-12T18:10:56.180954"
-    },
-    {
       "nombre": "Freelancer Hub",
       "descripcion": "Freelancer Hub es una herramienta que permite a los freelancers administrar sus proyectos, realizar un seguimiento de su tiempo y gestionar sus ingresos de forma sencilla y eficaz. Ofrece reportes de productividad y permite la integración con plataformas de pago como PayPal y Stripe.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 76,
       "fecha": "2026-04-17T08:59:35.207002"
+    },
+    {
+      "nombre": "DataInsights Lite",
+      "descripcion": "DataInsights Lite es una herramienta de análisis de datos que permite a las pequeñas empresas y emprendedores acceder, visualizar y analizar sus datos sin la necesidad de habilidades técnicas avanzadas. Ofrecemos dashboards personalizados, reportes automáticos y recomendaciones basadas en tendencias, lo que ayudará a los usuarios a identificar oportunidades y mejorar su rendimiento comercial.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-17T11:14:27.107973"
     }
   ],
   "nombres_usados": [
-    "Productividad Personal Pro",
     "Freelancer Hub",
     "FreelanceFlow",
     "MindManage",
@@ -8001,6 +8000,7 @@
     "Eventify",
     "TimeMaster",
     "FreelanceFi",
-    "Digital Seniors"
+    "Digital Seniors",
+    "DataInsights Lite"
   ]
 }

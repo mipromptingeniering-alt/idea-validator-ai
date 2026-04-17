@@ -256,6 +256,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260417085935",
+    "nombre": "Digital Seniors",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de aprendizaje online enfocada en enseñar habilidades digitales a personas mayores a través de cursos personalizados y sencillos....",
+    "score": 76,
+    "landing_url": "IDEA-20260417085935.html"
+  },
+  {
     "id": "IDEA-20260413200026",
     "nombre": "HealthPro Manager",
     "tipo": "SaaS",
