@@ -376,6 +376,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260417072151",
+    "nombre": "FreelanceFi",
+    "tipo": "SaaS",
+    "resumen": "Herramienta financiera simplificada para freelancers y pequeños emprendedores....",
+    "score": 75,
+    "landing_url": "IDEA-20260417072151.html"
+  },
+  {
     "id": "IDEA-20260416232457",
     "nombre": "Eventify",
     "tipo": "SaaS",
