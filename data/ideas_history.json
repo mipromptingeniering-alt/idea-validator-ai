@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Casha",
-      "descripcion": "Casha permite a las PYMES llevar un control efectivo de sus ingresos y gastos, predecir flujos de caja futuros, y tomar decisiones informadas sobre sus finanzas de manera sencilla. La plataforma incluye automatización de reportes, alertas personalizadas, y recomendaciones basadas en los datos ingresados.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-13T00:00:50.043339"
-    },
-    {
       "nombre": "Finanzas Fácil",
       "descripcion": "Finanzas Fácil permite a los usuarios gestionar ingresos, gastos, presupuestos y flujo de caja a través de una interfaz intuitiva y fácil de usar. Ofrece informes personalizados y recordatorios de pagos, así como la opción de generar facturas automáticas y llevar un registro de las cuentas por cobrar.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-17T21:09:07.877416"
+    },
+    {
+      "nombre": "Freelance Hub",
+      "descripcion": "Freelance Hub es una herramienta todo-en-uno que ayuda a los freelancers a gestionar eficazmente sus proyectos, realizar un seguimiento del tiempo invertido y generar facturas personalizadas para sus clientes. La plataforma incluye integraciones con métodos de pago populares y reportes financieros que permiten a los usuarios tener una visión clara de sus ingresos y gastos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-17T22:44:18.217030"
     }
   ],
   "nombres_usados": [
-    "Casha",
     "Finanzas Fácil",
     "TimeFlow",
     "TeamSync",
@@ -8001,6 +8000,7 @@
     "TeamPulse",
     "SkillTailor",
     "AdSmart Insights",
-    "Marketing Simplicity"
+    "Marketing Simplicity",
+    "Freelance Hub"
   ]
 }
