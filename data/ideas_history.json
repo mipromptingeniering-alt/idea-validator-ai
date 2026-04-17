@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MindManage",
-      "descripcion": "MindManage es una herramienta de gestión diseñada específicamente para terapeutas y profesionales de la salud mental, que les permite organizar citas, enviar recordatorios automáticos a sus clientes y hacer un seguimiento de su progreso de manera eficiente. La plataforma también incluirá recursos educativos para que los profesionales estén actualizados en su campo.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-12T22:03:16.496889"
-    },
-    {
       "nombre": "FocusMate",
       "descripcion": "FocusMate combina metodologías probadas de gestión del tiempo como Pomodoro y GTD, con un sistema de seguimiento de hábitos que aprende del comportamiento del usuario. Ofrece recomendaciones de enfoque personalizadas, recordatorios y análisis de productividad.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-17T14:52:46.884079"
+    },
+    {
+      "nombre": "AdSmart Insights",
+      "descripcion": "AdSmart Insights permite a los profesionales de marketing centralizar el seguimiento de sus campañas, recibir análisis en tiempo real y obtener recomendaciones específicas para mejorar el ROI de sus anuncios, eliminando la confusión de múltiples herramientas y reportes.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-17T17:35:08.265370"
     }
   ],
   "nombres_usados": [
-    "MindManage",
     "FocusMate",
     "Casha",
     "Finanzas Fácil",
@@ -8001,6 +8000,7 @@
     "Digital Seniors",
     "DataInsights Lite",
     "TeamPulse",
-    "SkillTailor"
+    "SkillTailor",
+    "AdSmart Insights"
   ]
 }
