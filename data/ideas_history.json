@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FocusBoost",
-      "descripcion": "FocusBoost es una plataforma en línea que ayuda a los freelancers a gestionar su tiempo y tareas utilizando enfoques modernos de productividad. A través de técnicas de Pomodoro, gamificación y un sistema de recompensas, los usuarios pueden mejorar su enfoque y efectividad laboral. Además, permite la integración con otras herramientas de gestión de proyectos y calendarios.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-12T10:30:29.587802"
-    },
-    {
       "nombre": "PyMe Online",
       "descripcion": "PyMe Online es una solución basada en la nube que permite a las pequeñas y medianas empresas crear, gestionar y optimizar su presencia en línea. La plataforma ofrece herramientas para diseñar sitios web atractivos, gestionar redes sociales y realizar ventas en línea, todo desde un único panel de control.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-16T23:24:58.171537"
+    },
+    {
+      "nombre": "TimeMaster",
+      "descripcion": "TimeMaster permite a los usuarios crear y gestionar sus tareas diarias, al mismo tiempo que ofrece insights sobre cómo y dónde se está utilizando el tiempo. Los usuarios pueden personalizar su flujo de trabajo y recibir recomendaciones sobre la optimización de su jornada laboral.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-04-17T00:03:17.453954"
     }
   ],
   "nombres_usados": [
-    "FocusBoost",
     "PyMe Online",
     "WellNest",
     "Productividad Personal Pro",
@@ -8001,6 +8000,7 @@
     "CollabX",
     "Contable Fácil",
     "EcoComparador",
-    "Eventify"
+    "Eventify",
+    "TimeMaster"
   ]
 }

@@ -376,6 +376,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260416232457",
+    "nombre": "Eventify",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que simplifica la planificación y gestión de eventos, permitiendo un networking efectivo entre los participantes....",
+    "score": 75,
+    "landing_url": "IDEA-20260416232457.html"
+  },
+  {
     "id": "IDEA-20260416223920",
     "nombre": "EcoComparador",
     "tipo": "SaaS",
