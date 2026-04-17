@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Freelancer Hub",
-      "descripcion": "Freelancer Hub es una herramienta que permite a los freelancers administrar sus proyectos, realizar un seguimiento de su tiempo y gestionar sus ingresos de forma sencilla y eficaz. Ofrece reportes de productividad y permite la integración con plataformas de pago como PayPal y Stripe.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-02-12T19:55:23.868513"
-    },
-    {
       "nombre": "FreelanceFlow",
       "descripcion": "FreelanceFlow permite a los freelancers organizar sus proyectos, comunicarse con sus clientes de forma directa a través de la plataforma y gestionar los pagos de manera eficiente, todo en un solo lugar. La plataforma prioriza la facilidad de uso y la versatilidad, facilitando a los usuarios mantenerse organizados y conectados.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-17T11:14:27.107973"
+    },
+    {
+      "nombre": "TeamPulse",
+      "descripcion": "TeamPulse es una herramienta SaaS que permite a los equipos remotos gestionar proyectos de manera efectiva mientras se mantienen motivados a través de un sistema de recompensas basado en la gamificación. Los usuarios pueden establecer objetivos, asignar tareas, y recibir puntos y recompensas por completar actividades, fomentando la productividad y la colaboración.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-17T13:57:12.877715"
     }
   ],
   "nombres_usados": [
-    "Freelancer Hub",
     "FreelanceFlow",
     "MindManage",
     "FocusMate",
@@ -8001,6 +8000,7 @@
     "TimeMaster",
     "FreelanceFi",
     "Digital Seniors",
-    "DataInsights Lite"
+    "DataInsights Lite",
+    "TeamPulse"
   ]
 }

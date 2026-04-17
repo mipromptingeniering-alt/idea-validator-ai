@@ -384,6 +384,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260417111426",
+    "nombre": "DataInsights Lite",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de análisis de datos simplificada para pequeñas empresas que permite tomar decisiones informadas de manera rápida y fácil....",
+    "score": 75,
+    "landing_url": "IDEA-20260417111426.html"
+  },
+  {
     "id": "IDEA-20260417072151",
     "nombre": "FreelanceFi",
     "tipo": "SaaS",
