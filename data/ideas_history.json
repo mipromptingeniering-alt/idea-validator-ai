@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FocusMate",
-      "descripcion": "FocusMate combina metodologías probadas de gestión del tiempo como Pomodoro y GTD, con un sistema de seguimiento de hábitos que aprende del comportamiento del usuario. Ofrece recomendaciones de enfoque personalizadas, recordatorios y análisis de productividad.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-12T23:03:03.595488"
-    },
-    {
       "nombre": "Casha",
       "descripcion": "Casha permite a las PYMES llevar un control efectivo de sus ingresos y gastos, predecir flujos de caja futuros, y tomar decisiones informadas sobre sus finanzas de manera sencilla. La plataforma incluye automatización de reportes, alertas personalizadas, y recomendaciones basadas en los datos ingresados.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-17T17:35:08.265370"
+    },
+    {
+      "nombre": "Marketing Simplicity",
+      "descripcion": "Marketing Simplicity ofrece herramientas de automatización de marketing que permiten a las PYMES crear campañas de email, gestionar redes sociales y analizar estadísticas sin necesidad de experiencia técnica previa. La plataforma se centra en la usabilidad y en la personalización de las campañas para que cada negocio pueda resonar con su público objetivo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-17T21:09:07.877416"
     }
   ],
   "nombres_usados": [
-    "FocusMate",
     "Casha",
     "Finanzas Fácil",
     "TimeFlow",
@@ -8001,6 +8000,7 @@
     "DataInsights Lite",
     "TeamPulse",
     "SkillTailor",
-    "AdSmart Insights"
+    "AdSmart Insights",
+    "Marketing Simplicity"
   ]
 }
