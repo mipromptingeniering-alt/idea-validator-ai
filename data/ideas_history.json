@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "RecomendaMe",
-      "descripcion": "RecomendaMe es una plataforma SaaS que utiliza inteligencia artificial para analizar el comportamiento del usuario y sus preferencias, proporcionando recomendaciones de productos personalizadas a través de un sistema conversacional y fácil de usar.",
-      "tipo": "SaaS",
-      "score": 72,
-      "fecha": "2026-02-15T23:54:46.155461"
-    },
-    {
       "nombre": "BalanceBuddy",
       "descripcion": "BalanceBuddy permite a los usuarios ingresar sus tareas diarias y, utilizando un algoritmo de priorización, sugiere cuáles son las más importantes de acuerdo con el nivel de energía y estado de ánimo. Además, incluye recordatorios de autocuidado y técnicas de mindfulness para mejorar el bienestar general.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-04-18T20:52:08.459653"
+    },
+    {
+      "nombre": "SkillMatch",
+      "descripcion": "SkillMatch es una plataforma diseñada para conectar freelancers con proyectos que se adaptan a sus habilidades y expectativas de ingresos, mediante un sistema de emparejamiento automatizado que utiliza inteligencia artificial.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-18T21:26:30.979939"
     }
   ],
   "nombres_usados": [
-    "RecomendaMe",
     "BalanceBuddy",
     "ContentCraft",
     "FinPymes",
@@ -8001,6 +8000,7 @@
     "DataBuddy",
     "InvenTrack",
     "SociaGenie",
-    "MindWave"
+    "MindWave",
+    "SkillMatch"
   ]
 }
