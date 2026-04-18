@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TimeTune",
-      "descripcion": "TimeTune es una plataforma de gestión del tiempo diseñada para ayudar a los usuarios a planificar su día de manera efectiva. Utiliza un enfoque de gamificación que convierte el seguimiento de tareas y la gestión del tiempo en un juego, incentivando a los usuarios a cumplir con sus objetivos y a mejorar su productividad de forma divertida.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-15T17:01:13.319623"
-    },
-    {
       "nombre": "FreelanceTime",
       "descripcion": "FreelanceTime es una herramienta que no solo ayuda a los freelancers a organizar su trabajo, sino que también usa inteligencia artificial para ofrecer recomendaciones personalizadas sobre la gestión del tiempo, priorización de tareas y técnicas de productividad.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-18T11:05:20.819241"
+    },
+    {
+      "nombre": "ProyecTools",
+      "descripcion": "ProyecTools permite a los usuarios gestionar sus proyectos y tareas usando una interfaz sencilla y amigable. Incluye características como plantillas personalizables, seguimiento de horas trabajadas, gestión de clientes y un sistema de notificaciones para recordar tareas pendientes.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-18T12:41:33.624520"
     }
   ],
   "nombres_usados": [
-    "TimeTune",
     "FreelanceTime",
     "PymeDigital",
     "Freelance Time Master",
@@ -8001,6 +8000,7 @@
     "SocialPilot for SMEs",
     "PortafolioAI",
     "Contabify",
-    "CarbonTrack"
+    "CarbonTrack",
+    "ProyecTools"
   ]
 }

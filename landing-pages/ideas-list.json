@@ -392,6 +392,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260418110520",
+    "nombre": "CarbonTrack",
+    "tipo": "SaaS",
+    "resumen": "CarbonTrack es una herramienta de gestión de huella de carbono diseñada para pequeñas y medianas empresas, que permite medir, analizar y reducir sus e...",
+    "score": 75,
+    "landing_url": "IDEA-20260418110520.html"
+  },
+  {
     "id": "IDEA-20260418102450",
     "nombre": "Contabify",
     "tipo": "SaaS",
