@@ -384,6 +384,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260418064311",
+    "nombre": "FinanzasFácil",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión financiera sencilla y accesible para freelancers y pequeñas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260418064311.html"
+  },
+  {
     "id": "IDEA-20260418052322",
     "nombre": "Pomodoro Pro",
     "tipo": "SaaS",
