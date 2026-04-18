@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "BalanceBuddy",
-      "descripcion": "BalanceBuddy permite a los usuarios ingresar sus tareas diarias y, utilizando un algoritmo de priorización, sugiere cuáles son las más importantes de acuerdo con el nivel de energía y estado de ánimo. Además, incluye recordatorios de autocuidado y técnicas de mindfulness para mejorar el bienestar general.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-16T05:23:11.345466"
-    },
-    {
       "nombre": "ContentCraft",
       "descripcion": "ContentCraft permite a los usuarios elegir entre una amplia variedad de plantillas de contenido y usar inteligencia artificial para personalizar textos, imágenes y formatos de manera sencilla. Ideal para quienes quieren mejorar su presencia online sin invertir grandes recursos ni tiempo en marketing.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-18T21:26:30.979939"
+    },
+    {
+      "nombre": "ConectaAbuelos",
+      "descripcion": "ConectaAbuelos es un servicio en línea donde las personas mayores pueden crear perfiles, participar en actividades virtuales y conectarse con otros de su edad para compartir intereses y experiencias. La plataforma incluye funciones como grupos de lectura, talleres de arte, y clubes de discusión, que se organizan regularmente.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-04-18T21:56:45.417954"
     }
   ],
   "nombres_usados": [
-    "BalanceBuddy",
     "ContentCraft",
     "FinPymes",
     "FinanciaFácil",
@@ -8001,6 +8000,7 @@
     "InvenTrack",
     "SociaGenie",
     "MindWave",
-    "SkillMatch"
+    "SkillMatch",
+    "ConectaAbuelos"
   ]
 }

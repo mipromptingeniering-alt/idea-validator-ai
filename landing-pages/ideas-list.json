@@ -392,6 +392,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260418212630",
+    "nombre": "SkillMatch",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS que empareja freelancers con proyectos ideales utilizando algoritmos inteligentes....",
+    "score": 75,
+    "landing_url": "IDEA-20260418212630.html"
+  },
+  {
     "id": "IDEA-20260418193542",
     "nombre": "SociaGenie",
     "tipo": "SaaS",
