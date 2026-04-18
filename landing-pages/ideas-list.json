@@ -384,6 +384,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260417232453",
+    "nombre": "Freelance Flow",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de tiempo y proyección de ingresos para freelancers y pequeños emprendedores....",
+    "score": 75,
+    "landing_url": "IDEA-20260417232453.html"
+  },
+  {
     "id": "IDEA-20260417224418",
     "nombre": "Freelance Hub",
     "tipo": "SaaS",

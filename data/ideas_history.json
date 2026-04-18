@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TimeFlow",
-      "descripcion": "TimeFlow permite a los usuarios gestionar múltiples proyectos y tareas, establecer recordatorios, y visualizar su tiempo de trabajo con gráficos y reportes. También incluye una función de facturación automática basada en el tiempo registrado por proyecto.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-15T09:11:53.859237"
-    },
-    {
       "nombre": "TeamSync",
       "descripcion": "TeamSync es una plataforma diseñada para ayudar a emprendedores y pequeñas empresas a centralizar y optimizar su trabajo diario. Ofrece la posibilidad de gestionar tareas, comunicarse en tiempo real y almacenar documentos sin necesidad de cambiar de aplicación, todo en un entorno intuitivo y fácil de usar.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-17T23:24:53.985620"
+    },
+    {
+      "nombre": "SocialCampaigner",
+      "descripcion": "SocialCampaigner permite a los usuarios crear, programar y analizar sus campañas en múltiples plataformas de redes sociales desde un solo lugar, con informes en tiempo real y recomendaciones basadas en datos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-18T00:01:58.741528"
     }
   ],
   "nombres_usados": [
-    "TimeFlow",
     "TeamSync",
     "Freelance Manager Pro",
     "MentalSync",
@@ -8001,6 +8000,7 @@
     "AdSmart Insights",
     "Marketing Simplicity",
     "Freelance Hub",
-    "Freelance Flow"
+    "Freelance Flow",
+    "SocialCampaigner"
   ]
 }
