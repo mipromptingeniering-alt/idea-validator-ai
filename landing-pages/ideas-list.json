@@ -392,6 +392,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260418102450",
+    "nombre": "Contabify",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma contable en línea especialmente diseñada para PYMEs, que simplifica la gestión de finanzas y facturación....",
+    "score": 75,
+    "landing_url": "IDEA-20260418102450.html"
+  },
+  {
     "id": "IDEA-20260418093224",
     "nombre": "PortafolioAI",
     "tipo": "SaaS",

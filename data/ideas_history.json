@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "CreativeCollab",
-      "descripcion": "CreativeCollab es una herramienta donde los creativos pueden presentar sus trabajos, recibir retroalimentación en tiempo real de otros profesionales, organizar sesiones de brainstorming y participar en talleres interactivos. La plataforma incluye herramientas para la gestión de proyectos, comentarios de voz y video, y un sistema de votación para ideas.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-15T15:51:34.720880"
-    },
-    {
       "nombre": "TimeTune",
       "descripcion": "TimeTune es una plataforma de gestión del tiempo diseñada para ayudar a los usuarios a planificar su día de manera efectiva. Utiliza un enfoque de gamificación que convierte el seguimiento de tareas y la gestión del tiempo en un juego, incentivando a los usuarios a cumplir con sus objetivos y a mejorar su productividad de forma divertida.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-18T10:24:50.725864"
+    },
+    {
+      "nombre": "CarbonTrack",
+      "descripcion": "CarbonTrack proporciona a las PYMES un panel intuitivo donde pueden ingresar datos de sus operaciones diarias, calcular su huella de carbono, recibir recomendaciones personalizadas para la reducción de emisiones, y generar informes para cumplir con regulaciones ambientales. También incluye recursos educativos sobre prácticas sostenibles.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-18T11:05:20.819241"
     }
   ],
   "nombres_usados": [
-    "CreativeCollab",
     "TimeTune",
     "FreelanceTime",
     "PymeDigital",
@@ -8001,6 +8000,7 @@
     "MarketMate",
     "SocialPilot for SMEs",
     "PortafolioAI",
-    "Contabify"
+    "Contabify",
+    "CarbonTrack"
   ]
 }
