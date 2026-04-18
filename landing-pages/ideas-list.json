@@ -392,6 +392,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260418222941",
+    "nombre": "Marketer's Dashboard",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que centraliza el análisis de campañas de marketing digital y proporciona informes personalizables en tiempo real....",
+    "score": 75,
+    "landing_url": "IDEA-20260418222941.html"
+  },
+  {
     "id": "IDEA-20260418212630",
     "nombre": "SkillMatch",
     "tipo": "SaaS",

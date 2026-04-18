@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FinPymes",
-      "descripcion": "FinPymes permite a los usuarios gestionar sus finanzas de manera simplificada, incluyendo la creación de presupuestos, seguimiento de gastos e ingresos, y reportes financieros claros. Además, ofrece integraciones con herramientas contables comunes y un panel intuitivo que facilita la toma de decisiones.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-16T11:10:46.379364"
-    },
-    {
       "nombre": "FinanciaFácil",
       "descripcion": "FinanciaFácil permite a los usuarios gestionar su flujo de caja sin complicaciones. Mediante un interfaz intuitiva y herramientas de categorización automática, se ayuda a los usuarios a visualizar su situación financiera, facilitando la planificación y la toma de decisiones.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-18T22:29:41.318601"
+    },
+    {
+      "nombre": "RemoteConnect",
+      "descripcion": "RemoteConnect es una plataforma diseñada para equipos que trabajan a distancia, proporcionando herramientas para la gestión de proyectos, comunicación y una experiencia gamificada que incentiva la interacción y la colaboración, ayudando a mantener la moral y la productividad.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-18T23:04:00.729584"
     }
   ],
   "nombres_usados": [
-    "FinPymes",
     "FinanciaFácil",
     "Connectify",
     "DataSmart",
@@ -8001,6 +8000,7 @@
     "MindWave",
     "SkillMatch",
     "ConectaAbuelos",
-    "Marketer's Dashboard"
+    "Marketer's Dashboard",
+    "RemoteConnect"
   ]
 }
