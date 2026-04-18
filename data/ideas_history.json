@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FinanciaSimples",
-      "descripcion": "FinanciaSimples es una plataforma SaaS que permite a las pequeñas empresas gestionar su contabilidad de manera intuitiva y simplificada, además de ofrecer predicciones financieras automáticas basadas en datos históricos y actuales, ayudando a tomar decisiones informadas.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-15T20:56:08.684059"
-    },
-    {
       "nombre": "WellTime",
       "descripcion": "WellTime es una aplicación que ayuda a los usuarios a gestionar su tiempo de manera eficiente, al mismo tiempo que promueve el bienestar emocional y mental. Ofrece recordatorios de pausas, técnicas de respiración, y un análisis semanal del tiempo trabajado versus el tiempo de descanso, creando una experiencia equilibrada.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-18T17:20:40.305364"
+    },
+    {
+      "nombre": "InvenTrack",
+      "descripcion": "InvenTrack es una herramienta en línea que permite a las pequeñas y medianas empresas gestionar sus inventarios de manera eficiente. Incluye funcionalidades como seguimiento de existencias en tiempo real, alertas de nivel bajo, reportes de rendimiento, y una integración sencilla con plataformas de e-commerce.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-18T17:58:19.169393"
     }
   ],
   "nombres_usados": [
-    "FinanciaSimples",
     "WellTime",
     "MarketSimplify",
     "RecomendaMe",
@@ -8001,6 +8000,7 @@
     "ProyecTools",
     "BookMatch",
     "Finanzas Ágiles",
-    "DataBuddy"
+    "DataBuddy",
+    "InvenTrack"
   ]
 }

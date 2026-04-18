@@ -392,6 +392,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260418172040",
+    "nombre": "DataBuddy",
+    "tipo": "SaaS",
+    "resumen": "DataBuddy es una plataforma de análisis de datos fácil de usar que permite a PYMES visualizar y analizar sus datos en tiempo real sin necesidad de con...",
+    "score": 75,
+    "landing_url": "IDEA-20260418172040.html"
+  },
+  {
     "id": "IDEA-20260418155824",
     "nombre": "Finanzas Ágiles",
     "tipo": "SaaS",
