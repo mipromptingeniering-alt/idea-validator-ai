@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Freelance Time Master",
-      "descripcion": "Freelance Time Master permite a los usuarios planificar tareas, seguir el tiempo dedicado a cada proyecto, y obtener informes sobre su productividad. La aplicación también incluye recordatorios y notificaciones para mantener a los usuarios en el camino.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-15T19:50:33.692902"
-    },
-    {
       "nombre": "FinanciaSimples",
       "descripcion": "FinanciaSimples es una plataforma SaaS que permite a las pequeñas empresas gestionar su contabilidad de manera intuitiva y simplificada, además de ofrecer predicciones financieras automáticas basadas en datos históricos y actuales, ayudando a tomar decisiones informadas.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-18T15:58:24.885806"
+    },
+    {
+      "nombre": "DataBuddy",
+      "descripcion": "DataBuddy ofrece visualizaciones personalizables, informes automáticos y análisis predictivo integrados para ayudar a las PYMES a identificar tendencias y oportunidades de mejora en su negocio.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-18T17:20:40.305364"
     }
   ],
   "nombres_usados": [
-    "Freelance Time Master",
     "FinanciaSimples",
     "WellTime",
     "MarketSimplify",
@@ -8001,6 +8000,7 @@
     "CarbonTrack",
     "ProyecTools",
     "BookMatch",
-    "Finanzas Ágiles"
+    "Finanzas Ágiles",
+    "DataBuddy"
   ]
 }

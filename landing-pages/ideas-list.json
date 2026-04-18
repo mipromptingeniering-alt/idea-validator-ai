@@ -392,6 +392,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260418155824",
+    "nombre": "Finanzas Ágiles",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión financiera diseñada específicamente para pequeñas y medianas empresas que simplifica la contabilidad, la facturación y el se...",
+    "score": 75,
+    "landing_url": "IDEA-20260418155824.html"
+  },
+  {
     "id": "IDEA-20260418152306",
     "nombre": "BookMatch",
     "tipo": "SaaS",
