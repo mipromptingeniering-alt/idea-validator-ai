@@ -392,6 +392,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260418152306",
+    "nombre": "BookMatch",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de recomendación de libros personalizada que conecta a los lectores con sus lecturas ideales utilizando inteligencia artificial....",
+    "score": 75,
+    "landing_url": "IDEA-20260418152306.html"
+  },
+  {
     "id": "IDEA-20260418124133",
     "nombre": "ProyecTools",
     "tipo": "SaaS",
