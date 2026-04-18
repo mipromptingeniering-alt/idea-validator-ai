@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ContentCraft",
-      "descripcion": "ContentCraft permite a los usuarios elegir entre una amplia variedad de plantillas de contenido y usar inteligencia artificial para personalizar textos, imágenes y formatos de manera sencilla. Ideal para quienes quieren mejorar su presencia online sin invertir grandes recursos ni tiempo en marketing.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-16T08:02:59.793506"
-    },
-    {
       "nombre": "FinPymes",
       "descripcion": "FinPymes permite a los usuarios gestionar sus finanzas de manera simplificada, incluyendo la creación de presupuestos, seguimiento de gastos e ingresos, y reportes financieros claros. Además, ofrece integraciones con herramientas contables comunes y un panel intuitivo que facilita la toma de decisiones.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-04-18T21:56:45.417954"
+    },
+    {
+      "nombre": "Marketer's Dashboard",
+      "descripcion": "Marketer's Dashboard es un software como servicio (SaaS) que permite a los profesionales de marketing digital conectar sus cuentas de diversas plataformas (como Google Ads, Facebook Ads y Email Marketing) para generar informes analíticos completos. Los usuarios pueden personalizar su panel de control para visualizar los KPIs más relevantes para su negocio, así como recibir notificaciones automáticas sobre el rendimiento de sus campañas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-18T22:29:41.318601"
     }
   ],
   "nombres_usados": [
-    "ContentCraft",
     "FinPymes",
     "FinanciaFácil",
     "Connectify",
@@ -8001,6 +8000,7 @@
     "SociaGenie",
     "MindWave",
     "SkillMatch",
-    "ConectaAbuelos"
+    "ConectaAbuelos",
+    "Marketer's Dashboard"
   ]
 }
