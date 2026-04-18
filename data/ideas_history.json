@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TeamSync",
-      "descripcion": "TeamSync es una plataforma diseñada para ayudar a emprendedores y pequeñas empresas a centralizar y optimizar su trabajo diario. Ofrece la posibilidad de gestionar tareas, comunicarse en tiempo real y almacenar documentos sin necesidad de cambiar de aplicación, todo en un entorno intuitivo y fácil de usar.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-15T09:59:39.277657"
-    },
-    {
       "nombre": "Freelance Manager Pro",
       "descripcion": "Freelance Manager Pro es una herramienta diseñada para ayudar a los freelancers a organizar su trabajo de manera más eficiente. Permite el seguimiento del tiempo, la gestión de proyectos y la creación de facturas, todo en un solo lugar. La plataforma está diseñada para ser fácil de usar y accesible desde cualquier dispositivo, facilitando la vida laboral de los autónomos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-18T00:01:58.741528"
+    },
+    {
+      "nombre": "Pomodoro Pro",
+      "descripcion": "Pomodoro Pro es una plataforma que ayuda a los usuarios a gestionar su tiempo de manera efectiva mediante un temporizador Pomodoro, combinada con un sistema de análisis que evalúa y ajusta la planificación de tareas según el rendimiento real del usuario. Los usuarios pueden registrar sus actividades, recibir recomendaciones personalizadas y visualizar sus estadísticas de productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-18T05:23:22.966598"
     }
   ],
   "nombres_usados": [
-    "TeamSync",
     "Freelance Manager Pro",
     "MentalSync",
     "CohesionHub",
@@ -8001,6 +8000,7 @@
     "Marketing Simplicity",
     "Freelance Hub",
     "Freelance Flow",
-    "SocialCampaigner"
+    "SocialCampaigner",
+    "Pomodoro Pro"
   ]
 }
