@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MarketPulse",
-      "descripcion": "MarketPulse permite a los profesionales del marketing consolidar datos de diferentes plataformas (redes sociales, email, PPC) en un solo lugar, utilizando inteligencia artificial para ofrecer análisis detallados y recomendaciones de optimización. La plataforma incluye dashboard interactivo, generación de informes y alertas en tiempo real sobre el rendimiento de las campañas.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-15T14:58:57.839215"
-    },
-    {
       "nombre": "CreativeCollab",
       "descripcion": "CreativeCollab es una herramienta donde los creativos pueden presentar sus trabajos, recibir retroalimentación en tiempo real de otros profesionales, organizar sesiones de brainstorming y participar en talleres interactivos. La plataforma incluye herramientas para la gestión de proyectos, comentarios de voz y video, y un sistema de votación para ideas.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-18T09:32:24.347634"
+    },
+    {
+      "nombre": "Contabify",
+      "descripcion": "Contabify es un software de contabilidad que permite a las PYMEs llevar su contabilidad y facturación de manera simple y eficiente. Con un diseño intuitivo y funciones automatizadas, los usuarios pueden gestionar facturas, gastos y reportes financieros sin la necesidad de ser expertos en contabilidad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-18T10:24:50.725864"
     }
   ],
   "nombres_usados": [
-    "MarketPulse",
     "CreativeCollab",
     "TimeTune",
     "FreelanceTime",
@@ -8001,6 +8000,7 @@
     "FinanzasFácil",
     "MarketMate",
     "SocialPilot for SMEs",
-    "PortafolioAI"
+    "PortafolioAI",
+    "Contabify"
   ]
 }
