@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "WellTime",
-      "descripcion": "WellTime es una aplicación que ayuda a los usuarios a gestionar su tiempo de manera eficiente, al mismo tiempo que promueve el bienestar emocional y mental. Ofrece recordatorios de pausas, técnicas de respiración, y un análisis semanal del tiempo trabajado versus el tiempo de descanso, creando una experiencia equilibrada.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-15T21:50:02.905521"
-    },
-    {
       "nombre": "MarketSimplify",
       "descripcion": "MarketSimplify es una herramienta de marketing digital diseñada específicamente para pequeñas y medianas empresas. Combina la gestión de redes sociales y el email marketing en una interfaz fácil de usar, permitiendo a los empresarios crear, programar y analizar campañas sin complicaciones.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-18T17:58:19.169393"
+    },
+    {
+      "nombre": "SociaGenie",
+      "descripcion": "SociaGenie brinda a las PYMEs una herramienta fácil de usar para crear, programar y analizar publicaciones en redes sociales, utilizando algoritmos de IA que optimizan el contenido según la audiencia y la plataforma.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-18T19:35:42.331892"
     }
   ],
   "nombres_usados": [
-    "WellTime",
     "MarketSimplify",
     "RecomendaMe",
     "BalanceBuddy",
@@ -8001,6 +8000,7 @@
     "BookMatch",
     "Finanzas Ágiles",
     "DataBuddy",
-    "InvenTrack"
+    "InvenTrack",
+    "SociaGenie"
   ]
 }

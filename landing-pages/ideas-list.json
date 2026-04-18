@@ -7408,6 +7408,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260418175819",
+    "nombre": "InvenTrack",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de inventarios para pymes que combina facilidad de uso y automatización....",
+    "score": 70,
+    "landing_url": "IDEA-20260418175819.html"
+  },
+  {
     "id": "IDEA-20260416180329",
     "nombre": "CashFlowSimplify",
     "tipo": "SaaS",
