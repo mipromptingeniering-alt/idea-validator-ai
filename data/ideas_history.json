@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Creative Hub",
-      "descripcion": "Creative Hub es un software basado en la nube que permite a los diseñadores y creadores de contenido buscar, guardar y gestionar recursos visuales como imágenes, videos y fuentes. Ofrece características como almacenamiento en la nube, organización automática de archivos, y recomendaciones personalizadas basadas en proyectos anteriores.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-15T13:57:51.469567"
-    },
-    {
       "nombre": "MarketPulse",
       "descripcion": "MarketPulse permite a los profesionales del marketing consolidar datos de diferentes plataformas (redes sociales, email, PPC) en un solo lugar, utilizando inteligencia artificial para ofrecer análisis detallados y recomendaciones de optimización. La plataforma incluye dashboard interactivo, generación de informes y alertas en tiempo real sobre el rendimiento de las campañas.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-18T08:39:40.233296"
+    },
+    {
+      "nombre": "PortafolioAI",
+      "descripcion": "PortafolioAI permite a los profesionales creativos crear un portafolio visual atractivo y profesional en minutos, utilizando IA para analizar su trabajo, sugerir diseños y optimizar la presentación. La plataforma incluye características de análisis para entender cómo los visitantes interactúan con su portafolio.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-18T09:32:24.347634"
     }
   ],
   "nombres_usados": [
-    "Creative Hub",
     "MarketPulse",
     "CreativeCollab",
     "TimeTune",
@@ -8001,6 +8000,7 @@
     "Pomodoro Pro",
     "FinanzasFácil",
     "MarketMate",
-    "SocialPilot for SMEs"
+    "SocialPilot for SMEs",
+    "PortafolioAI"
   ]
 }
