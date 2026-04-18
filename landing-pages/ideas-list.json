@@ -392,6 +392,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260418124133",
+    "nombre": "ProyecTools",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de proyectos diseñada específicamente para autónomos y pequeñas empresas que desean organizar tareas, proyectos y clientes ...",
+    "score": 75,
+    "landing_url": "IDEA-20260418124133.html"
+  },
+  {
     "id": "IDEA-20260418110520",
     "nombre": "CarbonTrack",
     "tipo": "SaaS",

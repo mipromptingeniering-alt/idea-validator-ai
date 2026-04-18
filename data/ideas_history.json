@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FreelanceTime",
-      "descripcion": "FreelanceTime es una herramienta que no solo ayuda a los freelancers a organizar su trabajo, sino que también usa inteligencia artificial para ofrecer recomendaciones personalizadas sobre la gestión del tiempo, priorización de tareas y técnicas de productividad.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-15T17:56:44.983929"
-    },
-    {
       "nombre": "PymeDigital",
       "descripcion": "PymeDigital es una solución SaaS diseñada para ayudar a pequeñas y medianas empresas a crear, gestionar y optimizar su presencia en línea. Incluye herramientas para crear sitios web, gestionar redes sociales y analizar el rendimiento digital. Todo en un único lugar y con precios accesibles.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-18T12:41:33.624520"
+    },
+    {
+      "nombre": "BookMatch",
+      "descripcion": "BookMatch es una plataforma SaaS que utiliza algoritmos de inteligencia artificial para recomendar libros a los usuarios en función de sus preferencias de lectura, experiencias pasadas y conexiones dentro de una comunidad de aficionados a la lectura. Los usuarios pueden crear perfiles, registrar sus lecturas anteriores y recibir recomendaciones personalizadas, además de participar en foros y debates sobre libros.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-18T15:23:06.985029"
     }
   ],
   "nombres_usados": [
-    "FreelanceTime",
     "PymeDigital",
     "Freelance Time Master",
     "FinanciaSimples",
@@ -8001,6 +8000,7 @@
     "PortafolioAI",
     "Contabify",
     "CarbonTrack",
-    "ProyecTools"
+    "ProyecTools",
+    "BookMatch"
   ]
 }
