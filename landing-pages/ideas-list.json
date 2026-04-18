@@ -384,6 +384,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260418052322",
+    "nombre": "Pomodoro Pro",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión del tiempo que utiliza la técnica Pomodoro y análisis de hábitos para optimizar la productividad....",
+    "score": 75,
+    "landing_url": "IDEA-20260418052322.html"
+  },
+  {
     "id": "IDEA-20260418000158",
     "nombre": "SocialCampaigner",
     "tipo": "SaaS",

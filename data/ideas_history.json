@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Freelance Manager Pro",
-      "descripcion": "Freelance Manager Pro es una herramienta diseñada para ayudar a los freelancers a organizar su trabajo de manera más eficiente. Permite el seguimiento del tiempo, la gestión de proyectos y la creación de facturas, todo en un solo lugar. La plataforma está diseñada para ser fácil de usar y accesible desde cualquier dispositivo, facilitando la vida laboral de los autónomos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-15T10:58:17.406315"
-    },
-    {
       "nombre": "MentalSync",
       "descripcion": "MentalSync es un software diseñado específicamente para profesionales de la salud mental que facilita la gestión de citas, el seguimiento de pacientes y la gestión de notas clínicas. Con un enfoque en la usabilidad y la personalización, los terapeutas pueden administrar su práctica de manera eficiente y mantener un contacto fluido con sus pacientes.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-18T05:23:22.966598"
+    },
+    {
+      "nombre": "FinanzasFácil",
+      "descripcion": "FinanzasFácil ofrece un sistema intuitivo que permite a los usuarios llevar un control claro de sus ingresos y gastos, crear presupuestos ajustados a sus necesidades e implicar recordatorios para pagos y otras obligaciones financieras.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-18T06:43:11.275612"
     }
   ],
   "nombres_usados": [
-    "Freelance Manager Pro",
     "MentalSync",
     "CohesionHub",
     "Creative Hub",
@@ -8001,6 +8000,7 @@
     "Freelance Hub",
     "Freelance Flow",
     "SocialCampaigner",
-    "Pomodoro Pro"
+    "Pomodoro Pro",
+    "FinanzasFácil"
   ]
 }
