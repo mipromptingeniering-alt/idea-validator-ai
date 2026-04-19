@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ColabHub",
-      "descripcion": "ColabHub es un software como servicio que integra gestión de tareas, comunicación en tiempo real y seguimiento del tiempo en un solo lugar, facilitando la colaboración eficaz entre equipos distribuidos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-16T21:56:19.826820"
-    },
-    {
       "nombre": "TimeWell",
       "descripcion": "TimeWell es una herramienta que permite a los usuarios registrar su tiempo, establecer metas de productividad y realizar ejercicios de bienestar mental. La plataforma ofrece recordatorios personalizados, análisis de tiempo invertido y sugerencias para mejorar la organización y reducir el estrés.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-19T08:43:55.458985"
+    },
+    {
+      "nombre": "FocusMaster",
+      "descripcion": "FocusMaster es una aplicación que ayuda a los usuarios a gestionar su tiempo y aumentar su productividad. A través de un análisis del comportamiento y las preferencias del usuario, la plataforma proporciona tácticas personalizadas, recordatorios y un seguimiento del progreso para ayudarles a alcanzar sus objetivos de trabajo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-19T09:31:40.795679"
     }
   ],
   "nombres_usados": [
-    "ColabHub",
     "TimeWell",
     "MotivaWork",
     "RemoteBuddy",
@@ -8001,6 +8000,7 @@
     "ContentGenie",
     "InfoFilter Pro",
     "QuickDesign AI",
-    "FinanciaFácil"
+    "FinanciaFácil",
+    "FocusMaster"
   ]
 }

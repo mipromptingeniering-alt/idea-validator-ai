@@ -392,6 +392,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260419084355",
+    "nombre": "FinanciaFácil",
+    "tipo": "SaaS",
+    "resumen": "FinanciaFácil es una aplicación de gestión financiera diseñada para pequeños negocios que desean simplificar su contabilidad y mejorar su flujo de caj...",
+    "score": 75,
+    "landing_url": "IDEA-20260419084355.html"
+  },
+  {
     "id": "IDEA-20260419075231",
     "nombre": "QuickDesign AI",
     "tipo": "SaaS",
