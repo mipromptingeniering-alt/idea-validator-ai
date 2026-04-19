@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialSimple",
-      "descripcion": "SocialSimple permite a las PYMES crear, programar y analizar publicaciones en múltiples plataformas de redes sociales desde un solo lugar. Incluye herramientas de inteligencia artificial que sugieren contenido relevante y horarios óptimos de publicación, además de un analizador de rendimiento sencillo que ayuda a las empresas a entender su crecimiento y engagement.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-17T07:57:45.993520"
-    },
-    {
       "nombre": "WorkWell",
       "descripcion": "WorkWell es una aplicación que ayuda a los trabajadores remotos a gestionar su tiempo y tareas de manera eficiente, integrando recordatorios para descansos, ejercicios de respiración y autoevaluaciones de bienestar. La plataforma también ofrece análisis sobre hábitos de trabajo y recomendaciones personalizadas.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-04-19T12:41:12.247036"
+    },
+    {
+      "nombre": "CollabTimer",
+      "descripcion": "CollabTimer es una herramienta que permite a los equipos remotos gestionar su tiempo y tareas de manera efectiva, al tiempo que fomenta la colaboración a través de elementos de gamificación. Los usuarios pueden crear tareas, establecer metas diarias y ganar recompensas por su productividad y colaboración con sus compañeros.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-19T14:36:47.262709"
     }
   ],
   "nombres_usados": [
-    "SocialSimple",
     "WorkWell",
     "MarketAssist AI",
     "EmprendeMarketing",
@@ -8001,6 +8000,7 @@
     "FocusMaster",
     "PymeCRM",
     "TravelMatch",
-    "FinAssist"
+    "FinAssist",
+    "CollabTimer"
   ]
 }
