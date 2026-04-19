@@ -408,6 +408,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260419215807",
+    "nombre": "Wellness Connect",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que combina herramientas de productividad con actividades de bienestar y socialización para trabajadores remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260419215807.html"
+  },
+  {
     "id": "IDEA-20260419212725",
     "nombre": "FocusFlow",
     "tipo": "SaaS",

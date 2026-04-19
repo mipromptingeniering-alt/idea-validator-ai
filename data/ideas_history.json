@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SociaLite",
-      "descripcion": "SociaLite permite a las pequeñas y medianas empresas gestionar sus cuentas de redes sociales de manera simple e intuitiva. Ofrece herramientas para programar publicaciones, realizar un seguimiento del rendimiento y generar informes personalizados, todo en una única plataforma.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-18T10:28:52.540498"
-    },
-    {
       "nombre": "FreelanceFinance",
       "descripcion": "FreelanceFinance es un software basado en la nube que ayuda a los freelancers y pequeñas empresas a llevar un control claro de sus finanzas, optimizar su carga fiscal y generar reportes financieros sencillos. Ofrece una interfaz amigable, integración con cuentas bancarias y funcionalidades de asesoría fiscal personalizadas.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-19T21:58:07.467249"
+    },
+    {
+      "nombre": "DataSmart",
+      "descripcion": "DataSmart permite a las PYMES cargar sus datos de ventas y marketing y obtener informes analíticos automatizados, visualizaciones intuitivas y predicciones sobre tendencias futuras basadas en sus propios datos. La plataforma está diseñada para ser fácil de usar, sin necesidad de conocimientos técnicos previos, y cuenta con soporte en múltiples idiomas.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-04-19T22:34:50.701346"
     }
   ],
   "nombres_usados": [
-    "SociaLite",
     "FreelanceFinance",
     "CashFlow Pro",
     "WebStart",
@@ -8001,6 +8000,7 @@
     "LocaSocial",
     "TimeMaster Freelance",
     "FocusFlow",
-    "Wellness Connect"
+    "Wellness Connect",
+    "DataSmart"
   ]
 }
