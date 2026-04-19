@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialGenius",
-      "descripcion": "SocialGenius es una herramienta que permite a las pequeñas y medianas empresas crear, programar y analizar publicaciones en redes sociales con facilidad. Utilizando IA, genera sugerencias de contenido basado en las tendencias del sector y el comportamiento del usuario, permitiendo a las pymes estar siempre un paso adelante en su estrategia de marketing digital.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-16T20:59:53.878474"
-    },
-    {
       "nombre": "ColabHub",
       "descripcion": "ColabHub es un software como servicio que integra gestión de tareas, comunicación en tiempo real y seguimiento del tiempo en un solo lugar, facilitando la colaboración eficaz entre equipos distribuidos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-19T07:52:31.662549"
+    },
+    {
+      "nombre": "FinanciaFácil",
+      "descripcion": "FinanciaFácil proporciona herramientas intuitivas para la gestión de ingresos y gastos, generación de informes financieros y proyecciones de flujo de caja, todo en una sola plataforma. Además, la app incluye tutoriales y recursos que ayudan a los usuarios a entender sus finanzas sin necesidad de ser expertos en contabilidad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-19T08:43:55.458985"
     }
   ],
   "nombres_usados": [
-    "SocialGenius",
     "ColabHub",
     "TimeWell",
     "MotivaWork",
@@ -8001,6 +8000,7 @@
     "FreelancerSuite",
     "ContentGenie",
     "InfoFilter Pro",
-    "QuickDesign AI"
+    "QuickDesign AI",
+    "FinanciaFácil"
   ]
 }
