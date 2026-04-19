@@ -256,6 +256,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260419102353",
+    "nombre": "PymeCRM",
+    "tipo": "SaaS",
+    "resumen": "Un CRM asequible y fácil de usar diseñado específicamente para pequeñas y medianas empresas, que combina la gestión de clientes con la automatización ...",
+    "score": 76,
+    "landing_url": "IDEA-20260419102353.html"
+  },
+  {
     "id": "IDEA-20260418074610",
     "nombre": "MarketMate",
     "tipo": "SaaS",

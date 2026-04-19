@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MotivaWork",
-      "descripcion": "MotivaWork permite a los equipos remotos establecer metas, realizar un seguimiento de su progreso y participar en desafíos semanales. La plataforma utiliza técnicas de gamificación para motivar a los empleados, al tiempo que proporciona análisis y métricas sobre el rendimiento del equipo y la interacción social.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-16T23:59:21.464968"
-    },
-    {
       "nombre": "RemoteBuddy",
       "descripcion": "RemoteBuddy es una plataforma que une a los empleados remotos mediante desafíos gamificados, grupos de afinidad y herramientas de comunicación interactiva. Los usuarios pueden participar en retos semanales, recibir recompensas por logros y colaborar en tareas de manera más efectiva, todo mientras se conectan socialmente con sus compañeros.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 76,
       "fecha": "2026-04-19T10:23:53.974950"
+    },
+    {
+      "nombre": "TravelMatch",
+      "descripcion": "TravelMatch permite a los usuarios crear itinerarios de viaje únicos en función de sus intereses, presupuesto y duración. A través de un sistema de inteligencia artificial, la plataforma sugiere actividades, restaurantes y alojamientos que se alinean con las preferencias individuales, garantizando una experiencia de viaje a medida.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-19T11:49:43.791310"
     }
   ],
   "nombres_usados": [
-    "MotivaWork",
     "RemoteBuddy",
     "SocialSimple",
     "WorkWell",
@@ -8001,6 +8000,7 @@
     "QuickDesign AI",
     "FinanciaFácil",
     "FocusMaster",
-    "PymeCRM"
+    "PymeCRM",
+    "TravelMatch"
   ]
 }
