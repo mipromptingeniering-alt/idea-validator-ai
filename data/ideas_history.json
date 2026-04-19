@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "PropuestAI",
-      "descripcion": "PropuestAI permite a los usuarios seleccionar de una variedad de plantillas profesionales y, a través de IA, rellenar automáticamente los detalles del proyecto y costos, generando un documento final que se puede presentar al cliente. También ofrece recomendaciones de contenido basado en el tipo de proyecto y el historial del cliente.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-18T07:59:56.790123"
-    },
-    {
       "nombre": "SociaLite",
       "descripcion": "SociaLite permite a las pequeñas y medianas empresas gestionar sus cuentas de redes sociales de manera simple e intuitiva. Ofrece herramientas para programar publicaciones, realizar un seguimiento del rendimiento y generar informes personalizados, todo en una única plataforma.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-19T21:27:25.404001"
+    },
+    {
+      "nombre": "Wellness Connect",
+      "descripcion": "Wellness Connect es una plataforma diseñada para trabajadores remotos que facilita la colaboración en proyectos, así como la integración de actividades de bienestar mental y socialización. Proporciona herramientas de gestión de tareas y proyectos junto con sesiones de meditación, actividades de team building virtual y espacios para compartir logros. La idea es crear un entorno equilibrado que fomente la productividad y el bienestar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-19T21:58:07.467249"
     }
   ],
   "nombres_usados": [
-    "PropuestAI",
     "SociaLite",
     "FreelanceFinance",
     "CashFlow Pro",
@@ -8001,6 +8000,7 @@
     "MarketEasy",
     "LocaSocial",
     "TimeMaster Freelance",
-    "FocusFlow"
+    "FocusFlow",
+    "Wellness Connect"
   ]
 }

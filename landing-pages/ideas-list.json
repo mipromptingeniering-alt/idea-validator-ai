@@ -408,6 +408,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260419212725",
+    "nombre": "FocusFlow",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo y de tareas que se adapta a los hábitos y preferencias individuales para mejorar la productividad....",
+    "score": 75,
+    "landing_url": "IDEA-20260419212725.html"
+  },
+  {
     "id": "IDEA-20260419205301",
     "nombre": "TimeMaster Freelance",
     "tipo": "SaaS",
