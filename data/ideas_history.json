@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FreelanceFinance",
-      "descripcion": "FreelanceFinance es un software basado en la nube que ayuda a los freelancers y pequeñas empresas a llevar un control claro de sus finanzas, optimizar su carga fiscal y generar reportes financieros sencillos. Ofrece una interfaz amigable, integración con cuentas bancarias y funcionalidades de asesoría fiscal personalizadas.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-18T12:02:56.195048"
-    },
-    {
       "nombre": "CashFlow Pro",
       "descripcion": "CashFlow Pro permite a las pequeñas y medianas empresas gestionar su flujo de caja de manera eficiente mediante proyecciones automáticas, alertas de liquidez y recomendaciones personalizadas basadas en el comportamiento financiero de la empresa.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-04-19T22:34:50.701346"
+    },
+    {
+      "nombre": "Frelan",
+      "descripcion": "Frelan permite a los freelancers llevar un control de sus finanzas en un solo lugar. Incluye funcionalidades como la emisión de facturas personalizadas, categorización de gastos, generación de informes de ingresos y gastos, y recordatorios de obligaciones fiscales. Todo esto con una interfaz intuitiva y fácil de usar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-19T23:20:07.602019"
     }
   ],
   "nombres_usados": [
-    "FreelanceFinance",
     "CashFlow Pro",
     "WebStart",
     "WebEasy AI",
@@ -8001,6 +8000,7 @@
     "TimeMaster Freelance",
     "FocusFlow",
     "Wellness Connect",
-    "DataSmart"
+    "DataSmart",
+    "Frelan"
   ]
 }
