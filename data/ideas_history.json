@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "WorkWell",
-      "descripcion": "WorkWell es una aplicación que ayuda a los trabajadores remotos a gestionar su tiempo y tareas de manera eficiente, integrando recordatorios para descansos, ejercicios de respiración y autoevaluaciones de bienestar. La plataforma también ofrece análisis sobre hábitos de trabajo y recomendaciones personalizadas.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-17T10:32:39.314085"
-    },
-    {
       "nombre": "MarketAssist AI",
       "descripcion": "MarketAssist AI es una solución de marketing digital accesible que utiliza inteligencia artificial para ofrecer estrategias de marketing personalizadas y automatizadas a pequeñas empresas. Permite la creación de contenido, la gestión de redes sociales y el análisis de resultados, todo a través de un panel fácil de usar.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-19T14:36:47.262709"
+    },
+    {
+      "nombre": "SocialMetrics Lite",
+      "descripcion": "SocialMetrics Lite proporciona un panel intuitivo donde los emprendedores pueden visualizar fácilmente el rendimiento de sus publicaciones en redes sociales, obtener recomendaciones sobre qué contenido publicar y cómo optimizar su presencia en línea, sin necesidad de ser expertos en analítica.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-04-19T15:23:27.527970"
     }
   ],
   "nombres_usados": [
-    "WorkWell",
     "MarketAssist AI",
     "EmprendeMarketing",
     "Finanzas Sencillas",
@@ -8001,6 +8000,7 @@
     "PymeCRM",
     "TravelMatch",
     "FinAssist",
-    "CollabTimer"
+    "CollabTimer",
+    "SocialMetrics Lite"
   ]
 }

@@ -400,6 +400,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260419143647",
+    "nombre": "CollabTimer",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de gestión del tiempo y colaboración para equipos remotos con elementos de gamificación....",
+    "score": 75,
+    "landing_url": "IDEA-20260419143647.html"
+  },
+  {
     "id": "IDEA-20260419114943",
     "nombre": "TravelMatch",
     "tipo": "SaaS",
