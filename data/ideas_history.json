@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TimeSync",
-      "descripcion": "TimeSync es una herramienta que no solo permite gestionar tareas y planificar el calendario, sino que también incluye recomendaciones personalizadas basadas en el comportamiento del usuario y su estilo de trabajo, mejorando así la productividad y reduciendo el estrés.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-16T19:48:01.505925"
-    },
-    {
       "nombre": "SocialGenius",
       "descripcion": "SocialGenius es una herramienta que permite a las pequeñas y medianas empresas crear, programar y analizar publicaciones en redes sociales con facilidad. Utilizando IA, genera sugerencias de contenido basado en las tendencias del sector y el comportamiento del usuario, permitiendo a las pymes estar siempre un paso adelante en su estrategia de marketing digital.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 68,
       "fecha": "2026-04-19T06:21:17.281340"
+    },
+    {
+      "nombre": "QuickDesign AI",
+      "descripcion": "QuickDesign AI ofrece una interfaz fácil de usar que permite a los usuarios seleccionar plantillas, imágenes y textos. La inteligencia artificial genera automáticamente variaciones de diseño basadas en la entrada del usuario, facilitando la creación de contenido visual para redes sociales, blogs y campañas de marketing.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-19T07:52:31.662549"
     }
   ],
   "nombres_usados": [
-    "TimeSync",
     "SocialGenius",
     "ColabHub",
     "TimeWell",
@@ -8001,6 +8000,7 @@
     "RemoteConnect",
     "FreelancerSuite",
     "ContentGenie",
-    "InfoFilter Pro"
+    "InfoFilter Pro",
+    "QuickDesign AI"
   ]
 }

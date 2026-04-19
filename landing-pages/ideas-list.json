@@ -8360,6 +8360,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260419062117",
+    "nombre": "InfoFilter Pro",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta SaaS que utiliza inteligencia artificial para filtrar, priorizar y presentar información relevante para la toma de decisiones en empre...",
+    "score": 68,
+    "landing_url": "IDEA-20260419062117.html"
+  },
+  {
     "id": "IDEA-20260317183720",
     "nombre": "TaskVision",
     "tipo": "SaaS",
