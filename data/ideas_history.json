@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Financiafreelance",
-      "descripcion": "Financiafreelance es un software que permite a los trabajadores autónomos registrar fácilmente sus ingresos y gastos, generar informes financieros y recibir recordatorios para la declaración de impuestos. También incluye recursos educativos sobre finanzas personales y fiscales.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-18T00:00:35.379805"
-    },
-    {
       "nombre": "TaskHero",
       "descripcion": "TaskHero es una herramienta de gestión de tareas y seguimiento de proyectos que incorpora gamificación para motivar a los usuarios a completar tareas y alcanzar objetivos. Los usuarios pueden ganar puntos, alcanzar niveles y competir amistosamente con sus compañeros, lo que transforma la productividad en un juego interactivo y motivador.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-19T20:06:20.380979"
+    },
+    {
+      "nombre": "TimeMaster Freelance",
+      "descripcion": "TimeMaster Freelance combina la gestión de tareas, seguimiento del tiempo y generación de informes de productividad en una sola plataforma fácil de usar. Permite a los usuarios visualizar sus proyectos y tiempos dedicados, optimizando así su rendimiento y gestión de ingresos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-19T20:53:01.583039"
     }
   ],
   "nombres_usados": [
-    "Financiafreelance",
     "TaskHero",
     "PropuestAI",
     "SociaLite",
@@ -8001,6 +8000,7 @@
     "CollabQuest",
     "Marketer's Toolkit",
     "MarketEasy",
-    "LocaSocial"
+    "LocaSocial",
+    "TimeMaster Freelance"
   ]
 }
