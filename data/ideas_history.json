@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Connectify",
-      "descripcion": "Connectify ofrece un espacio donde los miembros de un equipo pueden colaborar en proyectos mientras participan en actividades sociales gamificadas, como desafíos, juegos y dinámicas de equipo, que fomentan la construcción de relaciones y una cultura de trabajo positiva.",
-      "tipo": "SaaS",
-      "score": 74,
-      "fecha": "2026-02-16T16:09:37.813807"
-    },
-    {
       "nombre": "DataSmart",
       "descripcion": "DataSmart permite a las PYMES integrar sus datos de diversas fuentes, analizarlos mediante herramientas de inteligencia artificial y generar informes visuales sin necesidad de conocimientos técnicos avanzados.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-19T01:52:34.823633"
+    },
+    {
+      "nombre": "ContentGenie",
+      "descripcion": "ContentGenie permite a los usuarios ingresar información básica sobre su negocio y audiencia. A partir de eso, genera ideas de publicaciones, sugerencias de hashtags y plantillas personalizables, optimizando la creación de contenido y ahorrando tiempo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-19T04:46:00.435441"
     }
   ],
   "nombres_usados": [
-    "Connectify",
     "DataSmart",
     "TimeSync",
     "SocialGenius",
@@ -8001,6 +8000,7 @@
     "ConectaAbuelos",
     "Marketer's Dashboard",
     "RemoteConnect",
-    "FreelancerSuite"
+    "FreelancerSuite",
+    "ContentGenie"
   ]
 }
