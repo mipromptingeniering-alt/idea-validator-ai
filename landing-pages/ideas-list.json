@@ -392,6 +392,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260419044600",
+    "nombre": "ContentGenie",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de generación de contenido automatizada que utiliza inteligencia artificial para ayudar a pequeños negocios a crear publicaciones atra...",
+    "score": 75,
+    "landing_url": "IDEA-20260419044600.html"
+  },
+  {
     "id": "IDEA-20260419015234",
     "nombre": "FreelancerSuite",
     "tipo": "SaaS",

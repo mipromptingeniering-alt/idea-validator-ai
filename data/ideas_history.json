@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "DataSmart",
-      "descripcion": "DataSmart permite a las PYMES integrar sus datos de diversas fuentes, analizarlos mediante herramientas de inteligencia artificial y generar informes visuales sin necesidad de conocimientos técnicos avanzados.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-02-16T18:03:29.497383"
-    },
-    {
       "nombre": "TimeSync",
       "descripcion": "TimeSync es una herramienta que no solo permite gestionar tareas y planificar el calendario, sino que también incluye recomendaciones personalizadas basadas en el comportamiento del usuario y su estilo de trabajo, mejorando así la productividad y reduciendo el estrés.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-19T04:46:00.435441"
+    },
+    {
+      "nombre": "InfoFilter Pro",
+      "descripcion": "InfoFilter Pro es una plataforma que permite a las empresas pequeñas y medianas gestionar la información de manera eficiente, utilizando algoritmos de inteligencia artificial que filtran noticias, correos y documentos relacionados con las operaciones diarias. Los usuarios pueden establecer prioridades y recibir solo las actualizaciones relevantes, mejorando así su productividad y capacidad de respuesta.",
+      "tipo": "SaaS",
+      "score": 68,
+      "fecha": "2026-04-19T06:21:17.281340"
     }
   ],
   "nombres_usados": [
-    "DataSmart",
     "TimeSync",
     "SocialGenius",
     "ColabHub",
@@ -8001,6 +8000,7 @@
     "Marketer's Dashboard",
     "RemoteConnect",
     "FreelancerSuite",
-    "ContentGenie"
+    "ContentGenie",
+    "InfoFilter Pro"
   ]
 }
