@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TimeWell",
-      "descripcion": "TimeWell es una herramienta que permite a los usuarios registrar su tiempo, establecer metas de productividad y realizar ejercicios de bienestar mental. La plataforma ofrece recordatorios personalizados, análisis de tiempo invertido y sugerencias para mejorar la organización y reducir el estrés.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-02-16T23:01:51.477599"
-    },
-    {
       "nombre": "MotivaWork",
       "descripcion": "MotivaWork permite a los equipos remotos establecer metas, realizar un seguimiento de su progreso y participar en desafíos semanales. La plataforma utiliza técnicas de gamificación para motivar a los empleados, al tiempo que proporciona análisis y métricas sobre el rendimiento del equipo y la interacción social.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-19T09:31:40.795679"
+    },
+    {
+      "nombre": "PymeCRM",
+      "descripcion": "PymeCRM es una solución SaaS que permite a las PYMEs gestionar sus relaciones con clientes y automatizar procesos de marketing desde una plataforma sencilla. Incluye herramientas de seguimiento de clientes, segmentación, automatización de correos electrónicos y reportes fáciles de interpretar.",
+      "tipo": "SaaS",
+      "score": 76,
+      "fecha": "2026-04-19T10:23:53.974950"
     }
   ],
   "nombres_usados": [
-    "TimeWell",
     "MotivaWork",
     "RemoteBuddy",
     "SocialSimple",
@@ -8001,6 +8000,7 @@
     "InfoFilter Pro",
     "QuickDesign AI",
     "FinanciaFácil",
-    "FocusMaster"
+    "FocusMaster",
+    "PymeCRM"
   ]
 }
