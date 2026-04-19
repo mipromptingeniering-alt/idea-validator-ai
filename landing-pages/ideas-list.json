@@ -408,6 +408,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260419185337",
+    "nombre": "Marketer's Toolkit",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que proporciona a los profesionales de marketing recomendaciones personalizadas y herramientas para implementar las mejores prácticas....",
+    "score": 75,
+    "landing_url": "IDEA-20260419185337.html"
+  },
+  {
     "id": "IDEA-20260419175915",
     "nombre": "CollabQuest",
     "tipo": "SaaS",

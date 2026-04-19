@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "BalancePro",
-      "descripcion": "BalancePro es una herramienta que combina la gestión del tiempo, el seguimiento de tareas y el bienestar personal en un solo lugar. Permite a los usuarios planificar su día, establecer recordatorios de descanso y realizar ejercicios de meditación, todo mientras rastrean su progreso y productividad.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-17T21:52:57.157522"
-    },
-    {
       "nombre": "FocusFlow",
       "descripcion": "FocusFlow permite a los usuarios planificar su jornada laboral, programar descansos adecuados y acceder a sesiones de meditación para mejorar su bienestar mental. La aplicación realiza un seguimiento del tiempo dedicado a cada tarea y envía notificaciones para recordar a los usuarios cuándo es el momento de descansar o meditar.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-19T18:53:37.413632"
+    },
+    {
+      "nombre": "MarketEasy",
+      "descripcion": "MarketEasy es un software como servicio que proporciona herramientas de gestión de contenido, automatización de publicaciones, análisis de rendimiento y plantillas personalizables para ayudar a las PYMEs a optimizar su presencia en redes sociales sin necesidad de conocimientos técnicos avanzados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-19T19:36:37.698355"
     }
   ],
   "nombres_usados": [
-    "BalancePro",
     "FocusFlow",
     "Financiafreelance",
     "TaskHero",
@@ -8001,6 +8000,7 @@
     "MindPlay",
     "PymeGestión",
     "CollabQuest",
-    "Marketer's Toolkit"
+    "Marketer's Toolkit",
+    "MarketEasy"
   ]
 }
