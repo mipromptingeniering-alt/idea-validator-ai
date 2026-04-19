@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FocusFlow",
-      "descripcion": "FocusFlow permite a los usuarios planificar su jornada laboral, programar descansos adecuados y acceder a sesiones de meditación para mejorar su bienestar mental. La aplicación realiza un seguimiento del tiempo dedicado a cada tarea y envía notificaciones para recordar a los usuarios cuándo es el momento de descansar o meditar.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-17T23:01:32.394181"
-    },
-    {
       "nombre": "Financiafreelance",
       "descripcion": "Financiafreelance es un software que permite a los trabajadores autónomos registrar fácilmente sus ingresos y gastos, generar informes financieros y recibir recordatorios para la declaración de impuestos. También incluye recursos educativos sobre finanzas personales y fiscales.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-19T19:36:37.698355"
+    },
+    {
+      "nombre": "LocaSocial",
+      "descripcion": "LocaSocial es una herramienta de gestión de redes sociales que automatiza la creación y programación de publicaciones relevantes para eventos locales, facilitando a las PYMES conectar con su comunidad de manera efectiva. La plataforma analizará los eventos que se realizan en la zona y generará contenido optimizado para maximizar el engagement.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-19T20:06:20.380979"
     }
   ],
   "nombres_usados": [
-    "FocusFlow",
     "Financiafreelance",
     "TaskHero",
     "PropuestAI",
@@ -8001,6 +8000,7 @@
     "PymeGestión",
     "CollabQuest",
     "Marketer's Toolkit",
-    "MarketEasy"
+    "MarketEasy",
+    "LocaSocial"
   ]
 }
