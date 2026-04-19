@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "RemoteBuddy",
-      "descripcion": "RemoteBuddy es una plataforma que une a los empleados remotos mediante desafíos gamificados, grupos de afinidad y herramientas de comunicación interactiva. Los usuarios pueden participar en retos semanales, recibir recompensas por logros y colaborar en tareas de manera más efectiva, todo mientras se conectan socialmente con sus compañeros.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-17T05:15:35.707374"
-    },
-    {
       "nombre": "SocialSimple",
       "descripcion": "SocialSimple permite a las PYMES crear, programar y analizar publicaciones en múltiples plataformas de redes sociales desde un solo lugar. Incluye herramientas de inteligencia artificial que sugieren contenido relevante y horarios óptimos de publicación, además de un analizador de rendimiento sencillo que ayuda a las empresas a entender su crecimiento y engagement.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-19T11:49:43.791310"
+    },
+    {
+      "nombre": "FinAssist",
+      "descripcion": "FinAssist es un software intuitivo que permite a los freelancers y pequeñas empresas gestionar sus finanzas de manera sencilla, ofreciendo herramientas para la facturación, seguimiento de gastos y generación de reportes financieros. La plataforma incluye recordatorios de pagos y una interfaz amigable que guía a los usuarios en el proceso financiero.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-04-19T12:41:12.247036"
     }
   ],
   "nombres_usados": [
-    "RemoteBuddy",
     "SocialSimple",
     "WorkWell",
     "MarketAssist AI",
@@ -8001,6 +8000,7 @@
     "FinanciaFácil",
     "FocusMaster",
     "PymeCRM",
-    "TravelMatch"
+    "TravelMatch",
+    "FinAssist"
   ]
 }
