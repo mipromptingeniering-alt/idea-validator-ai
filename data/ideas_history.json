@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FinanciaFácil",
-      "descripcion": "FinanciaFácil permite a los usuarios gestionar su flujo de caja sin complicaciones. Mediante un interfaz intuitiva y herramientas de categorización automática, se ayuda a los usuarios a visualizar su situación financiera, facilitando la planificación y la toma de decisiones.",
-      "tipo": "SaaS",
-      "score": 80,
-      "fecha": "2026-02-16T14:13:32.539740"
-    },
-    {
       "nombre": "Connectify",
       "descripcion": "Connectify ofrece un espacio donde los miembros de un equipo pueden colaborar en proyectos mientras participan en actividades sociales gamificadas, como desafíos, juegos y dinámicas de equipo, que fomentan la construcción de relaciones y una cultura de trabajo positiva.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-18T23:04:00.729584"
+    },
+    {
+      "nombre": "FreelancerSuite",
+      "descripcion": "FreelancerSuite combina la gestión de proyectos, la facturación automática y el seguimiento de ingresos en una única plataforma fácil de usar. Permite a los usuarios mantener el control de su tiempo, clientes y finanzas sin esfuerzo, con integraciones a herramientas populares como Google Calendar y PayPal.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-19T01:52:34.823633"
     }
   ],
   "nombres_usados": [
-    "FinanciaFácil",
     "Connectify",
     "DataSmart",
     "TimeSync",
@@ -8001,6 +8000,7 @@
     "SkillMatch",
     "ConectaAbuelos",
     "Marketer's Dashboard",
-    "RemoteConnect"
+    "RemoteConnect",
+    "FreelancerSuite"
   ]
 }

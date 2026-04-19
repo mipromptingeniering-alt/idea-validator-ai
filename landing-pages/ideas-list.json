@@ -7448,6 +7448,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260418230400",
+    "nombre": "RemoteConnect",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS que mejora la productividad y la conexión social entre equipos remotos a través de gamificación y herramientas de gestión colabora...",
+    "score": 70,
+    "landing_url": "IDEA-20260418230400.html"
+  },
+  {
     "id": "IDEA-20260418175819",
     "nombre": "InvenTrack",
     "tipo": "SaaS",
