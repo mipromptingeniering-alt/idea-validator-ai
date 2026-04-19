@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MarketAssist AI",
-      "descripcion": "MarketAssist AI es una solución de marketing digital accesible que utiliza inteligencia artificial para ofrecer estrategias de marketing personalizadas y automatizadas a pequeñas empresas. Permite la creación de contenido, la gestión de redes sociales y el análisis de resultados, todo a través de un panel fácil de usar.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-17T12:03:57.442133"
-    },
-    {
       "nombre": "EmprendeMarketing",
       "descripcion": "EmprendeMarketing proporciona a los emprendedores herramientas para diseñar gráficos atractivos, programar publicaciones en redes sociales, y analizar el rendimiento de sus campañas, todo en un solo lugar y con una interfaz intuitiva.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-04-19T15:23:27.527970"
+    },
+    {
+      "nombre": "MindPlay",
+      "descripcion": "A través de ejercicios interactivos, seguimiento del estado de ánimo y recursos psicológicos, MindPlay ofrece un enfoque atractivo y personalizado para el cuidado de la salud mental. Los usuarios pueden establecer objetivos, recibir retroalimentación y compartir sus logros en una comunidad de apoyo.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-04-19T16:39:56.773913"
     }
   ],
   "nombres_usados": [
-    "MarketAssist AI",
     "EmprendeMarketing",
     "Finanzas Sencillas",
     "MarketEasy",
@@ -8001,6 +8000,7 @@
     "TravelMatch",
     "FinAssist",
     "CollabTimer",
-    "SocialMetrics Lite"
+    "SocialMetrics Lite",
+    "MindPlay"
   ]
 }

@@ -400,6 +400,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260419152327",
+    "nombre": "SocialMetrics Lite",
+    "tipo": "MicroSaaS",
+    "resumen": "Una herramienta de análisis de métricas de redes sociales diseñada específicamente para pequeños y medianos emprendedores que quieren tomar decisiones...",
+    "score": 75,
+    "landing_url": "IDEA-20260419152327.html"
+  },
+  {
     "id": "IDEA-20260419143647",
     "nombre": "CollabTimer",
     "tipo": "SaaS",
