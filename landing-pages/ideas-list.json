@@ -408,6 +408,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260419175915",
+    "nombre": "CollabQuest",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma colaborativa que utiliza la gamificación para mejorar la comunicación y gestión de proyectos en equipos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260419175915.html"
+  },
+  {
     "id": "IDEA-20260419172012",
     "nombre": "PymeGestión",
     "tipo": "SaaS",

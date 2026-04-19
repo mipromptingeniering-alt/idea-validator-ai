@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MarketEasy",
-      "descripcion": "MarketEasy es una herramienta de marketing digital que permite a las pequeñas empresas crear y gestionar campañas publicitarias en redes sociales, correo electrónico y sitios web. Incluye tutoriales y guías paso a paso para empoderar a los usuarios a entender mejor el marketing digital.",
-      "tipo": "SaaS",
-      "score": 76,
-      "fecha": "2026-02-17T19:57:46.699007"
-    },
-    {
       "nombre": "BalancePro",
       "descripcion": "BalancePro es una herramienta que combina la gestión del tiempo, el seguimiento de tareas y el bienestar personal en un solo lugar. Permite a los usuarios planificar su día, establecer recordatorios de descanso y realizar ejercicios de meditación, todo mientras rastrean su progreso y productividad.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-19T17:59:15.461409"
+    },
+    {
+      "nombre": "Marketer's Toolkit",
+      "descripcion": "Marketer's Toolkit es una herramienta de marketing digital que analiza el comportamiento del usuario y las tendencias del mercado para proporcionar a los marketers recomendaciones personalizadas, junto con un gestor de tareas para implementar estas estrategias de forma efectiva y organizada.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-19T18:53:37.413632"
     }
   ],
   "nombres_usados": [
-    "MarketEasy",
     "BalancePro",
     "FocusFlow",
     "Financiafreelance",
@@ -8001,6 +8000,7 @@
     "SocialMetrics Lite",
     "MindPlay",
     "PymeGestión",
-    "CollabQuest"
+    "CollabQuest",
+    "Marketer's Toolkit"
   ]
 }
