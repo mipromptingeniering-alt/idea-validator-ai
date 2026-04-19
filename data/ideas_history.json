@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TaskHero",
-      "descripcion": "TaskHero es una herramienta de gestión de tareas y seguimiento de proyectos que incorpora gamificación para motivar a los usuarios a completar tareas y alcanzar objetivos. Los usuarios pueden ganar puntos, alcanzar niveles y competir amistosamente con sus compañeros, lo que transforma la productividad en un juego interactivo y motivador.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-18T05:27:06.164244"
-    },
-    {
       "nombre": "PropuestAI",
       "descripcion": "PropuestAI permite a los usuarios seleccionar de una variedad de plantillas profesionales y, a través de IA, rellenar automáticamente los detalles del proyecto y costos, generando un documento final que se puede presentar al cliente. También ofrece recomendaciones de contenido basado en el tipo de proyecto y el historial del cliente.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-19T20:53:01.583039"
+    },
+    {
+      "nombre": "FocusFlow",
+      "descripcion": "FocusFlow es una herramienta de gestión del tiempo que utiliza inteligencia artificial para personalizar las tareas diarias, sugiriendo bloques de tiempo óptimos y técnicas de productividad basadas en el perfil del usuario. Además, incluye un componente de gamificación para mantener la motivación alta.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-19T21:27:25.404001"
     }
   ],
   "nombres_usados": [
-    "TaskHero",
     "PropuestAI",
     "SociaLite",
     "FreelanceFinance",
@@ -8001,6 +8000,7 @@
     "Marketer's Toolkit",
     "MarketEasy",
     "LocaSocial",
-    "TimeMaster Freelance"
+    "TimeMaster Freelance",
+    "FocusFlow"
   ]
 }
