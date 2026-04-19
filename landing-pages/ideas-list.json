@@ -408,6 +408,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260419172012",
+    "nombre": "PymeGestión",
+    "tipo": "SaaS",
+    "resumen": "Plataforma modular de gestión para pequeñas y medianas empresas que integra proyectos, finanzas y comunicación....",
+    "score": 75,
+    "landing_url": "IDEA-20260419172012.html"
+  },
+  {
     "id": "IDEA-20260419152327",
     "nombre": "SocialMetrics Lite",
     "tipo": "MicroSaaS",

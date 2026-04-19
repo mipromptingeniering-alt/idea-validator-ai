@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Finanzas Sencillas",
-      "descripcion": "Finanzas Sencillas es un software en la nube que permite a las pequeñas y medianas empresas llevar un control de sus finanzas de manera fácil e intuitiva. Incluye funciones como gestión de ingresos y gastos, previsión de flujo de caja y generación de informes financieros automatizados, todo dentro de una interfaz amigable.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-17T18:09:21.383286"
-    },
-    {
       "nombre": "MarketEasy",
       "descripcion": "MarketEasy es una herramienta de marketing digital que permite a las pequeñas empresas crear y gestionar campañas publicitarias en redes sociales, correo electrónico y sitios web. Incluye tutoriales y guías paso a paso para empoderar a los usuarios a entender mejor el marketing digital.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-19T17:20:12.707061"
+    },
+    {
+      "nombre": "CollabQuest",
+      "descripcion": "CollabQuest es una herramienta SaaS que combina la gestión de proyectos con elementos de gamificación, permitiendo a los equipos trabajar de manera más cohesiva y divertida. Los usuarios pueden crear tareas, asignar roles y seguir el progreso a través de un sistema visual que premia la colaboración y el cumplimiento de objetivos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-19T17:59:15.461409"
     }
   ],
   "nombres_usados": [
-    "Finanzas Sencillas",
     "MarketEasy",
     "BalancePro",
     "FocusFlow",
@@ -8001,6 +8000,7 @@
     "CollabTimer",
     "SocialMetrics Lite",
     "MindPlay",
-    "PymeGestión"
+    "PymeGestión",
+    "CollabQuest"
   ]
 }
