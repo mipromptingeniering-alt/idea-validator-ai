@@ -7648,6 +7648,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260420142950",
+    "nombre": "FlowSync",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS que permite a las pymes gestionar tareas y mejorar la comunicación interna de forma sencilla e integrada....",
+    "score": 70,
+    "landing_url": "IDEA-20260420142950.html"
+  },
+  {
     "id": "IDEA-20260420081535",
     "nombre": "SociaLite",
     "tipo": "SaaS",

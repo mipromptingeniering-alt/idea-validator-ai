@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "QuickLaunch",
-      "descripcion": "QuickLaunch es una solución SaaS que permite a los usuarios crear un sitio web personalizado en minutos utilizando plantillas fáciles de arrastrar y soltar. Además, incluye herramientas de SEO, marketing por correo electrónico y gestión de redes sociales, todo en una sola plataforma.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-02-19T05:15:25.367425"
-    },
-    {
       "nombre": "SyncTeam",
       "descripcion": "SyncTeam permite a los usuarios gestionar su tiempo, programar reuniones y comunicarse con sus compañeros de equipo en una plataforma unificada. Los usuarios pueden ver la disponibilidad de sus colegas en tiempo real, enviar mensajes y crear tareas, todo desde una interfaz intuitiva.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-20T14:29:50.488087"
+    },
+    {
+      "nombre": "TaxEasy",
+      "descripcion": "TaxEasy ofrece un software intuitivo que automatiza la recopilación de datos fiscales, genera informes y notificaciones de plazos, y brinda recomendaciones personalizadas gracias a un asistente basado en inteligencia artificial que se adapta a las necesidades específicas del usuario.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-20T16:56:26.398325"
     }
   ],
   "nombres_usados": [
-    "QuickLaunch",
     "SyncTeam",
     "CreativoGestor",
     "WellBee",
@@ -8001,6 +8000,7 @@
     "SociaLite",
     "MeetingSync AI",
     "Connectify",
-    "FlowSync"
+    "FlowSync",
+    "TaxEasy"
   ]
 }
