@@ -408,6 +408,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260420114126",
+    "nombre": "Connectify",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que facilita la conexión social y la colaboración entre trabajadores remotos mediante eventos virtuales, dinámicas de grupo y espacios ...",
+    "score": 75,
+    "landing_url": "IDEA-20260420114126.html"
+  },
+  {
     "id": "IDEA-20260420101108",
     "nombre": "MeetingSync AI",
     "tipo": "SaaS",

@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SaludGestor",
-      "descripcion": "SaludGestor es una solución integral para médicos y terapeutas que simplifica la administración de sus consultas. Ofrece funcionalidades como programación de citas, recordatorios automáticos para pacientes, y seguimiento de tratamientos, todo en una interfaz intuitiva y fácil de usar.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-19T00:00:45.041897"
-    },
-    {
       "nombre": "QuickLaunch",
       "descripcion": "QuickLaunch es una solución SaaS que permite a los usuarios crear un sitio web personalizado en minutos utilizando plantillas fáciles de arrastrar y soltar. Además, incluye herramientas de SEO, marketing por correo electrónico y gestión de redes sociales, todo en una sola plataforma.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-20T11:41:26.538055"
+    },
+    {
+      "nombre": "FlowSync",
+      "descripcion": "FlowSync es una herramienta que combina gestión de tareas y comunicación en un solo lugar, facilitando la colaboración entre equipos de trabajo. Ofrece una interfaz intuitiva y se integra fácilmente con otras herramientas que las pymes ya utilizan.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-20T14:29:50.488087"
     }
   ],
   "nombres_usados": [
-    "SaludGestor",
     "QuickLaunch",
     "SyncTeam",
     "CreativoGestor",
@@ -8001,6 +8000,7 @@
     "EcoOptimizer",
     "SociaLite",
     "MeetingSync AI",
-    "Connectify"
+    "Connectify",
+    "FlowSync"
   ]
 }
