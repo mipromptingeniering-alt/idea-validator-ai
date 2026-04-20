@@ -408,6 +408,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260420185405",
+    "nombre": "IdeaValidator",
+    "tipo": "SaaS",
+    "resumen": "Plataforma que permite a emprendedores validar sus ideas de negocio mediante encuestas a usuarios reales y análisis de datos en tiempo real....",
+    "score": 75,
+    "landing_url": "IDEA-20260420185405.html"
+  },
+  {
     "id": "IDEA-20260420175238",
     "nombre": "Social Boost AI",
     "tipo": "SaaS",

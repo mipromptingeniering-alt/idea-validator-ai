@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "WellBee",
-      "descripcion": "WellBee ofrece a las empresas herramientas para medir y mejorar el clima laboral mediante encuestas, análisis de satisfacción y seguimiento de proyectos. Además, proporciona recomendaciones personalizadas para fomentar un ambiente de trabajo positivo y productivo.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-19T12:03:13.297066"
-    },
-    {
       "nombre": "PortafolioPro",
       "descripcion": "PortafolioPro es una herramienta diseñada para ayudar a diseñadores, fotógrafos y escritores a crear portafolios digitales impresionantes sin necesidad de conocimientos técnicos. Con una variedad de plantillas personalizables y funcionalidades de integración, los usuarios pueden mostrar su trabajo de manera profesional en minutos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-20T18:54:05.408020"
+    },
+    {
+      "nombre": "FacilitaContable",
+      "descripcion": "FacilitaContable permite a los pequeños emprendedores llevar la contabilidad de su negocio de forma sencilla e intuitiva. Ofrece facturación, reportes y herramientas de seguimiento financiero en un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-20T19:56:45.539020"
     }
   ],
   "nombres_usados": [
-    "WellBee",
     "PortafolioPro",
     "FreelancePay",
     "SocialAuto",
@@ -8001,6 +8000,7 @@
     "FlowSync",
     "TaxEasy",
     "Social Boost AI",
-    "IdeaValidator"
+    "IdeaValidator",
+    "FacilitaContable"
   ]
 }
