@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "CashFlow Pro",
-      "descripcion": "CashFlow Pro permite a las pequeñas y medianas empresas gestionar su flujo de caja de manera eficiente mediante proyecciones automáticas, alertas de liquidez y recomendaciones personalizadas basadas en el comportamiento financiero de la empresa.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-18T15:08:19.187972"
-    },
-    {
       "nombre": "WebStart",
       "descripcion": "WebStart permite a los usuarios crear su propia página web en cuestión de minutos con plantillas personalizables, sin necesidad de conocimientos técnicos. Incluye herramientas de SEO, integración con redes sociales y opciones de marketing por correo electrónico.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-19T23:20:07.602019"
+    },
+    {
+      "nombre": "FinPro Freelance Manager",
+      "descripcion": "FinPro permite a los freelancers y autónomos gestionar sus proyectos y finanzas en un solo lugar. Ofrece funciones de creación de facturas, seguimiento de pagos, gestión de tareas y reportes financieros, todo con una interfaz intuitiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-20T03:19:45.461327"
     }
   ],
   "nombres_usados": [
-    "CashFlow Pro",
     "WebStart",
     "WebEasy AI",
     "SmartInventory",
@@ -8001,6 +8000,7 @@
     "FocusFlow",
     "Wellness Connect",
     "DataSmart",
-    "Frelan"
+    "Frelan",
+    "FinPro Freelance Manager"
   ]
 }
