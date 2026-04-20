@@ -408,6 +408,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260420101108",
+    "nombre": "MeetingSync AI",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de programación de reuniones que usa inteligencia artificial para optimizar la coordinación de horarios de equipos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260420101108.html"
+  },
+  {
     "id": "IDEA-20260420060016",
     "nombre": "EcoOptimizer",
     "tipo": "SaaS",

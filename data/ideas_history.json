@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "CreativTime",
-      "descripcion": "CreativTime es una herramienta que no solo ayuda a los creativos a organizar sus tareas, sino que también incluye funcionalidades como un temporizador para técnicas de Pomodoro, un sistema de recompensas y una comunidad para compartir logros y tips. La plataforma ofrece un espacio para que los usuarios se conecten, colaboren y se motiven mutuamente.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-18T23:04:14.881821"
-    },
-    {
       "nombre": "SaludGestor",
       "descripcion": "SaludGestor es una solución integral para médicos y terapeutas que simplifica la administración de sus consultas. Ofrece funcionalidades como programación de citas, recordatorios automáticos para pacientes, y seguimiento de tratamientos, todo en una interfaz intuitiva y fácil de usar.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-20T10:11:08.288206"
+    },
+    {
+      "nombre": "Connectify",
+      "descripcion": "Connectify es una aplicación que permite a los empleados remotos participar en eventos de networking, talleres virtuales y actividades interactivas que fomentan la colaboración y construyen relaciones. Ofrece un enfoque gamificado para aumentar la participación y el compromiso, creando un ambiente de trabajo más cohesivo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-20T11:41:26.538055"
     }
   ],
   "nombres_usados": [
-    "CreativTime",
     "SaludGestor",
     "QuickLaunch",
     "SyncTeam",
@@ -8001,6 +8000,7 @@
     "FinPro Freelance Manager",
     "EcoOptimizer",
     "SociaLite",
-    "MeetingSync AI"
+    "MeetingSync AI",
+    "Connectify"
   ]
 }
