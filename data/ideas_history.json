@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FreelancePay",
-      "descripcion": "FreelancePay es una plataforma que permite a los freelancers crear, gestionar y firmar contratos digitalmente, mientras recibe pagos de manera segura a través de múltiples métodos de pago integrados. Facilita el seguimiento de tareas y el cobro de facturas.",
-      "tipo": "SaaS",
-      "score": 76,
-      "fecha": "2026-02-19T18:07:57.546115"
-    },
-    {
       "nombre": "SocialAuto",
       "descripcion": "SocialAuto permite a las pequeñas y medianas empresas generar automáticamente contenido relevante y optimizado para sus redes sociales, programar publicaciones y analizar resultados. Utiliza inteligencia artificial para sugerir las mejores horas de publicación y adaptar el contenido según la audiencia.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-20T21:34:41.992708"
+    },
+    {
+      "nombre": "SocioDigital",
+      "descripcion": "SocioDigital permite a las pequeñas empresas generar contenido adaptado a sus necesidades específicas usando inteligencia artificial. Los usuarios pueden ingresar información sobre su marca y su público objetivo, y la plataforma proporciona propuestas de contenido, imágenes y horarios óptimos para publicar, todo automatizado y fácil de gestionar.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-20T23:08:05.218648"
     }
   ],
   "nombres_usados": [
-    "FreelancePay",
     "SocialAuto",
     "TaskCom",
     "FinanzasSimplificadas",
@@ -8001,6 +8000,7 @@
     "Social Boost AI",
     "IdeaValidator",
     "FacilitaContable",
-    "SocialGenius"
+    "SocialGenius",
+    "SocioDigital"
   ]
 }
