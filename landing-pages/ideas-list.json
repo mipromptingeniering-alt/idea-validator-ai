@@ -408,6 +408,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260420165626",
+    "nombre": "TaxEasy",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS que permite a freelancers y pequeñas empresas gestionar sus impuestos de manera simple y automatizada, con asesoría personalizada....",
+    "score": 75,
+    "landing_url": "IDEA-20260420165626.html"
+  },
+  {
     "id": "IDEA-20260420114126",
     "nombre": "Connectify",
     "tipo": "SaaS",
