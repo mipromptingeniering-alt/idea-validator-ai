@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SmartInventory",
-      "descripcion": "SmartInventory es una herramienta en línea que ayuda a los vendedores en plataformas de comercio electrónico a gestionar su inventario y ajustar automáticamente sus precios en función de las tendencias del mercado y la competencia. Utiliza algoritmos de inteligencia artificial para ofrecer recomendaciones sobre los mejores precios a fijar y alertas sobre productos que necesitan ser reabastecidos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-18T21:52:35.003725"
-    },
-    {
       "nombre": "CreativTime",
       "descripcion": "CreativTime es una herramienta que no solo ayuda a los creativos a organizar sus tareas, sino que también incluye funcionalidades como un temporizador para técnicas de Pomodoro, un sistema de recompensas y una comunidad para compartir logros y tips. La plataforma ofrece un espacio para que los usuarios se conecten, colaboren y se motiven mutuamente.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-20T08:15:35.265952"
+    },
+    {
+      "nombre": "MeetingSync AI",
+      "descripcion": "MeetingSync AI permite a los usuarios programar reuniones de manera fácil y eficiente. Utiliza algoritmos de inteligencia artificial para analizar las agendas de los participantes y sugiere los mejores horarios para todos, teniendo en cuenta las zonas horarias y el historial de productividad. Además, puede enviar recordatorios y ofrecer alternativas en caso de cambios de última hora.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-20T10:11:08.288206"
     }
   ],
   "nombres_usados": [
-    "SmartInventory",
     "CreativTime",
     "SaludGestor",
     "QuickLaunch",
@@ -8001,6 +8000,7 @@
     "Frelan",
     "FinPro Freelance Manager",
     "EcoOptimizer",
-    "SociaLite"
+    "SociaLite",
+    "MeetingSync AI"
   ]
 }
