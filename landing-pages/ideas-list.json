@@ -408,6 +408,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260420175238",
+    "nombre": "Social Boost AI",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que utiliza inteligencia artificial para ayudar a emprendedores a gestionar sus redes sociales de manera más efectiva....",
+    "score": 75,
+    "landing_url": "IDEA-20260420175238.html"
+  },
+  {
     "id": "IDEA-20260420165626",
     "nombre": "TaxEasy",
     "tipo": "SaaS",

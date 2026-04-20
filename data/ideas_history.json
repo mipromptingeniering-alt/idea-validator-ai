@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "CreativoGestor",
-      "descripcion": "CreativoGestor es una herramienta diseñada especialmente para profesionales creativos, que integra gestión de proyectos, seguimiento de tiempo, facturación y comunicación con clientes. Su diseño intuitivo busca minimizar la curva de aprendizaje y maximizar la productividad.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-19T10:27:50.871904"
-    },
-    {
       "nombre": "WellBee",
       "descripcion": "WellBee ofrece a las empresas herramientas para medir y mejorar el clima laboral mediante encuestas, análisis de satisfacción y seguimiento de proyectos. Además, proporciona recomendaciones personalizadas para fomentar un ambiente de trabajo positivo y productivo.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-20T17:52:38.942646"
+    },
+    {
+      "nombre": "IdeaValidator",
+      "descripcion": "IdeaValidator es una herramienta en línea que permite a los emprendedores diseñar encuestas personalizadas y enviarlas a una base de usuarios predefinidos. Recibe feedback inmediato y análisis de tendencias para ayudar a validar o ajustar sus ideas de negocio antes de lanzarse al desarrollo de un producto.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-20T18:54:05.408020"
     }
   ],
   "nombres_usados": [
-    "CreativoGestor",
     "WellBee",
     "PortafolioPro",
     "FreelancePay",
@@ -8001,6 +8000,7 @@
     "Connectify",
     "FlowSync",
     "TaxEasy",
-    "Social Boost AI"
+    "Social Boost AI",
+    "IdeaValidator"
   ]
 }
