@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "PortafolioPro",
-      "descripcion": "PortafolioPro es una herramienta diseñada para ayudar a diseñadores, fotógrafos y escritores a crear portafolios digitales impresionantes sin necesidad de conocimientos técnicos. Con una variedad de plantillas personalizables y funcionalidades de integración, los usuarios pueden mostrar su trabajo de manera profesional en minutos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-19T15:10:32.107352"
-    },
-    {
       "nombre": "FreelancePay",
       "descripcion": "FreelancePay es una plataforma que permite a los freelancers crear, gestionar y firmar contratos digitalmente, mientras recibe pagos de manera segura a través de múltiples métodos de pago integrados. Facilita el seguimiento de tareas y el cobro de facturas.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-20T19:56:45.539020"
+    },
+    {
+      "nombre": "SocialGenius",
+      "descripcion": "SocialGenius es una herramienta SaaS que ayuda a pequeños empresarios y emprendedores a gestionar sus redes sociales de manera eficiente. Gracias a su motor de inteligencia artificial, genera contenido optimizado que se adapta a las tendencias del mercado y a la audiencia objetivo. También permite la programación de publicaciones y el análisis de rendimiento, todo en un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-20T21:34:41.992708"
     }
   ],
   "nombres_usados": [
-    "PortafolioPro",
     "FreelancePay",
     "SocialAuto",
     "TaskCom",
@@ -8001,6 +8000,7 @@
     "TaxEasy",
     "Social Boost AI",
     "IdeaValidator",
-    "FacilitaContable"
+    "FacilitaContable",
+    "SocialGenius"
   ]
 }

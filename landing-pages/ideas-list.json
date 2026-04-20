@@ -408,6 +408,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260420195645",
+    "nombre": "FacilitaContable",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de contabilidad y facturación en línea diseñada para pequeños negocios que simplifica la gestión financiera....",
+    "score": 75,
+    "landing_url": "IDEA-20260420195645.html"
+  },
+  {
     "id": "IDEA-20260420185405",
     "nombre": "IdeaValidator",
     "tipo": "SaaS",
