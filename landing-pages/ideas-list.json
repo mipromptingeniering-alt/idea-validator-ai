@@ -408,6 +408,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260420031945",
+    "nombre": "FinPro Freelance Manager",
+    "tipo": "SaaS",
+    "resumen": "FinPro es una herramienta todo en uno para freelancers que combina gestión de proyectos y gestión financiera, facilitando la facturación, seguimiento ...",
+    "score": 75,
+    "landing_url": "IDEA-20260420031945.html"
+  },
+  {
     "id": "IDEA-20260419232007",
     "nombre": "Frelan",
     "tipo": "SaaS",

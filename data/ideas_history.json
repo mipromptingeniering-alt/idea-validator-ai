@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "WebStart",
-      "descripcion": "WebStart permite a los usuarios crear su propia página web en cuestión de minutos con plantillas personalizables, sin necesidad de conocimientos técnicos. Incluye herramientas de SEO, integración con redes sociales y opciones de marketing por correo electrónico.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-02-18T18:02:11.341984"
-    },
-    {
       "nombre": "WebEasy AI",
       "descripcion": "WebEasy AI es una plataforma que utiliza inteligencia artificial para ayudar a los usuarios a crear sitios web personalizados en minutos, con plantillas adaptativas y recomendaciones de contenido basadas en la industria del usuario. Incluye soporte virtual en tiempo real para resolver dudas y facilitar el uso de la plataforma.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-20T03:19:45.461327"
+    },
+    {
+      "nombre": "EcoOptimizer",
+      "descripcion": "EcoOptimizer proporciona a las PYMEs herramientas intuitivas para calcular su huella de carbono, hacer un seguimiento de las emisiones de carbono en tiempo real y recibir recomendaciones personalizadas para reducir su impacto ambiental. La plataforma incluye un panel de control visual, tutoriales interactivos y un sistema de informes automáticos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-20T06:00:16.856251"
     }
   ],
   "nombres_usados": [
-    "WebStart",
     "WebEasy AI",
     "SmartInventory",
     "CreativTime",
@@ -8001,6 +8000,7 @@
     "Wellness Connect",
     "DataSmart",
     "Frelan",
-    "FinPro Freelance Manager"
+    "FinPro Freelance Manager",
+    "EcoOptimizer"
   ]
 }
