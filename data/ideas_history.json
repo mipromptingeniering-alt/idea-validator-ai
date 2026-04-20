@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "WebEasy AI",
-      "descripcion": "WebEasy AI es una plataforma que utiliza inteligencia artificial para ayudar a los usuarios a crear sitios web personalizados en minutos, con plantillas adaptativas y recomendaciones de contenido basadas en la industria del usuario. Incluye soporte virtual en tiempo real para resolver dudas y facilitar el uso de la plataforma.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-18T20:03:57.333365"
-    },
-    {
       "nombre": "SmartInventory",
       "descripcion": "SmartInventory es una herramienta en línea que ayuda a los vendedores en plataformas de comercio electrónico a gestionar su inventario y ajustar automáticamente sus precios en función de las tendencias del mercado y la competencia. Utiliza algoritmos de inteligencia artificial para ofrecer recomendaciones sobre los mejores precios a fijar y alertas sobre productos que necesitan ser reabastecidos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-20T06:00:16.856251"
+    },
+    {
+      "nombre": "SociaLite",
+      "descripcion": "SociaLite permite a las pequeñas y medianas empresas gestionar múltiples cuentas de redes sociales en un solo lugar, proporcionando análisis de rendimiento, sugerencias de contenido y programación de publicaciones optimizada según las tendencias del sector.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-20T08:15:35.265952"
     }
   ],
   "nombres_usados": [
-    "WebEasy AI",
     "SmartInventory",
     "CreativTime",
     "SaludGestor",
@@ -8001,6 +8000,7 @@
     "DataSmart",
     "Frelan",
     "FinPro Freelance Manager",
-    "EcoOptimizer"
+    "EcoOptimizer",
+    "SociaLite"
   ]
 }

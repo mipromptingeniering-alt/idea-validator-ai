@@ -408,6 +408,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260420060016",
+    "nombre": "EcoOptimizer",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS que permite a las pequeñas y medianas empresas medir, gestionar y optimizar su huella de carbono de manera fácil y efectiva....",
+    "score": 75,
+    "landing_url": "IDEA-20260420060016.html"
+  },
+  {
     "id": "IDEA-20260420031945",
     "nombre": "FinPro Freelance Manager",
     "tipo": "SaaS",
