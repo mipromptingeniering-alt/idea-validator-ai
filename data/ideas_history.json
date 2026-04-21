@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "AdminEase",
-      "descripcion": "AdminEase ofrece a las pequeñas y medianas empresas una solución all-in-one para la gestión de facturación, seguimiento de clientes y proyectos, y reportes financieros, todo desde una única interfaz intuitiva.",
-      "tipo": "SaaS",
-      "score": 72,
-      "fecha": "2026-02-20T05:08:21.458568"
-    },
-    {
       "nombre": "WellnessSync",
       "descripcion": "WellnessSync es un software que permite a los equipos remotos gestionar tareas colaborativas mientras se monitorea y apoya su bienestar emocional. Incluye herramientas de feedback diario, ejercicios de mindfulness, y métricas de productividad que se pueden personalizar según las necesidades del equipo.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-21T12:45:22.224807"
+    },
+    {
+      "nombre": "LearnGame",
+      "descripcion": "LearnGame es una plataforma que permite a los usuarios acceder a cursos en línea mientras compiten en desafíos relacionados y forman equipos para resolver problemas. La gamificación facilita la interacción, aumenta la retención del conocimiento y crea una comunidad de aprendizaje.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-04-21T15:49:30.858738"
     }
   ],
   "nombres_usados": [
-    "AdminEase",
     "WellnessSync",
     "TimeLead",
     "SocialSmart",
@@ -8001,6 +8000,7 @@
     "ContableXpress",
     "Equilibrio Pro",
     "ProductivePeers",
-    "WellTime"
+    "WellTime",
+    "LearnGame"
   ]
 }
