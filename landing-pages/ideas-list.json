@@ -48,6 +48,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260421154930",
+    "nombre": "LearnGame",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de aprendizaje en línea gamificada que combina cursos interactivos con competencias y colaboración entre usuarios....",
+    "score": 78,
+    "landing_url": "IDEA-20260421154930.html"
+  },
+  {
     "id": "IDEA-20260419163956",
     "nombre": "MindPlay",
     "tipo": "SaaS",
