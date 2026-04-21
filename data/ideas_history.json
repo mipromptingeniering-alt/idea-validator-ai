@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TimeLead",
-      "descripcion": "TimeLead permite a los usuarios gestionar su agenda, programar citas y, a la vez, automatiza tareas de marketing para atraer nuevos clientes, todo en un mismo lugar. A través de inteligencia artificial, sugiere cuándo y cómo contactar a los leads en función del comportamiento y preferencias del cliente.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-20T10:01:16.127805"
-    },
-    {
       "nombre": "SocialSmart",
       "descripcion": "SocialSmart permite a las pymes gestionar múltiples cuentas de redes sociales desde un solo panel, optimizando el contenido mediante IA. Los usuarios pueden programar publicaciones, recibir sugerencias de contenido y obtener informes sobre el rendimiento de sus publicaciones, todo adaptado a su audiencia.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-21T19:00:20.802395"
+    },
+    {
+      "nombre": "ComuniPyme",
+      "descripcion": "ComuniPyme facilita la comunicación entre equipos y con los clientes, permitiendo a las pymes gestionar proyectos, tareas y resolver consultas de clientes de manera eficiente. Incluye funciones como chat en tiempo real, asignación de tareas, historial de conversaciones y un sistema de tickets para el soporte al cliente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-21T20:06:00.260851"
     }
   ],
   "nombres_usados": [
-    "TimeLead",
     "SocialSmart",
     "FinanSimple",
     "CollaboEase",
@@ -8001,6 +8000,7 @@
     "ProductivePeers",
     "WellTime",
     "LearnGame",
-    "InspoTrend"
+    "InspoTrend",
+    "ComuniPyme"
   ]
 }

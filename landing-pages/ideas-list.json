@@ -424,6 +424,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260421190020",
+    "nombre": "InspoTrend",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de curación de contenido personalizada para creadores de contenido....",
+    "score": 75,
+    "landing_url": "IDEA-20260421190020.html"
+  },
+  {
     "id": "IDEA-20260421124522",
     "nombre": "WellTime",
     "tipo": "SaaS",
