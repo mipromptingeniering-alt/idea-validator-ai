@@ -7688,6 +7688,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260420230805",
+    "nombre": "SocioDigital",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que automatiza la creación y gestión de contenido para redes sociales, adaptando los mensajes a la personalidad de la marca y a las ten...",
+    "score": 70,
+    "landing_url": "IDEA-20260420230805.html"
+  },
+  {
     "id": "IDEA-20260420142950",
     "nombre": "FlowSync",
     "tipo": "SaaS",

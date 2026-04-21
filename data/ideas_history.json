@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialAuto",
-      "descripcion": "SocialAuto permite a las pequeñas y medianas empresas generar automáticamente contenido relevante y optimizado para sus redes sociales, programar publicaciones y analizar resultados. Utiliza inteligencia artificial para sugerir las mejores horas de publicación y adaptar el contenido según la audiencia.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-02-19T19:53:28.706260"
-    },
-    {
       "nombre": "TaskCom",
       "descripcion": "TaskCom es una herramienta digital que permite a los equipos remotos gestionar sus tareas de manera sencilla y mantener una comunicación fluida. Con funciones como listas de tareas compartidas, chat incorporado y notificaciones personalizadas, TaskCom mejora la eficiencia y disminuye la fricción en la colaboración.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-20T23:08:05.218648"
+    },
+    {
+      "nombre": "ContableXpress",
+      "descripcion": "ContableXpress ofrece una interfaz clara y amigable que permite a las pequeñas empresas llevar un control de sus ingresos y gastos, emitir facturas, generar reportes y tener una visión clara de su situación financiera. Además, cuenta con asistencia en línea a través de un chatbot que resuelve las consultas frecuentes.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-21T02:13:53.913984"
     }
   ],
   "nombres_usados": [
-    "SocialAuto",
     "TaskCom",
     "FinanzasSimplificadas",
     "SocialPulse",
@@ -8001,6 +8000,7 @@
     "IdeaValidator",
     "FacilitaContable",
     "SocialGenius",
-    "SocioDigital"
+    "SocioDigital",
+    "ContableXpress"
   ]
 }
