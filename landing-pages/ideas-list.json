@@ -264,6 +264,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260421070500",
+    "nombre": "ProductivePeers",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que combina la gestión del tiempo y el bienestar emocional para trabajadores remotos, fomentando la interacción social....",
+    "score": 76,
+    "landing_url": "IDEA-20260421070500.html"
+  },
+  {
     "id": "IDEA-20260419102353",
     "nombre": "PymeCRM",
     "tipo": "SaaS",

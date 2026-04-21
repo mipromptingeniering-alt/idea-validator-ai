@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialPulse",
-      "descripcion": "SocialPulse es una plataforma que permite a las pequeñas y medianas empresas gestionar sus cuentas de redes sociales en un solo lugar. Ofrece programación de posts, análisis de rendimiento y recomendaciones estratégicas basadas en inteligencia artificial. La herramienta está diseñada para ser intuitiva y accesible, con un enfoque en las necesidades específicas de las PYMEs.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-02-19T23:48:08.115872"
-    },
-    {
       "nombre": "AdminEase",
       "descripcion": "AdminEase ofrece a las pequeñas y medianas empresas una solución all-in-one para la gestión de facturación, seguimiento de clientes y proyectos, y reportes financieros, todo desde una única interfaz intuitiva.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 76,
       "fecha": "2026-04-21T07:05:00.734238"
+    },
+    {
+      "nombre": "WellTime",
+      "descripcion": "WellTime es una herramienta SaaS que ayuda a los trabajadores remotos a gestionar su tiempo de trabajo y al mismo tiempo cuidar su salud mental. Ofrece funciones de planificación del tiempo, recordatorios de descanso, ejercicios de relajación y un registro del estado emocional del usuario para fomentar una vida equilibrada.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-21T12:45:22.224807"
     }
   ],
   "nombres_usados": [
-    "SocialPulse",
     "AdminEase",
     "WellnessSync",
     "TimeLead",
@@ -8001,6 +8000,7 @@
     "SocioDigital",
     "ContableXpress",
     "Equilibrio Pro",
-    "ProductivePeers"
+    "ProductivePeers",
+    "WellTime"
   ]
 }
