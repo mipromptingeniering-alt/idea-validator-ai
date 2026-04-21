@@ -424,6 +424,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260421200600",
+    "nombre": "ComuniPyme",
+    "tipo": "SaaS",
+    "resumen": "ComuniPyme es una plataforma de gestión de comunicación para pymes que integra chat interno, gestión de tareas y atención al cliente en un solo lugar....",
+    "score": 75,
+    "landing_url": "IDEA-20260421200600.html"
+  },
+  {
     "id": "IDEA-20260421190020",
     "nombre": "InspoTrend",
     "tipo": "SaaS",

@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialSmart",
-      "descripcion": "SocialSmart permite a las pymes gestionar múltiples cuentas de redes sociales desde un solo panel, optimizando el contenido mediante IA. Los usuarios pueden programar publicaciones, recibir sugerencias de contenido y obtener informes sobre el rendimiento de sus publicaciones, todo adaptado a su audiencia.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-20T11:48:22.985137"
-    },
-    {
       "nombre": "FinanSimple",
       "descripcion": "FinanSimple es un software en línea que ayuda a pequeños empresarios a gestionar sus finanzas de manera intuitiva. Incluye funciones para realizar presupuestos, seguimiento de gastos, generación de informes financieros y recordatorios de pago.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-21T20:06:00.260851"
+    },
+    {
+      "nombre": "AdminEase",
+      "descripcion": "AdminEase permite a las PYMEs llevar un control eficiente de sus operaciones administrativas a través de una interfaz intuitiva. Con funcionalidades como gestión de facturas, seguimiento de gastos y creación de informes, AdminEase ayuda a las empresas a ahorrar tiempo y mejorar su salud financiera.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-21T21:04:11.633189"
     }
   ],
   "nombres_usados": [
-    "SocialSmart",
     "FinanSimple",
     "CollaboEase",
     "CashFlow Buddy",
@@ -8001,6 +8000,7 @@
     "WellTime",
     "LearnGame",
     "InspoTrend",
-    "ComuniPyme"
+    "ComuniPyme",
+    "AdminEase"
   ]
 }
