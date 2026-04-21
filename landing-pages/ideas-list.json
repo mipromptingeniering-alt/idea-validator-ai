@@ -424,6 +424,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260421215811",
+    "nombre": "SocialSmart",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de redes sociales con un asistente virtual que ofrece recomendaciones personalizadas para pequeñas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260421215811.html"
+  },
+  {
     "id": "IDEA-20260421200600",
     "nombre": "ComuniPyme",
     "tipo": "SaaS",
