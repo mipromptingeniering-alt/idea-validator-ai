@@ -408,6 +408,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260421050958",
+    "nombre": "Equilibrio Pro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS que ayuda a los trabajadores remotos a equilibrar su carga laboral y su bienestar mediante la gestión efectiva del tiempo....",
+    "score": 75,
+    "landing_url": "IDEA-20260421050958.html"
+  },
+  {
     "id": "IDEA-20260421021353",
     "nombre": "ContableXpress",
     "tipo": "SaaS",
