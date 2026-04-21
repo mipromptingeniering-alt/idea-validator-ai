@@ -424,6 +424,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260421223605",
+    "nombre": "FreelanceTime",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta integral de gestión de tiempo y proyectos diseñada específicamente para freelancers....",
+    "score": 75,
+    "landing_url": "IDEA-20260421223605.html"
+  },
+  {
     "id": "IDEA-20260421215811",
     "nombre": "SocialSmart",
     "tipo": "SaaS",

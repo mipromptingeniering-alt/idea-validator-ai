@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "CashFlow Buddy",
-      "descripcion": "CashFlow Buddy permite a los usuarios conectar sus cuentas bancarias y tarjetas, y ofrece un análisis visual del flujo de caja, así como recomendaciones personalizadas para mejorar la gestión financiera. Además, incluye recordatorios de pago y seguimiento de gastos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-20T18:04:23.746874"
-    },
-    {
       "nombre": "TimeWise",
       "descripcion": "TimeWise es una herramienta de software como servicio que ayuda a los usuarios a gestionar su tiempo y aumentar su productividad al aprender de sus patrones de trabajo y ofrecer recomendaciones personalizadas. Integra funciones de seguimiento del tiempo, análisis de hábitos y sugerencias para la mejora de la eficiencia.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-21T22:36:05.666468"
+    },
+    {
+      "nombre": "Freelance Finance Pro",
+      "descripcion": "Freelance Finance Pro es una plataforma SaaS que ayuda a los trabajadores independientes a gestionar sus finanzas de manera eficiente. Ofrece herramientas de facturación, seguimiento de gastos, generación de informes financieros y previsiones fiscales, todo en un solo lugar. La plataforma aprende de los hábitos financieros del usuario para ofrecer recomendaciones personalizadas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-21T23:21:16.580012"
     }
   ],
   "nombres_usados": [
-    "CashFlow Buddy",
     "TimeWise",
     "FinOptima",
     "SocialConnect",
@@ -8001,6 +8000,7 @@
     "ComuniPyme",
     "AdminEase",
     "SocialSmart",
-    "FreelanceTime"
+    "FreelanceTime",
+    "Freelance Finance Pro"
   ]
 }
