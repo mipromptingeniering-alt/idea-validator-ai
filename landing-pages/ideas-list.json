@@ -424,6 +424,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260421232116",
+    "nombre": "Freelance Finance Pro",
+    "tipo": "SaaS",
+    "resumen": "Gestor financiero integral diseñado para freelancers, simplificando la contabilidad, la facturación y la planificación de impuestos....",
+    "score": 75,
+    "landing_url": "IDEA-20260421232116.html"
+  },
+  {
     "id": "IDEA-20260421223605",
     "nombre": "FreelanceTime",
     "tipo": "SaaS",

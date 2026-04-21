@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TimeWise",
-      "descripcion": "TimeWise es una herramienta de software como servicio que ayuda a los usuarios a gestionar su tiempo y aumentar su productividad al aprender de sus patrones de trabajo y ofrecer recomendaciones personalizadas. Integra funciones de seguimiento del tiempo, análisis de hábitos y sugerencias para la mejora de la eficiencia.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-02-20T19:50:23.869646"
-    },
-    {
       "nombre": "FinOptima",
       "descripcion": "FinOptima ofrece una interfaz fácil de usar que permite a las PYMEs gestionar sus finanzas, monitorear gastos, crear presupuestos y generar informes que faciliten la toma de decisiones. Usando análisis de datos y plantillas personalizables, las empresas pueden optimizar su gestión financiera sin necesidad de experiencia previa en contabilidad.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-21T23:21:16.580012"
+    },
+    {
+      "nombre": "Freelance Manager Pro",
+      "descripcion": "Freelance Manager Pro es una plataforma que permite a los freelancers gestionar sus proyectos, clientes y facturas desde una única interfaz. Incluye funcionalidades como seguimiento del tiempo, generación de facturas personalizables, gestión de tareas, y reportes de rendimiento. También ofrece recursos educativos para ayudar a los usuarios a optimizar su negocio.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-21T23:58:21.195868"
     }
   ],
   "nombres_usados": [
-    "TimeWise",
     "FinOptima",
     "SocialConnect",
     "CreaFlow",
@@ -8001,6 +8000,7 @@
     "AdminEase",
     "SocialSmart",
     "FreelanceTime",
-    "Freelance Finance Pro"
+    "Freelance Finance Pro",
+    "Freelance Manager Pro"
   ]
 }
