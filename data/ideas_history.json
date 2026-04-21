@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TaskCom",
-      "descripcion": "TaskCom es una herramienta digital que permite a los equipos remotos gestionar sus tareas de manera sencilla y mantener una comunicación fluida. Con funciones como listas de tareas compartidas, chat incorporado y notificaciones personalizadas, TaskCom mejora la eficiencia y disminuye la fricción en la colaboración.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-19T21:03:44.440090"
-    },
-    {
       "nombre": "FinanzasSimplificadas",
       "descripcion": "FinanzasSimplificadas es una herramienta que permite a los usuarios gestionar sus finanzas personales y empresariales de manera sencilla y efectiva. Ofrecemos seguimiento automático de gastos, generación de informes financieros y acceso a contenido educativo para mejorar la gestión financiera.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-21T02:13:53.913984"
+    },
+    {
+      "nombre": "Equilibrio Pro",
+      "descripcion": "Equilibrio Pro es una herramienta de gestión del tiempo que incluye recordatorios para pausas activas, meditación y ejercicios de respiración, además de permitir a los usuarios planificar su jornada laboral de manera flexible y consciente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-21T05:09:58.857290"
     }
   ],
   "nombres_usados": [
-    "TaskCom",
     "FinanzasSimplificadas",
     "SocialPulse",
     "AdminEase",
@@ -8001,6 +8000,7 @@
     "FacilitaContable",
     "SocialGenius",
     "SocioDigital",
-    "ContableXpress"
+    "ContableXpress",
+    "Equilibrio Pro"
   ]
 }
