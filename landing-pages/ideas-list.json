@@ -7744,6 +7744,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260421210411",
+    "nombre": "AdminEase",
+    "tipo": "SaaS",
+    "resumen": "AdminEase es una plataforma de gestión administrativa todo en uno diseñada específicamente para pequeñas y medianas empresas, que simplifica la contab...",
+    "score": 70,
+    "landing_url": "IDEA-20260421210411.html"
+  },
+  {
     "id": "IDEA-20260420230805",
     "nombre": "SocioDigital",
     "tipo": "SaaS",

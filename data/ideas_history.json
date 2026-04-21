@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FinanSimple",
-      "descripcion": "FinanSimple es un software en línea que ayuda a pequeños empresarios a gestionar sus finanzas de manera intuitiva. Incluye funciones para realizar presupuestos, seguimiento de gastos, generación de informes financieros y recordatorios de pago.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-20T14:25:08.274617"
-    },
-    {
       "nombre": "CollaboEase",
       "descripcion": "CollaboEase es una herramienta simple y efectiva que permite a las PYMES gestionar sus proyectos y facilitar la comunicación entre equipos sin la complejidad de software más robusto y costoso. Incluye gestión de tareas, chat en tiempo real, y almacenamiento de documentos todo en un solo lugar, permitiendo a las PYMES mejorar su productividad y organización.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-21T21:04:11.633189"
+    },
+    {
+      "nombre": "SocialSmart",
+      "descripcion": "SocialSmart permite a los emprendedores gestionar y optimizar su presencia en redes sociales gracias a un asistente virtual que aprende de sus preferencias y de su audiencia. Ofrece programación de publicaciones, análisis de rendimiento y sugerencias de contenido basadas en tendencias del momento.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-21T21:58:11.542344"
     }
   ],
   "nombres_usados": [
-    "FinanSimple",
     "CollaboEase",
     "CashFlow Buddy",
     "TimeWise",
@@ -8001,6 +8000,7 @@
     "LearnGame",
     "InspoTrend",
     "ComuniPyme",
-    "AdminEase"
+    "AdminEase",
+    "SocialSmart"
   ]
 }
