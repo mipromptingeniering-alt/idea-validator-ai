@@ -424,6 +424,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260421235821",
+    "nombre": "Freelance Manager Pro",
+    "tipo": "SaaS",
+    "resumen": "Herramienta todo-en-uno para la gestión de proyectos, clientes y facturación dirigida a freelancers y pequeños emprendedores....",
+    "score": 75,
+    "landing_url": "IDEA-20260421235821.html"
+  },
+  {
     "id": "IDEA-20260421232116",
     "nombre": "Freelance Finance Pro",
     "tipo": "SaaS",

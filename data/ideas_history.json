@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FinOptima",
-      "descripcion": "FinOptima ofrece una interfaz fácil de usar que permite a las PYMEs gestionar sus finanzas, monitorear gastos, crear presupuestos y generar informes que faciliten la toma de decisiones. Usando análisis de datos y plantillas personalizables, las empresas pueden optimizar su gestión financiera sin necesidad de experiencia previa en contabilidad.",
-      "tipo": "SaaS",
-      "score": 68,
-      "fecha": "2026-02-20T20:57:59.976416"
-    },
-    {
       "nombre": "SocialConnect",
       "descripcion": "SocialConnect es una plataforma diseñada para trabajadores remotos que busca mitigar la soledad y fomentar conexiones significativas. Ofrece dinámicas de grupo, actividades gamificadas y espacios virtuales para reuniones informales y colaborativas.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-21T23:58:21.195868"
+    },
+    {
+      "nombre": "Freelancer Plus",
+      "descripcion": "Freelancer Plus es una plataforma que permite a los freelancers gestionar sus proyectos y clientes de manera eficiente, incluyendo herramientas de seguimiento de tiempo, gestión de tareas, y una sección de asesoría que sugiere tarifas basadas en la industria y ayuda en la negociación con clientes.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-22T02:27:43.738576"
     }
   ],
   "nombres_usados": [
-    "FinOptima",
     "SocialConnect",
     "CreaFlow",
     "PymeMarketer",
@@ -8001,6 +8000,7 @@
     "SocialSmart",
     "FreelanceTime",
     "Freelance Finance Pro",
-    "Freelance Manager Pro"
+    "Freelance Manager Pro",
+    "Freelancer Plus"
   ]
 }
