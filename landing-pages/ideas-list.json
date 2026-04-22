@@ -424,6 +424,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260422220304",
+    "nombre": "FlowMate",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma todo-en-uno para freelancers y pequeñas empresas que combina gestión de proyectos, seguimiento del tiempo y facturación....",
+    "score": 75,
+    "landing_url": "IDEA-20260422220304.html"
+  },
+  {
     "id": "IDEA-20260422210922",
     "nombre": "SkillFlow",
     "tipo": "SaaS",
