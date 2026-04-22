@@ -7776,6 +7776,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260422022743",
+    "nombre": "Freelancer Plus",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que combina herramientas de gestión de proyectos con asesoría de tarifas y negociación para freelancers y pequeñas empresas....",
+    "score": 70,
+    "landing_url": "IDEA-20260422022743.html"
+  },
+  {
     "id": "IDEA-20260421210411",
     "nombre": "AdminEase",
     "tipo": "SaaS",

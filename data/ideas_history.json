@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialConnect",
-      "descripcion": "SocialConnect es una plataforma diseñada para trabajadores remotos que busca mitigar la soledad y fomentar conexiones significativas. Ofrece dinámicas de grupo, actividades gamificadas y espacios virtuales para reuniones informales y colaborativas.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-20T21:52:14.151379"
-    },
-    {
       "nombre": "CreaFlow",
       "descripcion": "CreaFlow permite a los creativos gestionar proyectos, establecer plazos, compartir ideas y colaborar con otros, todo en un entorno visualmente atractivo y adaptable a su estilo de trabajo. Incluye plantillas personalizables y una biblioteca de recursos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-22T02:27:43.738576"
+    },
+    {
+      "nombre": "PortafolioPro",
+      "descripcion": "PortafolioPro permite a los diseñadores gráficos crear, personalizar y optimizar sus portafolios en línea, con integración de herramientas de análisis y marketing, ayudándoles a mostrar su trabajo de manera profesional y eficaz.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-22T08:56:19.877727"
     }
   ],
   "nombres_usados": [
-    "SocialConnect",
     "CreaFlow",
     "PymeMarketer",
     "EduMarketer",
@@ -8001,6 +8000,7 @@
     "FreelanceTime",
     "Freelance Finance Pro",
     "Freelance Manager Pro",
-    "Freelancer Plus"
+    "Freelancer Plus",
+    "PortafolioPro"
   ]
 }
