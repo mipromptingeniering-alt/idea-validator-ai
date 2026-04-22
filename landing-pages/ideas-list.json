@@ -424,6 +424,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260422210922",
+    "nombre": "SkillFlow",
+    "tipo": "SaaS",
+    "resumen": "SkillFlow es una plataforma de aprendizaje adaptativo que utiliza inteligencia artificial para personalizar el viaje de aprendizaje de cada usuario, f...",
+    "score": 75,
+    "landing_url": "IDEA-20260422210922.html"
+  },
+  {
     "id": "IDEA-20260422165102",
     "nombre": "ContentCraft AI",
     "tipo": "SaaS",

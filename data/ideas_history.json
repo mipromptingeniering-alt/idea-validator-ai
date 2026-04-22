@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialManagePro",
-      "descripcion": "SocialManagePro es una solución en la nube que centraliza la gestión de redes sociales, permitiendo a las pequeñas y medianas empresas programar publicaciones, analizar su rendimiento y recibir recomendaciones para mejorar su alcance y engagement. Con una interfaz intuitiva y fácil de usar, la plataforma está diseñada específicamente para quienes no tienen experiencia previa en marketing digital.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-21T07:56:07.348901"
-    },
-    {
       "nombre": "EasyMarketer",
       "descripcion": "EasyMarketer es una plataforma diseñada para ayudar a los pequeños emprendedores y freelancers a gestionar sus campañas de marketing digital. La herramienta permite crear, programar y analizar campañas en redes sociales y email marketing de manera sencilla, sin necesidad de ser un experto en marketing.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-22T21:09:22.200594"
+    },
+    {
+      "nombre": "FlowMate",
+      "descripcion": "FlowMate permite a los usuarios gestionar sus proyectos de manera eficiente, registrar el tiempo dedicado a cada tarea, y automatizar la creación y envío de facturas, todo desde una sola plataforma intuitiva y fácil de usar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-22T22:03:04.599875"
     }
   ],
   "nombres_usados": [
-    "SocialManagePro",
     "EasyMarketer",
     "SocialScribe",
     "FactuSmart",
@@ -8001,6 +8000,7 @@
     "TaskBalance",
     "TaskHero",
     "ContentCraft AI",
-    "SkillFlow"
+    "SkillFlow",
+    "FlowMate"
   ]
 }
