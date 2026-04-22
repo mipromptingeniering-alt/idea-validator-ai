@@ -7776,6 +7776,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260422085619",
+    "nombre": "PortafolioPro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS para gestionar y optimizar portafolios de diseñadores gráficos, facilitando su visibilidad y capacidad de atraer nuevos clientes....",
+    "score": 70,
+    "landing_url": "IDEA-20260422085619.html"
+  },
+  {
     "id": "IDEA-20260422022743",
     "nombre": "Freelancer Plus",
     "tipo": "SaaS",

@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "CreaFlow",
-      "descripcion": "CreaFlow permite a los creativos gestionar proyectos, establecer plazos, compartir ideas y colaborar con otros, todo en un entorno visualmente atractivo y adaptable a su estilo de trabajo. Incluye plantillas personalizables y una biblioteca de recursos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-20T22:59:56.358589"
-    },
-    {
       "nombre": "PymeMarketer",
       "descripcion": "PymeMarketer es una herramienta integral que permite a las PYMEs crear campañas de marketing digital automatizadas, gestionar redes sociales y analizar datos de rendimiento, todo desde un solo lugar. Facilita la creación de contenido, la programación de publicaciones, y el seguimiento del rendimiento en tiempo real.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-22T08:56:19.877727"
+    },
+    {
+      "nombre": "TaskBalance",
+      "descripcion": "TaskBalance proporciona a los trabajadores remotos una herramienta poderosa que les permite gestionar sus proyectos y tiempo de manera eficiente, asegurando que puedan mantener su productividad y bienestar. La plataforma ofrece recordatorios inteligentes, análisis de carga de trabajo y recomendaciones personalizadas basadas en el rendimiento.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-22T12:43:46.546231"
     }
   ],
   "nombres_usados": [
-    "CreaFlow",
     "PymeMarketer",
     "EduMarketer",
     "TheraManage",
@@ -8001,6 +8000,7 @@
     "Freelance Finance Pro",
     "Freelance Manager Pro",
     "Freelancer Plus",
-    "PortafolioPro"
+    "PortafolioPro",
+    "TaskBalance"
   ]
 }
