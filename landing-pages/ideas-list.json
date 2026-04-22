@@ -424,6 +424,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260422165102",
+    "nombre": "ContentCraft AI",
+    "tipo": "SaaS",
+    "resumen": "Generador automatizado de contenido para redes sociales utilizando inteligencia artificial....",
+    "score": 75,
+    "landing_url": "IDEA-20260422165102.html"
+  },
+  {
     "id": "IDEA-20260422154805",
     "nombre": "TaskHero",
     "tipo": "SaaS",

@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TheraManage",
-      "descripcion": "TheraManage es una plataforma SaaS diseñada específicamente para terapeutas y consejeros que permite la gestión de citas, la documentación de sesiones, el seguimiento del progreso del paciente y la comunicación segura a través de un chat integrado. La solución también ofrece herramientas de análisis para ayudar a los profesionales a evaluar la efectividad de sus intervenciones.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-21T07:07:05.124625"
-    },
-    {
       "nombre": "SocialManagePro",
       "descripcion": "SocialManagePro es una solución en la nube que centraliza la gestión de redes sociales, permitiendo a las pequeñas y medianas empresas programar publicaciones, analizar su rendimiento y recibir recomendaciones para mejorar su alcance y engagement. Con una interfaz intuitiva y fácil de usar, la plataforma está diseñada específicamente para quienes no tienen experiencia previa en marketing digital.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-22T16:51:02.264231"
+    },
+    {
+      "nombre": "SkillFlow",
+      "descripcion": "SkillFlow ofrece un camino de aprendizaje diseñado específicamente para las necesidades y el nivel de cada usuario. La plataforma utiliza algoritmos de IA para analizar el progreso y proporcionar recomendaciones de cursos, recursos y ejercicios, adaptando el contenido de manera dinámica.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-22T21:09:22.200594"
     }
   ],
   "nombres_usados": [
-    "TheraManage",
     "SocialManagePro",
     "EasyMarketer",
     "SocialScribe",
@@ -8001,6 +8000,7 @@
     "PortafolioPro",
     "TaskBalance",
     "TaskHero",
-    "ContentCraft AI"
+    "ContentCraft AI",
+    "SkillFlow"
   ]
 }
