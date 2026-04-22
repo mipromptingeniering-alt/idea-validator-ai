@@ -424,6 +424,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260422154805",
+    "nombre": "TaskHero",
+    "tipo": "SaaS",
+    "resumen": "Un gestor de tareas gamificado para freelancers y pequeños empresarios que les ayuda a organizar su tiempo de manera eficiente....",
+    "score": 75,
+    "landing_url": "IDEA-20260422154805.html"
+  },
+  {
     "id": "IDEA-20260422124346",
     "nombre": "TaskBalance",
     "tipo": "SaaS",
