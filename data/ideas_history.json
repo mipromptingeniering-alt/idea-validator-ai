@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialScribe",
-      "descripcion": "SocialScribe es una plataforma SaaS que utiliza inteligencia artificial para ayudar a las pequeñas empresas a generar contenido atractivo para sus redes sociales, programar publicaciones y analizar el rendimiento, todo en un solo lugar. Con una interfaz intuitiva, permite al usuario seleccionar las tendencias del momento y ajustar la personalización según su marca.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-21T09:57:43.238865"
-    },
-    {
       "nombre": "FactuSmart",
       "descripcion": "FactuSmart es un software de gestión financiera que permite a los usuarios crear y enviar facturas personalizadas, rastrear ingresos y gastos, y generar reportes financieros simples. Todo en una interfaz clara y fácil de usar, ideal para aquellos sin experiencia contable.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-22T23:05:06.783954"
+    },
+    {
+      "nombre": "TimeWise",
+      "descripcion": "TimeWise es una plataforma sencilla y eficaz que permite a los equipos remotos gestionar sus tareas diarias, asignar prioridades y recibir recordatorios inteligentes para mantenerse enfocados y productivos. Con una interfaz intuitiva y análisis en tiempo real, las empresas pueden identificar cuellos de botella y ajustar la carga de trabajo de manera eficiente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-22T23:59:40.307827"
     }
   ],
   "nombres_usados": [
-    "SocialScribe",
     "FactuSmart",
     "SocialSynergy",
     "RemoteSync",
@@ -8001,6 +8000,7 @@
     "ContentCraft AI",
     "SkillFlow",
     "FlowMate",
-    "VendeFácil"
+    "VendeFácil",
+    "TimeWise"
   ]
 }

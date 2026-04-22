@@ -424,6 +424,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260422230506",
+    "nombre": "VendeFácil",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para que las pequeñas y medianas empresas gestionen sus procesos de ventas y reciban capacitación en comercio digital....",
+    "score": 75,
+    "landing_url": "IDEA-20260422230506.html"
+  },
+  {
     "id": "IDEA-20260422220304",
     "nombre": "FlowMate",
     "tipo": "SaaS",
