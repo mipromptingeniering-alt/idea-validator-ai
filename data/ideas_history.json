@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "CreativeSpectrum",
-      "descripcion": "CreativeSpectrum permite a los usuarios crear portafolios personalizados y recibir comentarios de otros profesionales en un espacio seguro y centrado. Incorpora herramientas para colaborar en tiempo real y permite a los usuarios ver el impacto de sus trabajos en diferentes métricas.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-21T13:54:41.207467"
-    },
-    {
       "nombre": "ReputaPyme",
       "descripcion": "ReputaPyme es una herramienta que permite a las pequeñas y medianas empresas monitorizar sus reseñas, gestionar su presencia en redes sociales y recibir recomendaciones personalizadas para mejorar su reputación online. Con un enfoque fácil de usar, permite a las PYMES enfocarse en lo que saben hacer mejor: su negocio, mientras se preocupan menos por su imagen en línea.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-23T09:02:53.793594"
+    },
+    {
+      "nombre": "EasyWebMaker",
+      "descripcion": "EasyWebMaker es una plataforma que permite a los usuarios crear un sitio web atractivo utilizando plantillas modulares que pueden personalizarse sin necesidad de conocimientos técnicos. Además, incluye herramientas de SEO y marketing digital para ayudar a los usuarios a aumentar su visibilidad en línea.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-23T13:05:47.502123"
     }
   ],
   "nombres_usados": [
-    "CreativeSpectrum",
     "ReputaPyme",
     "CreativFlow",
     "TimeCraft",
@@ -8001,6 +8000,7 @@
     "TimeWise",
     "CultureConnect",
     "TeamQuest",
-    "SocialAI Planner"
+    "SocialAI Planner",
+    "EasyWebMaker"
   ]
 }
