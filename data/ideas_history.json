@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialSynergy",
-      "descripcion": "SocialSynergy permite a las pymes gestionar sus perfiles en redes sociales de manera efectiva a través de un panel intuitivo. La plataforma incluye plantillas de publicaciones, un calendario de contenido, y módulos educativos para ayudar a los usuarios a maximizar su impacto en línea.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-21T11:41:58.891915"
-    },
-    {
       "nombre": "RemoteSync",
       "descripcion": "RemoteSync permite a los equipos remotos gestionar su tiempo de manera efectiva, asignar tareas, y comunicarse sin interrupciones. Incluye características como temporizadores para seguimiento del tiempo, listas de tareas colaborativas y chat en tiempo real. Todo está diseñado para una experiencia de usuario fluida y fácil de usar.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-04-23T02:49:54.502575"
+    },
+    {
+      "nombre": "TeamQuest",
+      "descripcion": "TeamQuest es una herramienta que combina la gestión de proyectos con elementos de gamificación, permitiendo que los equipos remotos trabajen de manera más efectiva y colaborativa, al mismo tiempo que fomentan la motivación y el bienestar personal de sus miembros.",
+      "tipo": "SaaS",
+      "score": 77,
+      "fecha": "2026-04-23T07:12:26.309183"
     }
   ],
   "nombres_usados": [
-    "SocialSynergy",
     "RemoteSync",
     "CreativeSpectrum",
     "ReputaPyme",
@@ -8001,6 +8000,7 @@
     "FlowMate",
     "VendeFácil",
     "TimeWise",
-    "CultureConnect"
+    "CultureConnect",
+    "TeamQuest"
   ]
 }
