@@ -424,6 +424,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260422235940",
+    "nombre": "TimeWise",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de tiempo y tareas que utiliza inteligencia artificial para optimizar la productividad de equipos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260422235940.html"
+  },
+  {
     "id": "IDEA-20260422230506",
     "nombre": "VendeFácil",
     "tipo": "SaaS",
