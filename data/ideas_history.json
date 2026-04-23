@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FocusConnect",
-      "descripcion": "FocusConnect es una herramienta que permite a los trabajadores remotos y freelancers gestionar su tiempo de forma efectiva, establecer metas, y conectar con otros profesionales para compartir experiencias y motivación. La plataforma incluye seguimiento de tareas, sesiones de trabajo en grupo y recursos de mejora personal.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-21T17:54:39.000247"
-    },
-    {
       "nombre": "FitTrack AI",
       "descripcion": "FitTrack AI es una aplicación que combina tecnología de IA con datos personales del usuario para crear planes de entrenamiento y nutrición adaptativos. Los usuarios podrán recibir recomendaciones en tiempo real basadas en su actividad física, progreso y preferencias personales, fomentando así un compromiso constante con sus metas de fitness.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-23T20:36:34.781004"
+    },
+    {
+      "nombre": "WorkLife Balance Pro",
+      "descripcion": "WorkLife Balance Pro es una herramienta digital que combina técnicas de gestión del tiempo con ejercicios de mindfulness y bienestar emocional. Permite a los usuarios programar su jornada laboral de manera flexible mientras incluye pausas y ejercicios breves para reducir el estrés y aumentar la productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-23T21:28:11.811239"
     }
   ],
   "nombres_usados": [
-    "FocusConnect",
     "FitTrack AI",
     "TeamFusion",
     "CollabWorks",
@@ -8001,6 +8000,7 @@
     "EasyWebMaker",
     "CreativoTime",
     "MindManage",
-    "BalancePro"
+    "BalancePro",
+    "WorkLife Balance Pro"
   ]
 }
