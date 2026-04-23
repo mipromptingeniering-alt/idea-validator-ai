@@ -432,6 +432,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260423180418",
+    "nombre": "CreativoTime",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de proyectos diseñada específicamente para profesionales creativos que combina herramientas de gestión de tareas, seguimient...",
+    "score": 75,
+    "landing_url": "IDEA-20260423180418.html"
+  },
+  {
     "id": "IDEA-20260423130547",
     "nombre": "EasyWebMaker",
     "tipo": "SaaS",
