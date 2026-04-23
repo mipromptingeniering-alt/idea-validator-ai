@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TimeCraft",
-      "descripcion": "TimeCraft es un software como servicio que ayuda a los profesionales creativos a gestionar su tiempo y proyectos de manera más efectiva. Utiliza inteligencia artificial para ofrecer recomendaciones personalizadas sobre cómo priorizar tareas y optimizar el flujo de trabajo, integrándose con otras herramientas como calendarios y listas de tareas.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-21T16:59:51.112591"
-    },
-    {
       "nombre": "FocusConnect",
       "descripcion": "FocusConnect es una herramienta que permite a los trabajadores remotos y freelancers gestionar su tiempo de forma efectiva, establecer metas, y conectar con otros profesionales para compartir experiencias y motivación. La plataforma incluye seguimiento de tareas, sesiones de trabajo en grupo y recursos de mejora personal.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-23T19:39:41.251171"
+    },
+    {
+      "nombre": "BalancePro",
+      "descripcion": "BalancePro es una aplicación que ayuda a los freelancers a gestionar su tiempo de manera efectiva, mientras se asegura de que su salud mental no se vea comprometida. Ofrece herramientas para planificar tareas, establecer límites saludables y recibir recordatorios sobre descansos y autocuidado.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-23T20:36:34.781004"
     }
   ],
   "nombres_usados": [
-    "TimeCraft",
     "FocusConnect",
     "FitTrack AI",
     "TeamFusion",
@@ -8001,6 +8000,7 @@
     "SocialAI Planner",
     "EasyWebMaker",
     "CreativoTime",
-    "MindManage"
+    "MindManage",
+    "BalancePro"
   ]
 }
