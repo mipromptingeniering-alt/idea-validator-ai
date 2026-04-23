@@ -272,6 +272,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260423071226",
+    "nombre": "TeamQuest",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de gestión de proyectos gamificada para equipos remotos....",
+    "score": 77,
+    "landing_url": "IDEA-20260423071226.html"
+  },
+  {
     "id": "IDEA-20260421070500",
     "nombre": "ProductivePeers",
     "tipo": "SaaS",

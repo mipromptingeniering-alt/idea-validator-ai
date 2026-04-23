@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "RemoteSync",
-      "descripcion": "RemoteSync permite a los equipos remotos gestionar su tiempo de manera efectiva, asignar tareas, y comunicarse sin interrupciones. Incluye características como temporizadores para seguimiento del tiempo, listas de tareas colaborativas y chat en tiempo real. Todo está diseñado para una experiencia de usuario fluida y fácil de usar.",
-      "tipo": "SaaS",
-      "score": 76,
-      "fecha": "2026-02-21T11:57:32.452926"
-    },
-    {
       "nombre": "CreativeSpectrum",
       "descripcion": "CreativeSpectrum permite a los usuarios crear portafolios personalizados y recibir comentarios de otros profesionales en un espacio seguro y centrado. Incorpora herramientas para colaborar en tiempo real y permite a los usuarios ver el impacto de sus trabajos en diferentes métricas.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 77,
       "fecha": "2026-04-23T07:12:26.309183"
+    },
+    {
+      "nombre": "SocialAI Planner",
+      "descripcion": "SocialAI Planner es una herramienta de software como servicio que permite a los creadores de contenido programar sus publicaciones en múltiples plataformas de redes sociales, optimizando automáticamente el contenido según la audiencia y las tendencias en el momento. Con un diseño intuitivo y funciones de análisis, los usuarios pueden ver cómo sus publicaciones están funcionando y ajustar su estrategia en consecuencia.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-23T09:02:53.793594"
     }
   ],
   "nombres_usados": [
-    "RemoteSync",
     "CreativeSpectrum",
     "ReputaPyme",
     "CreativFlow",
@@ -8001,6 +8000,7 @@
     "VendeFácil",
     "TimeWise",
     "CultureConnect",
-    "TeamQuest"
+    "TeamQuest",
+    "SocialAI Planner"
   ]
 }
