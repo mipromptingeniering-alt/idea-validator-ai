@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FitTrack AI",
-      "descripcion": "FitTrack AI es una aplicación que combina tecnología de IA con datos personales del usuario para crear planes de entrenamiento y nutrición adaptativos. Los usuarios podrán recibir recomendaciones en tiempo real basadas en su actividad física, progreso y preferencias personales, fomentando así un compromiso constante con sus metas de fitness.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-21T19:04:54.842513"
-    },
-    {
       "nombre": "TeamFusion",
       "descripcion": "TeamFusion ofrece un entorno virtual donde los equipos pueden comunicarse, colaborar en proyectos y participar en actividades que fomentan la cohesión del equipo, incluida la gamificación y reconocimiento entre compañeros, todo en una sola plataforma.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-23T21:28:11.811239"
+    },
+    {
+      "nombre": "ProjecTalk",
+      "descripcion": "ProjecTalk es una herramienta que permite a los equipos remotos gestionar proyectos, comunicarse en tiempo real y hacer seguimiento del tiempo en tareas, todo en un solo lugar. Facilita la colaboración y mejora la productividad al eliminar la necesidad de múltiples herramientas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-23T22:08:02.844443"
     }
   ],
   "nombres_usados": [
-    "FitTrack AI",
     "TeamFusion",
     "CollabWorks",
     "CollaboSphere",
@@ -8001,6 +8000,7 @@
     "CreativoTime",
     "MindManage",
     "BalancePro",
-    "WorkLife Balance Pro"
+    "WorkLife Balance Pro",
+    "ProjecTalk"
   ]
 }
