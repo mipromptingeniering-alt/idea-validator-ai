@@ -432,6 +432,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260423220802",
+    "nombre": "ProjecTalk",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que integra la gestión de proyectos con comunicación y seguimiento de tiempo para equipos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260423220802.html"
+  },
+  {
     "id": "IDEA-20260423212811",
     "nombre": "WorkLife Balance Pro",
     "tipo": "SaaS",
