@@ -432,6 +432,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260423130547",
+    "nombre": "EasyWebMaker",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que permite a emprendedores y freelancers crear y gestionar su sitio web de forma fácil y rápida, con herramientas de marketing integra...",
+    "score": 75,
+    "landing_url": "IDEA-20260423130547.html"
+  },
+  {
     "id": "IDEA-20260423090253",
     "nombre": "SocialAI Planner",
     "tipo": "SaaS",
