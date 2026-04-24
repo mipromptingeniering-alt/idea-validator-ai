@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MotivaTeam",
-      "descripcion": "MotivaTeam es una solución SaaS diseñada para equipos remotos, que busca aumentar la motivación y la productividad a través de la gamificación y actividades bien estructuradas de bienestar. Los usuarios pueden gestionar proyectos, establecer metas, participar en retos grupales y acceder a recursos de bienestar mental y físico, todo dentro de la misma plataforma.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-22T09:57:49.788820"
-    },
-    {
       "nombre": "TaskNest",
       "descripcion": "TaskNest permitirá a los usuarios crear tareas, asignarlas, establecer plazos y colaborar en proyectos directamente desde una interfaz intuitiva. La plataforma incluirá integraciones con apps populares como Google Drive y Slack, así como una función de seguimiento del tiempo trabajada en cada tarea.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-24T17:35:57.136426"
+    },
+    {
+      "nombre": "ColaboLink",
+      "descripcion": "ColaboLink es una herramienta integral que combina la gestión de proyectos y tareas con funcionalidades de comunicación, permitiendo que los equipos remotos trabajen juntos de manera más eficiente y organizada.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-04-24T21:04:31.195504"
     }
   ],
   "nombres_usados": [
-    "MotivaTeam",
     "TaskNest",
     "SocialSimplify",
     "TimeQuest",
@@ -8001,6 +8000,7 @@
     "Amistad en Acción",
     "FinWise",
     "CashFlow Buddy",
-    "SocialPulse"
+    "SocialPulse",
+    "ColaboLink"
   ]
 }
