@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Freelance Connect",
-      "descripcion": "Freelance Connect permite a los freelancers gestionar sus proyectos, tareas y clientes de manera efectiva, a la vez que les proporciona herramientas para conectarse, colaborar y establecer relaciones comerciales dentro de su red profesional.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-22T05:10:51.290250"
-    },
-    {
       "nombre": "DataSnap",
       "descripcion": "DataSnap permite a los profesionales del marketing digital monitorear y analizar el rendimiento de diversas plataformas en un solo lugar. Con integración con redes sociales, Google Analytics y otras herramientas, los usuarios pueden visualizar métricas clave y realizar informes personalizados con facilidad.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-24T12:04:52.829191"
+    },
+    {
+      "nombre": "Amistad en Acción",
+      "descripcion": "Amistad en Acción es una aplicación que permite a los usuarios crear perfiles, especificar intereses y buscar personas cercanas con objetivos similares. A través de algoritmos de coincidencia, se organizarán eventos grupales que faciliten la interacción en un ambiente seguro y cómodo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-24T14:04:38.195242"
     }
   ],
   "nombres_usados": [
-    "Freelance Connect",
     "DataSnap",
     "Taskify Pro",
     "GastosOptimiza",
@@ -8001,6 +8000,7 @@
     "ProjectMod",
     "Finanzas Simplificadas",
     "EmoGuide",
-    "CashFlowPro"
+    "CashFlowPro",
+    "Amistad en Acción"
   ]
 }
