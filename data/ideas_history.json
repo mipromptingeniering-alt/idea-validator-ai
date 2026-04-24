@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SMB Digital Suite",
-      "descripcion": "SMB Digital Suite es una solución todo-en-uno diseñada para pequeñas y medianas empresas que busca simplificar y optimizar la gestión de su presencia digital. La plataforma ofrece herramientas para crear y gestionar redes sociales, construir un sitio web de manera intuitiva y obtener análisis detallados sobre el rendimiento digital, todo en un solo lugar.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-21T21:59:13.845443"
-    },
-    {
       "nombre": "PsychManage",
       "descripcion": "PsychManage es un software en la nube para terapeutas y consejeros que ofrece programación de citas, gestión de historias clínicas, facturación y herramientas de telemedicina, todo en un solo lugar.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-24T06:03:55.965764"
+    },
+    {
+      "nombre": "Finanzas Simplificadas",
+      "descripcion": "Finanzas Simplificadas es una herramienta digital que permite a los emprendedores llevar un control fácil de sus ingresos, gastos y proyecciones financieras sin necesidad de ser expertos en contabilidad. Incluye gráficos visuales y alertas automáticas para ayudar a los usuarios a tomar decisiones informadas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-24T08:20:54.941368"
     }
   ],
   "nombres_usados": [
-    "SMB Digital Suite",
     "PsychManage",
     "WorkSync",
     "Freelance Connect",
@@ -8001,6 +8000,7 @@
     "ProjecTalk",
     "TeamSync",
     "AutoContent Insights",
-    "ProjectMod"
+    "ProjectMod",
+    "Finanzas Simplificadas"
   ]
 }

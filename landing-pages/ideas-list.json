@@ -7912,6 +7912,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260424060355",
+    "nombre": "ProjectMod",
+    "tipo": "SaaS",
+    "resumen": "Un software de gestión de proyectos modular y personalizable para pequeñas empresas y profesionales que buscan optimizar su flujo de trabajo....",
+    "score": 70,
+    "landing_url": "IDEA-20260424060355.html"
+  },
+  {
     "id": "IDEA-20260423193941",
     "nombre": "MindManage",
     "tipo": "SaaS",
