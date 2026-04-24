@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "DataSnap",
-      "descripcion": "DataSnap permite a los profesionales del marketing digital monitorear y analizar el rendimiento de diversas plataformas en un solo lugar. Con integración con redes sociales, Google Analytics y otras herramientas, los usuarios pueden visualizar métricas clave y realizar informes personalizados con facilidad.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-22T07:27:38.247544"
-    },
-    {
       "nombre": "Taskify Pro",
       "descripcion": "Taskify Pro permite a los usuarios gestionar sus tareas, proyectos y tiempo de forma sencilla y colaborativa. Ofrece funcionalidades como gestión de tareas, seguimiento del tiempo, y reportes de productividad, todo en un solo lugar.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-24T14:04:38.195242"
+    },
+    {
+      "nombre": "FinWise",
+      "descripcion": "FinWise permite a las PYMES llevar un control de sus ingresos, gastos y presupuestos de manera sencilla. Incluye funcionalidades como conciliación bancaria automática, generación de informes financieros y previsión de flujo de caja, todo desde una interfaz intuitiva y accesible.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-24T15:34:59.511589"
     }
   ],
   "nombres_usados": [
-    "DataSnap",
     "Taskify Pro",
     "GastosOptimiza",
     "MotivaTeam",
@@ -8001,6 +8000,7 @@
     "Finanzas Simplificadas",
     "EmoGuide",
     "CashFlowPro",
-    "Amistad en Acción"
+    "Amistad en Acción",
+    "FinWise"
   ]
 }
