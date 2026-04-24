@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "CollabWorks",
-      "descripcion": "CollabWorks es una solución SaaS que integra la gestión de tareas, la calendarización y herramientas de comunicación en un solo lugar, facilitando la colaboración en equipos remotos y mejorando la eficiencia en la gestión del tiempo y las responsabilidades.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-21T20:50:27.058855"
-    },
-    {
       "nombre": "CollaboSphere",
       "descripcion": "CollaboSphere permite a los equipos trabajar juntos de manera más eficaz al integrar herramientas de gestión de proyectos, videoconferencias y chat en tiempo real. Ofrece una experiencia de usuario fluida y simplificada, eliminando la necesidad de usar múltiples herramientas y ayudando a los equipos a mantenerse conectados y productivos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-23T23:05:45.007970"
+    },
+    {
+      "nombre": "AutoContent Insights",
+      "descripcion": "AutoContent Insights permite a los profesionales de marketing programar publicaciones en múltiples plataformas de redes sociales y recibir informes en tiempo real sobre el rendimiento de su contenido, así como sugerencias de mejora basadas en inteligencia artificial.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-24T03:48:36.467609"
     }
   ],
   "nombres_usados": [
-    "CollabWorks",
     "CollaboSphere",
     "SMB Digital Suite",
     "PsychManage",
@@ -8001,6 +8000,7 @@
     "BalancePro",
     "WorkLife Balance Pro",
     "ProjecTalk",
-    "TeamSync"
+    "TeamSync",
+    "AutoContent Insights"
   ]
 }

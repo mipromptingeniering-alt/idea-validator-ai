@@ -432,6 +432,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260423230544",
+    "nombre": "TeamSync",
+    "tipo": "SaaS",
+    "resumen": "TeamSync es una plataforma que integra gestión del tiempo, comunicación y seguimiento de proyectos para equipos remotos, aumentando la productividad y...",
+    "score": 75,
+    "landing_url": "IDEA-20260423230544.html"
+  },
+  {
     "id": "IDEA-20260423220802",
     "nombre": "ProjecTalk",
     "tipo": "SaaS",
