@@ -432,6 +432,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260424153459",
+    "nombre": "FinWise",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión financiera sencilla y efectiva hecha para pequeñas y medianas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260424153459.html"
+  },
+  {
     "id": "IDEA-20260424140438",
     "nombre": "Amistad en Acción",
     "tipo": "SaaS",

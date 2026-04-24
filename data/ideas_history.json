@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Taskify Pro",
-      "descripcion": "Taskify Pro permite a los usuarios gestionar sus tareas, proyectos y tiempo de forma sencilla y colaborativa. Ofrece funcionalidades como gestión de tareas, seguimiento del tiempo, y reportes de productividad, todo en un solo lugar.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-22T08:00:26.992481"
-    },
-    {
       "nombre": "GastosOptimiza",
       "descripcion": "GastosOptimiza es una herramienta que permite a las pymes registrar y analizar sus gastos en diferentes categorías. Ofrece recomendaciones personalizadas para reducir costos y maximizar la eficiencia financiera, basado en datos de la industria y comparativas con competidores.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-24T15:34:59.511589"
+    },
+    {
+      "nombre": "CashFlow Buddy",
+      "descripcion": "CashFlow Buddy permite a las pequeñas y medianas empresas visualizar su flujo de caja en tiempo real, crear presupuestos, y generar reportes financieros, todo en una interfaz amigable. Los usuarios pueden ingresar datos financieros de forma sencilla y recibir alertas sobre su situación financiera.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-04-24T16:37:22.438934"
     }
   ],
   "nombres_usados": [
-    "Taskify Pro",
     "GastosOptimiza",
     "MotivaTeam",
     "TaskNest",
@@ -8001,6 +8000,7 @@
     "EmoGuide",
     "CashFlowPro",
     "Amistad en Acción",
-    "FinWise"
+    "FinWise",
+    "CashFlow Buddy"
   ]
 }
