@@ -432,6 +432,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260424082054",
+    "nombre": "Finanzas Simplificadas",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de gestión financiera diseñada específicamente para pequeños empresarios y emprendedores, que simplifica la contabilidad y las proyecciones...",
+    "score": 75,
+    "landing_url": "IDEA-20260424082054.html"
+  },
+  {
     "id": "IDEA-20260424034836",
     "nombre": "AutoContent Insights",
     "tipo": "SaaS",

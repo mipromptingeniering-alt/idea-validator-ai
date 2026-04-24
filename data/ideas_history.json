@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "PsychManage",
-      "descripcion": "PsychManage es un software en la nube para terapeutas y consejeros que ofrece programación de citas, gestión de historias clínicas, facturación y herramientas de telemedicina, todo en un solo lugar.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-21T22:55:46.789239"
-    },
-    {
       "nombre": "WorkSync",
       "descripcion": "WorkSync permite a las pequeñas y medianas empresas gestionar sus proyectos y equipos de manera eficiente, integrando funciones de comunicación en tiempo real, seguimiento de tareas y gestión de documentos en un solo lugar. La solución está diseñada para ser intuitiva y adaptable a las necesidades específicas de cada empresa.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-24T08:20:54.941368"
+    },
+    {
+      "nombre": "EmoGuide",
+      "descripcion": "EmoGuide es una herramienta digital que utiliza tecnología de inteligencia artificial para ofrecer soporte emocional a través de ejercicios, artículos, y seguimientos personalizados en función de los estados de ánimo del usuario. Los usuarios pueden registrar sus emociones, recibir recomendaciones de actividades y acceder a contenido útil para su bienestar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-24T09:59:58.612257"
     }
   ],
   "nombres_usados": [
-    "PsychManage",
     "WorkSync",
     "Freelance Connect",
     "DataSnap",
@@ -8001,6 +8000,7 @@
     "TeamSync",
     "AutoContent Insights",
     "ProjectMod",
-    "Finanzas Simplificadas"
+    "Finanzas Simplificadas",
+    "EmoGuide"
   ]
 }
