@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TaskNest",
-      "descripcion": "TaskNest permitirá a los usuarios crear tareas, asignarlas, establecer plazos y colaborar en proyectos directamente desde una interfaz intuitiva. La plataforma incluirá integraciones con apps populares como Google Drive y Slack, así como una función de seguimiento del tiempo trabajada en cada tarea.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-02-22T10:55:41.955193"
-    },
-    {
       "nombre": "SocialSimplify",
       "descripcion": "SocialSimplify permite a las PYMEs gestionar múltiples cuentas de redes sociales desde un solo lugar, programar publicaciones, analizar el rendimiento de sus anuncios y obtener recomendaciones personalizadas basadas en su audiencia y sector.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-04-24T21:04:31.195504"
+    },
+    {
+      "nombre": "ContentCrafter",
+      "descripcion": "ContentCrafter es una herramienta basada en SaaS que permite a los usuarios generar y programar contenido para sus redes sociales. La plataforma utiliza algoritmos de inteligencia artificial para analizar tendencias y sugerir contenido que resuene con la audiencia del cliente, optimizando también los horarios de publicación para maximizar el alcance.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-24T22:00:38.427146"
     }
   ],
   "nombres_usados": [
-    "TaskNest",
     "SocialSimplify",
     "TimeQuest",
     "PymePro",
@@ -8001,6 +8000,7 @@
     "FinWise",
     "CashFlow Buddy",
     "SocialPulse",
-    "ColaboLink"
+    "ColaboLink",
+    "ContentCrafter"
   ]
 }
