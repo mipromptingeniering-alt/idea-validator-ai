@@ -432,6 +432,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260424034836",
+    "nombre": "AutoContent Insights",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que automatiza la publicación de contenido en redes sociales y ofrece análisis predictivo para optimizar el rendimiento....",
+    "score": 75,
+    "landing_url": "IDEA-20260424034836.html"
+  },
+  {
     "id": "IDEA-20260423230544",
     "nombre": "TeamSync",
     "tipo": "SaaS",
