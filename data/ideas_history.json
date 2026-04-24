@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialSimplify",
-      "descripcion": "SocialSimplify permite a las PYMEs gestionar múltiples cuentas de redes sociales desde un solo lugar, programar publicaciones, analizar el rendimiento de sus anuncios y obtener recomendaciones personalizadas basadas en su audiencia y sector.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-22T11:58:17.439191"
-    },
-    {
       "nombre": "TimeQuest",
       "descripcion": "TimeQuest permite a los usuarios establecer tareas y plazos, ganar puntos y recompensas por completar objetivos, y competir con amigos o colegas. La plataforma incluirá cronómetros, recordatorios y estadísticas de productividad personal.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-24T22:00:38.427146"
+    },
+    {
+      "nombre": "HealthReminder",
+      "descripcion": "HealthReminder es una solución SaaS que permite a médicos y centros de salud gestionar sus citas de forma eficiente. Integra recordatorios automáticos personalizados y seguimiento de la salud del paciente mediante análisis de datos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-24T23:26:22.032419"
     }
   ],
   "nombres_usados": [
-    "SocialSimplify",
     "TimeQuest",
     "PymePro",
     "EduTime",
@@ -8001,6 +8000,7 @@
     "CashFlow Buddy",
     "SocialPulse",
     "ColaboLink",
-    "ContentCrafter"
+    "ContentCrafter",
+    "HealthReminder"
   ]
 }
