@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "WorkSync",
-      "descripcion": "WorkSync permite a las pequeñas y medianas empresas gestionar sus proyectos y equipos de manera eficiente, integrando funciones de comunicación en tiempo real, seguimiento de tareas y gestión de documentos en un solo lugar. La solución está diseñada para ser intuitiva y adaptable a las necesidades específicas de cada empresa.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-21T23:45:42.501851"
-    },
-    {
       "nombre": "Freelance Connect",
       "descripcion": "Freelance Connect permite a los freelancers gestionar sus proyectos, tareas y clientes de manera efectiva, a la vez que les proporciona herramientas para conectarse, colaborar y establecer relaciones comerciales dentro de su red profesional.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-24T09:59:58.612257"
+    },
+    {
+      "nombre": "CashFlowPro",
+      "descripcion": "CashFlowPro permite a las pymes gestionar sus cuentas por cobrar y pagar, generando informes financieros claros y utilizando IA para prever problemas de liquidez antes de que ocurran, facilitando la toma de decisiones más informada.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-24T12:04:52.829191"
     }
   ],
   "nombres_usados": [
-    "WorkSync",
     "Freelance Connect",
     "DataSnap",
     "Taskify Pro",
@@ -8001,6 +8000,7 @@
     "AutoContent Insights",
     "ProjectMod",
     "Finanzas Simplificadas",
-    "EmoGuide"
+    "EmoGuide",
+    "CashFlowPro"
   ]
 }

@@ -432,6 +432,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260424095958",
+    "nombre": "EmoGuide",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de bienestar emocional personalizada que ofrece recursos, actividades y seguimiento del estado emocional de los usuarios....",
+    "score": 75,
+    "landing_url": "IDEA-20260424095958.html"
+  },
+  {
     "id": "IDEA-20260424082054",
     "nombre": "Finanzas Simplificadas",
     "tipo": "SaaS",
