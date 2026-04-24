@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "GastosOptimiza",
-      "descripcion": "GastosOptimiza es una herramienta que permite a las pymes registrar y analizar sus gastos en diferentes categorías. Ofrece recomendaciones personalizadas para reducir costos y maximizar la eficiencia financiera, basado en datos de la industria y comparativas con competidores.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-02-22T09:02:26.756940"
-    },
-    {
       "nombre": "MotivaTeam",
       "descripcion": "MotivaTeam es una solución SaaS diseñada para equipos remotos, que busca aumentar la motivación y la productividad a través de la gamificación y actividades bien estructuradas de bienestar. Los usuarios pueden gestionar proyectos, establecer metas, participar en retos grupales y acceder a recursos de bienestar mental y físico, todo dentro de la misma plataforma.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-04-24T16:37:22.438934"
+    },
+    {
+      "nombre": "SocialPulse",
+      "descripcion": "SocialPulse permite a las pequeñas y medianas empresas gestionar sus perfiles en múltiples redes sociales desde una sola plataforma. Ofrece funcionalidades de programación de publicaciones, análisis de rendimiento, y sugiere mejoras basadas en datos históricos, todo en una interfaz fácil de usar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-24T17:35:57.136426"
     }
   ],
   "nombres_usados": [
-    "GastosOptimiza",
     "MotivaTeam",
     "TaskNest",
     "SocialSimplify",
@@ -8001,6 +8000,7 @@
     "CashFlowPro",
     "Amistad en Acción",
     "FinWise",
-    "CashFlow Buddy"
+    "CashFlow Buddy",
+    "SocialPulse"
   ]
 }

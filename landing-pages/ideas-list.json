@@ -48,6 +48,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260424163722",
+    "nombre": "CashFlow Buddy",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de flujo de caja que ayuda a las pymes a mantener el control de sus finanzas de manera simple y efectiva....",
+    "score": 78,
+    "landing_url": "IDEA-20260424163722.html"
+  },
+  {
     "id": "IDEA-20260421154930",
     "nombre": "LearnGame",
     "tipo": "SaaS",
