@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "EduTime",
-      "descripcion": "EduTime permite a los padres crear horarios personalizados que incorporan tiempo de estudio, tareas y actividades recreativas. Con incentivos gamificados y un enfoque en la colaboración familiar, los padres pueden administrar y hacer seguimiento del progreso de sus hijos de manera efectiva.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-22T15:51:44.042937"
-    },
-    {
       "nombre": "AdFusion",
       "descripcion": "AdFusion proporciona un dashboard unificado que permite a los marketers visualizar, analizar y optimizar sus campañas publicitarias de diferentes plataformas de forma simultánea, ahorrando tiempo y recursos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-25T03:31:16.113310"
+    },
+    {
+      "nombre": "TimeBilling",
+      "descripcion": "TimeBilling permite a los freelancers y pequeñas empresas gestionar sus proyectos, registrar el tiempo dedicado a cada tarea y crear facturas de manera rápida y fácil. La plataforma se centra en la simplicidad y la accesibilidad, permitiendo a los usuarios centrarse en el trabajo en lugar de en la administración.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-25T05:30:44.083832"
     }
   ],
   "nombres_usados": [
-    "EduTime",
     "AdFusion",
     "Financio",
     "SocialFlow",
@@ -8001,6 +8000,7 @@
     "ContentCrafter",
     "HealthReminder",
     "EduPlayHome",
-    "DigiPymes"
+    "DigiPymes",
+    "TimeBilling"
   ]
 }
