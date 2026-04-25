@@ -288,6 +288,14 @@
     "landing_url": "IDEA-20260423071226.html"
   },
   {
+    "id": "IDEA-20260425202100",
+    "nombre": "AdCentral AI",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que centraliza la gestión de campañas de publicidad digital a través de múltiples plataformas con análisis y optimización automatizados...",
+    "score": 76,
+    "landing_url": "IDEA-20260425202100.html"
+  },
+  {
     "id": "IDEA-20260421070500",
     "nombre": "ProductivePeers",
     "tipo": "SaaS",

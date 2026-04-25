@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "BizManager",
-      "descripcion": "BizManager es un software como servicio que permite a los emprendedores gestionar sus negocios de manera eficiente. Ofrece funciones como contabilidad básica, gestión de clientes, seguimiento de ventas y campañas de marketing digital, todo en una interfaz fácil de usar.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-23T17:51:15.777593"
-    },
-    {
       "nombre": "MindfulTime",
       "descripcion": "MindfulTime es una herramienta digital que utiliza inteligencia artificial para personalizar técnicas de gestión del tiempo basadas en las preferencias del usuario. Incluye integración de recordatorios, ejercicios de mindfulness y análisis de productividad para ayudar a los usuarios a ser más conscientes del uso de su tiempo.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 76,
       "fecha": "2026-04-25T20:21:00.821861"
+    },
+    {
+      "nombre": "FiltraSmart",
+      "descripcion": "FiltraSmart utiliza algoritmos de inteligencia artificial para analizar el comportamiento online del usuario y ofrecer recomendaciones personalizadas de artículos, videos y podcasts, minimizando el tiempo de búsqueda y maximizando la relevancia del contenido.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-25T21:52:21.509145"
     }
   ],
   "nombres_usados": [
-    "BizManager",
     "MindfulTime",
     "Digital StartHub",
     "PymeBoost",
@@ -8001,6 +8000,7 @@
     "LoyaltyMint",
     "BalanceWise",
     "Balance360",
-    "AdCentral AI"
+    "AdCentral AI",
+    "FiltraSmart"
   ]
 }
