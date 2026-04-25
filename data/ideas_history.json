@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ClienteConectado",
-      "descripcion": "ClienteConectado proporciona a las PYMEs una plataforma fácil de usar para gestionar la comunicación con sus clientes. Incluye herramientas para realizar seguimientos automáticos, enviar recordatorios y personalizar la comunicación en base a las interacciones previas. Además, ofrece análisis de satisfacción del cliente y recomendaciones para mejorar la fidelización.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-22T23:52:52.448688"
-    },
-    {
       "nombre": "UniPlan",
       "descripcion": "UniPlan es una herramienta de planificación diseñada específicamente para estudiantes universitarios. Permite a los usuarios crear horarios, establecer recordatorios y organizar tareas individuales y grupales, así como colaborar en proyectos mediante funciones de calendario compartido y listas de tareas. Además, la plataforma ofrece análisis de productividad para ayudar a los usuarios a identificar áreas de mejora.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-25T12:42:49.765515"
+    },
+    {
+      "nombre": "FlexiProject",
+      "descripcion": "FlexiProject facilita la creación de proyectos adaptados a las necesidades específicas de las PYMEs. Ofrece plantillas personalizables, funciones de colaboración en tiempo real, y herramientas de seguimiento que permiten a los equipos gestionar proyectos sin complicaciones. Con una interfaz intuitiva, los usuarios pueden diseñar su propio flujo de trabajo en unos minutos.",
+      "tipo": "SaaS",
+      "score": 73,
+      "fecha": "2026-04-25T16:02:28.091133"
     }
   ],
   "nombres_usados": [
-    "ClienteConectado",
     "UniPlan",
     "CreatiMentor",
     "TeamWell",
@@ -8001,6 +8000,7 @@
     "SocialAuto",
     "DietaFinder",
     "FlexiPro",
-    "Contento"
+    "Contento",
+    "FlexiProject"
   ]
 }
