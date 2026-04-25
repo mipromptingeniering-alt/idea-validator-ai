@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MindfulTime",
-      "descripcion": "MindfulTime es una herramienta digital que utiliza inteligencia artificial para personalizar técnicas de gestión del tiempo basadas en las preferencias del usuario. Incluye integración de recordatorios, ejercicios de mindfulness y análisis de productividad para ayudar a los usuarios a ser más conscientes del uso de su tiempo.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-23T20:06:19.017028"
-    },
-    {
       "nombre": "Digital StartHub",
       "descripcion": "Digital StartHub permite a emprendedores y pequeños negocios construir su sitio web, gestionar sus redes sociales y realizar campañas de email marketing desde una única interfaz fácil de usar. La solución está diseñada para aquellos que no tienen experiencia técnica, proporcionando tutoriales, plantillas y un soporte accesible.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-25T21:52:21.509145"
+    },
+    {
+      "nombre": "FactuSmart",
+      "descripcion": "La solución permite a los usuarios crear facturas profesionales en segundos, enviar recordatorios automáticos de pago, y gestionar el seguimiento de cobros de manera sencilla. Incluye integración con sistemas de pago populares y análisis de ingresos en tiempo real.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-25T22:27:54.948211"
     }
   ],
   "nombres_usados": [
-    "MindfulTime",
     "Digital StartHub",
     "PymeBoost",
     "FinanciaPlus",
@@ -8001,6 +8000,7 @@
     "BalanceWise",
     "Balance360",
     "AdCentral AI",
-    "FiltraSmart"
+    "FiltraSmart",
+    "FactuSmart"
   ]
 }

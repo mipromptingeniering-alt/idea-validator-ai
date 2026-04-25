@@ -448,6 +448,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260425215221",
+    "nombre": "FiltraSmart",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de recomendación de contenido basada en IA que ayuda a los usuarios a filtrar y encontrar contenido relevante adaptado a sus intereses...",
+    "score": 75,
+    "landing_url": "IDEA-20260425215221.html"
+  },
+  {
     "id": "IDEA-20260425193219",
     "nombre": "Balance360",
     "tipo": "SaaS",
