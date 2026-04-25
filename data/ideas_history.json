@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Empresario Smart",
-      "descripcion": "Empresario Smart es una herramienta que permite a las PYMEs gestionar campañas de marketing, redes sociales, correos electrónicos y análisis de manera sencilla y efectiva, sin necesidad de conocimientos técnicos avanzados.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-22T21:49:59.181523"
-    },
-    {
       "nombre": "TaskFlow",
       "descripcion": "TaskFlow es una herramienta SaaS que combina la gestión de tareas, la planificación de proyectos y la comunicación en un solo lugar. Diseñada especialmente para PYMEs, su interfaz intuitiva y sus funciones adaptadas a equipos pequeños facilitan una gestión más eficiente del tiempo y los recursos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-25T11:01:48.622217"
+    },
+    {
+      "nombre": "FlexiPro",
+      "descripcion": "FlexiPro es una herramienta de gestión de proyectos que permite a los usuarios crear su propio entorno de trabajo, mediante la personalización de tableros, tareas, y herramientas de colaboración, adaptándose a sus necesidades específicas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-25T11:52:23.593692"
     }
   ],
   "nombres_usados": [
-    "Empresario Smart",
     "TaskFlow",
     "ClienteConectado",
     "UniPlan",
@@ -8001,6 +8000,7 @@
     "CV Smart",
     "CollabGenius",
     "SocialAuto",
-    "DietaFinder"
+    "DietaFinder",
+    "FlexiPro"
   ]
 }

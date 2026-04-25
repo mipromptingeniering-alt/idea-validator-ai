@@ -440,6 +440,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260425110148",
+    "nombre": "DietaFinder",
+    "tipo": "SaaS",
+    "resumen": "Plataforma que ayuda a encontrar restaurantes adaptados a dietas especiales....",
+    "score": 75,
+    "landing_url": "IDEA-20260425110148.html"
+  },
+  {
     "id": "IDEA-20260425100325",
     "nombre": "SocialAuto",
     "tipo": "SaaS",
