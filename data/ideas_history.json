@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TeamWell",
-      "descripcion": "TeamWell es un espacio virtual diseñado específicamente para trabajadores remotos, donde pueden colaborar en proyectos mientras participan en actividades que promueven el bienestar y la cohesión del equipo. Desde videoconferencias hasta juegos y sesiones de meditación, TeamWell busca equilibrar la productividad y el bienestar de los empleados.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-23T11:10:39.593971"
-    },
-    {
       "nombre": "FinanzApp Autónomos",
       "descripcion": "FinanzApp Autónomos es una herramienta de gestión financiera diseñada específicamente para freelance y pequeños emprendedores. Les permite llevar un seguimiento de ingresos y gastos, crear facturas, y obtener informes financieros de manera fácil y rápida.",
       "tipo": "MicroSaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-04-25T18:39:22.906957"
+    },
+    {
+      "nombre": "Balance360",
+      "descripcion": "Balance360 ofrece un panel de control donde los usuarios pueden programar sus tareas, establecer recordatorios y recibir consejos de bienestar diario. Utiliza inteligencia artificial para brindar recomendaciones personalizadas basadas en el comportamiento del usuario y su nivel de estrés.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-25T19:32:19.857980"
     }
   ],
   "nombres_usados": [
-    "TeamWell",
     "FinanzApp Autónomos",
     "BizManager",
     "MindfulTime",
@@ -8001,6 +8000,7 @@
     "Contento",
     "FlexiProject",
     "LoyaltyMint",
-    "BalanceWise"
+    "BalanceWise",
+    "Balance360"
   ]
 }
