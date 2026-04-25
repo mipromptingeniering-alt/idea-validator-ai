@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TaskFlow",
-      "descripcion": "TaskFlow es una herramienta SaaS que combina la gestión de tareas, la planificación de proyectos y la comunicación en un solo lugar. Diseñada especialmente para PYMEs, su interfaz intuitiva y sus funciones adaptadas a equipos pequeños facilitan una gestión más eficiente del tiempo y los recursos.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-02-22T22:56:28.452846"
-    },
-    {
       "nombre": "ClienteConectado",
       "descripcion": "ClienteConectado proporciona a las PYMEs una plataforma fácil de usar para gestionar la comunicación con sus clientes. Incluye herramientas para realizar seguimientos automáticos, enviar recordatorios y personalizar la comunicación en base a las interacciones previas. Además, ofrece análisis de satisfacción del cliente y recomendaciones para mejorar la fidelización.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-25T11:52:23.593692"
+    },
+    {
+      "nombre": "Contento",
+      "descripcion": "Contento es un software como servicio (SaaS) que genera automáticamente contenido atractivo y relevante para las redes sociales de pequeñas empresas, permitiendo que se enfoquen en otras áreas de su negocio. Utiliza inteligencia artificial para adaptarse a la voz de la marca y a las tendencias locales.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-25T12:42:49.765515"
     }
   ],
   "nombres_usados": [
-    "TaskFlow",
     "ClienteConectado",
     "UniPlan",
     "CreatiMentor",
@@ -8001,6 +8000,7 @@
     "CollabGenius",
     "SocialAuto",
     "DietaFinder",
-    "FlexiPro"
+    "FlexiPro",
+    "Contento"
   ]
 }
