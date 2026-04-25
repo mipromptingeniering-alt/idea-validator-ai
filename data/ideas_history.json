@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FinanzApp Autónomos",
-      "descripcion": "FinanzApp Autónomos es una herramienta de gestión financiera diseñada específicamente para freelance y pequeños emprendedores. Les permite llevar un seguimiento de ingresos y gastos, crear facturas, y obtener informes financieros de manera fácil y rápida.",
-      "tipo": "MicroSaaS",
-      "score": 70,
-      "fecha": "2026-02-23T14:16:53.534659"
-    },
-    {
       "nombre": "BizManager",
       "descripcion": "BizManager es un software como servicio que permite a los emprendedores gestionar sus negocios de manera eficiente. Ofrece funciones como contabilidad básica, gestión de clientes, seguimiento de ventas y campañas de marketing digital, todo en una interfaz fácil de usar.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-25T19:32:19.857980"
+    },
+    {
+      "nombre": "AdCentral AI",
+      "descripcion": "AdCentral AI permite a los usuarios gestionar sus campañas publicitarias en Google Ads, Facebook Ads y otras plataformas de manera centralizada. Utilizando algoritmos de inteligencia artificial, la plataforma analiza el rendimiento de las campañas y proporciona recomendaciones para optimizar el presupuesto y mejorar el retorno de inversión.",
+      "tipo": "SaaS",
+      "score": 76,
+      "fecha": "2026-04-25T20:21:00.821861"
     }
   ],
   "nombres_usados": [
-    "FinanzApp Autónomos",
     "BizManager",
     "MindfulTime",
     "Digital StartHub",
@@ -8001,6 +8000,7 @@
     "FlexiProject",
     "LoyaltyMint",
     "BalanceWise",
-    "Balance360"
+    "Balance360",
+    "AdCentral AI"
   ]
 }

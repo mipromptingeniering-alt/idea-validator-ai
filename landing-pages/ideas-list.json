@@ -440,6 +440,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260425193219",
+    "nombre": "Balance360",
+    "tipo": "SaaS",
+    "resumen": "Balance360 es una aplicación que ayuda a trabajadores remotos y freelancers a gestionar su tiempo mientras promueve su bienestar personal a través de ...",
+    "score": 75,
+    "landing_url": "IDEA-20260425193219.html"
+  },
+  {
     "id": "IDEA-20260425175608",
     "nombre": "LoyaltyMint",
     "tipo": "SaaS",
