@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "UniPlan",
-      "descripcion": "UniPlan es una herramienta de planificación diseñada específicamente para estudiantes universitarios. Permite a los usuarios crear horarios, establecer recordatorios y organizar tareas individuales y grupales, así como colaborar en proyectos mediante funciones de calendario compartido y listas de tareas. Además, la plataforma ofrece análisis de productividad para ayudar a los usuarios a identificar áreas de mejora.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-23T05:20:09.088727"
-    },
-    {
       "nombre": "CreatiMentor",
       "descripcion": "CreatiMentor es una herramienta que ayuda a los profesionales creativos a superar bloqueos y mejorar su creatividad a través de ejercicios interactivos, meditaciones guiadas, y una comunidad de apoyo. Los usuarios pueden realizar un seguimiento de su progreso personal y recibir recomendaciones personalizadas basadas en sus intereses y desafíos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 73,
       "fecha": "2026-04-25T16:02:28.091133"
+    },
+    {
+      "nombre": "LoyaltyMint",
+      "descripcion": "LoyaltyMint ayuda a las pequeñas empresas a crear un programa de lealtad personalizado que no solo recompensa a los clientes por sus compras, sino que también se adapta a sus preferencias y comportamientos. La plataforma incluye herramientas de análisis para medir el impacto de las recompensas y estrategias de marketing automatizadas para reenganchar a los clientes inactivos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-25T17:56:08.520096"
     }
   ],
   "nombres_usados": [
-    "UniPlan",
     "CreatiMentor",
     "TeamWell",
     "FinanzApp Autónomos",
@@ -8001,6 +8000,7 @@
     "DietaFinder",
     "FlexiPro",
     "Contento",
-    "FlexiProject"
+    "FlexiProject",
+    "LoyaltyMint"
   ]
 }
