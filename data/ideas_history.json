@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Financio",
-      "descripcion": "Financio permite a los usuarios gestionar sus ingresos y gastos, crear presupuestos personalizados y recibir consejos financieros específicos para su situación, fomentando una mejor toma de decisiones y una planificación efectiva.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-22T17:54:17.735321"
-    },
-    {
       "nombre": "SocialFlow",
       "descripcion": "SocialFlow permite a los usuarios gestionar múltiples cuentas de redes sociales desde un solo lugar. Con funcionalidades de programación de publicaciones, análisis de rendimiento y recomendaciones personalizadas, los usuarios pueden optimizar su estrategia de contenido sin necesidad de ser expertos en marketing digital.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-25T06:56:50.860801"
+    },
+    {
+      "nombre": "CV Smart",
+      "descripcion": "CV Smart permite a los usuarios crear currículums de alta calidad con la ayuda de inteligencia artificial. La herramienta analiza las descripciones de trabajo y sugiere cambios en el CV del usuario para que coincida mejor con los requisitos del puesto, aumentando así las posibilidades de ser seleccionado para una entrevista.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-25T08:02:36.964973"
     }
   ],
   "nombres_usados": [
-    "Financio",
     "SocialFlow",
     "TaskQuest",
     "Marketing Simplificado",
@@ -8001,6 +8000,7 @@
     "EduPlayHome",
     "DigiPymes",
     "TimeBilling",
-    "FinanSimple"
+    "FinanSimple",
+    "CV Smart"
   ]
 }
