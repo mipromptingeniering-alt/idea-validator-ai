@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Marketing Simplificado",
-      "descripcion": "Marketing Simplificado es una herramienta SaaS que ofrece a las PYMEs un asistente automatizado para crear, ejecutar y optimizar campañas de marketing digital. Además, proporciona tutoriales y recursos educativos que permiten a los usuarios entender mejor el marketing digital y así, mejorar sus estrategias.",
-      "tipo": "SaaS",
-      "score": 78,
-      "fecha": "2026-02-22T20:54:55.512854"
-    },
-    {
       "nombre": "Empresario Smart",
       "descripcion": "Empresario Smart es una herramienta que permite a las PYMEs gestionar campañas de marketing, redes sociales, correos electrónicos y análisis de manera sencilla y efectiva, sin necesidad de conocimientos técnicos avanzados.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-25T10:03:25.322305"
+    },
+    {
+      "nombre": "DietaFinder",
+      "descripcion": "DietaFinder es una plataforma donde los usuarios pueden buscar y descubrir restaurantes que ofrecen opciones específicas para sus dietas. Contará con reseñas de otros usuarios que comparten la misma dieta, recomendaciones personalizadas y un mapa interactivo para encontrar restaurantes cercanos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-25T11:01:48.622217"
     }
   ],
   "nombres_usados": [
-    "Marketing Simplificado",
     "Empresario Smart",
     "TaskFlow",
     "ClienteConectado",
@@ -8001,6 +8000,7 @@
     "FinanSimple",
     "CV Smart",
     "CollabGenius",
-    "SocialAuto"
+    "SocialAuto",
+    "DietaFinder"
   ]
 }

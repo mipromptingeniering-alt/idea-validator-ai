@@ -440,6 +440,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260425100325",
+    "nombre": "SocialAuto",
+    "tipo": "SaaS",
+    "resumen": "SocialAuto es una herramienta de gestión de redes sociales mediante inteligencia artificial que automatiza la creación de contenido y optimiza las pub...",
+    "score": 75,
+    "landing_url": "IDEA-20260425100325.html"
+  },
+  {
     "id": "IDEA-20260425090855",
     "nombre": "CollabGenius",
     "tipo": "SaaS",
