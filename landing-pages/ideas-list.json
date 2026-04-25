@@ -440,6 +440,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260424232621",
+    "nombre": "HealthReminder",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de citas médicas que utiliza IA para optimizar el seguimiento y recordatorios de pacientes....",
+    "score": 75,
+    "landing_url": "IDEA-20260424232621.html"
+  },
+  {
     "id": "IDEA-20260424220038",
     "nombre": "ContentCrafter",
     "tipo": "SaaS",
