@@ -7984,6 +7984,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260425000143",
+    "nombre": "EduPlayHome",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma digital que ofrece actividades educativas y recreativas planificadas y personalizadas para niños....",
+    "score": 70,
+    "landing_url": "IDEA-20260425000143.html"
+  },
+  {
     "id": "IDEA-20260424120452",
     "nombre": "CashFlowPro",
     "tipo": "SaaS",

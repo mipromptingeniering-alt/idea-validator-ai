@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "PymePro",
-      "descripcion": "PymePro es una plataforma SaaS que permite a las pequeñas y medianas empresas gestionar sus proyectos, tareas y equipos de trabajo de forma efectiva. Ofrece funciones de planificación, seguimiento de tareas, comunicación interna y análisis de rendimiento en tiempo real, todo en un solo lugar.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-22T14:57:16.050363"
-    },
-    {
       "nombre": "EduTime",
       "descripcion": "EduTime permite a los padres crear horarios personalizados que incorporan tiempo de estudio, tareas y actividades recreativas. Con incentivos gamificados y un enfoque en la colaboración familiar, los padres pueden administrar y hacer seguimiento del progreso de sus hijos de manera efectiva.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-25T00:01:43.273819"
+    },
+    {
+      "nombre": "DigiPymes",
+      "descripcion": "DigiPymes permite a las pequeñas y medianas empresas gestionar sus cuentas de redes sociales, crear contenido optimizado y analizar su rendimiento de forma automatizada. Se adapta a las necesidades de cada negocio ofreciendo plantillas personalizables y reportes claros.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-25T03:31:16.113310"
     }
   ],
   "nombres_usados": [
-    "PymePro",
     "EduTime",
     "AdFusion",
     "Financio",
@@ -8001,6 +8000,7 @@
     "ColaboLink",
     "ContentCrafter",
     "HealthReminder",
-    "EduPlayHome"
+    "EduPlayHome",
+    "DigiPymes"
   ]
 }
