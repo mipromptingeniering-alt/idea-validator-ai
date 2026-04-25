@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "AdFusion",
-      "descripcion": "AdFusion proporciona un dashboard unificado que permite a los marketers visualizar, analizar y optimizar sus campañas publicitarias de diferentes plataformas de forma simultánea, ahorrando tiempo y recursos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-22T17:00:17.339255"
-    },
-    {
       "nombre": "Financio",
       "descripcion": "Financio permite a los usuarios gestionar sus ingresos y gastos, crear presupuestos personalizados y recibir consejos financieros específicos para su situación, fomentando una mejor toma de decisiones y una planificación efectiva.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-25T05:30:44.083832"
+    },
+    {
+      "nombre": "FinanSimple",
+      "descripcion": "FinanSimple es un software que permite a los freelancers y pequeñas empresas gestionar sus finanzas de forma sencilla. Ofrece funcionalidades como creación de facturas, seguimiento de gastos e ingresos, generación de reportes financieros y recordatorios de pagos. Todo en un entorno intuitivo y accesible desde cualquier dispositivo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-25T06:56:50.860801"
     }
   ],
   "nombres_usados": [
-    "AdFusion",
     "Financio",
     "SocialFlow",
     "TaskQuest",
@@ -8001,6 +8000,7 @@
     "HealthReminder",
     "EduPlayHome",
     "DigiPymes",
-    "TimeBilling"
+    "TimeBilling",
+    "FinanSimple"
   ]
 }

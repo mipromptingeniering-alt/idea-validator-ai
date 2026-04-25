@@ -440,6 +440,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260425053043",
+    "nombre": "TimeBilling",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta sencilla que combina gestión de proyectos, seguimiento de tiempo y facturación para freelancers y pequeñas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260425053043.html"
+  },
+  {
     "id": "IDEA-20260425033115",
     "nombre": "DigiPymes",
     "tipo": "SaaS",
