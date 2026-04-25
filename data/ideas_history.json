@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TaskQuest",
-      "descripcion": "TaskQuest combina la gestión de tareas, seguimiento de proyectos y herramientas de comunicación en una interfaz intuitiva que incorpora elementos de juego. Los usuarios pueden ganar puntos, completar misiones y desbloquear recompensas al avanzar en sus proyectos, fomentando un ambiente de trabajo colaborativo y divertido.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-22T19:49:45.852448"
-    },
-    {
       "nombre": "Marketing Simplificado",
       "descripcion": "Marketing Simplificado es una herramienta SaaS que ofrece a las PYMEs un asistente automatizado para crear, ejecutar y optimizar campañas de marketing digital. Además, proporciona tutoriales y recursos educativos que permiten a los usuarios entender mejor el marketing digital y así, mejorar sus estrategias.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-25T09:08:55.465191"
+    },
+    {
+      "nombre": "SocialAuto",
+      "descripcion": "SocialAuto utiliza algoritmos de inteligencia artificial para analizar el sector y crear contenido atractivo para las redes sociales de las PYMES. Además, ofrece recomendaciones sobre los mejores momentos para publicar y cómo interactuar con los seguidores, todo en una plataforma sencilla y fácil de usar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-25T10:03:25.322305"
     }
   ],
   "nombres_usados": [
-    "TaskQuest",
     "Marketing Simplificado",
     "Empresario Smart",
     "TaskFlow",
@@ -8001,6 +8000,7 @@
     "TimeBilling",
     "FinanSimple",
     "CV Smart",
-    "CollabGenius"
+    "CollabGenius",
+    "SocialAuto"
   ]
 }
