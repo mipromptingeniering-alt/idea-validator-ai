@@ -448,6 +448,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260425222754",
+    "nombre": "FactuSmart",
+    "tipo": "SaaS",
+    "resumen": "FactuSmart es una plataforma de facturación y cobro automatizado diseñada para profesionales independientes y pequeñas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260425222754.html"
+  },
+  {
     "id": "IDEA-20260425215221",
     "nombre": "FiltraSmart",
     "tipo": "SaaS",

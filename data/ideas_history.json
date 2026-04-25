@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Digital StartHub",
-      "descripcion": "Digital StartHub permite a emprendedores y pequeños negocios construir su sitio web, gestionar sus redes sociales y realizar campañas de email marketing desde una única interfaz fácil de usar. La solución está diseñada para aquellos que no tienen experiencia técnica, proporcionando tutoriales, plantillas y un soporte accesible.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-23T22:17:41.549635"
-    },
-    {
       "nombre": "PymeBoost",
       "descripcion": "PymeBoost es un software como servicio que ofrece a las PYMES las herramientas necesarias para gestionar sus campañas de marketing digital de manera eficaz y asequible. La plataforma incluye tutoriales guiados, plantillas personalizables y un análisis de datos sencillo, lo que permite a los empresarios ejecutar posteriormente estrategias de marketing exitosas sin necesidad de conocimientos técnicos avanzados.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-25T22:27:54.948211"
+    },
+    {
+      "nombre": "ProTaskify",
+      "descripcion": "ProTaskify simplifica la vida de los profesionales independientes al integrar gestión de tareas, proyectos, seguimiento del tiempo y facturación en una sola plataforma. Con interfaz amigable y características pensadas para facilitar la navegación, permite a los usuarios concentrarse en lo que realmente importa: hacer crecer su negocio.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-25T23:53:45.855234"
     }
   ],
   "nombres_usados": [
-    "Digital StartHub",
     "PymeBoost",
     "FinanciaPlus",
     "DataSmart Marketing",
@@ -8001,6 +8000,7 @@
     "Balance360",
     "AdCentral AI",
     "FiltraSmart",
-    "FactuSmart"
+    "FactuSmart",
+    "ProTaskify"
   ]
 }
