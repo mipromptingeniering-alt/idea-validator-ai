@@ -448,6 +448,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260426222954",
+    "nombre": "MindMate",
+    "tipo": "SaaS",
+    "resumen": "MindMate es una plataforma de bienestar mental que proporciona recursos personalizados, herramientas de autoayuda y conexiones con profesionales de la...",
+    "score": 75,
+    "landing_url": "IDEA-20260426222954.html"
+  },
+  {
     "id": "IDEA-20260426215324",
     "nombre": "EasyFlow",
     "tipo": "SaaS",
