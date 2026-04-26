@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FinanciaPlus",
-      "descripcion": "FinanciaPlus permite a las pequeñas y medianas empresas gestionar sus finanzas de manera sencilla, con herramientas de presupuestación, seguimiento de gastos, generación de informes financieros y integración con cuentas bancarias. Su diseño impulsado por la experiencia del usuario facilita la adaptación y uso rápido por parte de cualquier miembro del equipo, sin necesidad de conocimientos contables previos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-24T05:14:54.427723"
-    },
-    {
       "nombre": "DataSmart Marketing",
       "descripcion": "DataSmart Marketing permite a las empresas conectar múltiples fuentes de datos de marketing y utilizar inteligencia artificial para obtener insights y recomendaciones personalizadas que optimizan el rendimiento de las campañas. Los usuarios pueden visualizar métricas clave y recibir alertas sobre acciones que deberían tomar para mejorar su retorno de inversión.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-26T06:55:46.260906"
+    },
+    {
+      "nombre": "Creative Flow",
+      "descripcion": "Creative Flow permite a los usuarios gestionar sus proyectos creativos a través de una interfaz intuitiva, integrando herramientas de planificación, seguimiento del tiempo y colaboración en un solo lugar. Con plantillas personalizables y recordatorios automáticos, los creativos pueden concentrarse en el trabajo sin preocuparse por la gestión del tiempo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-26T08:13:30.606535"
     }
   ],
   "nombres_usados": [
-    "FinanciaPlus",
     "DataSmart Marketing",
     "ContentMaster",
     "CampaignSync",
@@ -8001,6 +8000,7 @@
     "FiltraSmart",
     "FactuSmart",
     "ProTaskify",
-    "PMEasy"
+    "PMEasy",
+    "Creative Flow"
   ]
 }

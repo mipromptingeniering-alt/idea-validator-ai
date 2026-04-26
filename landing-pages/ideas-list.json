@@ -448,6 +448,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260426065546",
+    "nombre": "PMEasy",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de proyectos accesible y fácil de usar para PYMES....",
+    "score": 75,
+    "landing_url": "IDEA-20260426065546.html"
+  },
+  {
     "id": "IDEA-20260425235345",
     "nombre": "ProTaskify",
     "tipo": "SaaS",
