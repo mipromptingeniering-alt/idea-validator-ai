@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FinSmart",
-      "descripcion": "FinSmart es una herramienta SaaS que permite a emprendedores y freelancers gestionar sus finanzas personales y de negocio de manera eficiente, integrando facturación, seguimiento de gastos y planificación financiera. Utiliza inteligencia artificial para automatizar la categorización de gastos y generar informes personalizados.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-24T19:55:55.690755"
-    },
-    {
       "nombre": "EasyHR",
       "descripcion": "EasyHR permite a las pequeñas y medianas empresas gestionar el ciclo completo de recursos humanos a través de un solo software. Incluye funciones para la publicación de trabajos, seguimiento de candidaturas, incorporación de empleados y gestión de feedback, todo en una interfaz intuitiva.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-04-26T13:54:26.179469"
+    },
+    {
+      "nombre": "WellnessRemote",
+      "descripcion": "WellnessRemote es una herramienta que permite a los trabajadores remotos monitorear su bienestar mediante recordatorios personalizados para tomar descansos, ejercicios breves, meditación, y herramientas de productividad. Además, ofrece análisis sobre el tiempo dedicado al trabajo y su correlación con el bienestar personal.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-26T14:37:44.659413"
     }
   ],
   "nombres_usados": [
-    "FinSmart",
     "EasyHR",
     "Data3SME",
     "FinanciaSmart",
@@ -8001,6 +8000,7 @@
     "SocialMeet",
     "PymeHub",
     "PymeAssist",
-    "FinanciaFreelance"
+    "FinanciaFreelance",
+    "WellnessRemote"
   ]
 }
