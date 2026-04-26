@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ContentMaster",
-      "descripcion": "ContentMaster permite a los creadores de contenido gestionar sus publicaciones, programar contenido, analizar su rendimiento y acceder a oportunidades de monetización en diversas plataformas, todo desde un solo lugar. Además, ofrece análisis detallados que ayudan a entender mejor la audiencia y optimizar el contenido.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-24T12:06:02.398951"
-    },
-    {
       "nombre": "CampaignSync",
       "descripcion": "CampaignSync permite a los profesionales del marketing unir sus campañas de diferentes plataformas (Google Ads, Facebook, Instagram, etc.) en un solo lugar, obteniendo análisis de rendimiento en tiempo real y recomendaciones personalizadas para mejorar la efectividad de sus esfuerzos de marketing.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-26T09:14:42.091805"
+    },
+    {
+      "nombre": "PymeHub",
+      "descripcion": "PymeHub permite a las PYMES automatizar sus campañas de marketing, gestionar sus clientes y analizar el rendimiento de sus estrategias en un solo lugar. La plataforma es fácil de usar y está diseñada para no requerir conocimientos técnicos avanzados.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-26T10:07:20.519525"
     }
   ],
   "nombres_usados": [
-    "ContentMaster",
     "CampaignSync",
     "DigiManage",
     "FinSmart",
@@ -8001,6 +8000,7 @@
     "ProTaskify",
     "PMEasy",
     "Creative Flow",
-    "SocialMeet"
+    "SocialMeet",
+    "PymeHub"
   ]
 }

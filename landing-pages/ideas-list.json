@@ -448,6 +448,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260426091441",
+    "nombre": "SocialMeet",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que permite a los usuarios planificar, gestionar y fomentar eventos sociales con facilidad, integrando comunicación y recomendaciones p...",
+    "score": 75,
+    "landing_url": "IDEA-20260426091441.html"
+  },
+  {
     "id": "IDEA-20260426081330",
     "nombre": "Creative Flow",
     "tipo": "SaaS",
