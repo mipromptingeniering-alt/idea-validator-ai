@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Data3SME",
-      "descripcion": "Data3SME es una herramienta de análisis de datos diseñada específicamente para que las pequeñas y medianas empresas puedan acceder a insights claves sobre su rendimiento, ventas, y comportamiento del cliente, sin la necesidad de personal especializado o grandes inversiones.",
-      "tipo": "SaaS",
-      "score": 76,
-      "fecha": "2026-02-24T23:05:09.512488"
-    },
-    {
       "nombre": "FinanciaSmart",
       "descripcion": "FinanciaSmart permite a los usuarios registrar sus ingresos y gastos de manera intuitiva, ofreciendo un análisis de datos en tiempo real y recomendaciones personalizadas a través de un asistente de inteligencia artificial. Los usuarios pueden generar reportes financieros fácilmente y recibir alertas sobre su situación financiera.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-26T15:27:47.597967"
+    },
+    {
+      "nombre": "SocialHelper AI",
+      "descripcion": "SocialHelper AI permite a las pequeñas y medianas empresas crear, gestionar y programar contenido atractivo para sus redes sociales con la mínima intervención humana, utilizando IA para sugerir mejoras y optimizaciones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-26T16:06:15.381659"
     }
   ],
   "nombres_usados": [
-    "Data3SME",
     "FinanciaSmart",
     "SmartMarket",
     "FinEasy",
@@ -8001,6 +8000,7 @@
     "PymeAssist",
     "FinanciaFreelance",
     "WellnessRemote",
-    "Campañas Sin Fronteras"
+    "Campañas Sin Fronteras",
+    "SocialHelper AI"
   ]
 }

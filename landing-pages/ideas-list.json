@@ -8160,6 +8160,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260426152747",
+    "nombre": "Campañas Sin Fronteras",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral que permite a los especialistas en marketing gestionar y analizar campañas digitales desde un único panel....",
+    "score": 70,
+    "landing_url": "IDEA-20260426152747.html"
+  },
+  {
     "id": "IDEA-20260426100720",
     "nombre": "PymeHub",
     "tipo": "SaaS",
