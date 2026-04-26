@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "EasyHR",
-      "descripcion": "EasyHR permite a las pequeñas y medianas empresas gestionar el ciclo completo de recursos humanos a través de un solo software. Incluye funciones para la publicación de trabajos, seguimiento de candidaturas, incorporación de empleados y gestión de feedback, todo en una interfaz intuitiva.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-24T21:52:29.397016"
-    },
-    {
       "nombre": "Data3SME",
       "descripcion": "Data3SME es una herramienta de análisis de datos diseñada específicamente para que las pequeñas y medianas empresas puedan acceder a insights claves sobre su rendimiento, ventas, y comportamiento del cliente, sin la necesidad de personal especializado o grandes inversiones.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-26T14:37:44.659413"
+    },
+    {
+      "nombre": "Campañas Sin Fronteras",
+      "descripcion": "Campañas Sin Fronteras es un software como servicio (SaaS) que permite a los marketers conectar sus cuentas de publicidad de diferentes plataformas (Google Ads, Facebook Ads, Instagram, etc.), gestionar campañas, automatizar informes y obtener análisis detallados en tiempo real, todo desde un solo lugar.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-26T15:27:47.597967"
     }
   ],
   "nombres_usados": [
-    "EasyHR",
     "Data3SME",
     "FinanciaSmart",
     "SmartMarket",
@@ -8001,6 +8000,7 @@
     "PymeHub",
     "PymeAssist",
     "FinanciaFreelance",
-    "WellnessRemote"
+    "WellnessRemote",
+    "Campañas Sin Fronteras"
   ]
 }
