@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "DigitalEase",
-      "descripcion": "DigitalEase permite a las pequeñas empresas gestionar su sitio web, redes sociales y SEO desde un único tablero. Incluye recomendaciones automatizadas de contenido, generación de publicaciones de redes sociales y herramientas de optimización SEO, todo en una interfaz intuitiva.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-25T11:12:29.763996"
-    },
-    {
       "nombre": "FaktuRate",
       "descripcion": "FaktuRate simplifica el proceso de facturación mediante plantillas personalizables, seguimiento del estado de los pagos y recordatorios automáticos para los clientes, todo dentro de una interfaz intuitiva y amigable.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-26T20:22:10.439883"
+    },
+    {
+      "nombre": "TimeWell",
+      "descripcion": "TimeWell es un software como servicio que combina la gestión de tareas, la programación de tiempo y el seguimiento del bienestar. Permite a los usuarios establecer objetivos de productividad, agendar descansos y actividades de autocuidado, y recibir notificaciones para mantener el equilibrio entre el trabajo y la vida personal.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-26T21:02:00.506534"
     }
   ],
   "nombres_usados": [
-    "DigitalEase",
     "FaktuRate",
     "Atención Pro",
     "DataWise",
@@ -8001,6 +8000,7 @@
     "SocialHelper AI",
     "TaskGenie",
     "VisuAI",
-    "LifeSync"
+    "LifeSync",
+    "TimeWell"
   ]
 }
