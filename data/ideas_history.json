@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FaktuRate",
-      "descripcion": "FaktuRate simplifica el proceso de facturación mediante plantillas personalizables, seguimiento del estado de los pagos y recordatorios automáticos para los clientes, todo dentro de una interfaz intuitiva y amigable.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-25T14:35:10.570005"
-    },
-    {
       "nombre": "Atención Pro",
       "descripcion": "Atención Pro permite a las PYMES gestionar eficientemente todas sus interacciones de atención al cliente a través de múltiples canales en una sola plataforma. Incluye características como automatización de respuestas frecuentes, análisis de satisfacción del cliente y gestión de tickets.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-26T21:02:00.506534"
+    },
+    {
+      "nombre": "EasyFlow",
+      "descripcion": "EasyFlow es una plataforma que integra gestión de tareas, calendarios y comunicación en un solo lugar, permitiendo a los freelancers y pequeñas empresas organizar su trabajo y mantener a sus clientes informados de manera eficiente y efectiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-26T21:53:24.221021"
     }
   ],
   "nombres_usados": [
-    "FaktuRate",
     "Atención Pro",
     "DataWise",
     "Marketing Fácil",
@@ -8001,6 +8000,7 @@
     "TaskGenie",
     "VisuAI",
     "LifeSync",
-    "TimeWell"
+    "TimeWell",
+    "EasyFlow"
   ]
 }

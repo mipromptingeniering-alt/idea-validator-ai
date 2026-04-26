@@ -448,6 +448,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260426210200",
+    "nombre": "TimeWell",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral de gestión del tiempo que promueve la productividad y el autocuidado a través de herramientas de planificación y seguimiento....",
+    "score": 75,
+    "landing_url": "IDEA-20260426210200.html"
+  },
+  {
     "id": "IDEA-20260426180100",
     "nombre": "VisuAI",
     "tipo": "SaaS",
