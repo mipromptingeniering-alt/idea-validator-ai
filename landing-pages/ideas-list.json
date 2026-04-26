@@ -448,6 +448,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260426170126",
+    "nombre": "TaskGenie",
+    "tipo": "SaaS",
+    "resumen": "TaskGenie es una plataforma de gestión de tareas impulsada por IA que ayuda a los usuarios a organizar sus responsabilidades de manera inteligente....",
+    "score": 75,
+    "landing_url": "IDEA-20260426170126.html"
+  },
+  {
     "id": "IDEA-20260426160615",
     "nombre": "SocialHelper AI",
     "tipo": "SaaS",
