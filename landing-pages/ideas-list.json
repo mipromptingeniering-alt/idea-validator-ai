@@ -448,6 +448,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260426215324",
+    "nombre": "EasyFlow",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de proyectos y comunicación centrada en freelancers y pequeñas empresas, diseñada para simplificar la relación con los clie...",
+    "score": 75,
+    "landing_url": "IDEA-20260426215324.html"
+  },
+  {
     "id": "IDEA-20260426210200",
     "nombre": "TimeWell",
     "tipo": "SaaS",
