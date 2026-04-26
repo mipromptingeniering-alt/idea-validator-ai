@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "PymeBoost",
-      "descripcion": "PymeBoost es un software como servicio que ofrece a las PYMES las herramientas necesarias para gestionar sus campañas de marketing digital de manera eficaz y asequible. La plataforma incluye tutoriales guiados, plantillas personalizables y un análisis de datos sencillo, lo que permite a los empresarios ejecutar posteriormente estrategias de marketing exitosas sin necesidad de conocimientos técnicos avanzados.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-23T23:53:31.379374"
-    },
-    {
       "nombre": "FinanciaPlus",
       "descripcion": "FinanciaPlus permite a las pequeñas y medianas empresas gestionar sus finanzas de manera sencilla, con herramientas de presupuestación, seguimiento de gastos, generación de informes financieros y integración con cuentas bancarias. Su diseño impulsado por la experiencia del usuario facilita la adaptación y uso rápido por parte de cualquier miembro del equipo, sin necesidad de conocimientos contables previos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-25T23:53:45.855234"
+    },
+    {
+      "nombre": "PMEasy",
+      "descripcion": "PMEasy permite a las pequeñas y medianas empresas gestionar sus proyectos y tareas de manera efectiva, ofreciendo funciones de planificación, seguimiento del progreso y priorización de tareas mediante inteligencia artificial.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-26T06:55:46.260906"
     }
   ],
   "nombres_usados": [
-    "PymeBoost",
     "FinanciaPlus",
     "DataSmart Marketing",
     "ContentMaster",
@@ -8001,6 +8000,7 @@
     "AdCentral AI",
     "FiltraSmart",
     "FactuSmart",
-    "ProTaskify"
+    "ProTaskify",
+    "PMEasy"
   ]
 }

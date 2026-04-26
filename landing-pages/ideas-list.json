@@ -448,6 +448,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260425235345",
+    "nombre": "ProTaskify",
+    "tipo": "SaaS",
+    "resumen": "ProTaskify es una herramienta todo-en-uno diseñada para profesionales independientes y pequeños emprendedores que buscan gestionar sus proyectos, tare...",
+    "score": 75,
+    "landing_url": "IDEA-20260425235345.html"
+  },
+  {
     "id": "IDEA-20260425222754",
     "nombre": "FactuSmart",
     "tipo": "SaaS",
