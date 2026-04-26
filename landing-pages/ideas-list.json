@@ -448,6 +448,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260426081330",
+    "nombre": "Creative Flow",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de proyectos diseñada específicamente para creativos que ayuda a planificar, organizar y cumplir plazos de entrega....",
+    "score": 75,
+    "landing_url": "IDEA-20260426081330.html"
+  },
+  {
     "id": "IDEA-20260426065546",
     "nombre": "PMEasy",
     "tipo": "SaaS",

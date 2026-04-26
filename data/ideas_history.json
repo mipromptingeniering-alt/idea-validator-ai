@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "DataSmart Marketing",
-      "descripcion": "DataSmart Marketing permite a las empresas conectar múltiples fuentes de datos de marketing y utilizar inteligencia artificial para obtener insights y recomendaciones personalizadas que optimizan el rendimiento de las campañas. Los usuarios pueden visualizar métricas clave y recibir alertas sobre acciones que deberían tomar para mejorar su retorno de inversión.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-24T07:58:25.006940"
-    },
-    {
       "nombre": "ContentMaster",
       "descripcion": "ContentMaster permite a los creadores de contenido gestionar sus publicaciones, programar contenido, analizar su rendimiento y acceder a oportunidades de monetización en diversas plataformas, todo desde un solo lugar. Además, ofrece análisis detallados que ayudan a entender mejor la audiencia y optimizar el contenido.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-26T08:13:30.606535"
+    },
+    {
+      "nombre": "SocialMeet",
+      "descripcion": "SocialMeet es una aplicación que permite a los usuarios crear y gestionar eventos sociales, enviar invitaciones, coordinar horarios, y recibir recomendaciones de actividades basadas en los intereses compartidos con sus amigos o familiares. También incluye un chat integrado para facilitar la comunicación antes y durante los eventos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-26T09:14:42.091805"
     }
   ],
   "nombres_usados": [
-    "DataSmart Marketing",
     "ContentMaster",
     "CampaignSync",
     "DigiManage",
@@ -8001,6 +8000,7 @@
     "FactuSmart",
     "ProTaskify",
     "PMEasy",
-    "Creative Flow"
+    "Creative Flow",
+    "SocialMeet"
   ]
 }
