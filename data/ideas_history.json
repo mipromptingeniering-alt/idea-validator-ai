@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FinEasy",
-      "descripcion": "FinEasy permite a las PYMES gestionar sus finanzas de manera sencilla y efectiva. Con funciones de contabilidad automatizada, gestión de gastos mediante escaneo de recibos y proyecciones de flujo de caja a largo plazo, las empresas podrán tomar decisiones financieras informadas con facilidad.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-25T08:03:49.702496"
-    },
-    {
       "nombre": "DigitalEase",
       "descripcion": "DigitalEase permite a las pequeñas empresas gestionar su sitio web, redes sociales y SEO desde un único tablero. Incluye recomendaciones automatizadas de contenido, generación de publicaciones de redes sociales y herramientas de optimización SEO, todo en una interfaz intuitiva.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-26T18:01:00.847753"
+    },
+    {
+      "nombre": "LifeSync",
+      "descripcion": "LifeSync permite a los usuarios organizar sus tareas diarias, planificar sus objetivos a corto y largo plazo y acceder a recursos de bienestar. La plataforma se centra en la integración de la productividad y el autocuidado, ofreciendo herramientas como recordatorios de meditación, seguimiento de hábitos y análisis del tiempo dedicado a tareas.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-26T20:22:10.439883"
     }
   ],
   "nombres_usados": [
-    "FinEasy",
     "DigitalEase",
     "FaktuRate",
     "Atención Pro",
@@ -8001,6 +8000,7 @@
     "Campañas Sin Fronteras",
     "SocialHelper AI",
     "TaskGenie",
-    "VisuAI"
+    "VisuAI",
+    "LifeSync"
   ]
 }
