@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Marketing Fácil",
-      "descripcion": "Marketing Fácil es una herramienta SaaS que permite a las pequeñas y medianas empresas gestionar sus campañas de marketing digital desde una interfaz intuitiva. Ofrece funcionalidades como la creación de campañas publicitarias, gestión de redes sociales, y análisis de rendimiento, todo en un solo lugar.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-25T21:50:17.693972"
-    },
-    {
       "nombre": "FinanceFlow",
       "descripcion": "FinanceFlow permite a los usuarios gestionar sus finanzas de manera eficiente mediante un tablero intuitivo que muestra informes en tiempo real, categorización automática de transacciones y sugerencias personalizadas para mejorar la salud financiera del negocio. Además, ofrece tutoriales interactivos para capacitar a los usuarios en el uso de la plataforma y en conceptos básicos de finanzas.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-26T23:07:31.433608"
+    },
+    {
+      "nombre": "TimeBill",
+      "descripcion": "TimeBill proporciona herramientas para rastrear horas trabajadas, generar facturas de manera automática, y ofrecer informes sobre el tiempo invertido en cada proyecto, todo en una interfaz fácil de usar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-26T23:54:58.872163"
     }
   ],
   "nombres_usados": [
-    "Marketing Fácil",
     "FinanceFlow",
     "SocialContentAI",
     "ChronosEase",
@@ -8001,6 +8000,7 @@
     "TimeWell",
     "EasyFlow",
     "MindMate",
-    "Therapist Assistant"
+    "Therapist Assistant",
+    "TimeBill"
   ]
 }

@@ -448,6 +448,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260426230731",
+    "nombre": "Therapist Assistant",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de citas y facturación diseñada específicamente para terapeutas y profesionales de la salud....",
+    "score": 75,
+    "landing_url": "IDEA-20260426230731.html"
+  },
+  {
     "id": "IDEA-20260426222954",
     "nombre": "MindMate",
     "tipo": "SaaS",
