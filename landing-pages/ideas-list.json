@@ -448,6 +448,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260426110228",
+    "nombre": "PymeAssist",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de atención al cliente optimizada para PYMEs que utiliza inteligencia artificial para automatizar respuestas y mejorar la gestión del t...",
+    "score": 75,
+    "landing_url": "IDEA-20260426110228.html"
+  },
+  {
     "id": "IDEA-20260426091441",
     "nombre": "SocialMeet",
     "tipo": "SaaS",

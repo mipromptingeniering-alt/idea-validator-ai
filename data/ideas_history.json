@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "DigiManage",
-      "descripcion": "DigiManage permite a pequeños negocios y profesionales gestionar su presencia online desde una única plataforma. Los usuarios pueden programar publicaciones en múltiples redes sociales, analizar el rendimiento de su contenido, y recibir recomendaciones personalizadas para mejorar su engagement.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-24T18:12:32.109586"
-    },
-    {
       "nombre": "FinSmart",
       "descripcion": "FinSmart es una herramienta SaaS que permite a emprendedores y freelancers gestionar sus finanzas personales y de negocio de manera eficiente, integrando facturación, seguimiento de gastos y planificación financiera. Utiliza inteligencia artificial para automatizar la categorización de gastos y generar informes personalizados.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-26T11:02:28.641541"
+    },
+    {
+      "nombre": "FinanciaFreelance",
+      "descripcion": "FinanciaFreelance es una herramienta en línea que ayuda a los freelancers a llevar un control fácil y accesible de sus ingresos, gastos y obligaciones fiscales. Ofrece recordatorios automáticos de facturas y resumen mensual de finanzas.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-04-26T13:54:26.179469"
     }
   ],
   "nombres_usados": [
-    "DigiManage",
     "FinSmart",
     "EasyHR",
     "Data3SME",
@@ -8001,6 +8000,7 @@
     "Creative Flow",
     "SocialMeet",
     "PymeHub",
-    "PymeAssist"
+    "PymeAssist",
+    "FinanciaFreelance"
   ]
 }
