@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "CampaignSync",
-      "descripcion": "CampaignSync permite a los profesionales del marketing unir sus campañas de diferentes plataformas (Google Ads, Facebook, Instagram, etc.) en un solo lugar, obteniendo análisis de rendimiento en tiempo real y recomendaciones personalizadas para mejorar la efectividad de sus esfuerzos de marketing.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-24T15:13:48.490293"
-    },
-    {
       "nombre": "DigiManage",
       "descripcion": "DigiManage permite a pequeños negocios y profesionales gestionar su presencia online desde una única plataforma. Los usuarios pueden programar publicaciones en múltiples redes sociales, analizar el rendimiento de su contenido, y recibir recomendaciones personalizadas para mejorar su engagement.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-26T10:07:20.519525"
+    },
+    {
+      "nombre": "PymeAssist",
+      "descripcion": "PymeAssist es una herramienta SaaS que permite a las pequeñas y medianas empresas gestionar sus interacciones de atención al cliente de manera eficiente. Utilizando IA, ayuda a automatizar las respuestas a preguntas frecuentes y a organizar el flujo de consultas para reducir tiempos de espera, mejorando la satisfacción del cliente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-26T11:02:28.641541"
     }
   ],
   "nombres_usados": [
-    "CampaignSync",
     "DigiManage",
     "FinSmart",
     "EasyHR",
@@ -8001,6 +8000,7 @@
     "PMEasy",
     "Creative Flow",
     "SocialMeet",
-    "PymeHub"
+    "PymeHub",
+    "PymeAssist"
   ]
 }

@@ -8136,6 +8136,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260426100720",
+    "nombre": "PymeHub",
+    "tipo": "SaaS",
+    "resumen": "PymeHub es una plataforma todo-en-uno para que las pequeñas y medianas empresas gestionen sus ventas y marketing de manera eficiente....",
+    "score": 70,
+    "landing_url": "IDEA-20260426100720.html"
+  },
+  {
     "id": "IDEA-20260425080236",
     "nombre": "CV Smart",
     "tipo": "SaaS",
