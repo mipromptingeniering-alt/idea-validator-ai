@@ -448,6 +448,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260427074410",
+    "nombre": "StudySmart",
+    "tipo": "SaaS",
+    "resumen": "Plataforma inteligente de gestión y planificación de estudios para estudiantes universitarios....",
+    "score": 75,
+    "landing_url": "IDEA-20260427074410.html"
+  },
+  {
     "id": "IDEA-20260427052559",
     "nombre": "SEO Buddy",
     "tipo": "SaaS",

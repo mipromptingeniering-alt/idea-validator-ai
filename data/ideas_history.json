@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TaskFlowEase",
-      "descripcion": "TaskFlowEase permite a pequeñas y medianas empresas gestionar sus proyectos y tareas de manera eficiente, eliminando la complejidad de las herramientas existentes. Ofrecemos integraciones con aplicaciones populares y automatizaciones personalizables para aumentar la productividad.",
-      "tipo": "MicroSaaS",
-      "score": 75,
-      "fecha": "2026-02-26T07:58:57.476986"
-    },
-    {
       "nombre": "SocialBee",
       "descripcion": "SocialBee es una plataforma que permite a las pequeñas y medianas empresas programar sus publicaciones en varias redes sociales, analizar su rendimiento y recibir recomendaciones sobre el contenido a publicar. La herramienta estará optimizada para facilitar la creación de contenido atractivo y relevante, ayudando a aumentar el engagement y atraer más clientes potenciales.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-27T07:44:10.564845"
+    },
+    {
+      "nombre": "TaskFlow",
+      "descripcion": "TaskFlow es una herramienta SaaS que permite a los equipos gestionar sus tareas mientras se comunican en tiempo real. Los usuarios pueden crear, asignar y seguir el progreso de las tareas, y al mismo tiempo chatear y programar videollamadas dentro de la misma plataforma.",
+      "tipo": "SaaS",
+      "score": 77,
+      "fecha": "2026-04-27T09:59:34.464759"
     }
   ],
   "nombres_usados": [
-    "TaskFlowEase",
     "SocialBee",
     "EmprenDesk",
     "FocusGamify",
@@ -8001,6 +8000,7 @@
     "TimeBill",
     "FactuSimplicidad",
     "SEO Buddy",
-    "StudySmart"
+    "StudySmart",
+    "TaskFlow"
   ]
 }
