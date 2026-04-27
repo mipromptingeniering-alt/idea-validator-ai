@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260427224151",
+    "nombre": "FitTime",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de entrenamiento personalizada que se adapta a tu estilo de vida y tiempo disponible....",
+    "score": 75,
+    "landing_url": "IDEA-20260427224151.html"
+  },
+  {
     "id": "IDEA-20260427205356",
     "nombre": "FidelizaPlus",
     "tipo": "SaaS",

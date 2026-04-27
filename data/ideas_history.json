@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "WorkPlay",
-      "descripcion": "WorkPlay combina la gestión de proyectos con un sistema de recompensas y desafíos que fomenta la colaboración, la participación y el bienestar emocional de los empleados. Ofrece herramientas de comunicación, seguimiento de objetivos y actividades lúdicas para que los equipos se mantengan motivados e involucrados.",
-      "tipo": "SaaS",
-      "score": 78,
-      "fecha": "2026-02-26T23:04:18.491735"
-    },
-    {
       "nombre": "Freelance Finance Manager",
       "descripcion": "Freelance Finance Manager es una plataforma que permite a los freelancers registrar sus ingresos y gastos de manera sencilla, a la vez que ofrece reportes visuales sobre su flujo de caja y herramientas para la planificación de impuestos. Incluye recordatorios de fechas límite y la posibilidad de conectarse con cuentas bancarias para facilitar la gestión.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-27T22:41:51.979579"
+    },
+    {
+      "nombre": "InspireMe",
+      "descripcion": "InspireMe es una herramienta en línea diseñada para estimular la creatividad y la colaboración entre profesionales creativos. Ofrece ejercicios, desafíos y recursos que utilizan técnicas de pensamiento lateral y gamificación para ayudar a los usuarios a salir de sus bloqueos creativos. Los usuarios pueden colaborar, compartir ideas y obtener retroalimentación en un entorno social.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-27T23:37:03.172814"
     }
   ],
   "nombres_usados": [
-    "WorkPlay",
     "Freelance Finance Manager",
     "TeamConnect",
     "Productivity Buddy",
@@ -8001,6 +8000,7 @@
     "WellRemote",
     "FinEasy",
     "FidelizaPlus",
-    "FitTime"
+    "FitTime",
+    "InspireMe"
   ]
 }
