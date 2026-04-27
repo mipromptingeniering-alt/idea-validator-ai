@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260427114530",
+    "nombre": "FinSmart",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma sencilla para la gestión financiera de freelancers y pequeños emprendedores....",
+    "score": 75,
+    "landing_url": "IDEA-20260427114530.html"
+  },
+  {
     "id": "IDEA-20260427074410",
     "nombre": "StudySmart",
     "tipo": "SaaS",

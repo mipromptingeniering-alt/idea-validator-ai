@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "EmprenDesk",
-      "descripcion": "EmprenDesk permite a los emprendedores y freelancers gestionar sus tareas diarias, desde la captación de clientes hasta el seguimiento de gastos e ingresos, en una única interfaz intuitiva. La herramienta incluye características como recordatorios de tareas, plantillas de presupuestos, y seguimiento automático del tiempo, facilitando la organización y eficiencia.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-26T12:06:16.918030"
-    },
-    {
       "nombre": "FocusGamify",
       "descripcion": "FocusGamify es una herramienta en línea que permite a los trabajadores remotos organizar su jornada laboral mediante métodos de gestión del tiempo y elementos de juego. Los usuarios pueden establecer metas diarias, recibir recompensas virtuales y participar en desafíos con colegas para fomentar un entorno competitivo y motivador.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-27T11:45:30.347547"
+    },
+    {
+      "nombre": "MindfulManager",
+      "descripcion": "MindfulManager es una plataforma en línea que permite a los usuarios planificar su día con herramientas de productividad basadas en la ciencia, como la Técnica Pomodoro, y ejercicios de mindfulness para fomentar la concentración y reducir el estrés. A través de recordatorios, análisis del tiempo y consejos personalizados, los usuarios pueden mejorar su organización y bienestar general.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-27T13:09:37.920443"
     }
   ],
   "nombres_usados": [
-    "EmprenDesk",
     "FocusGamify",
     "FinEduca",
     "SocialPro PYME",
@@ -8001,6 +8000,7 @@
     "SEO Buddy",
     "StudySmart",
     "TaskFlow",
-    "FinSmart"
+    "FinSmart",
+    "MindfulManager"
   ]
 }
