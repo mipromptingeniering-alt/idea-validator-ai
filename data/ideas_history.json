@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialPro PYME",
-      "descripcion": "SocialPro PYME permite a las pequeñas y medianas empresas gestionar, programar y analizar su contenido en redes sociales de forma sencilla y efectiva, con herramientas automatizadas y recomendaciones personalizadas.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-26T20:00:13.713485"
-    },
-    {
       "nombre": "RemoteWell",
       "descripcion": "RemoteWell permite a los equipos gestionar proyectos mientras promueve actividades de bienestar y conexiones sociales a través de retos, sesiones de bienestar y actividades grupales virtuales. La plataforma incluye tableros de tareas, seguimiento del estado de ánimo y funcionalidades para fomentar la interacción entre miembros del equipo.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-27T18:19:47.462595"
+    },
+    {
+      "nombre": "FidelizaPlus",
+      "descripcion": "FidelizaPlus es una solución SaaS que ayuda a las PYMES a gestionar la fidelización de sus clientes mediante programas de recompensas, encuestas de satisfacción y análisis de comportamiento del cliente, todo en una interfaz intuitiva y fácil de usar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-27T20:53:56.451942"
     }
   ],
   "nombres_usados": [
-    "SocialPro PYME",
     "RemoteWell",
     "WorkPlay",
     "Freelance Finance Manager",
@@ -8001,6 +8000,7 @@
     "FinSmart",
     "MindfulManager",
     "WellRemote",
-    "FinEasy"
+    "FinEasy",
+    "FidelizaPlus"
   ]
 }

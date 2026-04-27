@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260427181947",
+    "nombre": "FinEasy",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma web intuitiva para la gestión financiera de pequeñas empresas que ofrece herramientas contables simplificadas y educación financiera....",
+    "score": 75,
+    "landing_url": "IDEA-20260427181947.html"
+  },
+  {
     "id": "IDEA-20260427170203",
     "nombre": "WellRemote",
     "tipo": "SaaS",
