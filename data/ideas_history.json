@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "RemoteWell",
-      "descripcion": "RemoteWell permite a los equipos gestionar proyectos mientras promueve actividades de bienestar y conexiones sociales a través de retos, sesiones de bienestar y actividades grupales virtuales. La plataforma incluye tableros de tareas, seguimiento del estado de ánimo y funcionalidades para fomentar la interacción entre miembros del equipo.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-02-26T21:48:23.531494"
-    },
-    {
       "nombre": "WorkPlay",
       "descripcion": "WorkPlay combina la gestión de proyectos con un sistema de recompensas y desafíos que fomenta la colaboración, la participación y el bienestar emocional de los empleados. Ofrece herramientas de comunicación, seguimiento de objetivos y actividades lúdicas para que los equipos se mantengan motivados e involucrados.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-27T20:53:56.451942"
+    },
+    {
+      "nombre": "FitTime",
+      "descripcion": "FitTime es una aplicación que utiliza un algoritmo de inteligencia artificial para diseñar rutinas de ejercicio personalizadas que se ajustan a las necesidades, objetivos y horarios de cada usuario. La aplicación ofrece entrenamientos breves y efectivos que pueden realizarse en casa o en el gimnasio.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-27T22:41:51.979579"
     }
   ],
   "nombres_usados": [
-    "RemoteWell",
     "WorkPlay",
     "Freelance Finance Manager",
     "TeamConnect",
@@ -8001,6 +8000,7 @@
     "MindfulManager",
     "WellRemote",
     "FinEasy",
-    "FidelizaPlus"
+    "FidelizaPlus",
+    "FitTime"
   ]
 }

@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260427205356",
+    "nombre": "FidelizaPlus",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de fidelización de clientes para pequeñas y medianas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260427205356.html"
+  },
+  {
     "id": "IDEA-20260427181947",
     "nombre": "FinEasy",
     "tipo": "SaaS",
