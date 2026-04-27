@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260427130937",
+    "nombre": "MindfulManager",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión del tiempo que combina productividad y mindfulness para ayudar a los usuarios a maximizar su eficiencia y bienestar....",
+    "score": 75,
+    "landing_url": "IDEA-20260427130937.html"
+  },
+  {
     "id": "IDEA-20260427114530",
     "nombre": "FinSmart",
     "tipo": "SaaS",

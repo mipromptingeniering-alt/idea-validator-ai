@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FocusGamify",
-      "descripcion": "FocusGamify es una herramienta en línea que permite a los trabajadores remotos organizar su jornada laboral mediante métodos de gestión del tiempo y elementos de juego. Los usuarios pueden establecer metas diarias, recibir recompensas virtuales y participar en desafíos con colegas para fomentar un entorno competitivo y motivador.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-26T15:08:38.519235"
-    },
-    {
       "nombre": "FinEduca",
       "descripcion": "FinEduca ofrece a los usuarios un panel donde pueden ingresar sus ingresos y gastos, recibir alertas sobre sus obligaciones fiscales y acceder a tutoriales y recursos que les permitan entender las implicaciones financieras de su actividad. Además, la plataforma utiliza automatización para generar informes y recordatorios personalizados.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-27T13:09:37.920443"
+    },
+    {
+      "nombre": "WellRemote",
+      "descripcion": "WellRemote es una plataforma diseñada para mejorar el bienestar emocional de los trabajadores remotos, ofreciendo recursos de coaching personalizado, meditaciones guiadas y un espacio comunitario para compartir experiencias y apoyo. La plataforma ayuda a combatir el aislamiento y el estrés, permitiendo a los usuarios gestionar su salud mental de manera efectiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-27T17:02:03.632072"
     }
   ],
   "nombres_usados": [
-    "FocusGamify",
     "FinEduca",
     "SocialPro PYME",
     "RemoteWell",
@@ -8001,6 +8000,7 @@
     "StudySmart",
     "TaskFlow",
     "FinSmart",
-    "MindfulManager"
+    "MindfulManager",
+    "WellRemote"
   ]
 }
