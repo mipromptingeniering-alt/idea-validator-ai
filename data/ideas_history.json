@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FinanceFlow",
-      "descripcion": "FinanceFlow permite a los usuarios gestionar sus finanzas de manera eficiente mediante un tablero intuitivo que muestra informes en tiempo real, categorización automática de transacciones y sugerencias personalizadas para mejorar la salud financiera del negocio. Además, ofrece tutoriales interactivos para capacitar a los usuarios en el uso de la plataforma y en conceptos básicos de finanzas.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-02-25T23:05:27.219954"
-    },
-    {
       "nombre": "SocialContentAI",
       "descripcion": "SocialContentAI es una herramienta en línea que permite a emprendedores y pequeñas empresas crear contenido de redes sociales fácilmente. A través de algoritmos de inteligencia artificial, la plataforma genera publicaciones personalizadas basadas en tendencias actuales y el historial de publicaciones del usuario, además de ofrecer análisis detallados para optimizar el rendimiento de las publicaciones en diferentes plataformas.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-26T23:54:58.872163"
+    },
+    {
+      "nombre": "FactuSimplicidad",
+      "descripcion": "FactuSimplicidad es una plataforma en línea que permite a las pequeñas y medianas empresas gestionar su facturación de manera simplificada. Con una interfaz amigable, los usuarios pueden crear y enviar facturas en minutos, hacer seguimiento de pagos y generar reportes financieros, todo desde un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-27T01:59:23.599882"
     }
   ],
   "nombres_usados": [
-    "FinanceFlow",
     "SocialContentAI",
     "ChronosEase",
     "TaskFlowEase",
@@ -8001,6 +8000,7 @@
     "EasyFlow",
     "MindMate",
     "Therapist Assistant",
-    "TimeBill"
+    "TimeBill",
+    "FactuSimplicidad"
   ]
 }

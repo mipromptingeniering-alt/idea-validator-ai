@@ -448,6 +448,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260426235458",
+    "nombre": "TimeBill",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma todo-en-uno que permite a freelancers gestionar su tiempo y facturación de manera eficiente....",
+    "score": 75,
+    "landing_url": "IDEA-20260426235458.html"
+  },
+  {
     "id": "IDEA-20260426230731",
     "nombre": "Therapist Assistant",
     "tipo": "SaaS",
