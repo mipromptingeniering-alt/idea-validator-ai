@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ChronosEase",
-      "descripcion": "ChronosEase permite a los usuarios gestionar sus tareas diarias, establecer prioridades y recibir recordatorios personalizados, todo en una interfaz simple y fácil de usar. Integra métodos de productividad como Pomodoro y Kanban, adaptándose a las preferencias del usuario.",
-      "tipo": "MicroSaaS",
-      "score": 75,
-      "fecha": "2026-02-26T05:13:28.019054"
-    },
-    {
       "nombre": "TaskFlowEase",
       "descripcion": "TaskFlowEase permite a pequeñas y medianas empresas gestionar sus proyectos y tareas de manera eficiente, eliminando la complejidad de las herramientas existentes. Ofrecemos integraciones con aplicaciones populares y automatizaciones personalizables para aumentar la productividad.",
       "tipo": "MicroSaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-27T05:25:59.662489"
+    },
+    {
+      "nombre": "StudySmart",
+      "descripcion": "StudySmart es una plataforma en línea que utiliza inteligencia artificial para ayudar a los estudiantes a organizar sus materias, planificar sus estudios y gestionar su tiempo de manera efectiva. La herramienta se personaliza según las necesidades y hábitos de estudio del usuario, proporcionando recomendaciones adaptadas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-27T07:44:10.564845"
     }
   ],
   "nombres_usados": [
-    "ChronosEase",
     "TaskFlowEase",
     "SocialBee",
     "EmprenDesk",
@@ -8001,6 +8000,7 @@
     "Therapist Assistant",
     "TimeBill",
     "FactuSimplicidad",
-    "SEO Buddy"
+    "SEO Buddy",
+    "StudySmart"
   ]
 }

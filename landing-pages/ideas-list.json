@@ -448,6 +448,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260427052559",
+    "nombre": "SEO Buddy",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de SEO accesible para pymes con un asistente virtual que brinda recomendaciones personalizadas....",
+    "score": 75,
+    "landing_url": "IDEA-20260427052559.html"
+  },
+  {
     "id": "IDEA-20260427015923",
     "nombre": "FactuSimplicidad",
     "tipo": "SaaS",
