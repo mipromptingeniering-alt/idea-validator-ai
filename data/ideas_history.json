@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialContentAI",
-      "descripcion": "SocialContentAI es una herramienta en línea que permite a emprendedores y pequeñas empresas crear contenido de redes sociales fácilmente. A través de algoritmos de inteligencia artificial, la plataforma genera publicaciones personalizadas basadas en tendencias actuales y el historial de publicaciones del usuario, además de ofrecer análisis detallados para optimizar el rendimiento de las publicaciones en diferentes plataformas.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-26T00:00:33.161005"
-    },
-    {
       "nombre": "ChronosEase",
       "descripcion": "ChronosEase permite a los usuarios gestionar sus tareas diarias, establecer prioridades y recibir recordatorios personalizados, todo en una interfaz simple y fácil de usar. Integra métodos de productividad como Pomodoro y Kanban, adaptándose a las preferencias del usuario.",
       "tipo": "MicroSaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-27T01:59:23.599882"
+    },
+    {
+      "nombre": "SEO Buddy",
+      "descripcion": "SEO Buddy es una herramienta de software como servicio diseñada específicamente para pequeñas y medianas empresas que buscan mejorar su visibilidad en línea. La plataforma proporciona análisis SEO, auditorías de sitio y un asistente virtual basado en inteligencia artificial que ofrece recomendaciones personalizadas y fáciles de seguir, permitiendo a los usuarios implementar estrategias efectivas sin necesidad de ser expertos en SEO.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-27T05:25:59.662489"
     }
   ],
   "nombres_usados": [
-    "SocialContentAI",
     "ChronosEase",
     "TaskFlowEase",
     "SocialBee",
@@ -8001,6 +8000,7 @@
     "MindMate",
     "Therapist Assistant",
     "TimeBill",
-    "FactuSimplicidad"
+    "FactuSimplicidad",
+    "SEO Buddy"
   ]
 }

@@ -448,6 +448,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260427015923",
+    "nombre": "FactuSimplicidad",
+    "tipo": "SaaS",
+    "resumen": "Un software de gestión de facturas fácil de usar para PYMES que permite crear, enviar y gestionar facturas de manera eficiente....",
+    "score": 75,
+    "landing_url": "IDEA-20260427015923.html"
+  },
+  {
     "id": "IDEA-20260426235458",
     "nombre": "TimeBill",
     "tipo": "SaaS",
