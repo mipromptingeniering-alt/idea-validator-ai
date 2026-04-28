@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FlexiManage",
-      "descripcion": "FlexiManage permite a los freelancers y pequeñas empresas gestionar sus proyectos de manera efectiva, llevar un control del tiempo trabajado y generar facturas automáticamente, todo en una sola plataforma. Con una interfaz intuitiva, notificaciones automáticas y reportes detallados, los usuarios pueden optimizar su tiempo y mejorar sus ingresos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-27T19:48:26.602379"
-    },
-    {
       "nombre": "FacturaFácil",
       "descripcion": "FacturaFácil es una solución en la nube que permite a los usuarios crear y enviar facturas personalizadas, seguir el estado de los pagos y obtener reportes de flujo de caja, todo en un entorno fácil de usar, sin necesidad de conocimientos técnicos avanzados.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-28T19:00:06.316383"
+    },
+    {
+      "nombre": "CreativoHub",
+      "descripcion": "CreativoHub es una herramienta en línea que permite a los profesionales creativos gestionar sus proyectos de forma efectiva. Integra un sistema de gestión de tareas, calendarios, espacios de trabajo colaborativos y herramientas de comunicación. Facilita la organización y mejora la creatividad al tener todos los recursos necesarios en un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-28T20:20:30.489370"
     }
   ],
   "nombres_usados": [
-    "FlexiManage",
     "FacturaFácil",
     "TimeConnect",
     "MindTime",
@@ -8001,6 +8000,7 @@
     "TimePilot",
     "EasyCRM",
     "DataWise",
-    "TeamConnect"
+    "TeamConnect",
+    "CreativoHub"
   ]
 }
