@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260428045119",
+    "nombre": "DataViz Assist",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de integración de datos de marketing que utiliza IA para proporcionar análisis y recomendaciones personalizadas para optimizar campaña...",
+    "score": 75,
+    "landing_url": "IDEA-20260428045119.html"
+  },
+  {
     "id": "IDEA-20260428012156",
     "nombre": "VisualKit",
     "tipo": "SaaS",

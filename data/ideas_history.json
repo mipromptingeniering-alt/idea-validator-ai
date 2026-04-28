@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Productivity Buddy",
-      "descripcion": "Productivity Buddy permite a los usuarios planificar sus tareas diarias y asignar descansos estratégicos, optimizando así la productividad y el bienestar en un entorno de trabajo remoto.",
-      "tipo": "SaaS",
-      "score": 72,
-      "fecha": "2026-02-27T07:52:55.932011"
-    },
-    {
       "nombre": "EasyCRM",
       "descripcion": "EasyCRM es una plataforma de gestión de relaciones con clientes que simplifica el seguimiento de interacciones y oportunidades de ventas para PYMEs. Ofrece una interfaz amigable y funciones específicas que permiten a los usuarios gestionar sus contactos, establecer recordatorios de seguimiento y visualizar pipelines de ventas de forma clara.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-28T04:51:19.785423"
+    },
+    {
+      "nombre": "CreativeCloudHub",
+      "descripcion": "CreativeCloudHub permite a diseñadores, fotógrafos y otros creativos almacenar sus archivos de manera segura, gestionar proyectos y colaborar con clientes y otros profesionales de forma sencilla y efectiva. La plataforma ofrece un espacio de trabajo virtual personalizable que integra todas las herramientas necesarias para el flujo de trabajo creativo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-28T07:27:38.728773"
     }
   ],
   "nombres_usados": [
-    "Productivity Buddy",
     "EasyCRM",
     "Campaña Maestro",
     "EasyWebPro",
@@ -8001,6 +8000,7 @@
     "FitTime",
     "InspireMe",
     "VisualKit",
-    "DataViz Assist"
+    "DataViz Assist",
+    "CreativeCloudHub"
   ]
 }
