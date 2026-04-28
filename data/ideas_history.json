@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FacturaFácil",
-      "descripcion": "FacturaFácil es una solución en la nube que permite a los usuarios crear y enviar facturas personalizadas, seguir el estado de los pagos y obtener reportes de flujo de caja, todo en un entorno fácil de usar, sin necesidad de conocimientos técnicos avanzados.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-27T20:57:56.406681"
-    },
-    {
       "nombre": "TimeConnect",
       "descripcion": "TimeConnect combina la gestión de tareas con herramientas de autoayuda y bienestar, como meditación guiada, ejercicios de respiración y espacios de encuentro virtual para fomentar la conexión social entre trabajadores remotos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-28T20:20:30.489370"
+    },
+    {
+      "nombre": "TherapyManager",
+      "descripcion": "TherapyManager es una plataforma SaaS diseñada específicamente para terapeutas y profesionales de salud mental que buscan optimizar la gestión de su práctica. Ofrece funcionalidades para gestionar citas, recordatorios automáticos a pacientes, integración con sistemas de facturación y un espacio seguro para notas de sesiones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-28T21:35:28.005234"
     }
   ],
   "nombres_usados": [
-    "FacturaFácil",
     "TimeConnect",
     "MindTime",
     "ContaFácil",
@@ -8001,6 +8000,7 @@
     "EasyCRM",
     "DataWise",
     "TeamConnect",
-    "CreativoHub"
+    "CreativoHub",
+    "TherapyManager"
   ]
 }

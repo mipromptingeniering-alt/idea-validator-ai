@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260428202030",
+    "nombre": "CreativoHub",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma intuitiva para la gestión de proyectos creativos que integra comunicación, organización y colaboración....",
+    "score": 75,
+    "landing_url": "IDEA-20260428202030.html"
+  },
+  {
     "id": "IDEA-20260428190006",
     "nombre": "TeamConnect",
     "tipo": "SaaS",
