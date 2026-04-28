@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MindTime",
-      "descripcion": "MindTime ayuda a los usuarios a planificar su día de trabajo de manera efectiva al mismo tiempo que les recuerda tomar descansos regulares y practicar mindfulness. A través de un algoritmo, sugerimos bloques de trabajo y pausas que optimizan la concentración y reducen el estrés.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-27T22:54:19.765743"
-    },
-    {
       "nombre": "ContaFácil",
       "descripcion": "ContaFácil es una herramienta de contabilidad basada en la nube diseñada especialmente para pequeñas empresas que no tienen personal contable. Permite a los usuarios gestionar sus finanzas mediante una interfaz intuitiva, con integración a plataformas de comercio electrónico y generación automática de informes fiscales.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-28T22:38:32.321608"
+    },
+    {
+      "nombre": "DesignTime",
+      "descripcion": "DesignTime combina la gestión de tareas, seguimiento del tiempo y colaboración en un solo espacio, facilitando que los diseñadores mantengan un enfoque en sus proyectos creativos sin perder de vista la productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-28T23:36:08.952340"
     }
   ],
   "nombres_usados": [
-    "MindTime",
     "ContaFácil",
     "MonetizAR",
     "PortfolioCraft",
@@ -8001,6 +8000,7 @@
     "TeamConnect",
     "CreativoHub",
     "TherapyManager",
-    "FactuPro"
+    "FactuPro",
+    "DesignTime"
   ]
 }

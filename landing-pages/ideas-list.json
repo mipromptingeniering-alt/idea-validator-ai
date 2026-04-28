@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260428223832",
+    "nombre": "FactuPro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de facturación que simplifica y automatiza el proceso de crear, enviar y cobrar facturas....",
+    "score": 75,
+    "landing_url": "IDEA-20260428223832.html"
+  },
+  {
     "id": "IDEA-20260428213527",
     "nombre": "TherapyManager",
     "tipo": "SaaS",
