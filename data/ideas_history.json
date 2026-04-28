@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Campaña Maestro",
-      "descripcion": "Campaña Maestro permite a los especialistas en marketing crear, gestionar y optimizar campañas en múltiples plataformas desde un solo lugar. La herramienta incluye funciones de análisis de rendimiento en tiempo real y recomendaciones automatizadas para mejorar el ROI de las campañas.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-27T11:47:59.993512"
-    },
-    {
       "nombre": "EasyWebPro",
       "descripcion": "EasyWebPro permite a los usuarios crear y gestionar sus propios sitios web de manera intuitiva, con plantillas personalizables y herramientas de marketing integradas, como gestión de redes sociales, email marketing y análisis de tráfico.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-28T09:40:31.209221"
+    },
+    {
+      "nombre": "TimePilot",
+      "descripcion": "TimePilot es una herramienta que combina gestión de tareas, programación flexible y seguimiento del tiempo, todo en una sola plataforma. Permite a los usuarios establecer metas diarias, clasificar tareas según prioridades y recibir sugerencias de optimización basadas en su comportamiento de trabajo anterior.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-28T11:26:13.942159"
     }
   ],
   "nombres_usados": [
-    "Campaña Maestro",
     "EasyWebPro",
     "WellPro",
     "ChatConnect AI",
@@ -8001,6 +8000,7 @@
     "VisualKit",
     "DataViz Assist",
     "CreativeCloudHub",
-    "CRMModular"
+    "CRMModular",
+    "TimePilot"
   ]
 }

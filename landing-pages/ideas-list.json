@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260428094031",
+    "nombre": "CRMModular",
+    "tipo": "SaaS",
+    "resumen": "Un CRM modular y económico diseñado específicamente para PYMEs, que permite la personalización y la escalabilidad según las necesidades del cliente....",
+    "score": 75,
+    "landing_url": "IDEA-20260428094031.html"
+  },
+  {
     "id": "IDEA-20260428072738",
     "nombre": "CreativeCloudHub",
     "tipo": "SaaS",
