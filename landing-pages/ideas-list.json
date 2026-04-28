@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260428072738",
+    "nombre": "CreativeCloudHub",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión y colaboración para profesionales creativos que combina almacenamiento, gestión de proyectos y herramientas de revisión....",
+    "score": 75,
+    "landing_url": "IDEA-20260428072738.html"
+  },
+  {
     "id": "IDEA-20260428045119",
     "nombre": "DataViz Assist",
     "tipo": "SaaS",

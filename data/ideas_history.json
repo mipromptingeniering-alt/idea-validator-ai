@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "EasyCRM",
-      "descripcion": "EasyCRM es una plataforma de gestión de relaciones con clientes que simplifica el seguimiento de interacciones y oportunidades de ventas para PYMEs. Ofrece una interfaz amigable y funciones específicas que permiten a los usuarios gestionar sus contactos, establecer recordatorios de seguimiento y visualizar pipelines de ventas de forma clara.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-27T10:04:42.711117"
-    },
-    {
       "nombre": "Campaña Maestro",
       "descripcion": "Campaña Maestro permite a los especialistas en marketing crear, gestionar y optimizar campañas en múltiples plataformas desde un solo lugar. La herramienta incluye funciones de análisis de rendimiento en tiempo real y recomendaciones automatizadas para mejorar el ROI de las campañas.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-28T07:27:38.728773"
+    },
+    {
+      "nombre": "CRMModular",
+      "descripcion": "CRMModular es una plataforma de gestión de relaciones con los clientes que ofrece a las PYMEs la posibilidad de seleccionar y agregar módulos específicos que se adapten a sus necesidades. Desde la gestión de contactos hasta el seguimiento de ventas y análisis de datos, las empresas pueden construir una solución que se ajuste a su flujo de trabajo sin gastar en funcionalidades innecesarias.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-28T09:40:31.209221"
     }
   ],
   "nombres_usados": [
-    "EasyCRM",
     "Campaña Maestro",
     "EasyWebPro",
     "WellPro",
@@ -8001,6 +8000,7 @@
     "InspireMe",
     "VisualKit",
     "DataViz Assist",
-    "CreativeCloudHub"
+    "CreativeCloudHub",
+    "CRMModular"
   ]
 }
