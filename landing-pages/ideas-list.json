@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260428213527",
+    "nombre": "TherapyManager",
+    "tipo": "SaaS",
+    "resumen": "Gestor de prácticas para terapeutas que centraliza la administración de citas, recordatorios y facturación....",
+    "score": 75,
+    "landing_url": "IDEA-20260428213527.html"
+  },
+  {
     "id": "IDEA-20260428202030",
     "nombre": "CreativoHub",
     "tipo": "SaaS",

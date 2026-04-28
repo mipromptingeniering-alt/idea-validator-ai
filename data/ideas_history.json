@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TimeConnect",
-      "descripcion": "TimeConnect combina la gestión de tareas con herramientas de autoayuda y bienestar, como meditación guiada, ejercicios de respiración y espacios de encuentro virtual para fomentar la conexión social entre trabajadores remotos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-27T21:54:56.001848"
-    },
-    {
       "nombre": "MindTime",
       "descripcion": "MindTime ayuda a los usuarios a planificar su día de trabajo de manera efectiva al mismo tiempo que les recuerda tomar descansos regulares y practicar mindfulness. A través de un algoritmo, sugerimos bloques de trabajo y pausas que optimizan la concentración y reducen el estrés.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-28T21:35:28.005234"
+    },
+    {
+      "nombre": "FactuPro",
+      "descripcion": "FactuPro es una solución integral que permite a freelancers y pequeñas empresas crear y gestionar facturas de manera rápida y eficiente, con funciones de recordatorios automáticos y análisis de flujo de efectivo. La plataforma se integra con las principales aplicaciones de pago y cuenta con un sistema de informes que muestra la salud financiera del negocio.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-28T22:38:32.321608"
     }
   ],
   "nombres_usados": [
-    "TimeConnect",
     "MindTime",
     "ContaFácil",
     "MonetizAR",
@@ -8001,6 +8000,7 @@
     "DataWise",
     "TeamConnect",
     "CreativoHub",
-    "TherapyManager"
+    "TherapyManager",
+    "FactuPro"
   ]
 }
