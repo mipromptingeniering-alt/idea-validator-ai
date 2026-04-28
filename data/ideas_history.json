@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "EasyWebPro",
-      "descripcion": "EasyWebPro permite a los usuarios crear y gestionar sus propios sitios web de manera intuitiva, con plantillas personalizables y herramientas de marketing integradas, como gestión de redes sociales, email marketing y análisis de tráfico.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-27T14:10:25.371854"
-    },
-    {
       "nombre": "WellPro",
       "descripcion": "WellPro es una aplicación SaaS diseñada para ayudar a los trabajadores remotos a gestionar su tiempo y tareas mientras cuida de su bienestar físico y mental. Utiliza inteligencia artificial para ofrecer recomendaciones adaptadas a las necesidades del usuario, fomentando pausas activas, meditación y ejercicios de estiramiento durante la jornada laboral.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-28T11:26:13.942159"
+    },
+    {
+      "nombre": "EasyCRM",
+      "descripcion": "EasyCRM es una plataforma de gestión de relaciones con clientes que permite a las pequeñas y medianas empresas gestionar sus contactos, automatizar campañas de marketing y analizar datos de manera sencilla y efectiva. Con una interfaz amigable y características adaptadas a las necesidades de las PYMES, EasyCRM busca simplificar el proceso de interacción con los clientes.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-28T13:08:58.554147"
     }
   ],
   "nombres_usados": [
-    "EasyWebPro",
     "WellPro",
     "ChatConnect AI",
     "FlexiManage",
@@ -8001,6 +8000,7 @@
     "DataViz Assist",
     "CreativeCloudHub",
     "CRMModular",
-    "TimePilot"
+    "TimePilot",
+    "EasyCRM"
   ]
 }
