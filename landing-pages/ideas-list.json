@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260428171852",
+    "nombre": "DataWise",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de análisis de datos para PYMES que ofrece insights personalizados y recomendaciones para optimizar operaciones y decisiones estratégicas....",
+    "score": 75,
+    "landing_url": "IDEA-20260428171852.html"
+  },
+  {
     "id": "IDEA-20260428130858",
     "nombre": "EasyCRM",
     "tipo": "SaaS",

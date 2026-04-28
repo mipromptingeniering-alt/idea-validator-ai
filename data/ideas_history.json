@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ChatConnect AI",
-      "descripcion": "ChatConnect AI es una solución todo en uno que permite a las pequeñas y medianas empresas gestionar todas sus interacciones con clientes a través de una única interfaz. Utilizando inteligencia artificial, la herramienta personaliza las respuestas, mejora la eficiencia del equipo y analiza datos en tiempo real para ofrecer informes sobre la satisfacción del cliente.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-02-27T17:55:52.740822"
-    },
-    {
       "nombre": "FlexiManage",
       "descripcion": "FlexiManage permite a los freelancers y pequeñas empresas gestionar sus proyectos de manera efectiva, llevar un control del tiempo trabajado y generar facturas automáticamente, todo en una sola plataforma. Con una interfaz intuitiva, notificaciones automáticas y reportes detallados, los usuarios pueden optimizar su tiempo y mejorar sus ingresos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-28T17:18:52.815405"
+    },
+    {
+      "nombre": "TeamConnect",
+      "descripcion": "TeamConnect es un software como servicio que ayuda a los equipos a colaborar de manera efectiva y a mantener una cultura empresarial saludable a distancia. Ofrece funcionalidades como chats, videoconferencias, tareas compartidas y dinámicas de equipo gamificadas que fomentan la interacción y el bienestar emocional.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-28T19:00:06.316383"
     }
   ],
   "nombres_usados": [
-    "ChatConnect AI",
     "FlexiManage",
     "FacturaFácil",
     "TimeConnect",
@@ -8001,6 +8000,7 @@
     "CRMModular",
     "TimePilot",
     "EasyCRM",
-    "DataWise"
+    "DataWise",
+    "TeamConnect"
   ]
 }
