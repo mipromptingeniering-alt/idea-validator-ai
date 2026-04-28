@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "WellPro",
-      "descripcion": "WellPro es una aplicación SaaS diseñada para ayudar a los trabajadores remotos a gestionar su tiempo y tareas mientras cuida de su bienestar físico y mental. Utiliza inteligencia artificial para ofrecer recomendaciones adaptadas a las necesidades del usuario, fomentando pausas activas, meditación y ejercicios de estiramiento durante la jornada laboral.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-27T15:55:33.229963"
-    },
-    {
       "nombre": "ChatConnect AI",
       "descripcion": "ChatConnect AI es una solución todo en uno que permite a las pequeñas y medianas empresas gestionar todas sus interacciones con clientes a través de una única interfaz. Utilizando inteligencia artificial, la herramienta personaliza las respuestas, mejora la eficiencia del equipo y analiza datos en tiempo real para ofrecer informes sobre la satisfacción del cliente.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-28T13:08:58.554147"
+    },
+    {
+      "nombre": "DataWise",
+      "descripcion": "DataWise es una herramienta de análisis de datos basada en la nube que permite a las pequeñas y medianas empresas conectar sus fuentes de datos, analizar su rendimiento y recibir recomendaciones personalizadas para mejorar su rentabilidad y eficiencia operativa.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-28T17:18:52.815405"
     }
   ],
   "nombres_usados": [
-    "WellPro",
     "ChatConnect AI",
     "FlexiManage",
     "FacturaFácil",
@@ -8001,6 +8000,7 @@
     "CreativeCloudHub",
     "CRMModular",
     "TimePilot",
-    "EasyCRM"
+    "EasyCRM",
+    "DataWise"
   ]
 }

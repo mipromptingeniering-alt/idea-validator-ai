@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260428130858",
+    "nombre": "EasyCRM",
+    "tipo": "SaaS",
+    "resumen": "Un CRM intuitivo diseñado especialmente para PYMES, que integra herramientas de marketing digital y gestión de relaciones con clientes....",
+    "score": 75,
+    "landing_url": "IDEA-20260428130858.html"
+  },
+  {
     "id": "IDEA-20260428112613",
     "nombre": "TimePilot",
     "tipo": "SaaS",
