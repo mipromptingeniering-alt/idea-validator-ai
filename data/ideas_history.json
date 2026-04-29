@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ContaFácil",
-      "descripcion": "ContaFácil es una herramienta de contabilidad basada en la nube diseñada especialmente para pequeñas empresas que no tienen personal contable. Permite a los usuarios gestionar sus finanzas mediante una interfaz intuitiva, con integración a plataformas de comercio electrónico y generación automática de informes fiscales.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-27T23:48:33.117635"
-    },
-    {
       "nombre": "MonetizAR",
       "descripcion": "MonetizAR es una plataforma que ofrece a creadores de contenido la posibilidad de gestionar sus seguidores, ofrecer contenido exclusivo a través de suscripciones, y vender productos relacionados, todo desde un solo lugar. Incluye herramientas analíticas que permiten entender mejor a la audiencia y optimizar las estrategias de monetización.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-28T23:36:08.952340"
+    },
+    {
+      "nombre": "EduCoach",
+      "descripcion": "EduCoach es una solución diseñada para cursos online que ofrece un acompañamiento constante a los estudiantes. Utiliza algoritmos de IA para adaptar los recursos y las recomendaciones a las necesidades de cada estudiante y gamifica el aprendizaje mediante retos y recompensas, fomentando así la finalización de los cursos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-29T04:46:35.565703"
     }
   ],
   "nombres_usados": [
-    "ContaFácil",
     "MonetizAR",
     "PortfolioCraft",
     "TeamSphere",
@@ -8001,6 +8000,7 @@
     "CreativoHub",
     "TherapyManager",
     "FactuPro",
-    "DesignTime"
+    "DesignTime",
+    "EduCoach"
   ]
 }
