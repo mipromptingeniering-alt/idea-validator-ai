@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260429165849",
+    "nombre": "Sync & Task",
+    "tipo": "SaaS",
+    "resumen": "Plataforma integral para mejorar la productividad de equipos remotos a través de la comunicación y gestión de tareas....",
+    "score": 75,
+    "landing_url": "IDEA-20260429165849.html"
+  },
+  {
     "id": "IDEA-20260429152552",
     "nombre": "SocialHubPyme",
     "tipo": "SaaS",

@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SmartMarket Pro",
-      "descripcion": "SmartMarket Pro ofrece una plataforma integral donde las pequeñas empresas pueden planificar, ejecutar y medir campañas de marketing digital. La herramienta incluye plantillas personalizables, análisis de rendimiento y recomendaciones automatizadas basadas en IA para optimizar las campañas.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-28T10:49:23.965612"
-    },
-    {
       "nombre": "TheraSync",
       "descripcion": "TheraSync es una herramienta diseñada para profesionales de la salud mental que permite la gestión eficiente de la práctica. Ofrece funcionalidades para programar citas, enviar recordatorios automáticos, realizar seguimiento del progreso del paciente a través de métricas, y proporciona acceso a recursos educativos personalizados para cada paciente. Esta plataforma busca mejorar la comunicación y la adherencia al tratamiento, maximizando la efectividad de la terapia.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-29T16:58:49.900211"
+    },
+    {
+      "nombre": "TimeQuest",
+      "descripcion": "TimeQuest es una aplicación web que permite a equipos y profesionales individuales organizar sus tareas, establecer metas diarias y semanales, y competir en desafíos de productividad. Los usuarios obtienen puntos y recompensas por completar tareas y colaborar con otros, lo que fomenta una cultura de trabajo en equipo y mejora la eficiencia.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-29T19:52:58.164000"
     }
   ],
   "nombres_usados": [
-    "SmartMarket Pro",
     "TheraSync",
     "EmpreTech",
     "SimplifyCRM",
@@ -8001,6 +8000,7 @@
     "AutónomoContable",
     "FinanciaSmart",
     "SocialHubPyme",
-    "Sync & Task"
+    "Sync & Task",
+    "TimeQuest"
   ]
 }
