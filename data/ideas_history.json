@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TeamSphere",
-      "descripcion": "TeamSphere permite a los equipos remotos participar en actividades como juegos virtuales, sesiones de equipo informales y retos de colaboración, todo en un entorno accesible y fácil de usar. Además, la plataforma incluye herramientas de gestión de proyectos integradas para asegurar que las tareas se pueden realizar de manera fluida mientras los empleados socializan.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-28T07:50:23.731946"
-    },
-    {
       "nombre": "WellnessWork",
       "descripcion": "WellnessWork es una plataforma SaaS que ofrece herramientas integradas para la gestión del tiempo y el bienestar personal. La aplicación proporcionará planeadores de tiempo, recordatorios para descansos, meditaciones guiadas y recomendaciones personalizadas basadas en el uso y las preferencias del usuario.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-29T11:18:07.149878"
+    },
+    {
+      "nombre": "FinanciaSmart",
+      "descripcion": "FinanciaSmart es una solución que permite a los emprendedores gestionar sus finanzas sin necesidad de ser expertos en contabilidad. Ofrece herramientas intuitivas para la gestión de ingresos, gastos, presupuestos y proyecciones financieras, junto con recursos educativos que guían a los usuarios a lo largo del proceso.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-29T13:03:34.747539"
     }
   ],
   "nombres_usados": [
-    "TeamSphere",
     "WellnessWork",
     "TaskTime",
     "SmartMarket Pro",
@@ -8001,6 +8000,7 @@
     "DesignTime",
     "EduCoach",
     "CleanMatch",
-    "AutónomoContable"
+    "AutónomoContable",
+    "FinanciaSmart"
   ]
 }

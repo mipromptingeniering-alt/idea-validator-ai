@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260429111806",
+    "nombre": "AutónomoContable",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que simplifica la gestión financiera y contable para autónomos y pequeñas empresas utilizando inteligencia artificial....",
+    "score": 75,
+    "landing_url": "IDEA-20260429111806.html"
+  },
+  {
     "id": "IDEA-20260429071656",
     "nombre": "CleanMatch",
     "tipo": "SaaS",
