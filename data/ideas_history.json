@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "WellnessWork",
-      "descripcion": "WellnessWork es una plataforma SaaS que ofrece herramientas integradas para la gestión del tiempo y el bienestar personal. La aplicación proporcionará planeadores de tiempo, recordatorios para descansos, meditaciones guiadas y recomendaciones personalizadas basadas en el uso y las preferencias del usuario.",
-      "tipo": "SaaS",
-      "score": 78,
-      "fecha": "2026-02-28T08:55:44.653055"
-    },
-    {
       "nombre": "TaskTime",
       "descripcion": "TaskTime permite a los usuarios organizar sus proyectos y tareas mediante una interfaz intuitiva, establecer plazos y prioridades, y realizar un seguimiento del tiempo invertido en cada tarea, todo en una misma plataforma eficaz y accesible.",
       "tipo": "MicroSaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-29T13:03:34.747539"
+    },
+    {
+      "nombre": "SocialHubPyme",
+      "descripcion": "SocialHubPyme permite a las pymes gestionar múltiples cuentas de redes sociales desde una sola plataforma, programar publicaciones, obtener análisis sencillos y acceder a plantillas de contenido adaptadas a su mercado.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-29T15:25:52.326007"
     }
   ],
   "nombres_usados": [
-    "WellnessWork",
     "TaskTime",
     "SmartMarket Pro",
     "TheraSync",
@@ -8001,6 +8000,7 @@
     "EduCoach",
     "CleanMatch",
     "AutónomoContable",
-    "FinanciaSmart"
+    "FinanciaSmart",
+    "SocialHubPyme"
   ]
 }
