@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260429044635",
+    "nombre": "EduCoach",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de acompañamiento para estudiantes de cursos online que utiliza IA para personalizar la experiencia de aprendizaje y gamificación para ...",
+    "score": 75,
+    "landing_url": "IDEA-20260429044635.html"
+  },
+  {
     "id": "IDEA-20260428233608",
     "nombre": "DesignTime",
     "tipo": "SaaS",

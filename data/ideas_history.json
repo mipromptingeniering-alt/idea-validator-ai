@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MonetizAR",
-      "descripcion": "MonetizAR es una plataforma que ofrece a creadores de contenido la posibilidad de gestionar sus seguidores, ofrecer contenido exclusivo a través de suscripciones, y vender productos relacionados, todo desde un solo lugar. Incluye herramientas analíticas que permiten entender mejor a la audiencia y optimizar las estrategias de monetización.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-02-28T04:35:46.615679"
-    },
-    {
       "nombre": "PortfolioCraft",
       "descripcion": "PortfolioCraft empodera a los profesionales creativos para que creen un portafolio impresionante con una interfaz fácil de usar, plantillas personalizables y opciones de SEO que ayudan a aumentar la visibilidad en motores de búsqueda.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-29T04:46:35.565703"
+    },
+    {
+      "nombre": "CleanMatch",
+      "descripcion": "CleanMatch es un software como servicio que permite a los usuarios encontrar, comparar y contratar servicios de limpieza en su área. Los usuarios pueden ver reseñas, verificar credenciales, programar citas y elegir entre opciones de limpieza estándar o ecológica. Además, la plataforma incluye un sistema de gestión de recordatorios y pagos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-29T07:16:56.609350"
     }
   ],
   "nombres_usados": [
-    "MonetizAR",
     "PortfolioCraft",
     "TeamSphere",
     "WellnessWork",
@@ -8001,6 +8000,7 @@
     "TherapyManager",
     "FactuPro",
     "DesignTime",
-    "EduCoach"
+    "EduCoach",
+    "CleanMatch"
   ]
 }
