@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TheraSync",
-      "descripcion": "TheraSync es una herramienta diseñada para profesionales de la salud mental que permite la gestión eficiente de la práctica. Ofrece funcionalidades para programar citas, enviar recordatorios automáticos, realizar seguimiento del progreso del paciente a través de métricas, y proporciona acceso a recursos educativos personalizados para cada paciente. Esta plataforma busca mejorar la comunicación y la adherencia al tratamiento, maximizando la efectividad de la terapia.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-28T11:34:12.720954"
-    },
-    {
       "nombre": "EmpreTech",
       "descripcion": "EmpreTech permite a los emprendedores acceder a plantillas, tutoriales, y herramientas de gestión de proyectos, todo adaptado a sus necesidades específicas y al tipo de negocio que desean desarrollar, asegurando un enfoque práctico y efectivo.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-29T19:52:58.164000"
+    },
+    {
+      "nombre": "Freelance Finance Manager",
+      "descripcion": "Freelance Finance Manager es una herramienta SaaS que permite a los trabajadores independientes llevar un seguimiento de sus finanzas, categorizar sus gastos e ingresos, y recibir recordatorios de las fechas de pago de impuestos y otras obligaciones financieras. La plataforma también ofrecerá herramientas de planificación fiscal para ayudar a maximizar las deducciones y optimizar la carga impositiva.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-04-29T20:55:02.811462"
     }
   ],
   "nombres_usados": [
-    "TheraSync",
     "EmpreTech",
     "SimplifyCRM",
     "Finanzify",
@@ -8001,6 +8000,7 @@
     "FinanciaSmart",
     "SocialHubPyme",
     "Sync & Task",
-    "TimeQuest"
+    "TimeQuest",
+    "Freelance Finance Manager"
   ]
 }
