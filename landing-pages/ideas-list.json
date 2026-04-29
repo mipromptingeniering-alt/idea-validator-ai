@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260429224928",
+    "nombre": "PitchPal",
+    "tipo": "SaaS",
+    "resumen": "PitchPal es una plataforma que ayuda a emprendedores a crear presentaciones efectivas y a conectar con inversores potenciales....",
+    "score": 75,
+    "landing_url": "IDEA-20260429224928.html"
+  },
+  {
     "id": "IDEA-20260429195257",
     "nombre": "TimeQuest",
     "tipo": "SaaS",

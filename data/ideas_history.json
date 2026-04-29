@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SimplifyCRM",
-      "descripcion": "SimplifyCRM ofrece a las pequeñas empresas una herramienta intuitiva para gestionar contactos, seguimiento de interacciones y automatización de correos electrónicos, todo en un solo lugar. Se centra en la facilidad de uso y en funcionalidades vitales que realmente importan a las pequeñas empresas.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-28T14:47:46.323585"
-    },
-    {
       "nombre": "Finanzify",
       "descripcion": "Finanzify permite a los usuarios gestionar sus ingresos y gastos de manera sencilla, generar reportes personalizados y recibir asesoramiento financiero adaptado a sus necesidades. La plataforma incluye integración con cuentas bancarias y herramientas de automatización para minimizar el tiempo dedicado a tareas financieras.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-29T22:49:29.043855"
+    },
+    {
+      "nombre": "SynergyFlow",
+      "descripcion": "SynergyFlow integra funciones de CRM, gestión de proyectos y comunicación para proporcionar una vista holística de las operaciones de negocios. Los usuarios pueden gestionar contactos, tareas, plazos y mantener la comunicación fluida con el equipo y los clientes, todo desde una misma plataforma.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-29T23:45:29.148589"
     }
   ],
   "nombres_usados": [
-    "SimplifyCRM",
     "Finanzify",
     "Planify",
     "TimeMinder",
@@ -8001,6 +8000,7 @@
     "Sync & Task",
     "TimeQuest",
     "Freelance Finance Manager",
-    "PitchPal"
+    "PitchPal",
+    "SynergyFlow"
   ]
 }
