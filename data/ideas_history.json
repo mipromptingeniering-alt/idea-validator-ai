@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "EmpreTech",
-      "descripcion": "EmpreTech permite a los emprendedores acceder a plantillas, tutoriales, y herramientas de gestión de proyectos, todo adaptado a sus necesidades específicas y al tipo de negocio que desean desarrollar, asegurando un enfoque práctico y efectivo.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-28T13:49:08.129475"
-    },
-    {
       "nombre": "SimplifyCRM",
       "descripcion": "SimplifyCRM ofrece a las pequeñas empresas una herramienta intuitiva para gestionar contactos, seguimiento de interacciones y automatización de correos electrónicos, todo en un solo lugar. Se centra en la facilidad de uso y en funcionalidades vitales que realmente importan a las pequeñas empresas.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-04-29T20:55:02.811462"
+    },
+    {
+      "nombre": "PitchPal",
+      "descripcion": "PitchPal ofrece plantillas personalizables para presentaciones, herramientas de análisis para evaluar la viabilidad de ideas de negocio, y una red para conectar emprendedores con inversores. Además, proporciona recursos educativos para mejorar las habilidades de presentación y pitching de los usuarios.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-29T22:49:29.043855"
     }
   ],
   "nombres_usados": [
-    "EmpreTech",
     "SimplifyCRM",
     "Finanzify",
     "Planify",
@@ -8001,6 +8000,7 @@
     "SocialHubPyme",
     "Sync & Task",
     "TimeQuest",
-    "Freelance Finance Manager"
+    "Freelance Finance Manager",
+    "PitchPal"
   ]
 }
