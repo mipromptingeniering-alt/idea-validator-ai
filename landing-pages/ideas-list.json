@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260429071656",
+    "nombre": "CleanMatch",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que conecta usuarios con servicios de limpieza verificados y de calidad, facilitando la gestión y programación de limpiezas....",
+    "score": 75,
+    "landing_url": "IDEA-20260429071656.html"
+  },
+  {
     "id": "IDEA-20260429044635",
     "nombre": "EduCoach",
     "tipo": "SaaS",

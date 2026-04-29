@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "PortfolioCraft",
-      "descripcion": "PortfolioCraft empodera a los profesionales creativos para que creen un portafolio impresionante con una interfaz fácil de usar, plantillas personalizables y opciones de SEO que ayudan a aumentar la visibilidad en motores de búsqueda.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-28T05:58:12.331967"
-    },
-    {
       "nombre": "TeamSphere",
       "descripcion": "TeamSphere permite a los equipos remotos participar en actividades como juegos virtuales, sesiones de equipo informales y retos de colaboración, todo en un entorno accesible y fácil de usar. Además, la plataforma incluye herramientas de gestión de proyectos integradas para asegurar que las tareas se pueden realizar de manera fluida mientras los empleados socializan.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-29T07:16:56.609350"
+    },
+    {
+      "nombre": "AutónomoContable",
+      "descripcion": "AutónomoContable ofrece herramientas de gestión financiera, control de gastos, emisión de facturas y un asistente virtual alimentado por IA que ayuda a los usuarios a tomar decisiones informadas sobre sus finanzas. La plataforma es fácil de usar y está diseñada específicamente para satisfacer las necesidades de los profesionales autónomos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-29T11:18:07.149878"
     }
   ],
   "nombres_usados": [
-    "PortfolioCraft",
     "TeamSphere",
     "WellnessWork",
     "TaskTime",
@@ -8001,6 +8000,7 @@
     "FactuPro",
     "DesignTime",
     "EduCoach",
-    "CleanMatch"
+    "CleanMatch",
+    "AutónomoContable"
   ]
 }
