@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TaskTime",
-      "descripcion": "TaskTime permite a los usuarios organizar sus proyectos y tareas mediante una interfaz intuitiva, establecer plazos y prioridades, y realizar un seguimiento del tiempo invertido en cada tarea, todo en una misma plataforma eficaz y accesible.",
-      "tipo": "MicroSaaS",
-      "score": 75,
-      "fecha": "2026-02-28T09:48:20.604392"
-    },
-    {
       "nombre": "SmartMarket Pro",
       "descripcion": "SmartMarket Pro ofrece una plataforma integral donde las pequeñas empresas pueden planificar, ejecutar y medir campañas de marketing digital. La herramienta incluye plantillas personalizables, análisis de rendimiento y recomendaciones automatizadas basadas en IA para optimizar las campañas.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-29T15:25:52.326007"
+    },
+    {
+      "nombre": "Sync & Task",
+      "descripcion": "Sync & Task es una plataforma en línea que permite a los equipos remotos comunicarse en tiempo real, gestionar sus tareas y realizar un seguimiento del tiempo de trabajo. Incluye funciones de chat, videollamadas, gestión de tareas con tableros Kanban y un temporizador de trabajo para fomentar la responsabilidad y el compromiso.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-29T16:58:49.900211"
     }
   ],
   "nombres_usados": [
-    "TaskTime",
     "SmartMarket Pro",
     "TheraSync",
     "EmpreTech",
@@ -8001,6 +8000,7 @@
     "CleanMatch",
     "AutónomoContable",
     "FinanciaSmart",
-    "SocialHubPyme"
+    "SocialHubPyme",
+    "Sync & Task"
   ]
 }

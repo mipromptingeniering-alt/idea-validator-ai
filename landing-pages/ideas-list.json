@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260429152552",
+    "nombre": "SocialHubPyme",
+    "tipo": "SaaS",
+    "resumen": "Herramienta de gestión de redes sociales diseñada específicamente para pequeñas y medianas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260429152552.html"
+  },
+  {
     "id": "IDEA-20260429130334",
     "nombre": "FinanciaSmart",
     "tipo": "SaaS",
