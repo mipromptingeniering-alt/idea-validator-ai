@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TimeMaster: Gamifying Productivity",
-      "descripcion": "TimeMaster es una herramienta que combina métodos de gestión del tiempo con un sistema de recompensas y desafíos. Los usuarios pueden establecer sus metas diarias, semanales y mensuales, y reciben recompensas virtuales al completar tareas. Además, ofrece estadísticas de productividad personal y coachings breves para mejorar la gestión del tiempo.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-28T19:38:16.008015"
-    },
-    {
       "nombre": "EasiMarketing",
       "descripcion": "EasiMarketing permite a las PYMES crear y gestionar sus campañas de marketing digital a través de una interfaz intuitiva. Ofrece herramientas para la creación de contenido, gestión de redes sociales, email marketing y análisis de rendimiento, todo en un solo lugar.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-30T16:54:34.954887"
+    },
+    {
+      "nombre": "SocialBee",
+      "descripcion": "SocialBee es una plataforma que permite a las pequeñas empresas gestionar de manera centralizada sus cuentas de redes sociales. La herramienta automatiza la programación de publicaciones y ofrece análisis de rendimiento en tiempo real, sugiriendo mejoras utilizando inteligencia artificial.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-30T18:06:34.508488"
     }
   ],
   "nombres_usados": [
-    "TimeMaster: Gamifying Productivity",
     "EasiMarketing",
     "StreamCrafters",
     "FinanciaSimplify",
@@ -8001,6 +8000,7 @@
     "TimeFlow",
     "ArtRights Manager",
     "FacturaFácil",
-    "ExpenseWise"
+    "ExpenseWise",
+    "SocialBee"
   ]
 }

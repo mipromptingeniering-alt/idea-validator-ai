@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260430165434",
+    "nombre": "ExpenseWise",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de gastos para pequeñas empresas que utiliza IA para optimizar el flujo de caja y ofrecer recomendaciones financieras person...",
+    "score": 75,
+    "landing_url": "IDEA-20260430165434.html"
+  },
+  {
     "id": "IDEA-20260430093318",
     "nombre": "ArtRights Manager",
     "tipo": "SaaS",
