@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Planify",
-      "descripcion": "Planify es una plataforma en línea que ayuda a los emprendedores a estructurar y desarrollar su plan de negocio. Ofrece plantillas específicas, ejemplos relevantes y guías interactivas para facilitar el proceso. Además, incluye herramientas para evaluación financiera y proyecciones de crecimiento, proporcionando un enfoque integral para la planificación empresarial.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-28T15:57:12.767273"
-    },
-    {
       "nombre": "TimeMinder",
       "descripcion": "TimeMinder es una herramienta de productividad diseñada para ayudar a emprendedores y freelancers a maximizar su eficiencia. Ofrece características como gestión de tareas, seguimiento del tiempo y técnicas de productividad basadas en la metodología Pomodoro, todo en un solo lugar. Los usuarios pueden personalizar su panel de control para mostrar las herramientas que más utilizan.",
       "tipo": "MicroSaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-30T01:23:56.889859"
+    },
+    {
+      "nombre": "SimpliciMark",
+      "descripcion": "SimpliciMark permite a las pequeñas y medianas empresas gestionar sus cuentas de redes sociales, crear publicaciones atractivas, programar contenido y analizar el rendimiento en un solo lugar, todo con un enfoque fácil de usar que no requiere experiencia previa.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-30T04:50:18.437754"
     }
   ],
   "nombres_usados": [
-    "Planify",
     "TimeMinder",
     "MoodFlix",
     "Cita Saludable",
@@ -8001,6 +8000,7 @@
     "Freelance Finance Manager",
     "PitchPal",
     "SynergyFlow",
-    "CreaTime"
+    "CreaTime",
+    "SimpliciMark"
   ]
 }
