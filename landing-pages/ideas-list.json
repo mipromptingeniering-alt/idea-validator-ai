@@ -8480,6 +8480,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260429234528",
+    "nombre": "SynergyFlow",
+    "tipo": "SaaS",
+    "resumen": "SynergyFlow es una plataforma todo-en-uno que ayuda a pequeñas y medianas empresas a gestionar clientes, proyectos y comunicaciones de manera eficient...",
+    "score": 70,
+    "landing_url": "IDEA-20260429234528.html"
+  },
+  {
     "id": "IDEA-20260426202210",
     "nombre": "LifeSync",
     "tipo": "SaaS",

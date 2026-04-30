@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Finanzify",
-      "descripcion": "Finanzify permite a los usuarios gestionar sus ingresos y gastos de manera sencilla, generar reportes personalizados y recibir asesoramiento financiero adaptado a sus necesidades. La plataforma incluye integración con cuentas bancarias y herramientas de automatización para minimizar el tiempo dedicado a tareas financieras.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-28T15:41:39.838452"
-    },
-    {
       "nombre": "Planify",
       "descripcion": "Planify es una plataforma en línea que ayuda a los emprendedores a estructurar y desarrollar su plan de negocio. Ofrece plantillas específicas, ejemplos relevantes y guías interactivas para facilitar el proceso. Además, incluye herramientas para evaluación financiera y proyecciones de crecimiento, proporcionando un enfoque integral para la planificación empresarial.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-29T23:45:29.148589"
+    },
+    {
+      "nombre": "CreaTime",
+      "descripcion": "CreaTime es una aplicación que ayuda a los creativos a gestionar su tiempo y proyectos de manera más efectiva. Ofrece características como un calendario visual, herramientas de brainstorm, seguimiento de horas y tareas, además de recursos para mantener la creatividad fluida.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-30T01:23:56.889859"
     }
   ],
   "nombres_usados": [
-    "Finanzify",
     "Planify",
     "TimeMinder",
     "MoodFlix",
@@ -8001,6 +8000,7 @@
     "TimeQuest",
     "Freelance Finance Manager",
     "PitchPal",
-    "SynergyFlow"
+    "SynergyFlow",
+    "CreaTime"
   ]
 }
