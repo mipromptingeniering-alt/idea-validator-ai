@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MindTrack",
-      "descripcion": "MindTrack es una herramienta que permite a los terapeutas interactuar con sus pacientes fuera de las sesiones, utilizando un sistema de registro emocional y de metas que puede ser monitoreado y ajustado en tiempo real. La comunicación segura y la recopilación de datos permitirán a los terapeutas tener una visión más clara del progreso del paciente.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-28T18:59:24.163151"
-    },
-    {
       "nombre": "TimeMaster: Gamifying Productivity",
       "descripcion": "TimeMaster es una herramienta que combina métodos de gestión del tiempo con un sistema de recompensas y desafíos. Los usuarios pueden establecer sus metas diarias, semanales y mensuales, y reciben recompensas virtuales al completar tareas. Además, ofrece estadísticas de productividad personal y coachings breves para mejorar la gestión del tiempo.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "MicroSaaS",
       "score": 70,
       "fecha": "2026-04-30T13:02:29.300877"
+    },
+    {
+      "nombre": "ExpenseWise",
+      "descripcion": "ExpenseWise es una herramienta intuitiva que permite a los propietarios de pequeñas empresas registrar y categorizar sus gastos, generar informes de flujo de caja y recibir recomendaciones automatizadas para mejorar su salud financiera. La plataforma se integra con cuentas bancarias y sistemas de facturación, proporcionando un análisis en tiempo real y alertas sobre gastos inusuales.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-30T16:54:34.954887"
     }
   ],
   "nombres_usados": [
-    "MindTrack",
     "TimeMaster: Gamifying Productivity",
     "EasiMarketing",
     "StreamCrafters",
@@ -8001,6 +8000,7 @@
     "SimpliciMark",
     "TimeFlow",
     "ArtRights Manager",
-    "FacturaFácil"
+    "FacturaFácil",
+    "ExpenseWise"
   ]
 }

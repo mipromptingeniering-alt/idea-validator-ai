@@ -8512,6 +8512,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260430130229",
+    "nombre": "FacturaFácil",
+    "tipo": "MicroSaaS",
+    "resumen": "Una herramienta simple y accesible para la creación y gestión de facturas para freelancers y pequeños emprendedores....",
+    "score": 70,
+    "landing_url": "IDEA-20260430130229.html"
+  },
+  {
     "id": "IDEA-20260429234528",
     "nombre": "SynergyFlow",
     "tipo": "SaaS",
