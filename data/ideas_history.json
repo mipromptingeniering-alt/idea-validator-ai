@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "EasiMarketing",
-      "descripcion": "EasiMarketing permite a las PYMES crear y gestionar sus campañas de marketing digital a través de una interfaz intuitiva. Ofrece herramientas para la creación de contenido, gestión de redes sociales, email marketing y análisis de rendimiento, todo en un solo lugar.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-28T19:52:40.302990"
-    },
-    {
       "nombre": "StreamCrafters",
       "descripcion": "StreamCrafters es un servicio que utiliza inteligencia artificial para ofrecer recomendaciones personalizadas de series y películas, adaptándose constantemente a las preferencias del usuario y las tendencias actuales. A través de un simple dashboard, los usuarios pueden descubrir contenido que realmente les interese y compartir sus descubrimientos con amigos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-30T18:06:34.508488"
+    },
+    {
+      "nombre": "Simplify Marketing",
+      "descripcion": "Simplify Marketing permite a las pequeñas y medianas empresas gestionar sus campañas de marketing digital de manera efectiva a través de herramientas automatizadas y análisis intuitivos, mejorando su visibilidad en línea sin necesidad de un equipo especializado.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-30T19:48:10.336001"
     }
   ],
   "nombres_usados": [
-    "EasiMarketing",
     "StreamCrafters",
     "FinanciaSimplify",
     "SyncFlow",
@@ -8001,6 +8000,7 @@
     "ArtRights Manager",
     "FacturaFácil",
     "ExpenseWise",
-    "SocialBee"
+    "SocialBee",
+    "Simplify Marketing"
   ]
 }

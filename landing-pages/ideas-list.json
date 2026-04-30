@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260430180634",
+    "nombre": "SocialBee",
+    "tipo": "SaaS",
+    "resumen": "Gestor de redes sociales para pequeñas empresas, que automatiza publicaciones y proporciona análisis de rendimiento a través de inteligencia artificia...",
+    "score": 75,
+    "landing_url": "IDEA-20260430180634.html"
+  },
+  {
     "id": "IDEA-20260430165434",
     "nombre": "ExpenseWise",
     "tipo": "SaaS",
