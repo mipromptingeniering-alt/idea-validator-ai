@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Cita Saludable",
-      "descripcion": "Cita Saludable es un software como servicio que permite a los médicos y terapeutas gestionar sus citas, enviar recordatorios automáticos a los pacientes y realizar seguimientos post-cita de manera sencilla y efectiva.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-02-28T17:55:59.346692"
-    },
-    {
       "nombre": "MindTrack",
       "descripcion": "MindTrack es una herramienta que permite a los terapeutas interactuar con sus pacientes fuera de las sesiones, utilizando un sistema de registro emocional y de metas que puede ser monitoreado y ajustado en tiempo real. La comunicación segura y la recopilación de datos permitirán a los terapeutas tener una visión más clara del progreso del paciente.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-30T09:33:19.129044"
+    },
+    {
+      "nombre": "FacturaFácil",
+      "descripcion": "FacturaFácil permite a los usuarios crear y enviar facturas de manera rápida y sencilla, realizar seguimiento de pagos y gestionar ingresos, todo desde una plataforma fácil de usar. La aplicación también ofrecerá plantillas personalizables y recordatorios automáticos de pagos.",
+      "tipo": "MicroSaaS",
+      "score": 70,
+      "fecha": "2026-04-30T13:02:29.300877"
     }
   ],
   "nombres_usados": [
-    "Cita Saludable",
     "MindTrack",
     "TimeMaster: Gamifying Productivity",
     "EasiMarketing",
@@ -8001,6 +8000,7 @@
     "CreaTime",
     "SimpliciMark",
     "TimeFlow",
-    "ArtRights Manager"
+    "ArtRights Manager",
+    "FacturaFácil"
   ]
 }

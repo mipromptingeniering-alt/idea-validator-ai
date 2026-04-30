@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260430093318",
+    "nombre": "ArtRights Manager",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS que ayuda a los artistas a gestionar sus derechos de autor, licencias y regalías de sus obras de arte de forma sencilla y efectiva...",
+    "score": 75,
+    "landing_url": "IDEA-20260430093318.html"
+  },
+  {
     "id": "IDEA-20260430072428",
     "nombre": "TimeFlow",
     "tipo": "SaaS",
