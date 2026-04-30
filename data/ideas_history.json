@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MoodFlix",
-      "descripcion": "MoodFlix permite a los usuarios seleccionar su estado de ánimo y preferencias, y utiliza algoritmos de inteligencia artificial para analizar el contenido disponible en diversas plataformas de streaming, ofreciendo recomendaciones altamente personalizadas que se ajustan a esos estados emocionales.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-28T17:41:39.904623"
-    },
-    {
       "nombre": "Cita Saludable",
       "descripcion": "Cita Saludable es un software como servicio que permite a los médicos y terapeutas gestionar sus citas, enviar recordatorios automáticos a los pacientes y realizar seguimientos post-cita de manera sencilla y efectiva.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-30T07:24:28.844030"
+    },
+    {
+      "nombre": "ArtRights Manager",
+      "descripcion": "ArtRights Manager proporciona a los artistas una herramienta integral para registrar sus obras, gestionar licencias, y recibir pagos de regalías. La plataforma utiliza tecnología blockchain para asegurar que los derechos de autor estén protegidos y que los artistas reciban el pago justo y a tiempo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-04-30T09:33:19.129044"
     }
   ],
   "nombres_usados": [
-    "MoodFlix",
     "Cita Saludable",
     "MindTrack",
     "TimeMaster: Gamifying Productivity",
@@ -8001,6 +8000,7 @@
     "SynergyFlow",
     "CreaTime",
     "SimpliciMark",
-    "TimeFlow"
+    "TimeFlow",
+    "ArtRights Manager"
   ]
 }
