@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "StreamCrafters",
-      "descripcion": "StreamCrafters es un servicio que utiliza inteligencia artificial para ofrecer recomendaciones personalizadas de series y películas, adaptándose constantemente a las preferencias del usuario y las tendencias actuales. A través de un simple dashboard, los usuarios pueden descubrir contenido que realmente les interese y compartir sus descubrimientos con amigos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-28T20:49:31.905967"
-    },
-    {
       "nombre": "FinanciaSimplify",
       "descripcion": "FinanciaSimplify es una herramienta en línea diseñada para facilitar la gestión de las finanzas de pequeñas empresas y freelancers. Utiliza IA para automatizar tareas repetitivas, como la categorización de gastos, la emisión de facturas y la generación de informes financieros, permitiendo a los usuarios concentrarse en hacer crecer su negocio.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-04-30T19:48:10.336001"
+    },
+    {
+      "nombre": "TaskerHub",
+      "descripcion": "TaskerHub permitirá a los usuarios gestionar sus proyectos, tareas y relaciones con los clientes en un solo lugar, proporcionando herramientas para la planificación, seguimiento y facturación. Además, contará con integraciones con aplicaciones populares como Google Calendar y Slack.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-04-30T22:43:14.967795"
     }
   ],
   "nombres_usados": [
-    "StreamCrafters",
     "FinanciaSimplify",
     "SyncFlow",
     "WebEasy",
@@ -8001,6 +8000,7 @@
     "FacturaFácil",
     "ExpenseWise",
     "SocialBee",
-    "Simplify Marketing"
+    "Simplify Marketing",
+    "TaskerHub"
   ]
 }
