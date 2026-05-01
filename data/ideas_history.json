@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FinanciaSimplify",
-      "descripcion": "FinanciaSimplify es una herramienta en línea diseñada para facilitar la gestión de las finanzas de pequeñas empresas y freelancers. Utiliza IA para automatizar tareas repetitivas, como la categorización de gastos, la emisión de facturas y la generación de informes financieros, permitiendo a los usuarios concentrarse en hacer crecer su negocio.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-28T21:39:46.286343"
-    },
-    {
       "nombre": "SyncFlow",
       "descripcion": "SyncFlow permite a los equipos remotos gestionar proyectos y tareas de manera efectiva, combinando un sistema de gestión de tareas con funciones de chat y videollamada, lo que facilita la comunicación y el seguimiento de actividades en tiempo real.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-04-30T22:43:14.967795"
+    },
+    {
+      "nombre": "ProTime Manager",
+      "descripcion": "ProTime Manager es una plataforma que ayuda a freelancers y pequeños emprendedores a organizar sus proyectos, gestionar su tiempo de manera eficiente y recibir recomendaciones personalizadas basadas en su historial de trabajo y preferencias. Ofrece herramientas de seguimiento del tiempo, planificación de tareas y análisis de productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-01T01:26:59.979161"
     }
   ],
   "nombres_usados": [
-    "FinanciaSimplify",
     "SyncFlow",
     "WebEasy",
     "WellConnect",
@@ -8001,6 +8000,7 @@
     "ExpenseWise",
     "SocialBee",
     "Simplify Marketing",
-    "TaskerHub"
+    "TaskerHub",
+    "ProTime Manager"
   ]
 }
