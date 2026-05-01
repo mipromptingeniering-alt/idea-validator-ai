@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260501050327",
+    "nombre": "PitchMasterPro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS que ayuda a emprendedores a crear presentaciones efectivas para inversores, con plantillas, análisis y recomendaciones personaliza...",
+    "score": 75,
+    "landing_url": "IDEA-20260501050327.html"
+  },
+  {
     "id": "IDEA-20260501012659",
     "nombre": "ProTime Manager",
     "tipo": "SaaS",
