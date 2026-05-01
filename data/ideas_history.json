@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Mindful Project Manager",
-      "descripcion": "Mindful Project Manager ayuda a los freelancers a gestionar sus proyectos y tiempo de manera eficiente mientras promueve el bienestar mental y la productividad a través de técnicas de mindfulness. Los usuarios pueden crear y organizar proyectos, asignar tareas y establecer plazos, al mismo tiempo que rastrean el tiempo dedicado a cada actividad y acceden a recursos y prácticas de mindfulness.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-01T05:11:08.847586"
-    },
-    {
       "nombre": "WorkLife Harmony",
       "descripcion": "WorkLife Harmony es una aplicación que combina herramientas de gestión de tareas y tiempo con prácticas de bienestar mental. Los usuarios podrán establecer metas diarias, programar descansos para meditación y recibir informes sobre su productividad y bienestar emocional.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-05-01T10:50:42.250418"
+    },
+    {
+      "nombre": "TimeFusion",
+      "descripcion": "TimeFusion es una herramienta web que permite a los usuarios gestionar sus tareas y tiempos de manera eficiente. Cuenta con una interfaz intuitiva, recordatorios inteligentes y capacidades de personalización que se adaptan a las necesidades individuales de cada usuario. Su objetivo es facilitar la organización personal y mejorar la productividad.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-05-01T11:52:17.825449"
     }
   ],
   "nombres_usados": [
-    "Mindful Project Manager",
     "WorkLife Harmony",
     "MindfulBalance",
     "ContabiliEasy",
@@ -8001,6 +8000,7 @@
     "PitchMasterPro",
     "FacilitaFacturas",
     "Finanzas Sencillas",
-    "TaskNest"
+    "TaskNest",
+    "TimeFusion"
   ]
 }

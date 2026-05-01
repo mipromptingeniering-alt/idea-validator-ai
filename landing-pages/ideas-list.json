@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260501105042",
+    "nombre": "TaskNest",
+    "tipo": "MicroSaaS",
+    "resumen": "TaskNest es una herramienta de gestión de tareas diseñada para pequeñas empresas y emprendedores, que facilita la organización y priorización de proye...",
+    "score": 75,
+    "landing_url": "IDEA-20260501105042.html"
+  },
+  {
     "id": "IDEA-20260501092050",
     "nombre": "Finanzas Sencillas",
     "tipo": "SaaS",
