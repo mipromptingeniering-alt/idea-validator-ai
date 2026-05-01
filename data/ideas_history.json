@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Mindful Productivity",
-      "descripcion": "Mindful Productivity permite a los usuarios gestionar sus tareas diarias y proyectos mientras integra prácticas de bienestar mental, como ejercicios de respiración y pausas programadas para la meditación, ayudando a mantener el enfoque y reducir el estrés.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-28T23:55:46.595076"
-    },
-    {
       "nombre": "Mindful Project Manager",
       "descripcion": "Mindful Project Manager ayuda a los freelancers a gestionar sus proyectos y tiempo de manera eficiente mientras promueve el bienestar mental y la productividad a través de técnicas de mindfulness. Los usuarios pueden crear y organizar proyectos, asignar tareas y establecer plazos, al mismo tiempo que rastrean el tiempo dedicado a cada actividad y acceden a recursos y prácticas de mindfulness.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-01T09:20:50.341226"
+    },
+    {
+      "nombre": "TaskNest",
+      "descripcion": "TaskNest permite a los usuarios gestionar sus tareas y proyectos a través de una interfaz sencilla, con características como la priorización automática de tareas, recordatorios, y un sistema de seguimiento de progreso que se adapta a las necesidades de pequeños equipos o individuos.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-05-01T10:50:42.250418"
     }
   ],
   "nombres_usados": [
-    "Mindful Productivity",
     "Mindful Project Manager",
     "WorkLife Harmony",
     "MindfulBalance",
@@ -8001,6 +8000,7 @@
     "ProTime Manager",
     "PitchMasterPro",
     "FacilitaFacturas",
-    "Finanzas Sencillas"
+    "Finanzas Sencillas",
+    "TaskNest"
   ]
 }

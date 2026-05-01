@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260501092050",
+    "nombre": "Finanzas Sencillas",
+    "tipo": "SaaS",
+    "resumen": "Plataforma web de gestión financiera dirigida a pymes que combina registro contable, planificación de flujo de caja y educación financiera personaliza...",
+    "score": 75,
+    "landing_url": "IDEA-20260501092050.html"
+  },
+  {
     "id": "IDEA-20260501073554",
     "nombre": "FacilitaFacturas",
     "tipo": "SaaS",
