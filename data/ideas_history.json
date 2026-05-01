@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ProductivityBoost",
-      "descripcion": "ProductivityBoost es una herramienta diseñada específicamente para ayudar a las PYMES a gestionar mejor el tiempo de sus empleados, proporcionando funcionalidades como seguimiento del tiempo, planificación de tareas, análisis de productividad y recomendaciones personalizadas basadas en inteligencia artificial.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-01T14:52:49.125573"
-    },
-    {
       "nombre": "Finanzas al Día",
       "descripcion": "Finanzas al Día permite a los usuarios llevar un seguimiento en tiempo real de sus ingresos, gastos y flujo de caja, utilizando inteligencia artificial para ofrecer recomendaciones y alertas que ayuden a optimizar su salud financiera.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-01T18:45:56.576767"
+    },
+    {
+      "nombre": "Freelance TimeMaster",
+      "descripcion": "Freelance TimeMaster es una herramienta que permite a los freelancers organizar sus proyectos, hacer seguimiento del tiempo dedicado a cada tarea, gestionar la relación con los clientes y visualizar sus ingresos de manera sencilla. La plataforma también incluye recordatorios y estadísticas personalizadas para ayudar a mejorar la productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-01T19:53:55.020965"
     }
   ],
   "nombres_usados": [
-    "ProductivityBoost",
     "Finanzas al Día",
     "CashFlow Genie",
     "SociaLink",
@@ -8001,6 +8000,7 @@
     "Reputify",
     "BizBoost",
     "MindWise",
-    "MarketingPro AI"
+    "MarketingPro AI",
+    "Freelance TimeMaster"
   ]
 }
