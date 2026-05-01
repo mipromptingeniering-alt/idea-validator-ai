@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Finanzas al Día",
-      "descripcion": "Finanzas al Día permite a los usuarios llevar un seguimiento en tiempo real de sus ingresos, gastos y flujo de caja, utilizando inteligencia artificial para ofrecer recomendaciones y alertas que ayuden a optimizar su salud financiera.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-01T15:44:03.777738"
-    },
-    {
       "nombre": "CashFlow Genie",
       "descripcion": "CashFlow Genie permite a las pymes visualizar y gestionar su flujo de caja de manera simple, ofreciendo pronósticos precisos y consejos proactivos para mejorar su situación financiera. Integrándose con sistemas contables populares, proporciona una visión clara y práctica del estado financiero.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-01T19:53:55.020965"
+    },
+    {
+      "nombre": "ColabPro",
+      "descripcion": "ColabPro es una solución de software como servicio que proporciona herramientas de mensajería instantánea, gestión de tareas y videoconferencias, todo en un solo lugar, pensado para mejorar la productividad y la colaboración de equipos en PYMES.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-01T21:37:28.078591"
     }
   ],
   "nombres_usados": [
-    "Finanzas al Día",
     "CashFlow Genie",
     "SociaLink",
     "EasyInvoice",
@@ -8001,6 +8000,7 @@
     "BizBoost",
     "MindWise",
     "MarketingPro AI",
-    "Freelance TimeMaster"
+    "Freelance TimeMaster",
+    "ColabPro"
   ]
 }
