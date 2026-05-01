@@ -8576,6 +8576,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260501115217",
+    "nombre": "TimeFusion",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo y tareas que combina funcionalidades de productividad con personalización avanzada....",
+    "score": 70,
+    "landing_url": "IDEA-20260501115217.html"
+  },
+  {
     "id": "IDEA-20260430224314",
     "nombre": "TaskerHub",
     "tipo": "SaaS",
