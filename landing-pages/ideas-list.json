@@ -48,6 +48,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260501153134",
+    "nombre": "Reputify",
+    "tipo": "SaaS",
+    "resumen": "Herramienta de gestión de reputación en línea para pequeñas empresas que permite responder a reseñas y monitorear la reputación digital de manera senc...",
+    "score": 78,
+    "landing_url": "IDEA-20260501153134.html"
+  },
+  {
     "id": "IDEA-20260424163722",
     "nombre": "CashFlow Buddy",
     "tipo": "SaaS",
