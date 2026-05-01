@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260501012659",
+    "nombre": "ProTime Manager",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de tiempo y proyectos diseñada específicamente para freelancers y pequeños emprendedores, que utiliza IA para optimizar tar...",
+    "score": 75,
+    "landing_url": "IDEA-20260501012659.html"
+  },
+  {
     "id": "IDEA-20260430194810",
     "nombre": "Simplify Marketing",
     "tipo": "SaaS",

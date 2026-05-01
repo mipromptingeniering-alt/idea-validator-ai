@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SyncFlow",
-      "descripcion": "SyncFlow permite a los equipos remotos gestionar proyectos y tareas de manera efectiva, combinando un sistema de gestión de tareas con funciones de chat y videollamada, lo que facilita la comunicación y el seguimiento de actividades en tiempo real.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-28T21:53:37.837263"
-    },
-    {
       "nombre": "WebEasy",
       "descripcion": "WebEasy es una plataforma SaaS que ofrece herramientas de arrastrar y soltar, plantillas personalizables y asistencia técnica 24/7 para ayudar a pequeñas empresas a establecer su presencia online. Proporciona plantillas específicas para distintas industrias y un asistente virtual que guía al usuario a través del proceso de creación.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-01T01:26:59.979161"
+    },
+    {
+      "nombre": "PitchMasterPro",
+      "descripcion": "PitchMasterPro es una herramienta que permite a los emprendedores desarrollar pitches profesionales a través de plantillas dinámicas, herramientas de análisis de mercado, y recursos educativos. La plataforma ofrece asesoría personalizada basada en la idea del usuario y proporciona ejemplos de pitches exitosos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-01T05:03:27.644162"
     }
   ],
   "nombres_usados": [
-    "SyncFlow",
     "WebEasy",
     "WellConnect",
     "Mindful Productivity",
@@ -8001,6 +8000,7 @@
     "SocialBee",
     "Simplify Marketing",
     "TaskerHub",
-    "ProTime Manager"
+    "ProTime Manager",
+    "PitchMasterPro"
   ]
 }
