@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TaskWave",
-      "descripcion": "TaskWave es una plataforma que permite a los equipos remotos crear, asignar y priorizar tareas de manera sencilla, con un enfoque en la colaboración visual. Incluye plantillas específicas para diferentes tipos de proyectos creativos y se integra fácilmente con herramientas como Slack y Google Drive.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-01T11:54:41.375969"
-    },
-    {
       "nombre": "Marketify",
       "descripcion": "Marketify es un SaaS diseñado para ayudar a las pequeñas y medianas empresas a crear campañas de marketing digital personalizadas sin necesidad de experiencia previa. Utiliza un algoritmo de inteligencia artificial para analizar el comportamiento del cliente y sugerir automáticamente contenido y estrategias de campaña, permitiendo a las PYMEs optimizar su inversión en marketing.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-01T16:37:11.398463"
+    },
+    {
+      "nombre": "MindWise",
+      "descripcion": "MindWise ofrece un enfoque integral para ayudar a los empleados a gestionar el estrés y mejorar su bienestar mental a través de ejercicios interactivos, recursos de terapia cognitivo-conductual y un sistema de seguimiento del progreso emocional. La plataforma permite a los usuarios establecer objetivos, recibir retroalimentación y participar en actividades de bienestar personalizadas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-01T17:40:23.799412"
     }
   ],
   "nombres_usados": [
-    "TaskWave",
     "Marketify",
     "ProductivityBoost",
     "Finanzas al Día",
@@ -8001,6 +8000,7 @@
     "ConnectWork",
     "Portafolio Plus",
     "Reputify",
-    "BizBoost"
+    "BizBoost",
+    "MindWise"
   ]
 }
