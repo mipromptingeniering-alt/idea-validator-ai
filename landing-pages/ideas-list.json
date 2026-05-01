@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260501073554",
+    "nombre": "FacilitaFacturas",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta sencilla de facturación y gestión de pagos diseñada especialmente para pequeños emprendedores y freelancers....",
+    "score": 75,
+    "landing_url": "IDEA-20260501073554.html"
+  },
+  {
     "id": "IDEA-20260501050327",
     "nombre": "PitchMasterPro",
     "tipo": "SaaS",

@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "WellConnect",
-      "descripcion": "WellConnect es una plataforma SaaS diseñada para ayudar a los empleados a mantenerse productivos y emocionalmente conectados mientras trabajan de forma remota. Ofrece herramientas para gestionar tareas y proyectos, junto con actividades sociales virtuales, retos de bienestar y recursos de salud mental.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-02-28T23:40:16.521731"
-    },
-    {
       "nombre": "Mindful Productivity",
       "descripcion": "Mindful Productivity permite a los usuarios gestionar sus tareas diarias y proyectos mientras integra prácticas de bienestar mental, como ejercicios de respiración y pausas programadas para la meditación, ayudando a mantener el enfoque y reducir el estrés.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-01T07:35:54.826881"
+    },
+    {
+      "nombre": "Finanzas Sencillas",
+      "descripcion": "Finanzas Sencillas es un software que permite a las pymes gestionar sus finanzas de manera intuitiva, ofreciendo funcionalidades para el registro de ingresos y gastos, planificación de flujo de caja y módulos educativos que ayudan a los usuarios a comprender mejor sus finanzas. La plataforma incluye chatbots y tutoriales que guían a los usuarios en la toma de decisiones financieras y les ofrece recomendaciones basadas en su situación financiera.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-01T09:20:50.341226"
     }
   ],
   "nombres_usados": [
-    "WellConnect",
     "Mindful Productivity",
     "Mindful Project Manager",
     "WorkLife Harmony",
@@ -8001,6 +8000,7 @@
     "TaskerHub",
     "ProTime Manager",
     "PitchMasterPro",
-    "FacilitaFacturas"
+    "FacilitaFacturas",
+    "Finanzas Sencillas"
   ]
 }
