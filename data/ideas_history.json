@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MindfulBalance",
-      "descripcion": "MindfulBalance es un servicio en línea que ofrece programas personalizados de salud mental, que incluyen sesiones de terapia cognitivo-conductual, meditación guiada y un registro del estado de ánimo, todo adaptado a las necesidades individuales del usuario.",
-      "tipo": "SaaS",
-      "score": 78,
-      "fecha": "2026-03-01T08:59:27.121590"
-    },
-    {
       "nombre": "ContabiliEasy",
       "descripcion": "ContabiliEasy permite a las pequeñas y medianas empresas gestionar su contabilidad y finanzas de manera sencilla, generar reportes automáticos, y ofrecer integración con plataformas de venta como Shopify y WooCommerce. Con un enfoque en la usabilidad, la plataforma busca democratizar el acceso a la contabilidad profesional.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-01T12:59:35.194942"
+    },
+    {
+      "nombre": "Portafolio Plus",
+      "descripcion": "Portafolio Plus permite a los usuarios crear un portafolio visualmente atractivo y personalizable que pueden actualizar fácilmente. La herramienta ofrece análisis de rendimiento sobre qué trabajos generan más interés y permite integrar redes sociales para una mayor visibilidad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-01T14:17:22.173312"
     }
   ],
   "nombres_usados": [
-    "MindfulBalance",
     "ContabiliEasy",
     "PayEase",
     "TaskWave",
@@ -8001,6 +8000,7 @@
     "Finanzas Sencillas",
     "TaskNest",
     "TimeFusion",
-    "ConnectWork"
+    "ConnectWork",
+    "Portafolio Plus"
   ]
 }
