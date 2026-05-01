@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Marketify",
-      "descripcion": "Marketify es un SaaS diseñado para ayudar a las pequeñas y medianas empresas a crear campañas de marketing digital personalizadas sin necesidad de experiencia previa. Utiliza un algoritmo de inteligencia artificial para analizar el comportamiento del cliente y sugerir automáticamente contenido y estrategias de campaña, permitiendo a las PYMEs optimizar su inversión en marketing.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-01T13:51:46.461567"
-    },
-    {
       "nombre": "ProductivityBoost",
       "descripcion": "ProductivityBoost es una herramienta diseñada específicamente para ayudar a las PYMES a gestionar mejor el tiempo de sus empleados, proporcionando funcionalidades como seguimiento del tiempo, planificación de tareas, análisis de productividad y recomendaciones personalizadas basadas en inteligencia artificial.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-01T17:40:23.799412"
+    },
+    {
+      "nombre": "MarketingPro AI",
+      "descripcion": "MarketingPro AI utiliza algoritmos de inteligencia artificial para ayudar a las pymes a crear y gestionar campañas de marketing digital efectivas, con asesoramiento adaptado al sector y tamaño de la empresa.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-01T18:45:56.576767"
     }
   ],
   "nombres_usados": [
-    "Marketify",
     "ProductivityBoost",
     "Finanzas al Día",
     "CashFlow Genie",
@@ -8001,6 +8000,7 @@
     "Portafolio Plus",
     "Reputify",
     "BizBoost",
-    "MindWise"
+    "MindWise",
+    "MarketingPro AI"
   ]
 }
