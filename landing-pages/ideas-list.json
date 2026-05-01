@@ -456,6 +456,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260501141721",
+    "nombre": "Portafolio Plus",
+    "tipo": "SaaS",
+    "resumen": "Herramienta en línea para la creación y gestión de portafolios profesionales para creativos....",
+    "score": 75,
+    "landing_url": "IDEA-20260501141721.html"
+  },
+  {
     "id": "IDEA-20260501125935",
     "nombre": "ConnectWork",
     "tipo": "SaaS",

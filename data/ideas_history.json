@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ContabiliEasy",
-      "descripcion": "ContabiliEasy permite a las pequeñas y medianas empresas gestionar su contabilidad y finanzas de manera sencilla, generar reportes automáticos, y ofrecer integración con plataformas de venta como Shopify y WooCommerce. Con un enfoque en la usabilidad, la plataforma busca democratizar el acceso a la contabilidad profesional.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-01T09:54:24.694677"
-    },
-    {
       "nombre": "PayEase",
       "descripcion": "PayEase es una herramienta SaaS que permite a los freelancers y emprendedores gestionar todos sus pagos y facturas en un solo lugar, integrándose con plataformas populares como PayPal, Stripe y TransferWise. La aplicación no solo facilita la facturación, sino que también ofrece análisis financieros que ayudan a los usuarios a visualizar su flujo de caja y sus ingresos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-01T14:17:22.173312"
+    },
+    {
+      "nombre": "Reputify",
+      "descripcion": "Reputify es una plataforma diseñada para ayudar a pequeñas empresas y emprendedores a gestionar su reputación en línea de manera eficiente. Con un panel de control intuitivo, los usuarios pueden ver sus reseñas en diversos sitios de evaluación, responder automáticamente a comentarios y recibir alertas en tiempo real sobre nuevas reseñas. Además, proporciona análisis de sentimiento y recomendaciones para mejorar la percepción del cliente.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-05-01T15:31:34.848821"
     }
   ],
   "nombres_usados": [
-    "ContabiliEasy",
     "PayEase",
     "TaskWave",
     "Marketify",
@@ -8001,6 +8000,7 @@
     "TaskNest",
     "TimeFusion",
     "ConnectWork",
-    "Portafolio Plus"
+    "Portafolio Plus",
+    "Reputify"
   ]
 }
