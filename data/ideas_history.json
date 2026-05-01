@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "CashFlow Genie",
-      "descripcion": "CashFlow Genie permite a las pymes visualizar y gestionar su flujo de caja de manera simple, ofreciendo pronósticos precisos y consejos proactivos para mejorar su situación financiera. Integrándose con sistemas contables populares, proporciona una visión clara y práctica del estado financiero.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-01T15:59:51.592177"
-    },
-    {
       "nombre": "SociaLink",
       "descripcion": "SociaLink permite a las pequeñas y medianas empresas gestionar sus perfiles de redes sociales desde una única plataforma. Ofrece programación de publicaciones, analíticas de rendimiento, y recomendaciones personalizadas para mejorar la interacción con la audiencia.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-01T21:37:28.078591"
+    },
+    {
+      "nombre": "RemoteWell",
+      "descripcion": "RemoteWell ofrece un entorno de trabajo todo en uno que ayuda a los empleados a gestionar sus tareas diarias, comunicarse de manera efectiva con sus compañeros y cuidar su bienestar mental a través de recursos y herramientas de meditación y gestión del estrés.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-01T23:36:15.078181"
     }
   ],
   "nombres_usados": [
-    "CashFlow Genie",
     "SociaLink",
     "EasyInvoice",
     "SimplifyProject",
@@ -8001,6 +8000,7 @@
     "MindWise",
     "MarketingPro AI",
     "Freelance TimeMaster",
-    "ColabPro"
+    "ColabPro",
+    "RemoteWell"
   ]
 }
