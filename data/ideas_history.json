@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "HealthGuardian",
-      "descripcion": "HealthGuardian es una plataforma que permite a los usuarios rastrear la toma de medicamentos, programar y recordar citas médicas, y almacenar información de salud relevante de forma segura. Además, ofrecerá recordatorios inteligentes según el patrón de salud del usuario.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-01T23:59:34.905477"
-    },
-    {
       "nombre": "SmartSocial",
       "descripcion": "SmartSocial permite a las pequeñas y medianas empresas gestionar sus cuentas de redes sociales en un solo lugar. La plataforma ofrece recomendaciones de contenido, programación automatizada y análisis de rendimiento basado en un aprendizaje continuo de la interacción y preferencias de los seguidores.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-05-02T16:00:10.377141"
+    },
+    {
+      "nombre": "TherapyScheduler",
+      "descripcion": "TherapyScheduler es una herramienta que permite a terapeutas y psicólogos gestionar sus citas de manera eficiente, enviar recordatorios automáticos a los pacientes y llevar un seguimiento personalizado del progreso terapéutico. La solución incluye funciones de análisis que ayudan a los profesionales a mejorar su práctica.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-02T16:55:13.941922"
     }
   ],
   "nombres_usados": [
-    "HealthGuardian",
     "SmartSocial",
     "MindWell",
     "LearnTrack",
@@ -8001,6 +8000,7 @@
     "PymePro",
     "WebSimple",
     "PagoFácil",
-    "ClienteFácil"
+    "ClienteFácil",
+    "TherapyScheduler"
   ]
 }

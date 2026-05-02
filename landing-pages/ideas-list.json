@@ -464,6 +464,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260502160010",
+    "nombre": "ClienteFácil",
+    "tipo": "MicroSaaS",
+    "resumen": "Una herramienta de gestión de relaciones con clientes (CRM) sencilla y económica para pequeñas empresas enfocada en la gestión de clientes locales....",
+    "score": 75,
+    "landing_url": "IDEA-20260502160010.html"
+  },
+  {
     "id": "IDEA-20260502151147",
     "nombre": "PagoFácil",
     "tipo": "SaaS",
