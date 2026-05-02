@@ -9728,6 +9728,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260502115928",
+    "nombre": "PymePro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de proyectos diseñada específicamente para pequeñas y medianas empresas, con herramientas intuitivas y asistencia personaliz...",
+    "score": 68,
+    "landing_url": "IDEA-20260502115928.html"
+  },
+  {
     "id": "IDEA-20260419062117",
     "nombre": "InfoFilter Pro",
     "tipo": "SaaS",
