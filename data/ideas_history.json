@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialSync",
-      "descripcion": "SocialSync permite a los usuarios planificar, crear y programar su contenido en varias redes sociales desde una sola interfaz. La plataforma utiliza inteligencia artificial para analizar el rendimiento anterior y sugerir el mejor contenido y horarios para publicar, facilitando la toma de decisiones y ahorrando tiempo.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-01T22:52:59.501241"
-    },
-    {
       "nombre": "ProductiviSync",
       "descripcion": "ProductiviSync es una herramienta que centraliza la gestión de tareas, la comunicación y el seguimiento del progreso de los proyectos, ayudando a equipos remotos a colaborar de manera más eficiente. Ofrece sugerencias basadas en inteligencia artificial para priorizar tareas y optimizar recursos, junto con análisis de rendimiento del equipo.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-02T13:16:34.317710"
+    },
+    {
+      "nombre": "PagoFácil",
+      "descripcion": "PagoFácil permite a los usuarios gestionar sus facturas y pagos en múltiples divisas y métodos de pago de forma sencilla. La plataforma genera facturas automáticas, ofrece múltiples opciones de pago y permite a los usuarios llevar un registro claro de sus ingresos y gastos. Además, se integra con distintas cuentas bancarias y aplicaciones contables.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-02T15:11:47.462341"
     }
   ],
   "nombres_usados": [
-    "SocialSync",
     "ProductiviSync",
     "HealthGuardian",
     "SmartSocial",
@@ -8001,6 +8000,7 @@
     "TimeSync",
     "ProyecTime",
     "PymePro",
-    "WebSimple"
+    "WebSimple",
+    "PagoFácil"
   ]
 }

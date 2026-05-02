@@ -8664,6 +8664,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260502131634",
+    "nombre": "WebSimple",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que permite a las pymes crear y gestionar sus sitios web de manera simple y rápida, sin necesidad de conocimientos técnicos....",
+    "score": 70,
+    "landing_url": "IDEA-20260502131634.html"
+  },
+  {
     "id": "IDEA-20260502063113",
     "nombre": "SocialSimple",
     "tipo": "SaaS",
