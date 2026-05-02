@@ -8640,6 +8640,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260502011825",
+    "nombre": "WellnessSync",
+    "tipo": "SaaS",
+    "resumen": "Plataforma para gestionar proyectos y bienestar emocional en equipos remotos....",
+    "score": 70,
+    "landing_url": "IDEA-20260502011825.html"
+  },
+  {
     "id": "IDEA-20260501163711",
     "nombre": "BizBoost",
     "tipo": "SaaS",

@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "EasyInvoice",
-      "descripcion": "EasyInvoice permite a los usuarios crear y enviar facturas de manera rápida, realizar seguimientos de pagos, y recibir recordatorios automáticos. La plataforma se integra con pasarelas de pago para facilitar transacciones instantáneas y mejorar el flujo de caja.",
-      "tipo": "SaaS",
-      "score": 78,
-      "fecha": "2026-03-01T17:48:19.181104"
-    },
-    {
       "nombre": "SimplifyProject",
       "descripcion": "SimplifyProject es una plataforma SaaS diseñada para ayudar a pequeñas empresas y freelancers a gestionar sus proyectos de manera eficiente. Ofrece funcionalidades clave en una interfaz intuitiva, incluyendo gestión de tareas, colaboración en equipo y seguimiento de progreso.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-02T01:18:26.011692"
+    },
+    {
+      "nombre": "SocialSimple",
+      "descripcion": "SocialSimple es una plataforma que permite a las PYMEs gestionar sus redes sociales de manera eficiente. Ofrece plantillas prediseñadas, sugerencias de contenido relevantes y un calendario de publicaciones automatizado para ahorrar tiempo y aumentar el compromiso con sus clientes.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-05-02T06:31:13.879707"
     }
   ],
   "nombres_usados": [
-    "EasyInvoice",
     "SimplifyProject",
     "FinanSync",
     "CreatorSync",
@@ -8001,6 +8000,7 @@
     "Freelance TimeMaster",
     "ColabPro",
     "RemoteWell",
-    "WellnessSync"
+    "WellnessSync",
+    "SocialSimple"
   ]
 }
