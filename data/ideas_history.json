@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "DataEase",
-      "descripcion": "DataEase permite a las PyMEs importar sus datos de ventas y clientes de manera sencilla, generando informes visuales intuitivos que facilitan la toma de decisiones estratégicas. No se requiere experiencia en análisis de datos para utilizar la plataforma.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-02T11:50:30.280253"
-    },
-    {
       "nombre": "ProyecPlus",
       "descripcion": "ProyecPlus permite a las PYMEs gestionar sus proyectos de manera eficiente, facilitando la colaboración entre equipos, el seguimiento del progreso de las tareas y la gestión del tiempo, todo ello en una interfaz intuitiva y fácil de usar. Además, se integrará con aplicaciones populares como Google Drive y Slack para optimizar la experiencia del usuario.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-02T19:41:14.999238"
+    },
+    {
+      "nombre": "Remoto Conectado",
+      "descripcion": "Remoto Conectado es una herramienta digital que permite a los equipos remotos participar en actividades de bienestar y socialización, como juegos en línea, meditación grupal y foros de discusión sobre salud mental. Los usuarios pueden crear perfiles, participar en desafíos y seguir su progreso en el bienestar emocional y la conexión social.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-02T20:23:11.112600"
     }
   ],
   "nombres_usados": [
-    "DataEase",
     "ProyecPlus",
     "SocialOptimizer",
     "SocialMaster",
@@ -8001,6 +8000,7 @@
     "TherapyScheduler",
     "SocialSync",
     "TaskMarketer",
-    "ProAutónomo"
+    "ProAutónomo",
+    "Remoto Conectado"
   ]
 }

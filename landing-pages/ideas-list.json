@@ -464,6 +464,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260502194114",
+    "nombre": "ProAutónomo",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de proyectos diseñada específicamente para autónomos y pequeños empresarios....",
+    "score": 75,
+    "landing_url": "IDEA-20260502194114.html"
+  },
+  {
     "id": "IDEA-20260502173823",
     "nombre": "SocialSync",
     "tipo": "SaaS",
