@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MindWell",
-      "descripcion": "MindWell proporciona un conjunto de herramientas para que las empresas puedan evaluar y mejorar el bienestar mental de sus empleados. A través de autoevaluaciones periódicas, el sistema ofrece recomendaciones personalizadas y notifica a los gestores sobre tendencias de bienestar en el equipo, ayudándolos a implementar estrategias de mejora.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-02T07:54:30.667410"
-    },
-    {
       "nombre": "LearnTrack",
       "descripcion": "LearnTrack es una aplicación web que permite a los estudiantes planificar sus horarios de estudio, establecer metas, realizar seguimientos de su progreso y mantener la motivación a través de recompensas y logros. Incorpora herramientas de análisis que permiten a los usuarios ver su rendimiento y ajustar su plan de estudio.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-02T17:38:23.804001"
+    },
+    {
+      "nombre": "TaskMarketer",
+      "descripcion": "TaskMarketer permite a los usuarios gestionar sus tareas diarias mientras planifican y automatizan sus actividades de marketing. Con una interfaz intuitiva y recordatorios de marketing programados, los usuarios podrán concentrarse en su trabajo sin olvidar las necesidades de promoción.",
+      "tipo": "SaaS",
+      "score": 65,
+      "fecha": "2026-05-02T18:34:47.428666"
     }
   ],
   "nombres_usados": [
-    "MindWell",
     "LearnTrack",
     "DataEase",
     "ProyecPlus",
@@ -8001,6 +8000,7 @@
     "PagoFácil",
     "ClienteFácil",
     "TherapyScheduler",
-    "SocialSync"
+    "SocialSync",
+    "TaskMarketer"
   ]
 }
