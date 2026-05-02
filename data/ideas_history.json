@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "QuickTasker",
-      "descripcion": "QuickTasker es una aplicación de gestión de proyectos diseñada específicamente para trabajadores independientes. Ofrece una interfaz intuitiva y características como gestión de tareas, recordatorios, y una función de IA que sugiere prioridades. Todo esto con un enfoque en mantener todo sencillo y accesible.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-01T21:42:08.986981"
-    },
-    {
       "nombre": "EcoBusiness Guide",
       "descripcion": "EcoBusiness Guide es una plataforma online que permite a las pequeñas y medianas empresas recibir asesoría personalizada sobre sostenibilidad, incluyendo recomendaciones de prácticas, recursos educativos y herramientas de seguimiento para medir su impacto ambiental.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-02T11:13:15.315498"
+    },
+    {
+      "nombre": "PymePro",
+      "descripcion": "PymePro es una herramienta que permite a las pymes planificar, ejecutar y supervisar proyectos de manera eficiente. Con un enfoque en la simplicidad y la accesibilidad, ofrece funcionalidades como gestión de tareas, seguimiento del tiempo, asignación de recursos y reportes, todo en un solo lugar. Además, cuenta con un servicio de chat para consultas en tiempo real, orientado a resolver problemas comunes que enfrentan las pequeñas empresas.",
+      "tipo": "SaaS",
+      "score": 68,
+      "fecha": "2026-05-02T11:59:28.239841"
     }
   ],
   "nombres_usados": [
-    "QuickTasker",
     "EcoBusiness Guide",
     "SocialSync",
     "ProductiviSync",
@@ -8001,6 +8000,7 @@
     "SocialSimple",
     "Contabilidad Inteligente",
     "TimeSync",
-    "ProyecTime"
+    "ProyecTime",
+    "PymePro"
   ]
 }

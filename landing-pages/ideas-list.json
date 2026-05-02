@@ -464,6 +464,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260502111315",
+    "nombre": "ProyecTime",
+    "tipo": "SaaS",
+    "resumen": "Herramienta de gestión de proyectos que integra inteligencia artificial para optimizar la productividad....",
+    "score": 75,
+    "landing_url": "IDEA-20260502111315.html"
+  },
+  {
     "id": "IDEA-20260502092005",
     "nombre": "TimeSync",
     "tipo": "SaaS",
