@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SimplifyProject",
-      "descripcion": "SimplifyProject es una plataforma SaaS diseñada para ayudar a pequeñas empresas y freelancers a gestionar sus proyectos de manera eficiente. Ofrece funcionalidades clave en una interfaz intuitiva, incluyendo gestión de tareas, colaboración en equipo y seguimiento de progreso.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-01T19:00:30.374149"
-    },
-    {
       "nombre": "FinanSync",
       "descripcion": "FinanSync facilita la gestión de las finanzas personales y empresariales al ofrecer una interfaz intuitiva para seguir gastos, generar facturas, establecer presupuestos y proyectar flujos de caja. La aplicación permite integrar cuentas bancarias y otras plataformas financieras para una visión completa de las finanzas.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-02T06:31:13.879707"
+    },
+    {
+      "nombre": "Contabilidad Inteligente",
+      "descripcion": "Contabilidad Inteligente es una solución SaaS que permite a las PYMEs gestionar sus finanzas de manera fácil e intuitiva. Incluye funcionalidades de facturación, conciliación automática de cuentas y sugerencias de optimización fiscal basadas en la inteligencia artificial. La plataforma está diseñada para ser usada por personas sin formación contable, así que su interfaz es muy amigable y accesible.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-02T08:09:44.952115"
     }
   ],
   "nombres_usados": [
-    "SimplifyProject",
     "FinanSync",
     "CreatorSync",
     "QuickTasker",
@@ -8001,6 +8000,7 @@
     "ColabPro",
     "RemoteWell",
     "WellnessSync",
-    "SocialSimple"
+    "SocialSimple",
+    "Contabilidad Inteligente"
   ]
 }
