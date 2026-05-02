@@ -464,6 +464,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260502092005",
+    "nombre": "TimeSync",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión del tiempo y tareas diseñada específicamente para trabajadores remotos y freelance....",
+    "score": 75,
+    "landing_url": "IDEA-20260502092005.html"
+  },
+  {
     "id": "IDEA-20260502080944",
     "nombre": "Contabilidad Inteligente",
     "tipo": "SaaS",

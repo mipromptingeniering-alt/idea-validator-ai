@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "CreatorSync",
-      "descripcion": "CreatorSync permite a los creadores de contenido subir, programar y analizar su contenido para diversas plataformas sociales, además de ofrecer herramientas para la monetización y la optimización de su audiencia.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-01T20:53:12.953884"
-    },
-    {
       "nombre": "QuickTasker",
       "descripcion": "QuickTasker es una aplicación de gestión de proyectos diseñada específicamente para trabajadores independientes. Ofrece una interfaz intuitiva y características como gestión de tareas, recordatorios, y una función de IA que sugiere prioridades. Todo esto con un enfoque en mantener todo sencillo y accesible.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-02T09:20:05.818580"
+    },
+    {
+      "nombre": "ProyecTime",
+      "descripcion": "ProyecTime es una plataforma SaaS que permite a profesionales autónomos y pequeñas empresas gestionar sus tareas y proyectos de manera eficiente. Utilizando inteligencia artificial, la plataforma ofrece sugerencias personalizadas de organización y priorización de tareas, mejorando así la productividad individual y en equipo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-02T11:13:15.315498"
     }
   ],
   "nombres_usados": [
-    "CreatorSync",
     "QuickTasker",
     "EcoBusiness Guide",
     "SocialSync",
@@ -8001,6 +8000,7 @@
     "WellnessSync",
     "SocialSimple",
     "Contabilidad Inteligente",
-    "TimeSync"
+    "TimeSync",
+    "ProyecTime"
   ]
 }
