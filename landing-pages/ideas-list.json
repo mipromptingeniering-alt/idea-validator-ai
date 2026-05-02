@@ -464,6 +464,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260501233614",
+    "nombre": "RemoteWell",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de tareas y bienestar diseñada específicamente para equipos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260501233614.html"
+  },
+  {
     "id": "IDEA-20260501213727",
     "nombre": "ColabPro",
     "tipo": "SaaS",

@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SociaLink",
-      "descripcion": "SociaLink permite a las pequeñas y medianas empresas gestionar sus perfiles de redes sociales desde una única plataforma. Ofrece programación de publicaciones, analíticas de rendimiento, y recomendaciones personalizadas para mejorar la interacción con la audiencia.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-01T16:56:00.632682"
-    },
-    {
       "nombre": "EasyInvoice",
       "descripcion": "EasyInvoice permite a los usuarios crear y enviar facturas de manera rápida, realizar seguimientos de pagos, y recibir recordatorios automáticos. La plataforma se integra con pasarelas de pago para facilitar transacciones instantáneas y mejorar el flujo de caja.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-01T23:36:15.078181"
+    },
+    {
+      "nombre": "WellnessSync",
+      "descripcion": "WellnessSync es una plataforma SaaS que ayuda a los equipos remotos a gestionar sus proyectos mientras promueve el bienestar emocional mediante recordatorios de pausas, ejercicios de mindfulness y encuestas de carga laboral. La herramienta se integra con aplicaciones populares de gestión de proyectos y comunicación como Slack y Trello.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-05-02T01:18:26.011692"
     }
   ],
   "nombres_usados": [
-    "SociaLink",
     "EasyInvoice",
     "SimplifyProject",
     "FinanSync",
@@ -8001,6 +8000,7 @@
     "MarketingPro AI",
     "Freelance TimeMaster",
     "ColabPro",
-    "RemoteWell"
+    "RemoteWell",
+    "WellnessSync"
   ]
 }
