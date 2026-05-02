@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ProyecPlus",
-      "descripcion": "ProyecPlus permite a las PYMEs gestionar sus proyectos de manera eficiente, facilitando la colaboración entre equipos, el seguimiento del progreso de las tareas y la gestión del tiempo, todo ello en una interfaz intuitiva y fácil de usar. Además, se integrará con aplicaciones populares como Google Drive y Slack para optimizar la experiencia del usuario.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-02T14:29:54.620567"
-    },
-    {
       "nombre": "SocialOptimizer",
       "descripcion": "SocialOptimizer permite a las pequeñas empresas gestionar sus cuentas de redes sociales en un solo lugar. Ofrece recomendaciones personalizadas de contenido, programación automática de publicaciones y análisis de rendimiento en tiempo real, todo a través de una interfaz amigable.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-02T20:23:11.112600"
+    },
+    {
+      "nombre": "TherapyFlow",
+      "descripcion": "TherapyFlow permite a los terapeutas administrar sus citas, hacer un seguimiento del progreso de sus pacientes mediante herramientas de registro y evaluación, y gestionar la facturación y pagos de manera sencilla. La plataforma se centra en la usabilidad y en ofrecer recursos educativos para pacientes, creando una experiencia integral.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-05-02T21:57:22.240510"
     }
   ],
   "nombres_usados": [
-    "ProyecPlus",
     "SocialOptimizer",
     "SocialMaster",
     "TaskSmart",
@@ -8001,6 +8000,7 @@
     "SocialSync",
     "TaskMarketer",
     "ProAutónomo",
-    "Remoto Conectado"
+    "Remoto Conectado",
+    "TherapyFlow"
   ]
 }
