@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FinanSync",
-      "descripcion": "FinanSync facilita la gestión de las finanzas personales y empresariales al ofrecer una interfaz intuitiva para seguir gastos, generar facturas, establecer presupuestos y proyectar flujos de caja. La aplicación permite integrar cuentas bancarias y otras plataformas financieras para una visión completa de las finanzas.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-01T19:56:54.514145"
-    },
-    {
       "nombre": "CreatorSync",
       "descripcion": "CreatorSync permite a los creadores de contenido subir, programar y analizar su contenido para diversas plataformas sociales, además de ofrecer herramientas para la monetización y la optimización de su audiencia.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-02T08:09:44.952115"
+    },
+    {
+      "nombre": "TimeSync",
+      "descripcion": "TimeSync ofrece una plataforma intuitiva que permite a los usuarios registrar su tiempo, gestionar tareas y recibir informes para mejorar la productividad. Además, incluye integración con calendarios, notificaciones y métodos de motivación personal.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-02T09:20:05.818580"
     }
   ],
   "nombres_usados": [
-    "FinanSync",
     "CreatorSync",
     "QuickTasker",
     "EcoBusiness Guide",
@@ -8001,6 +8000,7 @@
     "RemoteWell",
     "WellnessSync",
     "SocialSimple",
-    "Contabilidad Inteligente"
+    "Contabilidad Inteligente",
+    "TimeSync"
   ]
 }
