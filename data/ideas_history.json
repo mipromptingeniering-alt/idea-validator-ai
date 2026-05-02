@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SmartSocial",
-      "descripcion": "SmartSocial permite a las pequeñas y medianas empresas gestionar sus cuentas de redes sociales en un solo lugar. La plataforma ofrece recomendaciones de contenido, programación automatizada y análisis de rendimiento basado en un aprendizaje continuo de la interacción y preferencias de los seguidores.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-02T05:08:25.668849"
-    },
-    {
       "nombre": "MindWell",
       "descripcion": "MindWell proporciona un conjunto de herramientas para que las empresas puedan evaluar y mejorar el bienestar mental de sus empleados. A través de autoevaluaciones periódicas, el sistema ofrece recomendaciones personalizadas y notifica a los gestores sobre tendencias de bienestar en el equipo, ayudándolos a implementar estrategias de mejora.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-02T16:55:13.941922"
+    },
+    {
+      "nombre": "SocialSync",
+      "descripcion": "SocialSync es un software como servicio que permite a las pequeñas empresas optimizar su actividad en redes sociales, programar publicaciones, analizar el rendimiento y diseñar contenido atractivo, todo desde una sola plataforma fácil de usar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-02T17:38:23.804001"
     }
   ],
   "nombres_usados": [
-    "SmartSocial",
     "MindWell",
     "LearnTrack",
     "DataEase",
@@ -8001,6 +8000,7 @@
     "WebSimple",
     "PagoFácil",
     "ClienteFácil",
-    "TherapyScheduler"
+    "TherapyScheduler",
+    "SocialSync"
   ]
 }

@@ -464,6 +464,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260502165513",
+    "nombre": "TherapyScheduler",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de citas diseñada específicamente para profesionales de la salud mental....",
+    "score": 75,
+    "landing_url": "IDEA-20260502165513.html"
+  },
+  {
     "id": "IDEA-20260502160010",
     "nombre": "ClienteFácil",
     "tipo": "MicroSaaS",
