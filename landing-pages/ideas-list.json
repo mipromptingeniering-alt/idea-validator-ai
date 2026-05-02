@@ -464,6 +464,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260502151147",
+    "nombre": "PagoFácil",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral de gestión de pagos y facturación para freelancers y pequeñas empresas con clientes internacionales....",
+    "score": 75,
+    "landing_url": "IDEA-20260502151147.html"
+  },
+  {
     "id": "IDEA-20260502111315",
     "nombre": "ProyecTime",
     "tipo": "SaaS",

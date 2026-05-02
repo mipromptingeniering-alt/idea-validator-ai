@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ProductiviSync",
-      "descripcion": "ProductiviSync es una herramienta que centraliza la gestión de tareas, la comunicación y el seguimiento del progreso de los proyectos, ayudando a equipos remotos a colaborar de manera más eficiente. Ofrece sugerencias basadas en inteligencia artificial para priorizar tareas y optimizar recursos, junto con análisis de rendimiento del equipo.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-01T23:44:10.412847"
-    },
-    {
       "nombre": "HealthGuardian",
       "descripcion": "HealthGuardian es una plataforma que permite a los usuarios rastrear la toma de medicamentos, programar y recordar citas médicas, y almacenar información de salud relevante de forma segura. Además, ofrecerá recordatorios inteligentes según el patrón de salud del usuario.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-02T15:11:47.462341"
+    },
+    {
+      "nombre": "ClienteFácil",
+      "descripcion": "ClienteFácil es un CRM diseñado específicamente para emprendedores y pequeñas empresas que buscan una solución accesible y fácil de usar para gestionar sus relaciones con clientes. La plataforma incluye funcionalidades como seguimiento de oportunidades de venta, gestión de contactos y plantillas de correo personalizables.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-05-02T16:00:10.377141"
     }
   ],
   "nombres_usados": [
-    "ProductiviSync",
     "HealthGuardian",
     "SmartSocial",
     "MindWell",
@@ -8001,6 +8000,7 @@
     "ProyecTime",
     "PymePro",
     "WebSimple",
-    "PagoFácil"
+    "PagoFácil",
+    "ClienteFácil"
   ]
 }
