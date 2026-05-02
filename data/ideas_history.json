@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "LearnTrack",
-      "descripcion": "LearnTrack es una aplicación web que permite a los estudiantes planificar sus horarios de estudio, establecer metas, realizar seguimientos de su progreso y mantener la motivación a través de recompensas y logros. Incorpora herramientas de análisis que permiten a los usuarios ver su rendimiento y ajustar su plan de estudio.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-02T10:31:15.204688"
-    },
-    {
       "nombre": "DataEase",
       "descripcion": "DataEase permite a las PyMEs importar sus datos de ventas y clientes de manera sencilla, generando informes visuales intuitivos que facilitan la toma de decisiones estratégicas. No se requiere experiencia en análisis de datos para utilizar la plataforma.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 65,
       "fecha": "2026-05-02T18:34:47.428666"
+    },
+    {
+      "nombre": "ProAutónomo",
+      "descripcion": "ProAutónomo es un software que combina la gestión de proyectos, tareas y clientes, permitiendo a los autónomos organizar su trabajo de manera eficiente, establecer plazos, y realizar seguimiento del tiempo y los ingresos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-02T19:41:14.999238"
     }
   ],
   "nombres_usados": [
-    "LearnTrack",
     "DataEase",
     "ProyecPlus",
     "SocialOptimizer",
@@ -8001,6 +8000,7 @@
     "ClienteFácil",
     "TherapyScheduler",
     "SocialSync",
-    "TaskMarketer"
+    "TaskMarketer",
+    "ProAutónomo"
   ]
 }
