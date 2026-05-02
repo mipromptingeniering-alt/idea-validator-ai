@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialOptimizer",
-      "descripcion": "SocialOptimizer permite a las pequeñas empresas gestionar sus cuentas de redes sociales en un solo lugar. Ofrece recomendaciones personalizadas de contenido, programación automática de publicaciones y análisis de rendimiento en tiempo real, todo a través de una interfaz amigable.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-02T16:07:36.484999"
-    },
-    {
       "nombre": "SocialMaster",
       "descripcion": "SocialMaster permite a las pequeñas y medianas empresas gestionar su presencia en redes sociales de manera efectiva, proporcionando análisis de rendimiento, generación de contenido basado en tendencias actuales y programación automática de publicaciones, todo en una sola plataforma intuitiva.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-02T21:57:22.240510"
+    },
+    {
+      "nombre": "FocusConnect",
+      "descripcion": "FocusConnect ofrece herramientas de gestión de tareas y tiempo, combinadas con salas de chat y actividades grupales para fomentar la interacción entre los trabajadores remotos. Los usuarios pueden establecer metas de productividad y participar en desafíos que les permitan conectar con otros y compartir sus logros.",
+      "tipo": "SaaS",
+      "score": 76,
+      "fecha": "2026-05-02T22:36:47.609944"
     }
   ],
   "nombres_usados": [
-    "SocialOptimizer",
     "SocialMaster",
     "TaskSmart",
     "FinanciaPro",
@@ -8001,6 +8000,7 @@
     "TaskMarketer",
     "ProAutónomo",
     "Remoto Conectado",
-    "TherapyFlow"
+    "TherapyFlow",
+    "FocusConnect"
   ]
 }

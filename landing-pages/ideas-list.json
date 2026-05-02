@@ -8712,6 +8712,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260502215722",
+    "nombre": "TherapyFlow",
+    "tipo": "SaaS",
+    "resumen": "TherapyFlow es una plataforma todo-en-uno para terapeutas, que facilita la gestión de citas, el seguimiento de pacientes y la facturación, mejorando l...",
+    "score": 70,
+    "landing_url": "IDEA-20260502215722.html"
+  },
+  {
     "id": "IDEA-20260502131634",
     "nombre": "WebSimple",
     "tipo": "SaaS",
