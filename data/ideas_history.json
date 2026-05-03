@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ProjectEase",
-      "descripcion": "ProjectEase es una herramienta de gestión de proyectos diseñada especialmente para pequeñas y medianas empresas, que permite a los equipos planificar, seguir y colaborar en sus proyectos de manera sencilla y adaptada a sus necesidades específicas. Con una interfaz intuitiva y herramientas de personalización, ProjectEase se convierte en la solución ideal para el trabajo en equipo efectivo.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-03T22:56:50.188563"
-    },
-    {
       "nombre": "HealthScheduler",
       "descripcion": "HealthScheduler permite a los profesionales gestionar sus citas, enviar recordatorios automáticos a los pacientes y rastrear el historial de atención de los clientes. Además, ofrece un análisis de desempeño para ayudar a los profesionales a entender mejor sus prácticas y mejorar la satisfacción del cliente.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-03T21:58:28.405556"
+    },
+    {
+      "nombre": "GastoControl",
+      "descripcion": "GastoControl permite a las pymes registrar, categorizar y analizar sus gastos operativos de forma sencilla, generando informes que ayudan a los propietarios a tomar decisiones financieras informadas. Además, se integra con las principales plataformas contables.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-03T23:27:29.737190"
     }
   ],
   "nombres_usados": [
-    "ProjectEase",
     "HealthScheduler",
     "PymeSmart",
     "SocialRise",
@@ -8001,6 +8000,7 @@
     "CustomCRM",
     "DigiGestion",
     "PYME Marketing Hub",
-    "SocialSimplify"
+    "SocialSimplify",
+    "GastoControl"
   ]
 }
