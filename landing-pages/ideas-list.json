@@ -480,6 +480,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260503144200",
+    "nombre": "Marketing Simplificado",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de marketing digital todo-en-uno para PYMEs que simplifica y automatiza tareas de marketing....",
+    "score": 75,
+    "landing_url": "IDEA-20260503144200.html"
+  },
+  {
     "id": "IDEA-20260503134744",
     "nombre": "PomodoroTasker",
     "tipo": "MicroSaaS",
