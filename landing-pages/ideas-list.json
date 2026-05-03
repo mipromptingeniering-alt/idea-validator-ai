@@ -480,6 +480,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260503134744",
+    "nombre": "PomodoroTasker",
+    "tipo": "MicroSaaS",
+    "resumen": "Una herramienta sencilla de gestión de tareas que integra la técnica Pomodoro para mejorar la productividad y organización de pequeñas empresas y free...",
+    "score": 75,
+    "landing_url": "IDEA-20260503134744.html"
+  },
+  {
     "id": "IDEA-20260503120327",
     "nombre": "WorkFlow Wizard",
     "tipo": "SaaS",
