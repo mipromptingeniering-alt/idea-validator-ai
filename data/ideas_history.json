@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Creative Workspace Pro",
-      "descripcion": "Creative Workspace Pro es una solución en línea que permite a diseñadores, escritores y músicos crear su propio espacio de trabajo digital, integrando herramientas que van desde la gestión de proyectos, hasta editores de texto y tableros de ideas, todo en una interfaz intuitiva y personalizable.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-03T14:31:46.530058"
-    },
-    {
       "nombre": "CollabBoost",
       "descripcion": "CollabBoost permite a los equipos gestionar sus tareas, comunicarse y recibir recomendaciones personalizadas para mejorar su productividad, todo desde una única interfaz. Utiliza IA para analizar patrones de trabajo y ofrecer sugerencias específicas a los equipos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-03T17:07:08.977710"
+    },
+    {
+      "nombre": "EasyBills Project Manager",
+      "descripcion": "EasyBills Project Manager permite a los usuarios gestionar sus tareas diarias y proyectos en un solo lugar mientras generan y envían facturas de forma rápida y eficiente. Con un enfoque en la usabilidad, facilita el seguimiento del tiempo y gastos relacionados con cada proyecto.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-03T18:01:32.578937"
     }
   ],
   "nombres_usados": [
-    "Creative Workspace Pro",
     "CollabBoost",
     "InvControl",
     "TimeMaster Pro",
@@ -8001,6 +8000,7 @@
     "Marketing Simplificado",
     "SocialBee Pro",
     "CreativeTimeTrack",
-    "PortafolioFácil"
+    "PortafolioFácil",
+    "EasyBills Project Manager"
   ]
 }
