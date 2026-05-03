@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialMaster",
-      "descripcion": "SocialMaster permite a las pequeñas y medianas empresas gestionar su presencia en redes sociales de manera efectiva, proporcionando análisis de rendimiento, generación de contenido basado en tendencias actuales y programación automática de publicaciones, todo en una sola plataforma intuitiva.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-02T18:06:14.864222"
-    },
-    {
       "nombre": "TaskSmart",
       "descripcion": "TaskSmart ofrece a los usuarios un dashboard intuitivo donde pueden ingresar sus tareas diarias. La plataforma utiliza algoritmos de inteligencia artificial para analizar las tareas y sugerir un horario óptimo, priorizando las actividades según plazos y niveles de importancia. Además, se integra con calendarios existentes para una mejor sincronización.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 76,
       "fecha": "2026-05-02T22:36:47.609944"
+    },
+    {
+      "nombre": "PymeBoost",
+      "descripcion": "PymeBoost permite a las PYMES crear campañas de marketing digital efectivas sin necesidad de un equipo dedicado. Incluye herramientas de automatización de correos electrónicos, gestión de redes sociales, creación de contenido y análisis del rendimiento de las campañas, todo en un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-03T04:09:23.983572"
     }
   ],
   "nombres_usados": [
-    "SocialMaster",
     "TaskSmart",
     "FinanciaPro",
     "DataSense",
@@ -8001,6 +8000,7 @@
     "ProAutónomo",
     "Remoto Conectado",
     "TherapyFlow",
-    "FocusConnect"
+    "FocusConnect",
+    "PymeBoost"
   ]
 }
