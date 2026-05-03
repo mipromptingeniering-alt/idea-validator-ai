@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TimeMaster Pro",
-      "descripcion": "TimeMaster Pro es una herramienta que permite a los profesionales autónomos gestionar sus tareas, proyectos, y tiempo de manera eficiente. Utiliza inteligencia artificial para adaptar las prioridades y recordatorios según las preferencias y patrones de trabajo del usuario, ayudando a maximizar la productividad.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-03T20:58:35.250256"
-    },
-    {
       "nombre": "ContentFlow",
       "descripcion": "ContentFlow es un software que permite a los creadores de contenido gestionar sus publicaciones en diferentes redes sociales desde un solo lugar, optimizando el tiempo y mejorando la eficiencia. Proporciona análisis en tiempo real y recomendaciones para aumentar el alcance y la interacción de las publicaciones.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-03T20:04:52.851698"
+    },
+    {
+      "nombre": "PYME Marketing Hub",
+      "descripcion": "PYME Marketing Hub es una solución integral que permite a las pequeñas y medianas empresas gestionar sus campañas de marketing digital desde una sola plataforma. Ofrece herramientas de automatización de email marketing, gestión de redes sociales y analítica de datos, todo diseñado para ser accesible y fácil de usar, sin necesidad de experiencia previa en marketing.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-03T21:00:55.143197"
     }
   ],
   "nombres_usados": [
-    "TimeMaster Pro",
     "ContentFlow",
     "ProjectEase",
     "HealthScheduler",
@@ -8001,6 +8000,7 @@
     "PortafolioFácil",
     "EasyBills Project Manager",
     "CustomCRM",
-    "DigiGestion"
+    "DigiGestion",
+    "PYME Marketing Hub"
   ]
 }
