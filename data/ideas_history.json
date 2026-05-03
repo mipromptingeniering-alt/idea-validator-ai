@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TaskSmart",
-      "descripcion": "TaskSmart ofrece a los usuarios un dashboard intuitivo donde pueden ingresar sus tareas diarias. La plataforma utiliza algoritmos de inteligencia artificial para analizar las tareas y sugerir un horario óptimo, priorizando las actividades según plazos y niveles de importancia. Además, se integra con calendarios existentes para una mejor sincronización.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-02T19:53:54.450541"
-    },
-    {
       "nombre": "FinanciaPro",
       "descripcion": "FinanciaPro ofrece una interfaz amigable que permite a las PYMES gestionar sus cuentas, emitir y rastrear facturas, y obtener informes de flujo de caja automáticos con solo unos clics. La plataforma integra funciones de aprendizaje automático para predecir las tendencias financieras basadas en datos históricos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-03T04:09:23.983572"
+    },
+    {
+      "nombre": "WellConnect",
+      "descripcion": "WellConnect es una plataforma SaaS que ayuda a los equipos remotos a mejorar su productividad y bienestar emocional. A través de herramientas de gestión de tareas, meditación guiada, y actividades de equipo, WellConnect crea un ambiente de trabajo más saludable y conectado.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-03T06:38:11.120558"
     }
   ],
   "nombres_usados": [
-    "TaskSmart",
     "FinanciaPro",
     "DataSense",
     "CashFlow Easy",
@@ -8001,6 +8000,7 @@
     "Remoto Conectado",
     "TherapyFlow",
     "FocusConnect",
-    "PymeBoost"
+    "PymeBoost",
+    "WellConnect"
   ]
 }
