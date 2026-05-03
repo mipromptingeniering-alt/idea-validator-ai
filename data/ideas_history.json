@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "CollabBoost",
-      "descripcion": "CollabBoost permite a los equipos gestionar sus tareas, comunicarse y recibir recomendaciones personalizadas para mejorar su productividad, todo desde una única interfaz. Utiliza IA para analizar patrones de trabajo y ofrecer sugerencias específicas a los equipos.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-03T17:11:34.126803"
-    },
-    {
       "nombre": "InvControl",
       "descripcion": "InvControl permite a las pequeñas y medianas empresas gestionar su inventario de forma eficiente a través de una plataforma intuitiva que ofrece seguimiento en tiempo real, alertas de stock bajo, y análisis de ventas para prever necesidades futuras.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-03T18:01:32.578937"
+    },
+    {
+      "nombre": "CustomCRM",
+      "descripcion": "CustomCRM es una plataforma de CRM diseñada específicamente para pequeñas y medianas empresas, que permite la personalización de funcionalidades clave según las necesidades de cada negocio. Ofrece herramientas para la gestión de clientes, seguimiento de ventas y soporte al cliente desde una única interfaz, todo a un precio accesible.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-05-03T19:16:40.151824"
     }
   ],
   "nombres_usados": [
-    "CollabBoost",
     "InvControl",
     "TimeMaster Pro",
     "ContentFlow",
@@ -8001,6 +8000,7 @@
     "SocialBee Pro",
     "CreativeTimeTrack",
     "PortafolioFácil",
-    "EasyBills Project Manager"
+    "EasyBills Project Manager",
+    "CustomCRM"
   ]
 }

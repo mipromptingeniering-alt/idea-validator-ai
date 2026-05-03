@@ -480,6 +480,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260503180132",
+    "nombre": "EasyBills Project Manager",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta sencilla para freelancers y pequeñas empresas que combina gestión de proyectos y facturación....",
+    "score": 75,
+    "landing_url": "IDEA-20260503180132.html"
+  },
+  {
     "id": "IDEA-20260503161104",
     "nombre": "CreativeTimeTrack",
     "tipo": "SaaS",
