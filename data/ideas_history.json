@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TeamCohesion",
-      "descripcion": "TeamCohesion es una plataforma SaaS que integra funciones de gestión de tareas y proyectos con actividades de bienestar y conexión social, permitiendo a los equipos remotos interactuar, colaborar y mantener su motivación y bienestar emocional.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-03T11:49:16.595976"
-    },
-    {
       "nombre": "Creative Workspace Pro",
       "descripcion": "Creative Workspace Pro es una solución en línea que permite a diseñadores, escritores y músicos crear su propio espacio de trabajo digital, integrando herramientas que van desde la gestión de proyectos, hasta editores de texto y tableros de ideas, todo en una interfaz intuitiva y personalizable.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-03T16:11:04.361664"
+    },
+    {
+      "nombre": "PortafolioFácil",
+      "descripcion": "PortafolioFácil es una aplicación web que permite a los usuarios crear y gestionar su portafolio profesional sin complicaciones. Con plantillas personalizables y herramientas integradas para compartir en redes sociales, los usuarios pueden mostrar su trabajo de una manera profesional y atractiva sin necesidad de conocimientos técnicos.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-05-03T17:07:08.977710"
     }
   ],
   "nombres_usados": [
-    "TeamCohesion",
     "Creative Workspace Pro",
     "CollabBoost",
     "InvControl",
@@ -8001,6 +8000,7 @@
     "PomodoroTasker",
     "Marketing Simplificado",
     "SocialBee Pro",
-    "CreativeTimeTrack"
+    "CreativeTimeTrack",
+    "PortafolioFácil"
   ]
 }

@@ -480,6 +480,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260503161104",
+    "nombre": "CreativeTimeTrack",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión del tiempo y proyectos diseñada específicamente para creativos y freelancers....",
+    "score": 75,
+    "landing_url": "IDEA-20260503161104.html"
+  },
+  {
     "id": "IDEA-20260503153054",
     "nombre": "SocialBee Pro",
     "tipo": "SaaS",
