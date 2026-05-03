@@ -472,6 +472,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260503082400",
+    "nombre": "Marketing-PYMES",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS que permite a las pequeñas y medianas empresas crear y gestionar campañas de marketing digital de manera sencilla y automatizada....",
+    "score": 75,
+    "landing_url": "IDEA-20260503082400.html"
+  },
+  {
     "id": "IDEA-20260503063810",
     "nombre": "WellConnect",
     "tipo": "SaaS",
