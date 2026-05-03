@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Finanzia",
-      "descripcion": "Finanzia es una plataforma en línea que ayuda a autónomos y pequeños empresarios a gestionar su contabilidad y finanzas de forma simple y eficiente, ofreciendo herramientas para la facturación, seguimiento de gastos y generación de reportes financieros sin necesidad de conocimientos contables avanzados.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-03T10:03:59.723215"
-    },
-    {
       "nombre": "TeamCohesion",
       "descripcion": "TeamCohesion es una plataforma SaaS que integra funciones de gestión de tareas y proyectos con actividades de bienestar y conexión social, permitiendo a los equipos remotos interactuar, colaborar y mantener su motivación y bienestar emocional.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-03T15:30:54.910191"
+    },
+    {
+      "nombre": "CreativeTimeTrack",
+      "descripcion": "CreativeTimeTrack permite a los usuarios registrar su tiempo en proyectos, establecer metas diarias y semanales, y generar informes de productividad, todo en una interfaz intuitiva que se integra con las herramientas que ya utilizan.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-03T16:11:04.361664"
     }
   ],
   "nombres_usados": [
-    "Finanzia",
     "TeamCohesion",
     "Creative Workspace Pro",
     "CollabBoost",
@@ -8001,6 +8000,7 @@
     "WorkFlow Wizard",
     "PomodoroTasker",
     "Marketing Simplificado",
-    "SocialBee Pro"
+    "SocialBee Pro",
+    "CreativeTimeTrack"
   ]
 }
