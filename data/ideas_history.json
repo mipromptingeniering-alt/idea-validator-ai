@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "EasyTask",
-      "descripcion": "EasyTask permite a los profesionales independientes crear y gestionar proyectos, asignar tareas, comunicar avances a sus clientes y recibir feedback, todo en una interfaz intuitiva y fácil de usar. Además, cuenta con recordatorios y reportes automáticos para mantener a todos informados.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-02T23:54:47.185536"
-    },
-    {
       "nombre": "KidActivity Hub",
       "descripcion": "KidActivity Hub permite a los padres buscar, comparar y gestionar actividades extracurriculares para sus hijos en una sola plataforma. Ofrece recomendaciones personalizadas y un sistema de pago simplificado, garantizando que los padres puedan encontrar lo mejor para sus hijos sin complicaciones.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-03T12:03:27.991837"
+    },
+    {
+      "nombre": "PomodoroTasker",
+      "descripcion": "PomodoroTasker ofrece un enfoque minimalista para la gestión de tareas, permitiendo a los usuarios dividir su tiempo en intervalos de trabajo y descanso, lo que mejora la eficiencia y reduce la procrastinación. La plataforma incluirá recordatorios, análisis de tiempo, y una interfaz visual intuitiva.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-05-03T13:47:44.466602"
     }
   ],
   "nombres_usados": [
-    "EasyTask",
     "KidActivity Hub",
     "Planify AI",
     "Finanzia",
@@ -8001,6 +8000,7 @@
     "WellConnect",
     "Marketing-PYMES",
     "WellnessWork",
-    "WorkFlow Wizard"
+    "WorkFlow Wizard",
+    "PomodoroTasker"
   ]
 }
