@@ -480,6 +480,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260503191639",
+    "nombre": "CustomCRM",
+    "tipo": "MicroSaaS",
+    "resumen": "Un CRM personalizable y asequible para PYMEs que integra gestión de ventas y atención al cliente....",
+    "score": 75,
+    "landing_url": "IDEA-20260503191639.html"
+  },
+  {
     "id": "IDEA-20260503180132",
     "nombre": "EasyBills Project Manager",
     "tipo": "SaaS",

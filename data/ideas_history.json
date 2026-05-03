@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "InvControl",
-      "descripcion": "InvControl permite a las pequeñas y medianas empresas gestionar su inventario de forma eficiente a través de una plataforma intuitiva que ofrece seguimiento en tiempo real, alertas de stock bajo, y análisis de ventas para prever necesidades futuras.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-03T19:30:32.827077"
-    },
-    {
       "nombre": "TimeMaster Pro",
       "descripcion": "TimeMaster Pro es una herramienta que permite a los profesionales autónomos gestionar sus tareas, proyectos, y tiempo de manera eficiente. Utiliza inteligencia artificial para adaptar las prioridades y recordatorios según las preferencias y patrones de trabajo del usuario, ayudando a maximizar la productividad.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-05-03T19:16:40.151824"
+    },
+    {
+      "nombre": "DigiGestion",
+      "descripcion": "DigiGestion permite a los pequeños y medianos negocios crear y gestionar su página web, redes sociales y campañas publicitarias desde un solo lugar. Con herramientas intuitivas y soporte personalizado, los usuarios pueden enfocarse en hacer crecer su negocio mientras nuestra plataforma se encarga de su presencia online.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-03T20:04:52.851698"
     }
   ],
   "nombres_usados": [
-    "InvControl",
     "TimeMaster Pro",
     "ContentFlow",
     "ProjectEase",
@@ -8001,6 +8000,7 @@
     "CreativeTimeTrack",
     "PortafolioFácil",
     "EasyBills Project Manager",
-    "CustomCRM"
+    "CustomCRM",
+    "DigiGestion"
   ]
 }
