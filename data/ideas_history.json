@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ContentFlow",
-      "descripcion": "ContentFlow es un software que permite a los creadores de contenido gestionar sus publicaciones en diferentes redes sociales desde un solo lugar, optimizando el tiempo y mejorando la eficiencia. Proporciona análisis en tiempo real y recomendaciones para aumentar el alcance y la interacción de las publicaciones.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-03T21:59:37.411051"
-    },
-    {
       "nombre": "ProjectEase",
       "descripcion": "ProjectEase es una herramienta de gestión de proyectos diseñada especialmente para pequeñas y medianas empresas, que permite a los equipos planificar, seguir y colaborar en sus proyectos de manera sencilla y adaptada a sus necesidades específicas. Con una interfaz intuitiva y herramientas de personalización, ProjectEase se convierte en la solución ideal para el trabajo en equipo efectivo.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-03T21:00:55.143197"
+    },
+    {
+      "nombre": "SocialSimplify",
+      "descripcion": "SocialSimplify permite a los usuarios crear, programar y analizar publicaciones en múltiples plataformas de redes sociales con un enfoque en la simplicidad y la efectividad, utilizando un asistente virtual que sugiere contenido basado en tendencias.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-03T21:58:28.405556"
     }
   ],
   "nombres_usados": [
-    "ContentFlow",
     "ProjectEase",
     "HealthScheduler",
     "PymeSmart",
@@ -8001,6 +8000,7 @@
     "EasyBills Project Manager",
     "CustomCRM",
     "DigiGestion",
-    "PYME Marketing Hub"
+    "PYME Marketing Hub",
+    "SocialSimplify"
   ]
 }
