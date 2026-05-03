@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FinanciaPro",
-      "descripcion": "FinanciaPro ofrece una interfaz amigable que permite a las PYMES gestionar sus cuentas, emitir y rastrear facturas, y obtener informes de flujo de caja automáticos con solo unos clics. La plataforma integra funciones de aprendizaje automático para predecir las tendencias financieras basadas en datos históricos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-02T21:06:23.231018"
-    },
-    {
       "nombre": "DataSense",
       "descripcion": "DataSense permite a las pymes integrar y analizar datos de diversas fuentes (ventas, marketing, finanzas) a través de una interfaz sencilla y amigable, facilitando la toma de decisiones basadas en datos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-03T06:38:11.120558"
+    },
+    {
+      "nombre": "Marketing-PYMES",
+      "descripcion": "Marketing-PYMES es una solución de marketing digital que se adapta a las necesidades de las pequeñas empresas, permitiéndoles crear campañas de email, redes sociales y publicidad en línea sin necesidad de conocimientos técnicos avanzados. La plataforma incluirá plantillas, guías y análisis para optimizar el proceso.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-03T08:24:01.011587"
     }
   ],
   "nombres_usados": [
-    "FinanciaPro",
     "DataSense",
     "CashFlow Easy",
     "EasyTask",
@@ -8001,6 +8000,7 @@
     "TherapyFlow",
     "FocusConnect",
     "PymeBoost",
-    "WellConnect"
+    "WellConnect",
+    "Marketing-PYMES"
   ]
 }

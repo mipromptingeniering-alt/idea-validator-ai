@@ -472,6 +472,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260503063810",
+    "nombre": "WellConnect",
+    "tipo": "SaaS",
+    "resumen": "WellConnect es una plataforma que combina productividad, gamificación y bienestar emocional para trabajadores remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260503063810.html"
+  },
+  {
     "id": "IDEA-20260503040923",
     "nombre": "PymeBoost",
     "tipo": "SaaS",
