@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocioSocial",
-      "descripcion": "SocioSocial utiliza inteligencia artificial para analizar las tendencias en redes sociales y el historial de publicaciones de los negocios, creando contenido atractivo y optimizado que se programa automáticamente para su publicación, ahorrando tiempo y mejorando el engagement con la audiencia.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-04T19:53:57.528278"
-    },
-    {
       "nombre": "SociaMente",
       "descripcion": "SociaMente permitirá a las pymes gestionar sus cuentas de redes sociales desde un solo lugar, automatizando la publicación y ofreciendo recomendaciones de contenido adaptadas a su mercado y audiencia objetivo. La plataforma incluirá análisis de rendimiento y sugerencias para optimizar la presencia en línea.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-04T22:30:42.963499"
+    },
+    {
+      "nombre": "DigiEmpresario",
+      "descripcion": "DigiEmpresario es una plataforma SaaS que ofrece cursos interactivos y recursos personalizados para ayudar a pequeños empresarios a adquirir habilidades digitales cruciales. Además, conecta a los usuarios con mentores en su industria para brindar orientación práctica en la implementación de lo aprendido.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-04T23:33:18.872182"
     }
   ],
   "nombres_usados": [
-    "SocioSocial",
     "SociaMente",
     "SocialSync Pro",
     "SocialContentPro",
@@ -8001,6 +8000,7 @@
     "SociaLink",
     "ContentPlanner Pro",
     "ProjectSync AI",
-    "TimeTrackr"
+    "TimeTrackr",
+    "DigiEmpresario"
   ]
 }
