@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "HealthScheduler",
-      "descripcion": "HealthScheduler permite a los profesionales gestionar sus citas, enviar recordatorios automáticos a los pacientes y rastrear el historial de atención de los clientes. Además, ofrece un análisis de desempeño para ayudar a los profesionales a entender mejor sus prácticas y mejorar la satisfacción del cliente.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-03T23:53:24.996272"
-    },
-    {
       "nombre": "PymeSmart",
       "descripcion": "PymeSmart ofrece una serie de herramientas que permiten a las pequeñas y medianas empresas crear campañas de marketing digital de manera sencilla y efectiva, utilizando recomendaciones personalizadas basadas en datos y análisis de mercado.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-03T23:27:29.737190"
+    },
+    {
+      "nombre": "MotivAction",
+      "descripcion": "MotivAction permite a los usuarios establecer metas diarias y semanales, gestionar sus tareas y recibir recompensas virtuales y motivación a medida que completan sus objetivos. Incluye un sistema de gestión del tiempo que ayuda a optimizar el rendimiento diario.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-04T00:10:52.032153"
     }
   ],
   "nombres_usados": [
-    "HealthScheduler",
     "PymeSmart",
     "SocialRise",
     "TaskMaster AI",
@@ -8001,6 +8000,7 @@
     "DigiGestion",
     "PYME Marketing Hub",
     "SocialSimplify",
-    "GastoControl"
+    "GastoControl",
+    "MotivAction"
   ]
 }

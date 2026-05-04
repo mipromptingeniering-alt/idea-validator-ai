@@ -480,6 +480,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260503232729",
+    "nombre": "GastoControl",
+    "tipo": "SaaS",
+    "resumen": "GastoControl es una herramienta de gestión de gastos diseñada específicamente para pequeñas y medianas empresas, que ofrece un control sencillo y efec...",
+    "score": 75,
+    "landing_url": "IDEA-20260503232729.html"
+  },
+  {
     "id": "IDEA-20260503215828",
     "nombre": "SocialSimplify",
     "tipo": "SaaS",
