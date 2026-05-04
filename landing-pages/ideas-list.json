@@ -480,6 +480,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260504211923",
+    "nombre": "ProjectSync AI",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de proyectos basada en IA que optimiza la colaboración y la visibilidad para equipos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260504211923.html"
+  },
+  {
     "id": "IDEA-20260504201042",
     "nombre": "ContentPlanner Pro",
     "tipo": "SaaS",

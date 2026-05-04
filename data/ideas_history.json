@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FocusQuest",
-      "descripcion": "FocusQuest utiliza elementos de juego para motivar a los usuarios a completar tareas y mantenerse enfocados. Los usuarios pueden establecer metas, ganar puntos, desbloquear recompensas y competir con amigos o colegas en desafíos de productividad.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-04T18:04:58.195153"
-    },
-    {
       "nombre": "SocioSocial",
       "descripcion": "SocioSocial utiliza inteligencia artificial para analizar las tendencias en redes sociales y el historial de publicaciones de los negocios, creando contenido atractivo y optimizado que se programa automáticamente para su publicación, ahorrando tiempo y mejorando el engagement con la audiencia.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-04T21:19:23.737750"
+    },
+    {
+      "nombre": "TimeTrackr",
+      "descripcion": "TimeTrackr permite a los freelancers y pequeños emprendedores gestionar sus proyectos y tareas, al mismo tiempo que rastrea el tiempo invertido en cada actividad, facilitando la facturación y la planificación personal. La interfacie es intuitiva y fácil de usar, diseñada para optimizar la productividad sin la complejidad de otras herramientas de gestión más robustas.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-05-04T22:30:42.963499"
     }
   ],
   "nombres_usados": [
-    "FocusQuest",
     "SocioSocial",
     "SociaMente",
     "SocialSync Pro",
@@ -8001,6 +8000,7 @@
     "SubScribeWise",
     "SociaLink",
     "ContentPlanner Pro",
-    "ProjectSync AI"
+    "ProjectSync AI",
+    "TimeTrackr"
   ]
 }
