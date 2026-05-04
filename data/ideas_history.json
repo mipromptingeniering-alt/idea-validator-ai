@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "CreatiTask",
-      "descripcion": "CreatiTask permite a los artistas, diseñadores y escritores gestionar sus proyectos, hacer un seguimiento del tiempo dedicado a cada tarea y organizar su flujo creativo mediante tableros visuales. La herramienta ofrece también integración con plataformas de inspiración como Pinterest.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-04T11:04:14.277796"
-    },
-    {
       "nombre": "TimeTailor",
       "descripcion": "TimeTailor es una aplicación que evalúa las rutinas diarias de los usuarios y les sugiere un calendario optimizado, incluyendo pausas, tareas, y tiempo para el autocuidado, adaptándose a su estilo de vida. Ofrece insights basados en datos para ayudar a los usuarios a mejorar su gestión del tiempo y reducir el estrés.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-04T09:34:27.760383"
+    },
+    {
+      "nombre": "SubScribeWise",
+      "descripcion": "SubScribeWise ayuda a los individuos y pequeñas empresas a visualizar sus suscripciones digitales, recibir notificaciones sobre renovaciones y recomendaciones para cancelar o negociar servicios. La plataforma proporciona análisis de costos y sugiere alternativas más económicas basadas en el uso real.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-04T15:19:08.548184"
     }
   ],
   "nombres_usados": [
-    "CreatiTask",
     "TimeTailor",
     "TaskSync",
     "Marketero Pro",
@@ -8001,6 +8000,7 @@
     "MotivAction",
     "FinanSync",
     "Marketing Kit Pro",
-    "FinanciaMente"
+    "FinanciaMente",
+    "SubScribeWise"
   ]
 }
