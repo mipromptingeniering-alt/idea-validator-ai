@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TimeTailor",
-      "descripcion": "TimeTailor es una aplicación que evalúa las rutinas diarias de los usuarios y les sugiere un calendario optimizado, incluyendo pausas, tareas, y tiempo para el autocuidado, adaptándose a su estilo de vida. Ofrece insights basados en datos para ayudar a los usuarios a mejorar su gestión del tiempo y reducir el estrés.",
-      "tipo": "SaaS",
-      "score": 72,
-      "fecha": "2026-03-04T11:57:28.430548"
-    },
-    {
       "nombre": "TaskSync",
       "descripcion": "TaskSync permite a los equipos de pequeñas empresas gestionar sus tareas diarias de manera eficiente al integrar funciones de colaboración y comunicación, junto con una inteligencia artificial que ayuda a priorizar lo que realmente importa. Facilita la asignación de tareas, el seguimiento del progreso y la mejora de la coordinación entre los miembros del equipo.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-04T15:19:08.548184"
+    },
+    {
+      "nombre": "SociaLink",
+      "descripcion": "SociaLink permite a las pequeñas y medianas empresas gestionar sus redes sociales de manera eficiente, ofreciendo recomendaciones de contenido personalizado y análisis de rendimiento. La plataforma también incluye herramientas de programación automática y análisis de interacción del público.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-04T17:08:55.794445"
     }
   ],
   "nombres_usados": [
-    "TimeTailor",
     "TaskSync",
     "Marketero Pro",
     "FocusQuest",
@@ -8001,6 +8000,7 @@
     "FinanSync",
     "Marketing Kit Pro",
     "FinanciaMente",
-    "SubScribeWise"
+    "SubScribeWise",
+    "SociaLink"
   ]
 }

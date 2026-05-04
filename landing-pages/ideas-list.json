@@ -480,6 +480,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260504151908",
+    "nombre": "SubScribeWise",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que permite a los usuarios gestionar y optimizar sus suscripciones digitales, asegurando que no paguen de más....",
+    "score": 75,
+    "landing_url": "IDEA-20260504151908.html"
+  },
+  {
     "id": "IDEA-20260504093427",
     "nombre": "FinanciaMente",
     "tipo": "SaaS",
