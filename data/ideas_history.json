@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Marketero Pro",
-      "descripcion": "Marketero Pro es una solución integral de marketing digital que permite a las PYMES gestionar sus redes sociales, campañas de correo electrónico y anuncios en línea, todo en un solo lugar. Además, ofrece un sistema de tutoriales y soporte que ayuda a los usuarios a entender y aplicar estrategias de marketing efectivas.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-04T16:05:53.204711"
-    },
-    {
       "nombre": "FocusQuest",
       "descripcion": "FocusQuest utiliza elementos de juego para motivar a los usuarios a completar tareas y mantenerse enfocados. Los usuarios pueden establecer metas, ganar puntos, desbloquear recompensas y competir con amigos o colegas en desafíos de productividad.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-04T20:10:42.973442"
+    },
+    {
+      "nombre": "ProjectSync AI",
+      "descripcion": "ProjectSync AI utiliza algoritmos de inteligencia artificial para analizar las tareas y el rendimiento del equipo, sugiriendo decisiones inteligentes sobre priorización y asignación. Además, cuenta con un tablero intuitivo que muestra el progreso en tiempo real y permite la comunicación directa entre los miembros del equipo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-04T21:19:23.737750"
     }
   ],
   "nombres_usados": [
-    "Marketero Pro",
     "FocusQuest",
     "SocioSocial",
     "SociaMente",
@@ -8001,6 +8000,7 @@
     "FinanciaMente",
     "SubScribeWise",
     "SociaLink",
-    "ContentPlanner Pro"
+    "ContentPlanner Pro",
+    "ProjectSync AI"
   ]
 }

@@ -480,6 +480,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260504201042",
+    "nombre": "ContentPlanner Pro",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta sencilla y accesible para la planificación y organización de contenido digital, enfocada en creadores independientes y pequeños equipo...",
+    "score": 75,
+    "landing_url": "IDEA-20260504201042.html"
+  },
+  {
     "id": "IDEA-20260504170855",
     "nombre": "SociaLink",
     "tipo": "SaaS",
