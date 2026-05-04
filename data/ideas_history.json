@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TaskSync",
-      "descripcion": "TaskSync permite a los equipos de pequeñas empresas gestionar sus tareas diarias de manera eficiente al integrar funciones de colaboración y comunicación, junto con una inteligencia artificial que ayuda a priorizar lo que realmente importa. Facilita la asignación de tareas, el seguimiento del progreso y la mejora de la coordinación entre los miembros del equipo.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-04T14:10:51.788406"
-    },
-    {
       "nombre": "Marketero Pro",
       "descripcion": "Marketero Pro es una solución integral de marketing digital que permite a las PYMES gestionar sus redes sociales, campañas de correo electrónico y anuncios en línea, todo en un solo lugar. Además, ofrece un sistema de tutoriales y soporte que ayuda a los usuarios a entender y aplicar estrategias de marketing efectivas.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-04T17:08:55.794445"
+    },
+    {
+      "nombre": "ContentPlanner Pro",
+      "descripcion": "ContentPlanner Pro permite a los usuarios organizar su contenido en un calendario visual, establecer recordatorios y colaborar con otros creadores. Además, incluye análisis de rendimiento y sugerencias personalizadas para optimizar el contenido basado en tendencias actuales.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-04T20:10:42.973442"
     }
   ],
   "nombres_usados": [
-    "TaskSync",
     "Marketero Pro",
     "FocusQuest",
     "SocioSocial",
@@ -8001,6 +8000,7 @@
     "Marketing Kit Pro",
     "FinanciaMente",
     "SubScribeWise",
-    "SociaLink"
+    "SociaLink",
+    "ContentPlanner Pro"
   ]
 }
