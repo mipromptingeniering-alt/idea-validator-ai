@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Finanzas Simples",
-      "descripcion": "Finanzas Simples permite a las PYMEs gestionar sus finanzas de manera simple y efectiva, ofreciendo un panel de control intuitivo que integra ingresos, gastos y previsión de flujo de caja. Proporciona reportes personalizados y alertas sobre el estado financiero.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-04T23:58:17.026880"
-    },
-    {
       "nombre": "MindTasker",
       "descripcion": "MindTasker es una aplicación web que ayuda a los usuarios a gestionar sus tareas diarias mientras incorpora prácticas de mindfulness. A través de recordatorios de pausas saludables, meditación guiada y métricas de bienestar, los usuarios pueden aumentar su productividad sin sacrificar su salud mental.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-05T12:01:15.648653"
+    },
+    {
+      "nombre": "Contentify",
+      "descripcion": "Contentify utiliza inteligencia artificial para ayudar a las pequeñas y medianas empresas a generar contenido de calidad adaptado a su mercado y optimizado para motores de búsqueda. Ofrece una biblioteca de plantillas y guías sobre cómo mejorar su SEO, facilitando la creación de blogs, descripciones de productos y publicaciones en redes sociales.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-05T17:47:13.824188"
     }
   ],
   "nombres_usados": [
-    "Finanzas Simples",
     "MindTasker",
     "TherapEase",
     "MarketerFusion",
@@ -8001,6 +8000,7 @@
     "DigiEmpresario",
     "Marketing Made Easy",
     "CreaFlow",
-    "TaskBridge"
+    "TaskBridge",
+    "Contentify"
   ]
 }
