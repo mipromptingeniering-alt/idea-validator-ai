@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MarketerFusion",
-      "descripcion": "MarketerFusion permite a los profesionales del marketing gestionar múltiples campañas a través de un único dashboard, integrando herramientas de redes sociales, email marketing y analítica. Ofrece un sistema de automatización que optimiza las campañas en función del rendimiento en tiempo real.",
-      "tipo": "SaaS",
-      "score": 72,
-      "fecha": "2026-03-05T10:05:11.323543"
-    },
-    {
       "nombre": "CollabWell",
       "descripcion": "CollabWell es una plataforma SaaS que integra la gestión de proyectos con herramientas de cuidado del bienestar emocional de los empleados, proporcionando chequeos regulares de salud mental, espacios para compartir sentimientos y herramientas para fomentar la conexión entre equipos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-05T22:35:51.548696"
+    },
+    {
+      "nombre": "CobroSmart",
+      "descripcion": "CobroSmart es una herramienta diseñada específicamente para pymes que permite gestionar y automatizar el seguimiento de cuentas por cobrar. Utiliza algoritmos de IA para predecir la probabilidad de retrasos en los pagos y sugiere acciones proactivas para mejorar la recuperación de deudas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-05T23:30:43.205367"
     }
   ],
   "nombres_usados": [
-    "MarketerFusion",
     "CollabWell",
     "TaskWell",
     "FinanzApp",
@@ -8001,6 +8000,7 @@
     "TaskBridge",
     "Contentify",
     "SocialBoost Studio",
-    "Visibilidad Directa"
+    "Visibilidad Directa",
+    "CobroSmart"
   ]
 }
