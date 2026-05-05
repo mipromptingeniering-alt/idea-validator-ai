@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SociaMente",
-      "descripcion": "SociaMente permitirá a las pymes gestionar sus cuentas de redes sociales desde un solo lugar, automatizando la publicación y ofreciendo recomendaciones de contenido adaptadas a su mercado y audiencia objetivo. La plataforma incluirá análisis de rendimiento y sugerencias para optimizar la presencia en línea.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-04T21:02:11.896804"
-    },
-    {
       "nombre": "SocialSync Pro",
       "descripcion": "SocialSync Pro es una plataforma que permite a las pequeñas empresas gestionar múltiples cuentas de redes sociales desde un solo lugar, utilizando inteligencia artificial para sugerir el mejor contenido y horarios de publicación, mejorando así la efectividad del marketing digital.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-04T23:33:18.872182"
+    },
+    {
+      "nombre": "Marketing Made Easy",
+      "descripcion": "Marketing Made Easy proporciona un conjunto de herramientas de marketing digital, como la automatización de correos electrónicos, gestión de redes sociales, y análisis de resultados, todo en una única plataforma. Además, ofrece tutoriales y soporte en tiempo real para ayudar a las PYMES a mejorar sus estrategias de marketing.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-05T01:18:09.997794"
     }
   ],
   "nombres_usados": [
-    "SociaMente",
     "SocialSync Pro",
     "SocialContentPro",
     "Finanzas Simples",
@@ -8001,6 +8000,7 @@
     "ContentPlanner Pro",
     "ProjectSync AI",
     "TimeTrackr",
-    "DigiEmpresario"
+    "DigiEmpresario",
+    "Marketing Made Easy"
   ]
 }
