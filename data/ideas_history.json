@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialSync Pro",
-      "descripcion": "SocialSync Pro es una plataforma que permite a las pequeñas empresas gestionar múltiples cuentas de redes sociales desde un solo lugar, utilizando inteligencia artificial para sugerir el mejor contenido y horarios de publicación, mejorando así la efectividad del marketing digital.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-04T22:03:04.842712"
-    },
-    {
       "nombre": "SocialContentPro",
       "descripcion": "SocialContentPro es una herramienta de SaaS diseñada específicamente para pequeñas y medianas empresas que desean optimizar su presencia en redes sociales sin requerir conocimientos previos en marketing digital. Ofrece generación de contenido automatizado, programación de publicaciones y análisis de rendimiento en un solo lugar.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-05T01:18:09.997794"
+    },
+    {
+      "nombre": "CreaFlow",
+      "descripcion": "CreaFlow permite a los usuarios gestionar sus proyectos creativos mediante una interfaz intuitiva, integrando herramientas para brainstorming, organización de ideas y seguimiento de tareas. Además, incluye plantillas personalizables para diferentes tipos de proyectos creativos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-05T04:36:04.506687"
     }
   ],
   "nombres_usados": [
-    "SocialSync Pro",
     "SocialContentPro",
     "Finanzas Simples",
     "MindTasker",
@@ -8001,6 +8000,7 @@
     "ProjectSync AI",
     "TimeTrackr",
     "DigiEmpresario",
-    "Marketing Made Easy"
+    "Marketing Made Easy",
+    "CreaFlow"
   ]
 }

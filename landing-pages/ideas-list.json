@@ -480,6 +480,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260505011809",
+    "nombre": "Marketing Made Easy",
+    "tipo": "SaaS",
+    "resumen": "Plataforma integral de marketing digital para PYMES con herramientas automatizadas y soporte educativo....",
+    "score": 75,
+    "landing_url": "IDEA-20260505011809.html"
+  },
+  {
     "id": "IDEA-20260504233318",
     "nombre": "DigiEmpresario",
     "tipo": "SaaS",
