@@ -480,6 +480,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260505174713",
+    "nombre": "Contentify",
+    "tipo": "SaaS",
+    "resumen": "Herramienta SaaS que permite a las PYMES crear contenido optimizado para SEO de manera rápida y sencilla a través de plantillas personalizables y asis...",
+    "score": 75,
+    "landing_url": "IDEA-20260505174713.html"
+  },
+  {
     "id": "IDEA-20260505120115",
     "nombre": "TaskBridge",
     "tipo": "SaaS",

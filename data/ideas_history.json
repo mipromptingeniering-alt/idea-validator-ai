@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MindTasker",
-      "descripcion": "MindTasker es una aplicación web que ayuda a los usuarios a gestionar sus tareas diarias mientras incorpora prácticas de mindfulness. A través de recordatorios de pausas saludables, meditación guiada y métricas de bienestar, los usuarios pueden aumentar su productividad sin sacrificar su salud mental.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-05T05:05:48.663572"
-    },
-    {
       "nombre": "TherapEase",
       "descripcion": "TherapEase es una solución SaaS que permite a psicólogos y terapeutas gestionar citas, realizar seguimiento del progreso de sus pacientes y acceder a una biblioteca de recursos educativos para mejorar su práctica. Los profesionales pueden personalizar los recordatorios para sus pacientes, llevar un registro de las sesiones y coordinar la comunicación de manera segura.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-05T17:47:13.824188"
+    },
+    {
+      "nombre": "SocialBoost Studio",
+      "descripcion": "SocialBoost Studio es una herramienta intuitiva que proporciona plantillas personalizables, herramientas de automatización de publicación y análisis de rendimiento para ayudar a las pymes a optimizar su estrategia en redes sociales. Los usuarios pueden crear publicaciones visuales atractivas a partir de plantillas, programar publicaciones en diferentes plataformas y recibir métricas sobre su rendimiento.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-05T19:07:04.275324"
     }
   ],
   "nombres_usados": [
-    "MindTasker",
     "TherapEase",
     "MarketerFusion",
     "CollabWell",
@@ -8001,6 +8000,7 @@
     "Marketing Made Easy",
     "CreaFlow",
     "TaskBridge",
-    "Contentify"
+    "Contentify",
+    "SocialBoost Studio"
   ]
 }
