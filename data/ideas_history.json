@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialContentPro",
-      "descripcion": "SocialContentPro es una herramienta de SaaS diseñada específicamente para pequeñas y medianas empresas que desean optimizar su presencia en redes sociales sin requerir conocimientos previos en marketing digital. Ofrece generación de contenido automatizado, programación de publicaciones y análisis de rendimiento en un solo lugar.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-04T23:04:16.357871"
-    },
-    {
       "nombre": "Finanzas Simples",
       "descripcion": "Finanzas Simples permite a las PYMEs gestionar sus finanzas de manera simple y efectiva, ofreciendo un panel de control intuitivo que integra ingresos, gastos y previsión de flujo de caja. Proporciona reportes personalizados y alertas sobre el estado financiero.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-05T04:36:04.506687"
+    },
+    {
+      "nombre": "TaskBridge",
+      "descripcion": "TaskBridge permite a los equipos gestionar sus tareas de manera efectiva mientras se comunican en tiempo real. Ofrece funciones como la priorización de tareas mediante IA, recordatorios automáticos, y análisis de productividad, todo en una interfaz intuitiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-05T12:01:15.648653"
     }
   ],
   "nombres_usados": [
-    "SocialContentPro",
     "Finanzas Simples",
     "MindTasker",
     "TherapEase",
@@ -8001,6 +8000,7 @@
     "TimeTrackr",
     "DigiEmpresario",
     "Marketing Made Easy",
-    "CreaFlow"
+    "CreaFlow",
+    "TaskBridge"
   ]
 }
