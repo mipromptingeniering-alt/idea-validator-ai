@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TherapEase",
-      "descripcion": "TherapEase es una solución SaaS que permite a psicólogos y terapeutas gestionar citas, realizar seguimiento del progreso de sus pacientes y acceder a una biblioteca de recursos educativos para mejorar su práctica. Los profesionales pueden personalizar los recordatorios para sus pacientes, llevar un registro de las sesiones y coordinar la comunicación de manera segura.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-05T07:33:00.999369"
-    },
-    {
       "nombre": "MarketerFusion",
       "descripcion": "MarketerFusion permite a los profesionales del marketing gestionar múltiples campañas a través de un único dashboard, integrando herramientas de redes sociales, email marketing y analítica. Ofrece un sistema de automatización que optimiza las campañas en función del rendimiento en tiempo real.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-05T19:07:04.275324"
+    },
+    {
+      "nombre": "Visibilidad Directa",
+      "descripcion": "Visibilidad Directa es una herramienta en línea que permite a emprendedores y pequeñas empresas crear y gestionar campañas de marketing digital de manera sencilla y rápida. La plataforma ofrece plantillas personalizables, automatización de publicaciones en redes sociales, generación de informes de rendimiento y optimización de SEO.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-05T22:35:51.548696"
     }
   ],
   "nombres_usados": [
-    "TherapEase",
     "MarketerFusion",
     "CollabWell",
     "TaskWell",
@@ -8001,6 +8000,7 @@
     "CreaFlow",
     "TaskBridge",
     "Contentify",
-    "SocialBoost Studio"
+    "SocialBoost Studio",
+    "Visibilidad Directa"
   ]
 }
