@@ -480,6 +480,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260506074340",
+    "nombre": "FocusGamify",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gamificación para la gestión de proyectos y tareas que ayuda a los profesionales creativos a aumentar su productividad....",
+    "score": 75,
+    "landing_url": "IDEA-20260506074340.html"
+  },
+  {
     "id": "IDEA-20260506045008",
     "nombre": "SyncWork",
     "tipo": "SaaS",

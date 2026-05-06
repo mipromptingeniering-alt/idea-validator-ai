@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FinanzasSimplicidad",
-      "descripcion": "FinanzasSimplicidad es un software de contabilidad en línea que permite a las pequeñas empresas monitorear sus finanzas de forma sencilla, generar reportes de ingresos y gastos, y planificar su flujo de caja. La plataforma cuenta con integraciones a herramientas populares y una interfaz de usuario amigable, haciendo que la gestión financiera sea accesible incluso para quienes no tienen experiencia contable.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-05T22:01:47.647008"
-    },
-    {
       "nombre": "FinanceEasy",
       "descripcion": "FinanceEasy es una herramienta SaaS diseñada para ayudar a freelancers y emprendedores a gestionar sus finanzas de manera eficiente. Ofrece funciones de facturación, seguimiento de gastos y generación de reportes financieros, todo con un enfoque en la simplicidad y la facilidad de uso.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-06T07:43:41.060336"
+    },
+    {
+      "nombre": "TimeGamify",
+      "descripcion": "TimeGamify es una herramienta que permite a los usuarios establecer metas diarias y semanales, organizar sus tareas y recibir recompensas virtuales o puntos por completar actividades. La plataforma utiliza métodos probados de productividad y personalización para adaptarse a las necesidades individuales de cada usuario.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-05-06T10:00:43.760620"
     }
   ],
   "nombres_usados": [
-    "FinanzasSimplicidad",
     "FinanceEasy",
     "ConnectWell",
     "HR Simplify",
@@ -8001,6 +8000,7 @@
     "CobroSmart",
     "FlowBalance",
     "SyncWork",
-    "FocusGamify"
+    "FocusGamify",
+    "TimeGamify"
   ]
 }
