@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FinanceEasy",
-      "descripcion": "FinanceEasy es una herramienta SaaS diseñada para ayudar a freelancers y emprendedores a gestionar sus finanzas de manera eficiente. Ofrece funciones de facturación, seguimiento de gastos y generación de reportes financieros, todo con un enfoque en la simplicidad y la facilidad de uso.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-06T00:04:01.035514"
-    },
-    {
       "nombre": "ConnectWell",
       "descripcion": "ConnectWell es una plataforma que permite a los equipos remotos colaborar en tiempo real, realizar videoconferencias, y participar en actividades de bienestar programadas, como pausas grupales y ejercicios de team-building. Integrando herramientas de gestión de tareas y seguimiento de proyectos, los usuarios pueden mantenerse enfocados y conectados, mientras priorizan su salud mental y emocional.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-06T10:00:43.760620"
+    },
+    {
+      "nombre": "MindTrack",
+      "descripcion": "MindTrack es un software como servicio que ofrece herramientas de seguimiento emocional, análisis de datos y recomendaciones personalizadas para terapeutas y psiquiatras, mejorando así la calidad del cuidado de sus pacientes. Los pacientes podrán acceder a una aplicación donde registran su estado emocional diario y reciben sugerencias en tiempo real sobre actividades que pueden ayudarles.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-06T12:04:17.821196"
     }
   ],
   "nombres_usados": [
-    "FinanceEasy",
     "ConnectWell",
     "HR Simplify",
     "TaskFlow Customizer",
@@ -8001,6 +8000,7 @@
     "FlowBalance",
     "SyncWork",
     "FocusGamify",
-    "TimeGamify"
+    "TimeGamify",
+    "MindTrack"
   ]
 }

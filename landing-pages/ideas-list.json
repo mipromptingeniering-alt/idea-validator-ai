@@ -8992,6 +8992,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260506100043",
+    "nombre": "TimeGamify",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que ayuda a trabajadores remotos a gestionar su tiempo y tareas de forma personalizada mediante gamificación....",
+    "score": 70,
+    "landing_url": "IDEA-20260506100043.html"
+  },
+  {
     "id": "IDEA-20260504223042",
     "nombre": "TimeTrackr",
     "tipo": "SaaS",
