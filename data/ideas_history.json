@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TimeEase",
-      "descripcion": "TimeEase ofrece un interfaz fácil de usar que permite a los usuarios rastrear sus actividades diarias, establecer objetivos de tiempo y recibir recomendaciones personalizadas para optimizar su jornada laboral. También incluye funciones de análisis para que los usuarios puedan ver su progreso y hacer ajustes.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-06T11:02:21.125299"
-    },
-    {
       "nombre": "DigiBuilder",
       "descripcion": "DigiBuilder ofrece un conjunto de herramientas que incluye creación de sitios web, gestión de redes sociales, optimización para motores de búsqueda (SEO) y análisis de tráfico, todo desde un solo panel intuitivo. La plataforma está diseñada para que los usuarios sin experiencia técnica puedan gestionar su marketing digital de manera efectiva.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-06T22:41:25.751261"
+    },
+    {
+      "nombre": "BizTemplate Pro",
+      "descripcion": "BizTemplate Pro es una solución integral para emprendedores que necesitan plantillas de negocio adaptables, desde planes de negocio hasta estrategias de marketing. Con una interfaz intuitiva y herramientas interactivas, los usuarios pueden personalizar sus plantillas según sus requisitos específicos. Además, la plataforma ofrece una comunidad donde los usuarios pueden intercambiar ideas y recibir apoyo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-06T23:34:38.930295"
     }
   ],
   "nombres_usados": [
-    "TimeEase",
     "DigiBuilder",
     "PymeConnect",
     "SociManage",
@@ -8001,6 +8000,7 @@
     "MindTrack",
     "TeamSynergy",
     "BizDigital",
-    "TimeMaster Pro"
+    "TimeMaster Pro",
+    "BizTemplate Pro"
   ]
 }
