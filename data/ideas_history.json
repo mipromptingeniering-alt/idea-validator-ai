@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ConnectWell",
-      "descripcion": "ConnectWell es una plataforma que permite a los equipos remotos colaborar en tiempo real, realizar videoconferencias, y participar en actividades de bienestar programadas, como pausas grupales y ejercicios de team-building. Integrando herramientas de gestión de tareas y seguimiento de proyectos, los usuarios pueden mantenerse enfocados y conectados, mientras priorizan su salud mental y emocional.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-06T05:03:34.615710"
-    },
-    {
       "nombre": "HR Simplify",
       "descripcion": "HR Simplify ofrece herramientas para la gestión de nóminas, seguimiento de la contratación, evaluación del desempeño y una base de datos centralizada para todos los empleados, todo en un solo lugar.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-06T12:04:17.821196"
+    },
+    {
+      "nombre": "TeamSynergy",
+      "descripcion": "Esta aplicación combina la gestión de proyectos con herramientas para fomentar la interacción social entre los miembros de un equipo, ofreciendo características como juegos en equipo, foros de discusión y seguimiento de bienestar emocional. Permite a los usuarios establecer tareas, dar feedback y participar en actividades lúdicas que fortalecen la cohesión del grupo.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-05-06T16:18:55.853284"
     }
   ],
   "nombres_usados": [
-    "ConnectWell",
     "HR Simplify",
     "TaskFlow Customizer",
     "TimeEase",
@@ -8001,6 +8000,7 @@
     "SyncWork",
     "FocusGamify",
     "TimeGamify",
-    "MindTrack"
+    "MindTrack",
+    "TeamSynergy"
   ]
 }

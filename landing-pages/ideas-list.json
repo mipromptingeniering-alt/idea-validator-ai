@@ -480,6 +480,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260506120417",
+    "nombre": "MindTrack",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que permite a los profesionales de la salud mental realizar un seguimiento continuo del estado emocional de sus pacientes entre sesione...",
+    "score": 75,
+    "landing_url": "IDEA-20260506120417.html"
+  },
+  {
     "id": "IDEA-20260506074340",
     "nombre": "FocusGamify",
     "tipo": "SaaS",
