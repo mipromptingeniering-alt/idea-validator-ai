@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "HR Simplify",
-      "descripcion": "HR Simplify ofrece herramientas para la gestión de nóminas, seguimiento de la contratación, evaluación del desempeño y una base de datos centralizada para todos los empleados, todo en un solo lugar.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-06T07:30:03.750923"
-    },
-    {
       "nombre": "TaskFlow Customizer",
       "descripcion": "TaskFlow Customizer permite a las pequeñas empresas y a equipos de trabajo ajustar la herramienta según sus flujos de trabajo únicos. Desde la creación de tableros visuales, hasta la integración de herramientas que ya utilizan, esta plataforma busca mejorar la productividad de sus usuarios.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-06T16:18:55.853284"
+    },
+    {
+      "nombre": "BizDigital",
+      "descripcion": "BizDigital es una plataforma SaaS que permite a pequeñas empresas crear su propia página web, gestionar sus redes sociales y optimizar su SEO, todo sin necesidad de conocimientos técnicos. Ofrecemos una interfaz intuitiva que guía a los usuarios a través del proceso de creación de su presencia digital, incluyendo plantillas personalizables y herramientas de marketing.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-05-06T17:57:39.183488"
     }
   ],
   "nombres_usados": [
-    "HR Simplify",
     "TaskFlow Customizer",
     "TimeEase",
     "DigiBuilder",
@@ -8001,6 +8000,7 @@
     "FocusGamify",
     "TimeGamify",
     "MindTrack",
-    "TeamSynergy"
+    "TeamSynergy",
+    "BizDigital"
   ]
 }
