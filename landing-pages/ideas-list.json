@@ -480,6 +480,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260506045008",
+    "nombre": "SyncWork",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de proyectos que integra múltiples herramientas de trabajo y utiliza IA para mejorar la colaboración y la visibilidad del pr...",
+    "score": 75,
+    "landing_url": "IDEA-20260506045008.html"
+  },
+  {
     "id": "IDEA-20260506011607",
     "nombre": "FlowBalance",
     "tipo": "SaaS",

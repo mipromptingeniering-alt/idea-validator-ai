@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FinanzApp",
-      "descripcion": "FinanzApp es una solución de software como servicio que permite a las pequeñas y medianas empresas gestionar su contabilidad y finanzas de manera simple e intuitiva, ofreciendo herramientas de seguimiento de gastos, facturación, y generación de reportes financieros.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-05T21:00:49.578498"
-    },
-    {
       "nombre": "FinanzasSimplicidad",
       "descripcion": "FinanzasSimplicidad es un software de contabilidad en línea que permite a las pequeñas empresas monitorear sus finanzas de forma sencilla, generar reportes de ingresos y gastos, y planificar su flujo de caja. La plataforma cuenta con integraciones a herramientas populares y una interfaz de usuario amigable, haciendo que la gestión financiera sea accesible incluso para quienes no tienen experiencia contable.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-06T04:50:08.984006"
+    },
+    {
+      "nombre": "FocusGamify",
+      "descripcion": "FocusGamify es una herramienta SaaS que combina la gestión de proyectos con elementos de gamificación, permitiendo a los usuarios establecer metas, ganar recompensas y desbloquear niveles a medida que completan sus tareas. Integra recordatorios, estadísticas de rendimiento y una comunidad para fomentar la colaboración y el apoyo entre usuarios.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-06T07:43:41.060336"
     }
   ],
   "nombres_usados": [
-    "FinanzApp",
     "FinanzasSimplicidad",
     "FinanceEasy",
     "ConnectWell",
@@ -8001,6 +8000,7 @@
     "Visibilidad Directa",
     "CobroSmart",
     "FlowBalance",
-    "SyncWork"
+    "SyncWork",
+    "FocusGamify"
   ]
 }
