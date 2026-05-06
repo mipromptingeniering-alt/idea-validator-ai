@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "CollabWell",
-      "descripcion": "CollabWell es una plataforma SaaS que integra la gestión de proyectos con herramientas de cuidado del bienestar emocional de los empleados, proporcionando chequeos regulares de salud mental, espacios para compartir sentimientos y herramientas para fomentar la conexión entre equipos.",
-      "tipo": "SaaS",
-      "score": 78,
-      "fecha": "2026-03-05T11:50:53.327655"
-    },
-    {
       "nombre": "TaskWell",
       "descripcion": "TaskWell es una plataforma de gestión de tareas que permite a los usuarios organizar su trabajo de manera eficiente, al mismo tiempo que incorpora prácticas de bienestar, como pausas programadas y reflexiones diarias.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-05T23:30:43.205367"
+    },
+    {
+      "nombre": "FlowBalance",
+      "descripcion": "FlowBalance es una herramienta de gestión de tareas que no solo permite a los usuarios listar y priorizar sus tareas diarias, sino que también incluye recordatorios para pausas activas, ejercicios de respiración y estiramientos, adaptándose a las necesidades de los trabajadores remotos para mejorar su productividad general y bienestar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-06T01:16:07.531004"
     }
   ],
   "nombres_usados": [
-    "CollabWell",
     "TaskWell",
     "FinanzApp",
     "FinanzasSimplicidad",
@@ -8001,6 +8000,7 @@
     "Contentify",
     "SocialBoost Studio",
     "Visibilidad Directa",
-    "CobroSmart"
+    "CobroSmart",
+    "FlowBalance"
   ]
 }

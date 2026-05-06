@@ -480,6 +480,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260505233043",
+    "nombre": "CobroSmart",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de gestión de cuentas por cobrar para pequeñas y medianas empresas con inteligencia artificial integrada....",
+    "score": 75,
+    "landing_url": "IDEA-20260505233043.html"
+  },
+  {
     "id": "IDEA-20260505223551",
     "nombre": "Visibilidad Directa",
     "tipo": "SaaS",
