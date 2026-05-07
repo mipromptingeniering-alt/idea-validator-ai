@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "PymeConnect",
-      "descripcion": "PymeConnect es una solución integral que permite a las pequeñas y medianas empresas gestionar sus clientes, ventas y atención al cliente desde una única plataforma. Incluye automatización de marketing, seguimiento de ventas, y análisis de datos para ayudar a las pymes a tomar decisiones informadas y aumentar su eficiencia operativa.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-06T14:05:51.523814"
-    },
-    {
       "nombre": "SociManage",
       "descripcion": "SociManage permite a las PYMEs programar publicaciones, realizar un seguimiento de la interacción en redes sociales y analizar métricas clave de rendimiento a través de un panel intuitivo. También incluye plantillas de contenido y recomendaciones personalizadas basadas en la industria.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-07T07:38:23.389928"
+    },
+    {
+      "nombre": "TalentMatch",
+      "descripcion": "TalentMatch es una plataforma emergente que utiliza tecnología de inteligencia artificial para conectar a emprendedores y pequeñas empresas con freelancers calificados. Mediante un proceso de evaluación en el que no solo se valoran las competencias técnicas, sino también la adecuación cultural, facilitamos la contratación de talento adecuado en proyectos de corta y larga duración.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-07T10:07:12.130391"
     }
   ],
   "nombres_usados": [
-    "PymeConnect",
     "SociManage",
     "EcomEase",
     "WellProductive",
@@ -8001,6 +8000,7 @@
     "BizDigital",
     "TimeMaster Pro",
     "BizTemplate Pro",
-    "FinTrack AI"
+    "FinTrack AI",
+    "TalentMatch"
   ]
 }

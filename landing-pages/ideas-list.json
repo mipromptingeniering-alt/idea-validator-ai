@@ -480,6 +480,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260507073823",
+    "nombre": "FinTrack AI",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión financiera para autónomos que utiliza IA para optimizar la contabilidad personal y empresarial....",
+    "score": 75,
+    "landing_url": "IDEA-20260507073823.html"
+  },
+  {
     "id": "IDEA-20260506233438",
     "nombre": "BizTemplate Pro",
     "tipo": "SaaS",
