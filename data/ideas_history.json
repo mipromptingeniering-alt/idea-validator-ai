@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "EcomEase",
-      "descripcion": "EcomEase ofrece una suite de herramientas que incluyen la gestión de redes sociales, la creación de campañas de email marketing y análisis de rendimiento de sitios web, todo en una interfaz amigable y con tutoriales accesibles.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-06T17:55:21.406539"
-    },
-    {
       "nombre": "WellProductive",
       "descripcion": "WellProductive es una herramienta SaaS que ayuda a los empleados a gestionar su tiempo mientras se les proporciona acceso a recursos de salud mental y ejercicios de relajación. Ofrece planificación de tareas, seguimiento del tiempo, y recursos como meditación guiada y ejercicios de respiración.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-05-07T12:04:39.309504"
+    },
+    {
+      "nombre": "PymeConnect",
+      "descripcion": "PymeConnect es un software de gestión de relaciones con clientes que permite a las pymes gestionar contactos, automatizar tareas repetitivas y realizar un seguimiento de interacciones con clientes de manera intuitiva. Con una interfaz amigable y características personalizables, se adapta a las necesidades específicas de cada negocio.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-07T14:48:30.316140"
     }
   ],
   "nombres_usados": [
-    "EcomEase",
     "WellProductive",
     "ContentCurator Pro",
     "MarketingSmart",
@@ -8001,6 +8000,7 @@
     "BizTemplate Pro",
     "FinTrack AI",
     "TalentMatch",
-    "SocialWise"
+    "SocialWise",
+    "PymeConnect"
   ]
 }
