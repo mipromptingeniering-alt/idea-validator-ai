@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MarketingSmart",
-      "descripcion": "MarketingSmart es una herramienta de marketing digital que permite a los emprendedores y pequeñas empresas gestionar sus campañas de marketing en un solo lugar. Ofrece automatización de correos electrónicos, análisis de redes sociales, y sugerencias personalizadas basadas en inteligencia artificial para mejorar el rendimiento de las campañas.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-06T23:53:22.700221"
-    },
-    {
       "nombre": "MarketGenie",
       "descripcion": "MarketGenie es un software como servicio que permite a los emprendedores generar estrategias de marketing digital adaptadas a su negocio. Utilizando AI, la plataforma ofrece recomendaciones personalizadas basadas en el análisis de datos de mercado, tendencias actuales y perfil del cliente, facilitando la implementación de campañas a través de diferentes canales, como redes sociales, email marketing y anuncios.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-07T18:14:06.655810"
+    },
+    {
+      "nombre": "Campaña Smart",
+      "descripcion": "Campaña Smart permite a los profesionales del marketing gestionar, analizar y optimizar sus campañas en una sola plataforma. La inteligencia artificial proporciona recomendaciones personalizadas y análisis predictivos basados en datos en tiempo real, ayudando a los marketers a tomar decisiones más informadas y eficientes.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-05-07T20:59:03.048630"
     }
   ],
   "nombres_usados": [
-    "MarketingSmart",
     "MarketGenie",
     "AutoGestor",
     "ProjectIQ",
@@ -8001,6 +8000,7 @@
     "SocialWise",
     "PymeConnect",
     "SocialManager Lite",
-    "LearnQuest"
+    "LearnQuest",
+    "Campaña Smart"
   ]
 }
