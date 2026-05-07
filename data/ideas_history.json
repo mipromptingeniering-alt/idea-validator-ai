@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SociManage",
-      "descripcion": "SociManage permite a las PYMEs programar publicaciones, realizar un seguimiento de la interacción en redes sociales y analizar métricas clave de rendimiento a través de un panel intuitivo. También incluye plantillas de contenido y recomendaciones personalizadas basadas en la industria.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-06T16:01:24.383395"
-    },
-    {
       "nombre": "EcomEase",
       "descripcion": "EcomEase ofrece una suite de herramientas que incluyen la gestión de redes sociales, la creación de campañas de email marketing y análisis de rendimiento de sitios web, todo en una interfaz amigable y con tutoriales accesibles.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-07T10:07:12.130391"
+    },
+    {
+      "nombre": "SocialWise",
+      "descripcion": "SocialWise permite a las pequeñas empresas crear, programar y analizar publicaciones en las principales redes sociales a través de un panel intuitivo. Utilizando algoritmos de IA, ofrece recomendaciones de contenido y horarios óptimos para maximizar el alcance y la interacción.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-05-07T12:04:39.309504"
     }
   ],
   "nombres_usados": [
-    "SociManage",
     "EcomEase",
     "WellProductive",
     "ContentCurator Pro",
@@ -8001,6 +8000,7 @@
     "TimeMaster Pro",
     "BizTemplate Pro",
     "FinTrack AI",
-    "TalentMatch"
+    "TalentMatch",
+    "SocialWise"
   ]
 }
