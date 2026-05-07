@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ContentCurator Pro",
-      "descripcion": "ContentCurator Pro es una herramienta que permite a los usuarios establecer sus intereses y recibe automáticamente artículos, vídeos y otros recursos relevantes de diversas fuentes. La plataforma utiliza algoritmos de machine learning para adaptar las recomendaciones basándose en el comportamiento del usuario y sus preferencias previas, facilitando la búsqueda de contenido útil en un mar de información.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-06T22:59:38.002482"
-    },
-    {
       "nombre": "MarketingSmart",
       "descripcion": "MarketingSmart es una herramienta de marketing digital que permite a los emprendedores y pequeñas empresas gestionar sus campañas de marketing en un solo lugar. Ofrece automatización de correos electrónicos, análisis de redes sociales, y sugerencias personalizadas basadas en inteligencia artificial para mejorar el rendimiento de las campañas.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-05-07T16:43:35.085266"
+    },
+    {
+      "nombre": "LearnQuest",
+      "descripcion": "LearnQuest ofrece una experiencia de aprendizaje interactiva y motivadora mediante la implementación de un sistema de puntos, desafíos y logros. Los usuarios pueden personalizar sus rutas de aprendizaje y recibir recomendaciones basadas en su progreso y preferencias.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-07T18:14:06.655810"
     }
   ],
   "nombres_usados": [
-    "ContentCurator Pro",
     "MarketingSmart",
     "MarketGenie",
     "AutoGestor",
@@ -8001,6 +8000,7 @@
     "TalentMatch",
     "SocialWise",
     "PymeConnect",
-    "SocialManager Lite"
+    "SocialManager Lite",
+    "LearnQuest"
   ]
 }
