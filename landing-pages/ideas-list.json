@@ -480,6 +480,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260507144830",
+    "nombre": "PymeConnect",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma CRM sencilla y accesible, diseñada específicamente para ayudar a las pequeñas y medianas empresas a gestionar su relación con los clien...",
+    "score": 75,
+    "landing_url": "IDEA-20260507144830.html"
+  },
+  {
     "id": "IDEA-20260507100711",
     "nombre": "TalentMatch",
     "tipo": "SaaS",
