@@ -480,6 +480,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260506233438",
+    "nombre": "BizTemplate Pro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS que permite a emprendedores y pequeñas empresas crear y personalizar plantillas de negocio para diferentes necesidades, con soport...",
+    "score": 75,
+    "landing_url": "IDEA-20260506233438.html"
+  },
+  {
     "id": "IDEA-20260506224125",
     "nombre": "TimeMaster Pro",
     "tipo": "SaaS",
