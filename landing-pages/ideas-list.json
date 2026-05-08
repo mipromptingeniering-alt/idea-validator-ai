@@ -496,6 +496,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260508071820",
+    "nombre": "SME Social Booster",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma todo en uno para que las PYMEs gestionen y optimicen su presencia en redes sociales....",
+    "score": 75,
+    "landing_url": "IDEA-20260508071820.html"
+  },
+  {
     "id": "IDEA-20260508055128",
     "nombre": "DataSense",
     "tipo": "SaaS",

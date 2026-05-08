@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "EduConecta",
-      "descripcion": "EduConecta es una plataforma digital que proporciona a los padres acceso a una variedad de recursos educativos y actividades extracurriculares personalizadas, según los intereses y las necesidades de sus hijos. Los usuarios pueden buscar, comparar y reservar actividades como clases de arte, deportes, tutorías y más, todo en un solo lugar.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-07T09:54:02.185510"
-    },
-    {
       "nombre": "SocialBoost PYMES",
       "descripcion": "SocialBoost PYMES permite a las pequeñas y medianas empresas gestionar sus redes sociales desde una sola plataforma, facilitar la programación de publicaciones, y obtener análisis detallados sobre el rendimiento de su contenido, todo en un entorno intuitivo y amigable.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-08T07:18:20.972176"
+    },
+    {
+      "nombre": "CollabFun",
+      "descripcion": "CollabFun es una plataforma que integra la gestión de proyectos y herramientas de comunicación con elementos de gamificación, permitiendo a los equipos mejorar su colaboración y productividad mientras interactúan de forma lúdica. Los usuarios pueden crear proyectos, asignar tareas, establecer objetivos y participar en retos semanales que fomentan la cohesión del equipo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-08T08:53:02.775289"
     }
   ],
   "nombres_usados": [
-    "EduConecta",
     "SocialBoost PYMES",
     "DataSimplicity",
     "SocialSavvy",
@@ -8001,6 +8000,7 @@
     "BizAdapt",
     "MediSchedule",
     "DataSense",
-    "SME Social Booster"
+    "SME Social Booster",
+    "CollabFun"
   ]
 }
