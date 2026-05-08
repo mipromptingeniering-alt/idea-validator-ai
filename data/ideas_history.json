@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TaskOptimizer",
-      "descripcion": "TaskOptimizer es una plataforma que permite a los usuarios crear listas de tareas, establecer prioridades basadas en deadlines y energía personal, y proporciona recomendaciones personalizadas para maximizar la productividad diaria a través de la inteligencia artificial.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-07T14:51:31.437329"
-    },
-    {
       "nombre": "TaskEasy",
       "descripcion": "TaskEasy permite a los usuarios crear tareas, asignar responsables, establecer fechas de vencimiento y realizar seguimiento del progreso con una interfaz limpia y minimalista. Además, se integra fácilmente con Google Calendar y Slack para notificaciones y recordatorios.",
       "tipo": "MicroSaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-08T16:43:00.879974"
+    },
+    {
+      "nombre": "ConnectWell",
+      "descripcion": "ConnectWell es una solución SaaS que permite a los equipos remotos coordinar mejor su tiempo y mantener una comunicación efectiva. Ofrece funciones como gestión de tareas, videollamadas programadas y 'check-ins' de bienestar para asegurar que los miembros del equipo se sientan conectados y apoyados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-08T17:58:05.043137"
     }
   ],
   "nombres_usados": [
-    "TaskOptimizer",
     "TaskEasy",
     "Marketing Insights Hub",
     "TeamBoost",
@@ -8001,6 +8000,7 @@
     "SociaSimplicity",
     "MindTime",
     "TeamJoy",
-    "EasyMarket"
+    "EasyMarket",
+    "ConnectWell"
   ]
 }
