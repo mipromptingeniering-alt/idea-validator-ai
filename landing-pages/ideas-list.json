@@ -56,6 +56,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260508000502",
+    "nombre": "BizAdapt",
+    "tipo": "SaaS",
+    "resumen": "Una aplicación que ayuda a las startups a crear, adaptar y mantener planes de negocio dinámicos con la ayuda de inteligencia artificial....",
+    "score": 78,
+    "landing_url": "IDEA-20260508000502.html"
+  },
+  {
     "id": "IDEA-20260507164334",
     "nombre": "SocialManager Lite",
     "tipo": "SaaS",

@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ProjectIQ",
-      "descripcion": "ProjectIQ es una herramienta de gestión de proyectos diseñada especialmente para pequeñas empresas y emprendedores. Ofrece una interfaz intuitiva y utiliza inteligencia artificial para analizar el rendimiento del equipo, sugerir la mejor asignación de tareas y prever posibles retrasos en los proyectos. Además, incluye funciones de colaboración en tiempo real, permitiendo a los equipos comunicarse sin problemas y mantenerse organizados.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-07T07:44:02.399768"
-    },
-    {
       "nombre": "SocialMetrics Hub",
       "descripcion": "SocialMetrics Hub es un software como servicio que permite a los profesionales del marketing conectar sus cuentas de redes sociales y plataformas de análisis para visualizar un panel de métricas unificado. La herramienta ofrece informes personalizables y análisis de rendimiento en tiempo real, así como recomendaciones basadas en datos para mejorar las campañas.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-05-08T00:05:02.630337"
+    },
+    {
+      "nombre": "MediSchedule",
+      "descripcion": "MediSchedule es un software como servicio que permite a médicos y terapeutas gestionar sus citas, enviar recordatorios automatizados a los pacientes y facilitar la comunicación directa. La plataforma busca reducir cancelaciones y mejorar la experiencia global del paciente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-08T03:51:52.928281"
     }
   ],
   "nombres_usados": [
-    "ProjectIQ",
     "SocialMetrics Hub",
     "ProjecBill",
     "EduConecta",
@@ -8001,6 +8000,7 @@
     "LearnQuest",
     "Campaña Smart",
     "SecurePassGame",
-    "BizAdapt"
+    "BizAdapt",
+    "MediSchedule"
   ]
 }
