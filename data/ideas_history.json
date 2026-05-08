@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Marketing Insights Hub",
-      "descripcion": "Marketing Insights Hub es una solución SaaS que permite a los profesionales del marketing conectar diversas herramientas (como Google Analytics, Facebook Ads, y herramientas de email marketing) en un solo panel. Utilizando IA, la plataforma genera informes detallados y recomendaciones para optimizar las campañas basadas en datos históricos y tendencias del mercado.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-07T16:00:10.854998"
-    },
-    {
       "nombre": "TeamBoost",
       "descripcion": "TeamBoost permite a los equipos gestionar sus tareas diarias mientras participan en desafíos y actividades interactivas que fomentan la colaboración y la conexión emocional entre los miembros del equipo.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-08T20:16:26.921581"
+    },
+    {
+      "nombre": "PymeDigital",
+      "descripcion": "PymeDigital brinda a las pequeñas y medianas empresas herramientas para crear páginas web, gestionar redes sociales y analizar el comportamiento de sus clientes en un solo lugar. La intuición y la facilidad de uso son fundamentales en su diseño.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-08T22:36:56.753726"
     }
   ],
   "nombres_usados": [
-    "Marketing Insights Hub",
     "TeamBoost",
     "ClientMate",
     "GamifyTime",
@@ -8001,6 +8000,7 @@
     "TeamJoy",
     "EasyMarket",
     "ConnectWell",
-    "ClientConnect AI"
+    "ClientConnect AI",
+    "PymeDigital"
   ]
 }
