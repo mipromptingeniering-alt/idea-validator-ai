@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "DataSimplicity",
-      "descripcion": "DataSimplicity es una herramienta SaaS que simplifica el análisis de datos, ofreciendo plantillas y dashboards pre-diseñados para que los dueños de pequeños negocios puedan visualizar y analizar sus datos de manera rápida y efectiva.",
-      "tipo": "SaaS",
-      "score": 72,
-      "fecha": "2026-03-07T11:38:33.554288"
-    },
-    {
       "nombre": "SocialSavvy",
       "descripcion": "SocialSavvy permite a los usuarios gestionar múltiples cuentas de redes sociales desde una sola interfaz, programar publicaciones, y recibir informes de rendimiento personalizados, todo con una experiencia de usuario intuitiva.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-08T10:18:24.771165"
+    },
+    {
+      "nombre": "MindTime",
+      "descripcion": "MindTime es una aplicación web que permite a los usuarios crear su horario, establecer tareas y recordatorios, y, a la vez, incorpora sesiones de mindfulness y ejercicios de respiración que pueden ser programados a lo largo del día con el fin de mejorar la concentración y reducir el estrés.",
+      "tipo": "SaaS",
+      "score": 76,
+      "fecha": "2026-05-08T11:51:10.871300"
     }
   ],
   "nombres_usados": [
-    "DataSimplicity",
     "SocialSavvy",
     "MindfulTask",
     "TaskOptimizer",
@@ -8001,6 +8000,7 @@
     "DataSense",
     "SME Social Booster",
     "CollabFun",
-    "SociaSimplicity"
+    "SociaSimplicity",
+    "MindTime"
   ]
 }
