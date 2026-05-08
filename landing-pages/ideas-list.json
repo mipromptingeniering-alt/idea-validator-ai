@@ -496,6 +496,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260508035152",
+    "nombre": "MediSchedule",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de citas y comunicación para profesionales de la salud que mejora la eficiencia y la satisfacción del paciente....",
+    "score": 75,
+    "landing_url": "IDEA-20260508035152.html"
+  },
+  {
     "id": "IDEA-20260507181406",
     "nombre": "LearnQuest",
     "tipo": "SaaS",

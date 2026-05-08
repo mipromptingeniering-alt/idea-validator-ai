@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialMetrics Hub",
-      "descripcion": "SocialMetrics Hub es un software como servicio que permite a los profesionales del marketing conectar sus cuentas de redes sociales y plataformas de análisis para visualizar un panel de métricas unificado. La herramienta ofrece informes personalizables y análisis de rendimiento en tiempo real, así como recomendaciones basadas en datos para mejorar las campañas.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-07T08:03:05.657845"
-    },
-    {
       "nombre": "ProjecBill",
       "descripcion": "ProjecBill permite a los usuarios gestionar proyectos, realizar un seguimiento del tiempo trabajado y generar facturas en una única interfaz intuitiva. Además, ofrece herramientas de colaboración y reportes analíticos para mejorar la toma de decisiones.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-08T03:51:52.928281"
+    },
+    {
+      "nombre": "DataSense",
+      "descripcion": "DataSense permite a las PYMEs cargar sus datos y recibir reportes automatizados que destacan las métricas clave y ofrecen recomendaciones basadas en inteligencia artificial. La plataforma es fácil de usar y no requiere conocimientos técnicos específicos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-08T05:51:28.798777"
     }
   ],
   "nombres_usados": [
-    "SocialMetrics Hub",
     "ProjecBill",
     "EduConecta",
     "SocialBoost PYMES",
@@ -8001,6 +8000,7 @@
     "Campaña Smart",
     "SecurePassGame",
     "BizAdapt",
-    "MediSchedule"
+    "MediSchedule",
+    "DataSense"
   ]
 }
