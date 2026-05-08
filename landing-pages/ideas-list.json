@@ -504,6 +504,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260508175804",
+    "nombre": "ConnectWell",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que mejora la comunicación y gestión del tiempo para equipos remotos, integrando herramientas de bienestar....",
+    "score": 75,
+    "landing_url": "IDEA-20260508175804.html"
+  },
+  {
     "id": "IDEA-20260508164300",
     "nombre": "EasyMarket",
     "tipo": "SaaS",

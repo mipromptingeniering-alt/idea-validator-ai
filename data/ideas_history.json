@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TaskEasy",
-      "descripcion": "TaskEasy permite a los usuarios crear tareas, asignar responsables, establecer fechas de vencimiento y realizar seguimiento del progreso con una interfaz limpia y minimalista. Además, se integra fácilmente con Google Calendar y Slack para notificaciones y recordatorios.",
-      "tipo": "MicroSaaS",
-      "score": 75,
-      "fecha": "2026-03-07T15:42:58.582390"
-    },
-    {
       "nombre": "Marketing Insights Hub",
       "descripcion": "Marketing Insights Hub es una solución SaaS que permite a los profesionales del marketing conectar diversas herramientas (como Google Analytics, Facebook Ads, y herramientas de email marketing) en un solo panel. Utilizando IA, la plataforma genera informes detallados y recomendaciones para optimizar las campañas basadas en datos históricos y tendencias del mercado.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-08T17:58:05.043137"
+    },
+    {
+      "nombre": "ClientConnect AI",
+      "descripcion": "ClientConnect AI es un sistema de gestión de relaciones con clientes que utiliza inteligencia artificial para optimizar la comunicación, seguimientos y gestión de tareas relacionadas con cada cliente. Proporciona informes en tiempo real y sugerencias de acciones personalizadas, lo que mejora la satisfacción del cliente y aumenta las oportunidades de negocio.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-08T20:16:26.921581"
     }
   ],
   "nombres_usados": [
-    "TaskEasy",
     "Marketing Insights Hub",
     "TeamBoost",
     "ClientMate",
@@ -8001,6 +8000,7 @@
     "MindTime",
     "TeamJoy",
     "EasyMarket",
-    "ConnectWell"
+    "ConnectWell",
+    "ClientConnect AI"
   ]
 }
