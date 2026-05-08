@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ProjecBill",
-      "descripcion": "ProjecBill permite a los usuarios gestionar proyectos, realizar un seguimiento del tiempo trabajado y generar facturas en una única interfaz intuitiva. Además, ofrece herramientas de colaboración y reportes analíticos para mejorar la toma de decisiones.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-07T08:59:52.775860"
-    },
-    {
       "nombre": "EduConecta",
       "descripcion": "EduConecta es una plataforma digital que proporciona a los padres acceso a una variedad de recursos educativos y actividades extracurriculares personalizadas, según los intereses y las necesidades de sus hijos. Los usuarios pueden buscar, comparar y reservar actividades como clases de arte, deportes, tutorías y más, todo en un solo lugar.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-08T05:51:28.798777"
+    },
+    {
+      "nombre": "SME Social Booster",
+      "descripcion": "SME Social Booster es una herramienta diseñada específicamente para pequeñas y medianas empresas que permite la programación de publicaciones, análisis del rendimiento y generación de contenido sugerido basado en tendencias del sector. Con un enfoque automatizado y fácil de usar, los usuarios pueden ahorrar tiempo y maximizar su impacto en las redes sociales sin necesidad de experiencia previa.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-08T07:18:20.972176"
     }
   ],
   "nombres_usados": [
-    "ProjecBill",
     "EduConecta",
     "SocialBoost PYMES",
     "DataSimplicity",
@@ -8001,6 +8000,7 @@
     "SecurePassGame",
     "BizAdapt",
     "MediSchedule",
-    "DataSense"
+    "DataSense",
+    "SME Social Booster"
   ]
 }

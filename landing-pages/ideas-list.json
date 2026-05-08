@@ -496,6 +496,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260508055128",
+    "nombre": "DataSense",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de análisis de datos accesible y personalizada para pequeñas y medianas empresas que transforma datos en insights accionables....",
+    "score": 75,
+    "landing_url": "IDEA-20260508055128.html"
+  },
+  {
     "id": "IDEA-20260508035152",
     "nombre": "MediSchedule",
     "tipo": "SaaS",
