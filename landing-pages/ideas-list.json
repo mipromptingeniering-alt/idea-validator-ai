@@ -504,6 +504,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260508223656",
+    "nombre": "PymeDigital",
+    "tipo": "SaaS",
+    "resumen": "Plataforma todo en uno para gestionar la presencia digital de las PYMEs....",
+    "score": 75,
+    "landing_url": "IDEA-20260508223656.html"
+  },
+  {
     "id": "IDEA-20260508201626",
     "nombre": "ClientConnect AI",
     "tipo": "SaaS",
