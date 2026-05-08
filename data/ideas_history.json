@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialBoost PYMES",
-      "descripcion": "SocialBoost PYMES permite a las pequeñas y medianas empresas gestionar sus redes sociales desde una sola plataforma, facilitar la programación de publicaciones, y obtener análisis detallados sobre el rendimiento de su contenido, todo en un entorno intuitivo y amigable.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-07T10:51:00.914522"
-    },
-    {
       "nombre": "DataSimplicity",
       "descripcion": "DataSimplicity es una herramienta SaaS que simplifica el análisis de datos, ofreciendo plantillas y dashboards pre-diseñados para que los dueños de pequeños negocios puedan visualizar y analizar sus datos de manera rápida y efectiva.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-08T08:53:02.775289"
+    },
+    {
+      "nombre": "SociaSimplicity",
+      "descripcion": "Con SociaSimplicity, las pymes pueden gestionar todas sus cuentas de redes sociales desde una única plataforma, programar publicaciones, monitorizar interacciones y analizar el rendimiento de sus campañas sin necesidad de conocimientos técnicos avanzados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-08T10:18:24.771165"
     }
   ],
   "nombres_usados": [
-    "SocialBoost PYMES",
     "DataSimplicity",
     "SocialSavvy",
     "MindfulTask",
@@ -8001,6 +8000,7 @@
     "MediSchedule",
     "DataSense",
     "SME Social Booster",
-    "CollabFun"
+    "CollabFun",
+    "SociaSimplicity"
   ]
 }

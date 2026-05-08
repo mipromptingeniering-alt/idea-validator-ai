@@ -496,6 +496,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260508085302",
+    "nombre": "CollabFun",
+    "tipo": "SaaS",
+    "resumen": "Plataforma para mejorar la colaboración y la comunicación de equipos remotos mediante dinámicas de trabajo gamificadas....",
+    "score": 75,
+    "landing_url": "IDEA-20260508085302.html"
+  },
+  {
     "id": "IDEA-20260508071820",
     "nombre": "SME Social Booster",
     "tipo": "SaaS",
