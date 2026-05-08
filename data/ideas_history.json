@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "AutoGestor",
-      "descripcion": "Ofrecemos un servicio de gestión de facturación, seguimiento de gastos, y generación de informes de manera automatizada y sencilla, permitiendo que los usuarios se enfoquen en hacer crecer su negocio sin preocuparse por las tareas administrativas.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-07T06:02:31.177506"
-    },
-    {
       "nombre": "ProjectIQ",
       "descripcion": "ProjectIQ es una herramienta de gestión de proyectos diseñada especialmente para pequeñas empresas y emprendedores. Ofrece una interfaz intuitiva y utiliza inteligencia artificial para analizar el rendimiento del equipo, sugerir la mejor asignación de tareas y prever posibles retrasos en los proyectos. Además, incluye funciones de colaboración en tiempo real, permitiendo a los equipos comunicarse sin problemas y mantenerse organizados.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-07T23:02:00.989619"
+    },
+    {
+      "nombre": "BizAdapt",
+      "descripcion": "BizAdapt es una plataforma SaaS que permite a los emprendedores no solo crear un plan de negocio básico, sino también recibir recomendaciones automáticas basadas en datos y tendencias del mercado, ajustando así su estrategia conforme a los resultados obtenidos en su interacción con el mercado.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-05-08T00:05:02.630337"
     }
   ],
   "nombres_usados": [
-    "AutoGestor",
     "ProjectIQ",
     "SocialMetrics Hub",
     "ProjecBill",
@@ -8001,6 +8000,7 @@
     "SocialManager Lite",
     "LearnQuest",
     "Campaña Smart",
-    "SecurePassGame"
+    "SecurePassGame",
+    "BizAdapt"
   ]
 }
