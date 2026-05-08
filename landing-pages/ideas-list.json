@@ -504,6 +504,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260508131128",
+    "nombre": "TeamJoy",
+    "tipo": "SaaS",
+    "resumen": "Plataforma para el bienestar y la motivación de equipos remotos mediante actividades sociales y gestión de tareas....",
+    "score": 75,
+    "landing_url": "IDEA-20260508131128.html"
+  },
+  {
     "id": "IDEA-20260508101824",
     "nombre": "SociaSimplicity",
     "tipo": "SaaS",

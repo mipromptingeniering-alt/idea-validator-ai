@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MindfulTask",
-      "descripcion": "MindfulTask ofrece un sistema de gestión de tareas que no solo ayuda a los usuarios a organizar su trabajo, sino que también incluye recordatorios y ejercicios cortos de mindfulness para reducir el estrés y aumentar la concentración.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-07T13:51:19.853366"
-    },
-    {
       "nombre": "TaskOptimizer",
       "descripcion": "TaskOptimizer es una plataforma que permite a los usuarios crear listas de tareas, establecer prioridades basadas en deadlines y energía personal, y proporciona recomendaciones personalizadas para maximizar la productividad diaria a través de la inteligencia artificial.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-08T13:11:28.588607"
+    },
+    {
+      "nombre": "EasyMarket",
+      "descripcion": "EasyMarket ofrece una solución integral de marketing digital que incluye gestión de correos electrónicos, automatización de publicaciones en redes sociales y seguimiento de métricas, todo en una interfaz amigable y fácil de usar. Está diseñada para que las pymes puedan crear y gestionar sus campañas de marketing sin necesidad de conocimientos técnicos avanzados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-08T16:43:00.879974"
     }
   ],
   "nombres_usados": [
-    "MindfulTask",
     "TaskOptimizer",
     "TaskEasy",
     "Marketing Insights Hub",
@@ -8001,6 +8000,7 @@
     "CollabFun",
     "SociaSimplicity",
     "MindTime",
-    "TeamJoy"
+    "TeamJoy",
+    "EasyMarket"
   ]
 }
