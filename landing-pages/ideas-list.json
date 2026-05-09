@@ -504,6 +504,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260509192125",
+    "nombre": "TeamSync Pro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral que unifica herramientas de productividad, gestión de proyectos y comunicación para equipos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260509192125.html"
+  },
+  {
     "id": "IDEA-20260509180354",
     "nombre": "MarketGenius",
     "tipo": "SaaS",

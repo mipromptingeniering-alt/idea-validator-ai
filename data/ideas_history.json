@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TaskFlow Pro",
-      "descripcion": "TaskFlow Pro ofrece una interfaz intuitiva donde los usuarios pueden crear, gestionar y seguir tareas y proyectos, integrando metodologías ágiles de forma fácil. La personalización del flujo de trabajo permite que cada usuario adapte la herramienta a su estilo de trabajo único.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-08T05:01:42.689396"
-    },
-    {
       "nombre": "SocialPilot AI",
       "descripcion": "SocialPilot AI permite a las pequeñas empresas gestionar fácilmente sus cuentas de redes sociales con recomendaciones de contenido personalizadas, programación automática y análisis de rendimiento, lo que les ahorra tiempo y mejora su presencia digital.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-09T19:21:25.285939"
+    },
+    {
+      "nombre": "Sociabot",
+      "descripcion": "Sociabot permite a las PYMES planificar y automatizar sus publicaciones en redes sociales de forma sencilla. Utiliza aprendizaje automático para analizar el rendimiento del contenido y sugiere mejoras y nuevos temas, ahorrando tiempo y aumentando la eficacia de las campañas de marketing.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-09T20:06:45.977946"
     }
   ],
   "nombres_usados": [
-    "TaskFlow Pro",
     "SocialPilot AI",
     "Marketing Metrics Hub",
     "FocusBuddy",
@@ -8001,6 +8000,7 @@
     "Marketing Modular",
     "MiniGestor",
     "MarketGenius",
-    "TeamSync Pro"
+    "TeamSync Pro",
+    "Sociabot"
   ]
 }
