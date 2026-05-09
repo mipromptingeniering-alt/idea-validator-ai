@@ -504,6 +504,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260509160655",
+    "nombre": "Marketing Modular",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de marketing digital modular diseñada para PYMEs que permite elegir funcionalidades según sus necesidades y presupuesto....",
+    "score": 75,
+    "landing_url": "IDEA-20260509160655.html"
+  },
+  {
     "id": "IDEA-20260509124153",
     "nombre": "TeamNurture",
     "tipo": "SaaS",
