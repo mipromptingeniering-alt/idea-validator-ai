@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "GamifyTime",
-      "descripcion": "GamifyTime permite a freelancers y pequeños equipos gestionar sus proyectos y tareas de una manera innovadora, usando un sistema de recompensas que hace que cada tarea completada se convierta en un logro, motivando a los usuarios a ser más productivos.",
-      "tipo": "SaaS",
-      "score": 78,
-      "fecha": "2026-03-07T17:59:07.157779"
-    },
-    {
       "nombre": "SoloGestor",
       "descripcion": "SoloGestor es una herramienta digital diseñada para trabajadores autónomos que les permite organizar sus proyectos, llevar el control de sus clientes y gestionar sus finanzas en un solo lugar. Con una interfaz intuitiva y sencilla, los usuarios pueden crear facturas, hacer seguimiento de pagos, establecer recordatorios, y gestionar su tiempo de manera eficiente.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-05-09T06:36:14.408413"
+    },
+    {
+      "nombre": "Nexus Community",
+      "descripcion": "Nexus Community es una plataforma que permite a los usuarios crear y gestionar micro-comunidades basadas en intereses específicos, ofreciendo herramientas para la comunicación, interacción y colaboración entre miembros. A diferencia de las redes sociales tradicionales, Nexus está diseñada para facilitar conexiones reales entre personas con afinidades y propósitos compartidos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-09T08:22:08.409696"
     }
   ],
   "nombres_usados": [
-    "GamifyTime",
     "SoloGestor",
     "DigitalBoost",
     "FreelaHub",
@@ -8001,6 +8000,7 @@
     "ClientConnect AI",
     "PymeDigital",
     "MoneyMinds",
-    "Proyecta"
+    "Proyecta",
+    "Nexus Community"
   ]
 }

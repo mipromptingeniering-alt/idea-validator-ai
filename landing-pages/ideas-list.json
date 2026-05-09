@@ -504,6 +504,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260509063614",
+    "nombre": "Proyecta",
+    "tipo": "MicroSaaS",
+    "resumen": "Una herramienta sencilla para gestionar proyectos y tareas, diseñada específicamente para freelancers y pequeños emprendedores....",
+    "score": 75,
+    "landing_url": "IDEA-20260509063614.html"
+  },
+  {
     "id": "IDEA-20260508233637",
     "nombre": "MoneyMinds",
     "tipo": "SaaS",
