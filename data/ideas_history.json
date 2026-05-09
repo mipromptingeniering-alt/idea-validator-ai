@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Connect & Thrive",
-      "descripcion": "Connect & Thrive es una herramienta online que permite a los equipos remotos gestionar sus tareas laborales mientras participan en actividades de equipo, desde juegos hasta debates sobre bienestar. Esto crea un equilibrio entre productividad y conexión social, ayudando a combatir el aislamiento.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-07T21:39:53.393849"
-    },
-    {
       "nombre": "MiniCRM",
       "descripcion": "MiniCRM ofrece un conjunto de herramientas intuitivas que permiten a las PYMES automatizar la gestión de clientes, seguimiento de interacciones y análisis de datos sin la necesidad de personal técnico especializado. Ofrece integraciones con aplicaciones populares como correo electrónico y gestión de proyectos.",
       "tipo": "MicroSaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-09T11:42:39.707601"
+    },
+    {
+      "nombre": "TeamNurture",
+      "descripcion": "TeamNurture es una herramienta de colaboración diseñada para equipos remotos que combina la gestión de tareas y proyectos con actividades de team building y bienestar. Permite a los equipos mantenerse conectados a través de actividades programadas, juegos de equipo virtuales, y seguimiento del bienestar emocional de cada miembro.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-09T12:41:53.805675"
     }
   ],
   "nombres_usados": [
-    "Connect & Thrive",
     "MiniCRM",
     "EasyWeb",
     "CollabFlow",
@@ -8001,6 +8000,7 @@
     "Nexus Community",
     "Marketing Helper",
     "FeedbackHub",
-    "MentalSync"
+    "MentalSync",
+    "TeamNurture"
   ]
 }
