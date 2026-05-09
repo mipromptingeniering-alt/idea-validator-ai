@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SoloGestor",
-      "descripcion": "SoloGestor es una herramienta digital diseñada para trabajadores autónomos que les permite organizar sus proyectos, llevar el control de sus clientes y gestionar sus finanzas en un solo lugar. Con una interfaz intuitiva y sencilla, los usuarios pueden crear facturas, hacer seguimiento de pagos, establecer recordatorios, y gestionar su tiempo de manera eficiente.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-07T19:00:44.790931"
-    },
-    {
       "nombre": "DigitalBoost",
       "descripcion": "DigitalBoost ofrece a las pequeñas y medianas empresas una solución todo en uno para gestionar su presencia digital. Desde la creación de un sitio web optimizado hasta la programación y gestión de publicaciones en redes sociales, todo en un solo lugar, con un análisis detallado del rendimiento.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-09T08:22:08.409696"
+    },
+    {
+      "nombre": "Marketing Helper",
+      "descripcion": "Marketing Helper es una solución diseñada para PYMES que combina funcionalidades de gestión de redes sociales, automatización de correos electrónicos, creación de landing pages y análisis de rendimiento en un solo lugar, facilitando la implementación de estrategias de marketing digital sin necesidad de conocimientos técnicos avanzados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-09T09:50:36.759334"
     }
   ],
   "nombres_usados": [
-    "SoloGestor",
     "DigitalBoost",
     "FreelaHub",
     "Connect & Thrive",
@@ -8001,6 +8000,7 @@
     "PymeDigital",
     "MoneyMinds",
     "Proyecta",
-    "Nexus Community"
+    "Nexus Community",
+    "Marketing Helper"
   ]
 }
