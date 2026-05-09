@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MiniCRM",
-      "descripcion": "MiniCRM ofrece un conjunto de herramientas intuitivas que permiten a las PYMES automatizar la gestión de clientes, seguimiento de interacciones y análisis de datos sin la necesidad de personal técnico especializado. Ofrece integraciones con aplicaciones populares como correo electrónico y gestión de proyectos.",
-      "tipo": "MicroSaaS",
-      "score": 70,
-      "fecha": "2026-03-07T21:56:04.274220"
-    },
-    {
       "nombre": "EasyWeb",
       "descripcion": "EasyWeb es una herramienta en línea que guía a los usuarios a través del proceso de creación de un sitio web profesional. Ofrece plantillas personalizables, herramientas de SEO integradas y análisis de tráfico para ayudar a los usuarios a mejorar su visibilidad en línea.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-09T12:41:53.805675"
+    },
+    {
+      "nombre": "Marketing Modular",
+      "descripcion": "Marketing Modular ofrece herramientas personalizables para gestionar campañas de email marketing, redes sociales y análisis de desempeño, permitiendo a las PYMEs adaptar la plataforma a sus recursos y objetivos específicos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-09T16:06:55.279056"
     }
   ],
   "nombres_usados": [
-    "MiniCRM",
     "EasyWeb",
     "CollabFlow",
     "PymeWeb Hub",
@@ -8001,6 +8000,7 @@
     "Marketing Helper",
     "FeedbackHub",
     "MentalSync",
-    "TeamNurture"
+    "TeamNurture",
+    "Marketing Modular"
   ]
 }

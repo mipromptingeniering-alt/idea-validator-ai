@@ -504,6 +504,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260509124153",
+    "nombre": "TeamNurture",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que integra herramientas de colaboración, gestión de proyectos y dinámicas de bienestar para equipos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260509124153.html"
+  },
+  {
     "id": "IDEA-20260509114239",
     "nombre": "MentalSync",
     "tipo": "SaaS",
