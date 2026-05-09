@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialPilot AI",
-      "descripcion": "SocialPilot AI permite a las pequeñas empresas gestionar fácilmente sus cuentas de redes sociales con recomendaciones de contenido personalizadas, programación automática y análisis de rendimiento, lo que les ahorra tiempo y mejora su presencia digital.",
-      "tipo": "SaaS",
-      "score": 72,
-      "fecha": "2026-03-08T07:10:41.359536"
-    },
-    {
       "nombre": "Marketing Metrics Hub",
       "descripcion": "Marketing Metrics Hub es una herramienta que integra datos de diversas plataformas publicitarias y redes sociales, proporcionando a los usuarios informes claros y visuales sobre el rendimiento de sus campañas. Los usuarios pueden personalizar métricas, establecer objetivos y recibir recomendaciones automatizadas para mejorar el retorno de inversión (ROI).",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-09T20:06:45.977946"
+    },
+    {
+      "nombre": "SalesSmart",
+      "descripcion": "SalesSmart permite a las PYMEs gestionar sus contactos, realizar un seguimiento de sus interacciones y automatizar tareas repetitivas, además de ofrecer análisis de datos y recomendaciones personalizadas para mejorar las conversiones de ventas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-09T21:59:44.181900"
     }
   ],
   "nombres_usados": [
-    "SocialPilot AI",
     "Marketing Metrics Hub",
     "FocusBuddy",
     "TimeHero",
@@ -8001,6 +8000,7 @@
     "MiniGestor",
     "MarketGenius",
     "TeamSync Pro",
-    "Sociabot"
+    "Sociabot",
+    "SalesSmart"
   ]
 }
