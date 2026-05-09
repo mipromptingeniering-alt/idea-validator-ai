@@ -504,6 +504,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260509171054",
+    "nombre": "MiniGestor",
+    "tipo": "MicroSaaS",
+    "resumen": "Una herramienta de gestión de proyectos simple y efectiva diseñada específicamente para freelancers y pequeños emprendedores....",
+    "score": 75,
+    "landing_url": "IDEA-20260509171054.html"
+  },
+  {
     "id": "IDEA-20260509160655",
     "nombre": "Marketing Modular",
     "tipo": "SaaS",

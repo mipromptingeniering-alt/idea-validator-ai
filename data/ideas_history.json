@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "CollabFlow",
-      "descripcion": "CollabFlow ofrece una solución integral que permite a los equipos remotos comunicarse y colaborar de manera efectiva mediante chat, videoconferencias, gestión de tareas y seguimiento de proyectos. Con un diseño intuitivo y características de personalización, los equipos pueden adaptar la herramienta a sus necesidades específicas.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-07T23:42:12.233422"
-    },
-    {
       "nombre": "PymeWeb Hub",
       "descripcion": "PymeWeb Hub permite a pequeñas y medianas empresas crear su sitio web, gestionar su inventario y ventas, y optimizar su marketing digital desde un solo lugar. Con herramientas integradas de diseño web, análisis de tráfico y marketing por correo electrónico, las pymes pueden mejorar su visibilidad y ventas sin necesidad de conocimientos técnicos avanzados.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-05-09T17:10:54.994699"
+    },
+    {
+      "nombre": "MarketGenius",
+      "descripcion": "MarketGenius permite a los emprendedores crear campañas de marketing digital personalizadas mediante un asistente virtual que analiza su mercado objetivo y su competencia, sugiriendo contenido, canales y estrategias óptimas para maximizar el alcance y la conversión.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-09T18:03:54.733524"
     }
   ],
   "nombres_usados": [
-    "CollabFlow",
     "PymeWeb Hub",
     "TaskFlow Pro",
     "SocialPilot AI",
@@ -8001,6 +8000,7 @@
     "MentalSync",
     "TeamNurture",
     "Marketing Modular",
-    "MiniGestor"
+    "MiniGestor",
+    "MarketGenius"
   ]
 }
