@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "PymeWeb Hub",
-      "descripcion": "PymeWeb Hub permite a pequeñas y medianas empresas crear su sitio web, gestionar su inventario y ventas, y optimizar su marketing digital desde un solo lugar. Con herramientas integradas de diseño web, análisis de tráfico y marketing por correo electrónico, las pymes pueden mejorar su visibilidad y ventas sin necesidad de conocimientos técnicos avanzados.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-07T23:58:30.590996"
-    },
-    {
       "nombre": "TaskFlow Pro",
       "descripcion": "TaskFlow Pro ofrece una interfaz intuitiva donde los usuarios pueden crear, gestionar y seguir tareas y proyectos, integrando metodologías ágiles de forma fácil. La personalización del flujo de trabajo permite que cada usuario adapte la herramienta a su estilo de trabajo único.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-09T18:03:54.733524"
+    },
+    {
+      "nombre": "TeamSync Pro",
+      "descripcion": "TeamSync Pro es un SaaS que centraliza la gestión de proyectos, comunicación y seguimiento de tareas en una sola interfaz. Incluye funciones como gestión de tareas, chats, videoconferencias y calendarios compartidos, todo con una capa de inteligencia artificial que sugiere prioridades y optimiza el flujo de trabajo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-09T19:21:25.285939"
     }
   ],
   "nombres_usados": [
-    "PymeWeb Hub",
     "TaskFlow Pro",
     "SocialPilot AI",
     "Marketing Metrics Hub",
@@ -8001,6 +8000,7 @@
     "TeamNurture",
     "Marketing Modular",
     "MiniGestor",
-    "MarketGenius"
+    "MarketGenius",
+    "TeamSync Pro"
   ]
 }

@@ -504,6 +504,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260509180354",
+    "nombre": "MarketGenius",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que utiliza inteligencia artificial para construir y gestionar estrategias de marketing personalizadas para emprendedores....",
+    "score": 75,
+    "landing_url": "IDEA-20260509180354.html"
+  },
+  {
     "id": "IDEA-20260509171054",
     "nombre": "MiniGestor",
     "tipo": "MicroSaaS",
