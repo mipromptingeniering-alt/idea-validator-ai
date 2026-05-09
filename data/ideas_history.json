@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FreelaHub",
-      "descripcion": "FreelaHub permite a los freelancers gestionar sus proyectos de manera eficiente, rastrear su tiempo, generar facturas personalizadas y comunicarse con sus clientes en un único lugar. Con un enfoque en la simplicidad y la usabilidad, la herramienta proporciona un espacio centralizado que minimiza la pérdida de información y maximiza la productividad.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-07T20:50:26.486706"
-    },
-    {
       "nombre": "Connect & Thrive",
       "descripcion": "Connect & Thrive es una herramienta online que permite a los equipos remotos gestionar sus tareas laborales mientras participan en actividades de equipo, desde juegos hasta debates sobre bienestar. Esto crea un equilibrio entre productividad y conexión social, ayudando a combatir el aislamiento.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-09T10:49:58.865780"
+    },
+    {
+      "nombre": "MentalSync",
+      "descripcion": "MentalSync permite a los terapeutas gestionar sus citas, seguir el progreso de sus pacientes a través de herramientas de evaluación y permitir la comunicación segura, todo en una única plataforma. Incluye recordatorios automáticos para pacientes y análisis de datos para mejorar la atención.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-09T11:42:39.707601"
     }
   ],
   "nombres_usados": [
-    "FreelaHub",
     "Connect & Thrive",
     "MiniCRM",
     "EasyWeb",
@@ -8001,6 +8000,7 @@
     "Proyecta",
     "Nexus Community",
     "Marketing Helper",
-    "FeedbackHub"
+    "FeedbackHub",
+    "MentalSync"
   ]
 }

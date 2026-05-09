@@ -504,6 +504,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260509104958",
+    "nombre": "FeedbackHub",
+    "tipo": "SaaS",
+    "resumen": "Plataforma para gestionar la retroalimentación de proyectos creativos de manera visual y colaborativa....",
+    "score": 75,
+    "landing_url": "IDEA-20260509104958.html"
+  },
+  {
     "id": "IDEA-20260509095036",
     "nombre": "Marketing Helper",
     "tipo": "SaaS",
