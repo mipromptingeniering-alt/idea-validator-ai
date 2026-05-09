@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ClientMate",
-      "descripcion": "ClientMate es una herramienta de CRM que permite a las pymes gestionar fácilmente sus relaciones con los clientes. A través de un dashboard intuitivo, pueden realizar seguimientos de interacciones, tareas, citas, y obtener informes simples sobre el comportamiento de sus clientes. La plataforma se ajusta a las necesidades específicas de cada negocio, permitiendo una personalización sencilla.",
-      "tipo": "MicroSaaS",
-      "score": 70,
-      "fecha": "2026-03-07T17:45:19.645384"
-    },
-    {
       "nombre": "GamifyTime",
       "descripcion": "GamifyTime permite a freelancers y pequeños equipos gestionar sus proyectos y tareas de una manera innovadora, usando un sistema de recompensas que hace que cada tarea completada se convierta en un logro, motivando a los usuarios a ser más productivos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-08T23:36:37.264174"
+    },
+    {
+      "nombre": "Proyecta",
+      "descripcion": "Proyecta permite a los usuarios crear y gestionar proyectos, asignar tareas, establecer plazos y comunicarse con sus clientes en un solo lugar. Integra funciones de chats, cronogramas y recordatorios simples para maximizar la productividad.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-05-09T06:36:14.408413"
     }
   ],
   "nombres_usados": [
-    "ClientMate",
     "GamifyTime",
     "SoloGestor",
     "DigitalBoost",
@@ -8001,6 +8000,7 @@
     "ConnectWell",
     "ClientConnect AI",
     "PymeDigital",
-    "MoneyMinds"
+    "MoneyMinds",
+    "Proyecta"
   ]
 }

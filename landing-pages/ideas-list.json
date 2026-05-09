@@ -504,6 +504,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260508233637",
+    "nombre": "MoneyMinds",
+    "tipo": "SaaS",
+    "resumen": "Una aplicación de finanzas personales que utiliza gamificación para ayudar a los usuarios a gestionar su presupuesto de manera sencilla y efectiva....",
+    "score": 75,
+    "landing_url": "IDEA-20260508233637.html"
+  },
+  {
     "id": "IDEA-20260508223656",
     "nombre": "PymeDigital",
     "tipo": "SaaS",
