@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "DigitalBoost",
-      "descripcion": "DigitalBoost ofrece a las pequeñas y medianas empresas una solución todo en uno para gestionar su presencia digital. Desde la creación de un sitio web optimizado hasta la programación y gestión de publicaciones en redes sociales, todo en un solo lugar, con un análisis detallado del rendimiento.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-07T19:55:35.946503"
-    },
-    {
       "nombre": "FreelaHub",
       "descripcion": "FreelaHub permite a los freelancers gestionar sus proyectos de manera eficiente, rastrear su tiempo, generar facturas personalizadas y comunicarse con sus clientes en un único lugar. Con un enfoque en la simplicidad y la usabilidad, la herramienta proporciona un espacio centralizado que minimiza la pérdida de información y maximiza la productividad.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-09T09:50:36.759334"
+    },
+    {
+      "nombre": "FeedbackHub",
+      "descripcion": "FeedbackHub es una herramienta SaaS diseñada para profesionales creativos donde pueden subir su trabajo y recibir comentarios en tiempo real de clientes y colegas. Facilita la gestión de revisiones, permitiendo a los usuarios hacer anotaciones directamente sobre el trabajo, mejorando así la claridad y la comunicación.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-09T10:49:58.865780"
     }
   ],
   "nombres_usados": [
-    "DigitalBoost",
     "FreelaHub",
     "Connect & Thrive",
     "MiniCRM",
@@ -8001,6 +8000,7 @@
     "MoneyMinds",
     "Proyecta",
     "Nexus Community",
-    "Marketing Helper"
+    "Marketing Helper",
+    "FeedbackHub"
   ]
 }
