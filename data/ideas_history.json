@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ProManage",
-      "descripcion": "Con ProManage, los usuarios pueden crear y asignar tareas, mantener un chat en tiempo real con los clientes, gestionar tiempos de trabajo y generar reportes automáticos. Además, la plataforma utiliza inteligencia artificial para sugerir la mejor forma de organizar las tareas según las prioridades y el tiempo estimado de finalización.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-08T10:54:19.988611"
-    },
-    {
       "nombre": "SociallySimplified",
       "descripcion": "SociallySimplified permite a las PYMES programar publicaciones, crear contenido visual con plantillas personalizables y analizar el rendimiento de sus publicaciones en varias redes sociales desde una única plataforma. Con un enfoque en la simplicidad, la plataforma es fácil de usar y accesible para aquellos sin experiencia previa en marketing digital.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-10T07:24:50.685843"
+    },
+    {
+      "nombre": "AutoAdmin",
+      "descripcion": "AutoAdmin permite a los usuarios gestionar sus facturas, seguimiento de gastos y registros contables a través de una interfaz fácil de usar. La plataforma utiliza automatización para recordar plazos, generar informes y enviar recordatorios, liberando así a los usuarios de tareas manuales y repetitivas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-10T09:11:35.871765"
     }
   ],
   "nombres_usados": [
-    "ProManage",
     "SociallySimplified",
     "SkillQuest",
     "PymeGestor",
@@ -8001,6 +8000,7 @@
     "SalesSmart",
     "Conexión Inclusiva",
     "FinanceEase",
-    "FocusBuddy"
+    "FocusBuddy",
+    "AutoAdmin"
   ]
 }
