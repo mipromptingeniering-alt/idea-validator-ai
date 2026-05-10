@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MarketInsight",
-      "descripcion": "MarketInsight ofrece a los profesionales del marketing y pequeñas empresas una herramienta integral para medir y analizar el rendimiento de sus campañas en múltiples plataformas. La solución utiliza inteligencia artificial para proporcionar recomendaciones sobre cómo optimizar el gasto y aumentar el retorno sobre la inversión.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-08T14:52:52.534104"
-    },
-    {
       "nombre": "SocialNiche",
       "descripcion": "SocialNiche permite a los emprendedores y pequeñas empresas gestionar su presencia en varias redes sociales desde una única plataforma, con características que incluyen la creación automatizada de contenido basado en tendencias del nicho, programación de publicaciones, análisis de rendimiento y sugerencias de mejora.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-10T12:40:23.667430"
+    },
+    {
+      "nombre": "EduPlanify",
+      "descripcion": "EduPlanify es una herramienta que permite a los educadores crear planes de estudio de manera colaborativa, gestionar el progreso académico de sus estudiantes, y comunicarse de manera efectiva con ellos y sus padres. La plataforma utiliza tecnología de análisis de datos para ofrecer recomendaciones personalizadas sobre cómo mejorar la enseñanza y el aprendizaje.",
+      "tipo": "SaaS",
+      "score": 72,
+      "fecha": "2026-05-10T17:11:30.663752"
     }
   ],
   "nombres_usados": [
-    "MarketInsight",
     "SocialNiche",
     "TimeChampion",
     "VisualSocial",
@@ -8001,6 +8000,7 @@
     "AutoAdmin",
     "WorkSync",
     "TimeCraft",
-    "FocusQuest"
+    "FocusQuest",
+    "EduPlanify"
   ]
 }

@@ -9312,6 +9312,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260510124023",
+    "nombre": "FocusQuest",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma interactiva de gestión del tiempo que gamifica las tareas diarias, ayudando a los usuarios a aumentar su productividad....",
+    "score": 70,
+    "landing_url": "IDEA-20260510124023.html"
+  },
+  {
     "id": "IDEA-20260510045812",
     "nombre": "FinanceEase",
     "tipo": "SaaS",
