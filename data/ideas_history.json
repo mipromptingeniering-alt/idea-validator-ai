@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TimeHero",
-      "descripcion": "TimeHero es una aplicación que ayuda a los usuarios a planificar su día, establecer metas, y rastrear su progreso. Utiliza un sistema de gamificación para motivar a los usuarios a completar tareas y alcanzar sus objetivos. Además, permite la personalización de flujos de trabajo para adaptarse a las preferencias individuales.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-08T09:54:33.863924"
-    },
-    {
       "nombre": "ProManage",
       "descripcion": "Con ProManage, los usuarios pueden crear y asignar tareas, mantener un chat en tiempo real con los clientes, gestionar tiempos de trabajo y generar reportes automáticos. Además, la plataforma utiliza inteligencia artificial para sugerir la mejor forma de organizar las tareas según las prioridades y el tiempo estimado de finalización.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-10T04:58:13.001565"
+    },
+    {
+      "nombre": "FocusBuddy",
+      "descripcion": "FocusBuddy ayuda a los trabajadores remotos a estructurar su jornada laboral mediante el seguimiento de tiempo y la analítica de hábitos. A través de inteligencia artificial, la plataforma brinda notificaciones y consejos para mejorar la concentración y minimizar las distracciones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-10T07:24:50.685843"
     }
   ],
   "nombres_usados": [
-    "TimeHero",
     "ProManage",
     "SociallySimplified",
     "SkillQuest",
@@ -8001,6 +8000,7 @@
     "Sociabot",
     "SalesSmart",
     "Conexión Inclusiva",
-    "FinanceEase"
+    "FinanceEase",
+    "FocusBuddy"
   ]
 }

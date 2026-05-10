@@ -9280,6 +9280,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260510045812",
+    "nombre": "FinanceEase",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión financiera diseñada especialmente para profesionales independientes y pequeñas empresas, que simplifica la facturación, el s...",
+    "score": 70,
+    "landing_url": "IDEA-20260510045812.html"
+  },
+  {
     "id": "IDEA-20260507230200",
     "nombre": "SecurePassGame",
     "tipo": "SaaS",
