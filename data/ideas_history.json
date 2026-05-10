@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "PymeGestor",
-      "descripcion": "PymeGestor permite a las PYMEs gestionar sus procesos de venta, seguimiento de clientes y atención al cliente en un solo lugar. Con un enfoque en la simplicidad y la eficiencia, esta herramienta ayuda a las empresas a optimizar su tiempo y recursos, mejorando la experiencia del cliente.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-08T13:52:13.951656"
-    },
-    {
       "nombre": "MarketInsight",
       "descripcion": "MarketInsight ofrece a los profesionales del marketing y pequeñas empresas una herramienta integral para medir y analizar el rendimiento de sus campañas en múltiples plataformas. La solución utiliza inteligencia artificial para proporcionar recomendaciones sobre cómo optimizar el gasto y aumentar el retorno sobre la inversión.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-10T11:31:25.311356"
+    },
+    {
+      "nombre": "FocusQuest",
+      "descripcion": "FocusQuest combina técnicas de gamificación con un enfoque personalizado para ayudar a los usuarios a gestionar su tiempo de manera efectiva y mantener un equilibrio entre su vida personal y profesional a través de misiones diarias y recompensas por su progreso.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-05-10T12:40:23.667430"
     }
   ],
   "nombres_usados": [
-    "PymeGestor",
     "MarketInsight",
     "SocialNiche",
     "TimeChampion",
@@ -8001,6 +8000,7 @@
     "FocusBuddy",
     "AutoAdmin",
     "WorkSync",
-    "TimeCraft"
+    "TimeCraft",
+    "FocusQuest"
   ]
 }

@@ -504,6 +504,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260510113125",
+    "nombre": "TimeCraft",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de tiempo y proyectos para autónomos y pequeñas empresas con inteligencia artificial integrada....",
+    "score": 75,
+    "landing_url": "IDEA-20260510113125.html"
+  },
+  {
     "id": "IDEA-20260510103636",
     "nombre": "WorkSync",
     "tipo": "SaaS",
