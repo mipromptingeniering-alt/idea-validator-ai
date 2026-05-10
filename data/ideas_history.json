@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialNiche",
-      "descripcion": "SocialNiche permite a los emprendedores y pequeñas empresas gestionar su presencia en varias redes sociales desde una única plataforma, con características que incluyen la creación automatizada de contenido basado en tendencias del nicho, programación de publicaciones, análisis de rendimiento y sugerencias de mejora.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-08T15:46:07.715627"
-    },
-    {
       "nombre": "TimeChampion",
       "descripcion": "TimeChampion es una plataforma que permite a los usuarios gestionar su tiempo de manera efectiva mediante el uso de técnicas de gamificación, recompensando el cumplimiento de metas y ayudando en la planificación de tareas diarias.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-05-10T17:11:30.663752"
+    },
+    {
+      "nombre": "MentalCare Manager",
+      "descripcion": "MentalCare Manager es un software como servicio diseñado específicamente para profesionales de la salud mental. La plataforma permite la gestión de citas, almacenamiento seguro de documentos clínicos, seguimiento del progreso del paciente y sesiones de telemedicina en un solo lugar, lo que ayuda a los terapeutas a enfocarse en el cuidado del paciente sin preocuparse por la logística administrativa.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-10T20:08:24.726486"
     }
   ],
   "nombres_usados": [
-    "SocialNiche",
     "TimeChampion",
     "VisualSocial",
     "WellnessManager",
@@ -8001,6 +8000,7 @@
     "WorkSync",
     "TimeCraft",
     "FocusQuest",
-    "EduPlanify"
+    "EduPlanify",
+    "MentalCare Manager"
   ]
 }
