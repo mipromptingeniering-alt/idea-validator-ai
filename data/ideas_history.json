@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SociallySimplified",
-      "descripcion": "SociallySimplified permite a las PYMES programar publicaciones, crear contenido visual con plantillas personalizables y analizar el rendimiento de sus publicaciones en varias redes sociales desde una única plataforma. Con un enfoque en la simplicidad, la plataforma es fácil de usar y accesible para aquellos sin experiencia previa en marketing digital.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-08T11:44:42.401391"
-    },
-    {
       "nombre": "SkillQuest",
       "descripcion": "SkillQuest es una plataforma de educación online que permite a los usuarios aprender habilidades digitales a través de cursos gamificados y proyectos prácticos. Cada curso se estructura en misiones que los usuarios completan para obtener badges y recompensas mientras aprenden. Esto no solo mejora el compromiso, sino que también facilita la aplicación de conocimientos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-10T09:11:35.871765"
+    },
+    {
+      "nombre": "WorkSync",
+      "descripcion": "WorkSync es una plataforma diseñada para trabajadores y equipos remotos que integra todas las herramientas necesarias para la gestión del trabajo en un solo lugar. Permite a los usuarios crear tareas, seguir el tiempo dedicado a cada proyecto y comunicarse con su equipo, todo mientras ofrece recomendaciones personalizadas para mejorar la productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-10T10:36:36.201149"
     }
   ],
   "nombres_usados": [
-    "SociallySimplified",
     "SkillQuest",
     "PymeGestor",
     "MarketInsight",
@@ -8001,6 +8000,7 @@
     "Conexión Inclusiva",
     "FinanceEase",
     "FocusBuddy",
-    "AutoAdmin"
+    "AutoAdmin",
+    "WorkSync"
   ]
 }

@@ -504,6 +504,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260510091135",
+    "nombre": "AutoAdmin",
+    "tipo": "SaaS",
+    "resumen": "AutoAdmin es una plataforma que automatiza la gestión administrativa y contable para autónomos y pequeñas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260510091135.html"
+  },
+  {
     "id": "IDEA-20260510072450",
     "nombre": "FocusBuddy",
     "tipo": "SaaS",
