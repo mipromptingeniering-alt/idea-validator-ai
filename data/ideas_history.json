@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Marketing Metrics Hub",
-      "descripcion": "Marketing Metrics Hub es una herramienta que integra datos de diversas plataformas publicitarias y redes sociales, proporcionando a los usuarios informes claros y visuales sobre el rendimiento de sus campañas. Los usuarios pueden personalizar métricas, establecer objetivos y recibir recomendaciones automatizadas para mejorar el retorno de inversión (ROI).",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-08T07:54:14.617012"
-    },
-    {
       "nombre": "FocusBuddy",
       "descripcion": "FocusBuddy es una herramienta digital diseñada para ayudar a los usuarios a gestionar su tiempo de manera más eficiente. Integra técnicas de productividad como Pomodoro, estableciendo metas diarias y proporcionando un ambiente gamificado que premia a los usuarios por cumplir sus objetivos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-09T21:59:44.181900"
+    },
+    {
+      "nombre": "Conexión Inclusiva",
+      "descripcion": "Conexión Inclusiva es un espacio digital donde los padres pueden registrarse para unirse a grupos, asistir a webinars, intercambiar consejos y compartir experiencias. La plataforma ofrecerá un diseño intuitivo, además de recursos y herramientas específicas que ayuden a los padres en su día a día.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-10T01:24:54.900569"
     }
   ],
   "nombres_usados": [
-    "Marketing Metrics Hub",
     "FocusBuddy",
     "TimeHero",
     "ProManage",
@@ -8001,6 +8000,7 @@
     "MarketGenius",
     "TeamSync Pro",
     "Sociabot",
-    "SalesSmart"
+    "SalesSmart",
+    "Conexión Inclusiva"
   ]
 }

@@ -504,6 +504,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260509215944",
+    "nombre": "SalesSmart",
+    "tipo": "SaaS",
+    "resumen": "SalesSmart es una herramienta de gestión de ventas que integra inteligencia artificial para ayudar a las PYMEs a optimizar sus procesos de ventas y se...",
+    "score": 75,
+    "landing_url": "IDEA-20260509215944.html"
+  },
+  {
     "id": "IDEA-20260509200645",
     "nombre": "Sociabot",
     "tipo": "SaaS",
