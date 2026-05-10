@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TimeChampion",
-      "descripcion": "TimeChampion es una plataforma que permite a los usuarios gestionar su tiempo de manera efectiva mediante el uso de técnicas de gamificación, recompensando el cumplimiento de metas y ayudando en la planificación de tareas diarias.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-08T16:55:46.951652"
-    },
-    {
       "nombre": "VisualSocial",
       "descripcion": "VisualSocial permite a los usuarios crear publicaciones visuales atractivas utilizando plantillas personalizables, gestionar múltiples cuentas de redes sociales y programar publicaciones de manera eficiente. Además, ofrece recursos gráficos y herramientas de edición básicas, todo dentro de una interfaz intuitiva.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-10T20:08:24.726486"
+    },
+    {
+      "nombre": "DigiBoost",
+      "descripcion": "DigiBoost proporciona a las PYMEs herramientas para gestionar su marketing digital, incluyendo gestión de redes sociales, email marketing, creación de landing pages y análisis de datos, todo en un solo lugar y con un diseño fácil de usar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-10T21:05:12.859735"
     }
   ],
   "nombres_usados": [
-    "TimeChampion",
     "VisualSocial",
     "WellnessManager",
     "MultiMetric Analyzer",
@@ -8001,6 +8000,7 @@
     "TimeCraft",
     "FocusQuest",
     "EduPlanify",
-    "MentalCare Manager"
+    "MentalCare Manager",
+    "DigiBoost"
   ]
 }

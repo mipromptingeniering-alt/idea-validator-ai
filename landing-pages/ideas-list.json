@@ -504,6 +504,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260510200824",
+    "nombre": "MentalCare Manager",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para la gestión de prácticas de salud mental que facilita la programación de citas, el seguimiento del paciente y la telemedic...",
+    "score": 75,
+    "landing_url": "IDEA-20260510200824.html"
+  },
+  {
     "id": "IDEA-20260510113125",
     "nombre": "TimeCraft",
     "tipo": "SaaS",
