@@ -504,6 +504,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260510012454",
+    "nombre": "Conexión Inclusiva",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de apoyo para padres de niños con discapacidad que facilita la conexión, el intercambio de recursos y el acceso a información útil....",
+    "score": 75,
+    "landing_url": "IDEA-20260510012454.html"
+  },
+  {
     "id": "IDEA-20260509215944",
     "nombre": "SalesSmart",
     "tipo": "SaaS",
