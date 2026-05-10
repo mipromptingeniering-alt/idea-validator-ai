@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SkillQuest",
-      "descripcion": "SkillQuest es una plataforma de educación online que permite a los usuarios aprender habilidades digitales a través de cursos gamificados y proyectos prácticos. Cada curso se estructura en misiones que los usuarios completan para obtener badges y recompensas mientras aprenden. Esto no solo mejora el compromiso, sino que también facilita la aplicación de conocimientos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-08T11:57:20.965467"
-    },
-    {
       "nombre": "PymeGestor",
       "descripcion": "PymeGestor permite a las PYMEs gestionar sus procesos de venta, seguimiento de clientes y atención al cliente en un solo lugar. Con un enfoque en la simplicidad y la eficiencia, esta herramienta ayuda a las empresas a optimizar su tiempo y recursos, mejorando la experiencia del cliente.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-10T10:36:36.201149"
+    },
+    {
+      "nombre": "TimeCraft",
+      "descripcion": "TimeCraft es una herramienta SaaS que ayuda a autónomos y pequeñas empresas a gestionar su tiempo y proyectos de manera más eficiente. Utiliza inteligencia artificial para analizar patrones de trabajo y ofrecer recomendaciones personalizadas sobre cómo optimizar la jornada laboral y priorizar tareas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-10T11:31:25.311356"
     }
   ],
   "nombres_usados": [
-    "SkillQuest",
     "PymeGestor",
     "MarketInsight",
     "SocialNiche",
@@ -8001,6 +8000,7 @@
     "FinanceEase",
     "FocusBuddy",
     "AutoAdmin",
-    "WorkSync"
+    "WorkSync",
+    "TimeCraft"
   ]
 }

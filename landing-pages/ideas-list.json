@@ -504,6 +504,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260510103636",
+    "nombre": "WorkSync",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para la gestión del trabajo remoto que combina tareas, comunicación y seguimiento del tiempo con inteligencia artificial para ...",
+    "score": 75,
+    "landing_url": "IDEA-20260510103636.html"
+  },
+  {
     "id": "IDEA-20260510091135",
     "nombre": "AutoAdmin",
     "tipo": "SaaS",
