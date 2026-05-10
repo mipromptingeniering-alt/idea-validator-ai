@@ -504,6 +504,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260510220245",
+    "nombre": "MentorWell",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de gestión de salud mental en el trabajo que ayuda a las empresas a evaluar y mejorar el bienestar de sus empleados....",
+    "score": 75,
+    "landing_url": "IDEA-20260510220245.html"
+  },
+  {
     "id": "IDEA-20260510210512",
     "nombre": "DigiBoost",
     "tipo": "SaaS",

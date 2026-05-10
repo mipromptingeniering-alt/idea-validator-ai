@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "WellnessManager",
-      "descripcion": "WellnessManager es un software diseñado específicamente para profesionales de la salud mental y el bienestar, que les permite gestionar sus citas, realizar seguimientos de sus clientes de manera intuitiva y gestionar la facturación, todo en una única plataforma. Incluye recordatorios automáticos, integraciones de pago y herramientas de análisis para mejorar la atención al cliente.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-08T19:47:24.178133"
-    },
-    {
       "nombre": "MultiMetric Analyzer",
       "descripcion": "MultiMetric Analyzer es una plataforma en línea que permite a los profesionales de marketing conectar sus cuentas de redes sociales, herramientas de SEO y cuentas de publicidad pagada para obtener un análisis integral de su rendimiento. A través de un panel intuitivo, los usuarios pueden observar las métricas más relevantes, recibir informes automáticos y recomendaciones para mejorar sus estrategias.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-10T22:02:45.732037"
+    },
+    {
+      "nombre": "EasyBill",
+      "descripcion": "EasyBill permite a los usuarios gestionar fácilmente su facturación, seguimiento de gastos e impuestos, generando reportes automáticos y enviando recordatorios de vencimientos. Está diseñada para ser intuitiva y accesible, eliminando la complejidad que suelen tener otras herramientas de contabilidad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-10T23:06:53.153709"
     }
   ],
   "nombres_usados": [
-    "WellnessManager",
     "MultiMetric Analyzer",
     "CitaFácil",
     "PortfolioBoost",
@@ -8001,6 +8000,7 @@
     "EduPlanify",
     "MentalCare Manager",
     "DigiBoost",
-    "MentorWell"
+    "MentorWell",
+    "EasyBill"
   ]
 }
