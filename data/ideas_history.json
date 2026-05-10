@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "VisualSocial",
-      "descripcion": "VisualSocial permite a los usuarios crear publicaciones visuales atractivas utilizando plantillas personalizables, gestionar múltiples cuentas de redes sociales y programar publicaciones de manera eficiente. Además, ofrece recursos gráficos y herramientas de edición básicas, todo dentro de una interfaz intuitiva.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-08T19:02:12.128069"
-    },
-    {
       "nombre": "WellnessManager",
       "descripcion": "WellnessManager es un software diseñado específicamente para profesionales de la salud mental y el bienestar, que les permite gestionar sus citas, realizar seguimientos de sus clientes de manera intuitiva y gestionar la facturación, todo en una única plataforma. Incluye recordatorios automáticos, integraciones de pago y herramientas de análisis para mejorar la atención al cliente.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-10T21:05:12.859735"
+    },
+    {
+      "nombre": "MentorWell",
+      "descripcion": "MentorWell es una plataforma que permite a las empresas realizar evaluaciones periódicas sobre la salud mental de sus empleados, ofrecer recursos personalizados y analizar datos para mejorar el ambiente laboral. Incluye herramientas de autoevaluación, talleres virtuales y un sistema de soporte colaborativo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-10T22:02:45.732037"
     }
   ],
   "nombres_usados": [
-    "VisualSocial",
     "WellnessManager",
     "MultiMetric Analyzer",
     "CitaFácil",
@@ -8001,6 +8000,7 @@
     "FocusQuest",
     "EduPlanify",
     "MentalCare Manager",
-    "DigiBoost"
+    "DigiBoost",
+    "MentorWell"
   ]
 }
