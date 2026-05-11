@@ -9360,6 +9360,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260511043403",
+    "nombre": "LinkUp",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma diseñada para mejorar la conexión social entre trabajadores remotos mediante actividades interactivas y dinámicas de grupo....",
+    "score": 70,
+    "landing_url": "IDEA-20260511043403.html"
+  },
+  {
     "id": "IDEA-20260510124023",
     "nombre": "FocusQuest",
     "tipo": "SaaS",

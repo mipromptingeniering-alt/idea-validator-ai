@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "PortfolioBoost",
-      "descripcion": "PortfolioBoost permite a diseñadores, artistas y otros profesionales creativos gestionar su portafolio de manera eficiente, mientras acceden a herramientas de promoción y marketing para aumentar su visibilidad en el mercado. Con funcionalidades integradas para el análisis de tráfico y conexiones en la industria, los usuarios pueden optimizar sus oportunidades de negocio.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-08T21:58:52.607271"
-    },
-    {
       "nombre": "TimeBill Pro",
       "descripcion": "TimeBill Pro es una herramienta diseñada para ayudar a freelancers a gestionar su tiempo y procesos de facturación de manera eficiente, permitiendo el seguimiento de horas trabajadas, generación de facturas personalizadas y recordatorios de pagos, todo en un único lugar.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-11T04:34:03.729913"
+    },
+    {
+      "nombre": "LearnFlow",
+      "descripcion": "LearnFlow permite a los usuarios crear un perfil personalizado donde pueden establecer objetivos de aprendizaje, gestionar su contenido educativo (cursos, libros, videos), y seguir su progreso a través de métricas visuales y técnicas de gamificación. Además, se pueden integrar recursos externos y establecer recordatorios.",
+      "tipo": "SaaS",
+      "score": 76,
+      "fecha": "2026-05-11T08:04:18.348305"
     }
   ],
   "nombres_usados": [
-    "PortfolioBoost",
     "TimeBill Pro",
     "HealthAdmin Pro",
     "AdminSimple",
@@ -8001,6 +8000,7 @@
     "MentorWell",
     "EasyBill",
     "CreativoPortafolio",
-    "LinkUp"
+    "LinkUp",
+    "LearnFlow"
   ]
 }
