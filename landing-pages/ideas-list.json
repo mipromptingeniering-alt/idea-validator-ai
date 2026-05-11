@@ -512,6 +512,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260511182622",
+    "nombre": "TeamBond",
+    "tipo": "SaaS",
+    "resumen": "Plataforma que combina gestión de proyectos y actividades de team building para equipos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260511182622.html"
+  },
+  {
     "id": "IDEA-20260511113446",
     "nombre": "TaskQuest",
     "tipo": "SaaS",

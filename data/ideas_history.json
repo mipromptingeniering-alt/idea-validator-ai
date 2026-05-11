@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "AdminSimple",
-      "descripcion": "AdminSimple es una plataforma SaaS diseñada para aliviar la carga de las tareas administrativas y contables en pequeñas y medianas empresas. Utiliza inteligencia artificial para automatizar la entrada de datos, generar informes y ofrecer recomendaciones personalizadas, lo que permite a los dueños de negocios centrarse en el crecimiento de su empresa.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-09T10:30:58.164162"
-    },
-    {
       "nombre": "ContentSmart",
       "descripcion": "ContentSmart permite a emprendedores y pequeñas empresas crear contenido de marketing de alta calidad de manera rápida y eficiente. La plataforma utiliza inteligencia artificial para analizar tendencias del sector y preferencias de la audiencia, generando textos, imágenes y videos adaptados a las necesidades del usuario. Además, incluye herramientas de programación y análisis de rendimiento para optimizar la estrategia de contenido.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-11T18:26:22.514615"
+    },
+    {
+      "nombre": "CliQom",
+      "descripcion": "CliQom es una solución SaaS que permite a las pequeñas y medianas empresas gestionar eficientemente su atención al cliente a través de un tablero único. Ofrece funcionalidades como chat en vivo, gestión de tickets, y análisis de satisfacción del cliente, todo accesible desde un solo lugar.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-05-11T21:41:47.808054"
     }
   ],
   "nombres_usados": [
-    "AdminSimple",
     "ContentSmart",
     "TimeWizard",
     "MindTime Balance",
@@ -8001,6 +8000,7 @@
     "LinkUp",
     "LearnFlow",
     "TaskQuest",
-    "TeamBond"
+    "TeamBond",
+    "CliQom"
   ]
 }
