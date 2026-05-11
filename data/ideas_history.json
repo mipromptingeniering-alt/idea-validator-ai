@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "CitaFácil",
-      "descripcion": "CitaFácil es una plataforma en línea que permite a los profesionales de la salud gestionar sus citas, enviar recordatorios automáticos a los pacientes y llevar un seguimiento de las interacciones, todo en un solo lugar. Su interfaz intuitiva simplifica la programación y gestión de citas, ayudando a aumentar la eficiencia y mejorar la satisfacción del paciente.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-08T21:43:54.429593"
-    },
-    {
       "nombre": "PortfolioBoost",
       "descripcion": "PortfolioBoost permite a diseñadores, artistas y otros profesionales creativos gestionar su portafolio de manera eficiente, mientras acceden a herramientas de promoción y marketing para aumentar su visibilidad en el mercado. Con funcionalidades integradas para el análisis de tráfico y conexiones en la industria, los usuarios pueden optimizar sus oportunidades de negocio.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-11T00:06:57.872090"
+    },
+    {
+      "nombre": "LinkUp",
+      "descripcion": "LinkUp es una herramienta que permite a los empleados en remoto unirse a actividades sociales virtuales, como juegos, debates temáticos y grupos de interés. Utiliza un sistema de gamificación para incentivar la participación y el conocimiento mutuo, creando una cultura organizacional más fuerte.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-05-11T04:34:03.729913"
     }
   ],
   "nombres_usados": [
-    "CitaFácil",
     "PortfolioBoost",
     "TimeBill Pro",
     "HealthAdmin Pro",
@@ -8001,6 +8000,7 @@
     "DigiBoost",
     "MentorWell",
     "EasyBill",
-    "CreativoPortafolio"
+    "CreativoPortafolio",
+    "LinkUp"
   ]
 }
