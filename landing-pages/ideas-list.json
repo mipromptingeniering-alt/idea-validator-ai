@@ -504,6 +504,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260510230652",
+    "nombre": "EasyBill",
+    "tipo": "SaaS",
+    "resumen": "EasyBill es una herramienta SaaS que automatiza la contabilidad y facturación para pequeños emprendedores y freelancers....",
+    "score": 75,
+    "landing_url": "IDEA-20260510230652.html"
+  },
+  {
     "id": "IDEA-20260510220245",
     "nombre": "MentorWell",
     "tipo": "SaaS",

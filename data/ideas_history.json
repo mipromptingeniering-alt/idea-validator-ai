@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MultiMetric Analyzer",
-      "descripcion": "MultiMetric Analyzer es una plataforma en línea que permite a los profesionales de marketing conectar sus cuentas de redes sociales, herramientas de SEO y cuentas de publicidad pagada para obtener un análisis integral de su rendimiento. A través de un panel intuitivo, los usuarios pueden observar las métricas más relevantes, recibir informes automáticos y recomendaciones para mejorar sus estrategias.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-08T20:52:46.292355"
-    },
-    {
       "nombre": "CitaFácil",
       "descripcion": "CitaFácil es una plataforma en línea que permite a los profesionales de la salud gestionar sus citas, enviar recordatorios automáticos a los pacientes y llevar un seguimiento de las interacciones, todo en un solo lugar. Su interfaz intuitiva simplifica la programación y gestión de citas, ayudando a aumentar la eficiencia y mejorar la satisfacción del paciente.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-10T23:06:53.153709"
+    },
+    {
+      "nombre": "CreativoPortafolio",
+      "descripcion": "CreativoPortafolio permite a los usuarios diseñar su portafolio en línea utilizando plantillas personalizables y herramientas de venta integradas. Los usuarios pueden subir su trabajo, establecer precios y gestionar transacciones sin complicaciones técnicas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-11T00:06:57.872090"
     }
   ],
   "nombres_usados": [
-    "MultiMetric Analyzer",
     "CitaFácil",
     "PortfolioBoost",
     "TimeBill Pro",
@@ -8001,6 +8000,7 @@
     "MentalCare Manager",
     "DigiBoost",
     "MentorWell",
-    "EasyBill"
+    "EasyBill",
+    "CreativoPortafolio"
   ]
 }
