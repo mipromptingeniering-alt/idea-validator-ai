@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TimeBill Pro",
-      "descripcion": "TimeBill Pro es una herramienta diseñada para ayudar a freelancers a gestionar su tiempo y procesos de facturación de manera eficiente, permitiendo el seguimiento de horas trabajadas, generación de facturas personalizadas y recordatorios de pagos, todo en un único lugar.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-08T23:47:56.473921"
-    },
-    {
       "nombre": "HealthAdmin Pro",
       "descripcion": "HealthAdmin Pro es una herramienta que integra la gestión de citas, recordatorios automáticos para pacientes, y un análisis de la carga laboral de los profesionales de salud, permitiendo una mejor atención al paciente y una administración eficiente del tiempo.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 76,
       "fecha": "2026-05-11T08:04:18.348305"
+    },
+    {
+      "nombre": "TaskQuest",
+      "descripcion": "TaskQuest permite a los equipos organizar sus proyectos de manera intuitiva, asignar tareas y seguir el progreso. Con un enfoque en la gamificación, los usuarios pueden ganar puntos y recompensas por completar tareas, lo que los motiva a participar activamente y colaborar de manera efectiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-11T11:34:46.805042"
     }
   ],
   "nombres_usados": [
-    "TimeBill Pro",
     "HealthAdmin Pro",
     "AdminSimple",
     "ContentSmart",
@@ -8001,6 +8000,7 @@
     "EasyBill",
     "CreativoPortafolio",
     "LinkUp",
-    "LearnFlow"
+    "LearnFlow",
+    "TaskQuest"
   ]
 }
