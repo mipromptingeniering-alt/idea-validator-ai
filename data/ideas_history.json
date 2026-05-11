@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "HealthAdmin Pro",
-      "descripcion": "HealthAdmin Pro es una herramienta que integra la gestión de citas, recordatorios automáticos para pacientes, y un análisis de la carga laboral de los profesionales de salud, permitiendo una mejor atención al paciente y una administración eficiente del tiempo.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-09T05:12:53.374801"
-    },
-    {
       "nombre": "AdminSimple",
       "descripcion": "AdminSimple es una plataforma SaaS diseñada para aliviar la carga de las tareas administrativas y contables en pequeñas y medianas empresas. Utiliza inteligencia artificial para automatizar la entrada de datos, generar informes y ofrecer recomendaciones personalizadas, lo que permite a los dueños de negocios centrarse en el crecimiento de su empresa.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-11T11:34:46.805042"
+    },
+    {
+      "nombre": "TeamBond",
+      "descripcion": "TeamBond es una plataforma que permite a los equipos remotos gestionar sus proyectos mientras participa en actividades de cohesión del equipo de manera gamificada. Los usuarios pueden fomentar la comunicación a través de desafíos interactivos, recompensas y dinámicas de grupo que promueven la colaboración y el bienestar en el entorno laboral virtual.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-11T18:26:22.514615"
     }
   ],
   "nombres_usados": [
-    "HealthAdmin Pro",
     "AdminSimple",
     "ContentSmart",
     "TimeWizard",
@@ -8001,6 +8000,7 @@
     "CreativoPortafolio",
     "LinkUp",
     "LearnFlow",
-    "TaskQuest"
+    "TaskQuest",
+    "TeamBond"
   ]
 }

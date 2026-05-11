@@ -512,6 +512,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260511113446",
+    "nombre": "TaskQuest",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de proyectos que utiliza gamificación para mejorar la productividad y la colaboración del equipo....",
+    "score": 75,
+    "landing_url": "IDEA-20260511113446.html"
+  },
+  {
     "id": "IDEA-20260511000657",
     "nombre": "CreativoPortafolio",
     "tipo": "SaaS",
