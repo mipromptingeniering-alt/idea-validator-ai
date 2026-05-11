@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TimeWizard",
-      "descripcion": "TimeWizard combina técnicas de gestión del tiempo probadas con un sistema de inteligencia artificial que aprende de las acciones del usuario. Ofrece un dashboard donde los usuarios pueden organizar sus tareas, establecer objetivos y recibir recomendaciones personalizadas. Además, incluye elementos de gamificación para motivar la constancia y mejora continua.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-09T14:40:31.546100"
-    },
-    {
       "nombre": "MindTime Balance",
       "descripcion": "MindTime Balance es una plataforma de gestión del tiempo diseñada específicamente para freelancers. Ofrece herramientas para planificar tareas, temporizadores de enfoque y ejercicios de meditación personalizados que ayudan a los usuarios a mantener un equilibrio saludable entre trabajo y vida personal.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-11T22:39:47.397950"
+    },
+    {
+      "nombre": "Pomodoro Manager",
+      "descripcion": "Pomodoro Manager permite a los usuarios gestionar sus tareas usando la técnica Pomodoro, con temporizadores integrados, seguimiento de progreso y análisis de productividad. La aplicación tiene una interfaz minimalista y es accesible desde cualquier dispositivo, permitiendo a los usuarios organizar su día de manera efectiva.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-05-11T23:39:15.897227"
     }
   ],
   "nombres_usados": [
-    "TimeWizard",
     "MindTime Balance",
     "SocialAi Manager",
     "Finanzas para Emprendedores",
@@ -8001,6 +8000,7 @@
     "TaskQuest",
     "TeamBond",
     "CliQom",
-    "Marketer's Helper"
+    "Marketer's Helper",
+    "Pomodoro Manager"
   ]
 }
