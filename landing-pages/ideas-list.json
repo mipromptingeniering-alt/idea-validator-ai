@@ -56,6 +56,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260511214147",
+    "nombre": "CliQom",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de atención al cliente diseñada específicamente para PYMEs que integra múltiples canales de comunicación....",
+    "score": 78,
+    "landing_url": "IDEA-20260511214147.html"
+  },
+  {
     "id": "IDEA-20260508000502",
     "nombre": "BizAdapt",
     "tipo": "SaaS",

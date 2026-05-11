@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ContentSmart",
-      "descripcion": "ContentSmart permite a emprendedores y pequeñas empresas crear contenido de marketing de alta calidad de manera rápida y eficiente. La plataforma utiliza inteligencia artificial para analizar tendencias del sector y preferencias de la audiencia, generando textos, imágenes y videos adaptados a las necesidades del usuario. Además, incluye herramientas de programación y análisis de rendimiento para optimizar la estrategia de contenido.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-09T11:59:43.546849"
-    },
-    {
       "nombre": "TimeWizard",
       "descripcion": "TimeWizard combina técnicas de gestión del tiempo probadas con un sistema de inteligencia artificial que aprende de las acciones del usuario. Ofrece un dashboard donde los usuarios pueden organizar sus tareas, establecer objetivos y recibir recomendaciones personalizadas. Además, incluye elementos de gamificación para motivar la constancia y mejora continua.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-05-11T21:41:47.808054"
+    },
+    {
+      "nombre": "Marketer's Helper",
+      "descripcion": "Marketer's Helper es una plataforma SaaS que combina un asistente virtual y cursos interactivos diseñados para ayudar a los pequeños empresarios a entender y aplicar estrategias de marketing digital. Ofrece plantillas y herramientas automatizadas para crear campañas de marketing en redes sociales, email marketing y más, adaptándose a las necesidades específicas de cada negocio.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-05-11T22:39:47.397950"
     }
   ],
   "nombres_usados": [
-    "ContentSmart",
     "TimeWizard",
     "MindTime Balance",
     "SocialAi Manager",
@@ -8001,6 +8000,7 @@
     "LearnFlow",
     "TaskQuest",
     "TeamBond",
-    "CliQom"
+    "CliQom",
+    "Marketer's Helper"
   ]
 }
