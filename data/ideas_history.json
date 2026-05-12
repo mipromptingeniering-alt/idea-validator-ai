@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MarketingMentor",
-      "descripcion": "MarketingMentor permite a las pequeñas y medianas empresas generar contenido de marketing personalizado de manera eficiente y gestionar sus redes sociales desde una única plataforma. Utiliza inteligencia artificial para sugerir temas, redactar publicaciones y programar contenido, facilitando así la estrategia digital de las PYMEs incluso sin experiencia previa.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-10T05:00:26.690018"
-    },
-    {
       "nombre": "LearniFlex",
       "descripcion": "LearniFlex utiliza algoritmos de aprendizaje automático para analizar el rendimiento y los patrones de aprendizaje de los estudiantes, adaptando automáticamente el contenido, ritmo y estilo de enseñanza para maximizar la eficiencia del aprendizaje. Incluye herramientas para profesores que desean mejorar la experiencia educativa de sus alumnos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-12T12:18:02.442981"
+    },
+    {
+      "nombre": "RemoteCollab",
+      "descripcion": "RemoteCollab es una plataforma intuitiva diseñada para equipos pequeños que trabajan de forma remota. Integra herramientas de gestión de tareas, comunicación y seguimiento de proyectos en un solo lugar, facilitando la colaboración efectiva sin la complejidad de las soluciones tradicionales.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-12T15:18:29.907024"
     }
   ],
   "nombres_usados": [
-    "MarketingMentor",
     "LearniFlex",
     "Freelance Fusion",
     "TaskMatic",
@@ -8001,6 +8000,7 @@
     "EasySales Hub",
     "CollabWell",
     "MarketPro PYME",
-    "Inventario Smart"
+    "Inventario Smart",
+    "RemoteCollab"
   ]
 }

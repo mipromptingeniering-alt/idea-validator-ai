@@ -528,6 +528,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260512121802",
+    "nombre": "Inventario Smart",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de inventarios para PYMEs que integra múltiples canales de venta y ofrece análisis predictivo....",
+    "score": 75,
+    "landing_url": "IDEA-20260512121802.html"
+  },
+  {
     "id": "IDEA-20260512101426",
     "nombre": "MarketPro PYME",
     "tipo": "SaaS",
