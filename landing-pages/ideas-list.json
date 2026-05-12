@@ -528,6 +528,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260512073840",
+    "nombre": "CollabWell",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de colaboración que combina gestión de tareas, herramientas de comunicación y recursos de bienestar mental para trabajadores remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260512073840.html"
+  },
+  {
     "id": "IDEA-20260512012246",
     "nombre": "CollabSphere",
     "tipo": "SaaS",

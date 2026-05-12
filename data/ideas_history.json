@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "WellWork",
-      "descripcion": "WellWork ofrece un enfoque holístico para el trabajo remoto, combinando herramientas de gestión de proyectos, comunicación y recursos de bienestar como meditación y control del tiempo. La plataforma ayuda a los equipos a mantener la cohesión y el enfoque, mientras cuida de su salud mental.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-09T22:59:55.224054"
-    },
-    {
       "nombre": "Artify",
       "descripcion": "Artify es una plataforma que conecta a artistas y diseñadores gráficos con consumidores que buscan personalizar productos con arte digital, desde ropa hasta impresiones en lienzo. Los artistas pueden crear y subir sus diseños, y los usuarios pueden elegir qué producto quieren personalizar, brindando a ambos una experiencia única.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-12T07:38:40.274498"
+    },
+    {
+      "nombre": "MarketPro PYME",
+      "descripcion": "MarketPro PYME permite a las PYMES gestionar su presencia online de manera efectiva a través de una serie de herramientas integradas para redes sociales, SEO, creación de contenido, y análisis del rendimiento, todo en una interfaz fácil de usar y sin necesidad de conocimientos técnicos complejos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-12T10:14:27.117520"
     }
   ],
   "nombres_usados": [
-    "WellWork",
     "Artify",
     "MarketingMentor",
     "LearniFlex",
@@ -8001,6 +8000,7 @@
     "Pomodoro Manager",
     "CollabSphere",
     "EasySales Hub",
-    "CollabWell"
+    "CollabWell",
+    "MarketPro PYME"
   ]
 }
