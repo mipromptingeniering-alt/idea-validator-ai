@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TaskMatic",
-      "descripcion": "TaskMatic permite a freelancers y pequeñas empresas gestionar sus tareas y proyectos utilizando un sistema de puntos y recompensas. Los usuarios pueden organizar sus tareas, establecer fechas de entrega y recibir incentivos por completar trabajos en tiempo y forma.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-10T11:50:42.284140"
-    },
-    {
       "nombre": "SimplicityTime",
       "descripcion": "SimplicityTime es una aplicación basada en la web que permite a los usuarios gestionar sus tareas y tiempos de manera eficiente, utilizando principios de psicología que promueven la salud mental y la productividad sostenida.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-12T22:09:10.126470"
+    },
+    {
+      "nombre": "TimeOptimizer",
+      "descripcion": "TimeOptimizer permite a los usuarios gestionar sus proyectos y tareas de manera sencilla, ofreciendo sugerencias personalizadas basadas en el comportamiento y el historial de trabajo del usuario. La herramienta incluye recordatorios inteligentes y paneles de estadísticas para el seguimiento del tiempo y la productividad.",
+      "tipo": "MicroSaaS",
+      "score": 75,
+      "fecha": "2026-05-12T23:17:58.664485"
     }
   ],
   "nombres_usados": [
-    "TaskMatic",
     "SimplicityTime",
     "FinanciaPYME",
     "ContentHub",
@@ -8001,6 +8000,7 @@
     "Inventario Smart",
     "RemoteCollab",
     "SalesWise",
-    "HR Simplify"
+    "HR Simplify",
+    "TimeOptimizer"
   ]
 }
