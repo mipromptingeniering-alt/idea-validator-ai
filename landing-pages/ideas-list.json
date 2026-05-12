@@ -528,6 +528,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260512151829",
+    "nombre": "RemoteCollab",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de colaboración en línea que simplifica la gestión de proyectos para equipos remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260512151829.html"
+  },
+  {
     "id": "IDEA-20260512121802",
     "nombre": "Inventario Smart",
     "tipo": "SaaS",
