@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Finanzas para Emprendedores",
-      "descripcion": "Finanzas para Emprendedores es una plataforma en línea que permite a los usuarios hacer un seguimiento de sus ingresos y gastos, crear presupuestos personalizados y recibir recomendaciones sobre cómo mejorar su salud financiera. Con un diseño intuitivo, los emprendedores podrán gestionar sus finanzas sin necesidad de conocimientos avanzados contables.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-09T22:00:26.140211"
-    },
-    {
       "nombre": "WellWork",
       "descripcion": "WellWork ofrece un enfoque holístico para el trabajo remoto, combinando herramientas de gestión de proyectos, comunicación y recursos de bienestar como meditación y control del tiempo. La plataforma ayuda a los equipos a mantener la cohesión y el enfoque, mientras cuida de su salud mental.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-05-12T04:55:46.003324"
+    },
+    {
+      "nombre": "CollabWell",
+      "descripcion": "CollabWell es una plataforma diseñada para equipos remotos que incorpora funciones de gestión de tareas, videoconferencias y herramientas de bienestar mental. Ayuda a los empleados a gestionar sus horarios, mantener la motivación y fomentar la colaboración efectiva, todo en un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-12T07:38:40.274498"
     }
   ],
   "nombres_usados": [
-    "Finanzas para Emprendedores",
     "WellWork",
     "Artify",
     "MarketingMentor",
@@ -8001,6 +8000,7 @@
     "Marketer's Helper",
     "Pomodoro Manager",
     "CollabSphere",
-    "EasySales Hub"
+    "EasySales Hub",
+    "CollabWell"
   ]
 }

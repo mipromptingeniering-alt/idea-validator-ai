@@ -56,6 +56,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260512045545",
+    "nombre": "EasySales Hub",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para la gestión de ventas y relaciones con clientes, diseñada para pequeñas empresas....",
+    "score": 78,
+    "landing_url": "IDEA-20260512045545.html"
+  },
+  {
     "id": "IDEA-20260511214147",
     "nombre": "CliQom",
     "tipo": "SaaS",
