@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Freelance Fusion",
-      "descripcion": "Freelance Fusion es una herramienta digital diseñada especialmente para profesionales independientes que necesitan una solución eficaz para gestionar su tiempo, proyectos y procesos de facturación. La plataforma ofrece funcionalidades que permiten a los usuarios organizar tareas, establecer plazos, registrar horas trabajadas y generar facturas de manera sencilla, todo en un único lugar.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-10T10:03:04.341318"
-    },
-    {
       "nombre": "TaskMatic",
       "descripcion": "TaskMatic permite a freelancers y pequeñas empresas gestionar sus tareas y proyectos utilizando un sistema de puntos y recompensas. Los usuarios pueden organizar sus tareas, establecer fechas de entrega y recibir incentivos por completar trabajos en tiempo y forma.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 72,
       "fecha": "2026-05-12T17:30:59.522898"
+    },
+    {
+      "nombre": "HR Simplify",
+      "descripcion": "HR Simplify proporciona a las PYMES herramientas fáciles de usar para gestionar el ciclo completo de Recursos Humanos, desde la contratación hasta la retención del talento. La plataforma incluye módulos para gestión de currículums, evaluaciones de desempeño y formación continua, todo en un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-12T22:09:10.126470"
     }
   ],
   "nombres_usados": [
-    "Freelance Fusion",
     "TaskMatic",
     "SimplicityTime",
     "FinanciaPYME",
@@ -8001,6 +8000,7 @@
     "MarketPro PYME",
     "Inventario Smart",
     "RemoteCollab",
-    "SalesWise"
+    "SalesWise",
+    "HR Simplify"
   ]
 }
