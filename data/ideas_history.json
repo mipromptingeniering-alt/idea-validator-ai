@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MindTime Balance",
-      "descripcion": "MindTime Balance es una plataforma de gestión del tiempo diseñada específicamente para freelancers. Ofrece herramientas para planificar tareas, temporizadores de enfoque y ejercicios de meditación personalizados que ayudan a los usuarios a mantener un equilibrio saludable entre trabajo y vida personal.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-09T17:34:45.399386"
-    },
-    {
       "nombre": "SocialAi Manager",
       "descripcion": "SocialAi Manager permite a pequeñas y medianas empresas optimizar su presencia en redes sociales mediante la generación automática de publicaciones, selección de hashtags relevantes y programación de contenido según el mejor horario de interacción. Además, la herramienta ofrece análisis de rendimiento que ayudan a mejorar constantemente la estrategia.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-05-11T23:39:15.897227"
+    },
+    {
+      "nombre": "CollabSphere",
+      "descripcion": "CollabSphere permite a los equipos remotos gestionar sus proyectos, comunicarse en tiempo real y colaborar en documentos sin necesidad de cambiar de herramienta. Todo desde una única plataforma que se adapta a las necesidades de cada equipo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-12T01:22:46.264838"
     }
   ],
   "nombres_usados": [
-    "MindTime Balance",
     "SocialAi Manager",
     "Finanzas para Emprendedores",
     "WellWork",
@@ -8001,6 +8000,7 @@
     "TeamBond",
     "CliQom",
     "Marketer's Helper",
-    "Pomodoro Manager"
+    "Pomodoro Manager",
+    "CollabSphere"
   ]
 }

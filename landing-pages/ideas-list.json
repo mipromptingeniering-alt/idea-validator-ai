@@ -520,6 +520,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260511233915",
+    "nombre": "Pomodoro Manager",
+    "tipo": "MicroSaaS",
+    "resumen": "Una herramienta de gestión del tiempo que utiliza la técnica Pomodoro para ayudar a pequeñas empresas y freelancers a maximizar su productividad de ma...",
+    "score": 75,
+    "landing_url": "IDEA-20260511233915.html"
+  },
+  {
     "id": "IDEA-20260511182622",
     "nombre": "TeamBond",
     "tipo": "SaaS",
