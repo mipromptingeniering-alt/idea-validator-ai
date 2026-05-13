@@ -536,6 +536,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260513223715",
+    "nombre": "TaskSphere",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de productividad que centraliza tareas, documentos y recordatorios utilizando inteligencia artificial para personalizar la experiencia ...",
+    "score": 75,
+    "landing_url": "IDEA-20260513223715.html"
+  },
+  {
     "id": "IDEA-20260513211113",
     "nombre": "TimeCoach",
     "tipo": "SaaS",
