@@ -9504,6 +9504,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260513174948",
+    "nombre": "PymeGestor",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS personalizable para la gestión integral de pequeñas y medianas empresas....",
+    "score": 70,
+    "landing_url": "IDEA-20260513174948.html"
+  },
+  {
     "id": "IDEA-20260511223947",
     "nombre": "Marketer's Helper",
     "tipo": "SaaS",
