@@ -536,6 +536,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260513211113",
+    "nombre": "TimeCoach",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo basada en inteligencia artificial que personaliza estrategias de productividad para trabajadores remotos....",
+    "score": 75,
+    "landing_url": "IDEA-20260513211113.html"
+  },
+  {
     "id": "IDEA-20260513194224",
     "nombre": "LeadGenPro",
     "tipo": "SaaS",
