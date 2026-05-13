@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SimplicityTime",
-      "descripcion": "SimplicityTime es una aplicación basada en la web que permite a los usuarios gestionar sus tareas y tiempos de manera eficiente, utilizando principios de psicología que promueven la salud mental y la productividad sostenida.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-10T14:35:44.084216"
-    },
-    {
       "nombre": "FinanciaPYME",
       "descripcion": "FinanciaPYME es un software de gestión financiera diseñado específicamente para pequeñas y medianas empresas. Ofrece herramientas de contabilidad, facturación, y generación de reportes en un solo lugar, destinado a usuarios sin experiencia previa en finanzas.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-05-12T23:17:58.664485"
+    },
+    {
+      "nombre": "MarketingMatic",
+      "descripcion": "MarketingMatic es una herramienta SaaS que permite a las pequeñas y medianas empresas crear, lanzar y gestionar campañas de marketing digital personalizadas utilizando inteligencia artificial para optimizar el contenido y la segmentación del público objetivo. La plataforma ofrece un enfoque sencillo y efectivo para que las PYMEs se mantengan competitivas en el entorno digital.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-13T01:22:27.717511"
     }
   ],
   "nombres_usados": [
-    "SimplicityTime",
     "FinanciaPYME",
     "ContentHub",
     "ContentSync",
@@ -8001,6 +8000,7 @@
     "RemoteCollab",
     "SalesWise",
     "HR Simplify",
-    "TimeOptimizer"
+    "TimeOptimizer",
+    "MarketingMatic"
   ]
 }
