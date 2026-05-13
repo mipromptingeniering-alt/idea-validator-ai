@@ -536,6 +536,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260513194224",
+    "nombre": "LeadGenPro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma SaaS que ayuda a las PYMEs a generar, gestionar y convertir leads en clientes mediante herramientas de IA y automatización....",
+    "score": 75,
+    "landing_url": "IDEA-20260513194224.html"
+  },
+  {
     "id": "IDEA-20260513104158",
     "nombre": "SalesEase",
     "tipo": "SaaS",

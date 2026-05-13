@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MindFocus",
-      "descripcion": "MindFocus ayuda a los usuarios a gestionar su tiempo de manera efectiva a través de un sistema de bloques de tiempo, recordatorios de pausa activa, ejercicios de respiración y meditación, y seguimiento de hábitos. Todo esto con una interfaz intuitiva y gamificada que motiva a los usuarios a mejorar su productividad y bienestar general.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-11T10:03:37.537192"
-    },
-    {
       "nombre": "TimeSmart",
       "descripcion": "TimeSmart proporciona una interfaz que permite a los usuarios registrar sus actividades diarias y recibir recomendaciones personalizadas sobre cómo administrar su tiempo de manera más efectiva. A través de análisis de datos y aprendizaje automático, la plataforma sugiere horarios de trabajo, descansos y estrategias para minimizar la procrastinación.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-13T19:42:24.887587"
+    },
+    {
+      "nombre": "TimeCoach",
+      "descripcion": "TimeCoach utiliza algoritmos de inteligencia artificial para analizar los patrones de trabajo y ofrecer sugerencias personalizadas para mejorar la gestión del tiempo y la productividad. Incluye un sistema de seguimiento de tareas, recordatorios inteligentes y análisis de rendimiento semanal.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-13T21:11:13.322428"
     }
   ],
   "nombres_usados": [
-    "MindFocus",
     "TimeSmart",
     "MindfulWork",
     "Mediatize",
@@ -8001,6 +8000,7 @@
     "MarketingSoporte",
     "SalesEase",
     "PymeGestor",
-    "LeadGenPro"
+    "LeadGenPro",
+    "TimeCoach"
   ]
 }
