@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ContentHub",
-      "descripcion": "ContentHub es una plataforma SaaS que permite a los creadores de contenido tener un control total sobre sus publicaciones, monetización y relaciones con los suscriptores. Con integración en tiempo real con plataformas como YouTube, Twitch, Instagram y Patreon, los usuarios podrán programar contenidos, gestionar suscripciones y analizar el rendimiento de manera eficiente.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-10T21:02:39.307981"
-    },
-    {
       "nombre": "ContentSync",
       "descripcion": "ContentSync permite que los equipos de marketing organicen su flujo de trabajo de contenido en una sola plataforma. Desde la creación de contenido hasta su programación y análisis de rendimiento, todo está centralizado. Incluye plantillas, herramientas de colaboración y analíticas en tiempo real.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 76,
       "fecha": "2026-05-13T05:03:40.607987"
+    },
+    {
+      "nombre": "MarketingSoporte",
+      "descripcion": "MarketingSoporte ofrece herramientas de marketing digital integradas como gestión de redes sociales, creación de campañas de email marketing, y análisis de datos, diseñado específicamente para las necesidades y el presupuesto de las pequeñas y medianas empresas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-13T08:10:21.772777"
     }
   ],
   "nombres_usados": [
-    "ContentHub",
     "ContentSync",
     "FocusSync",
     "RepuTrack",
@@ -8001,6 +8000,7 @@
     "HR Simplify",
     "TimeOptimizer",
     "MarketingMatic",
-    "Digital SkillUp"
+    "Digital SkillUp",
+    "MarketingSoporte"
   ]
 }
