@@ -536,6 +536,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260513081021",
+    "nombre": "MarketingSoporte",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de marketing digital asequible y fácil de usar enfocada en pymes....",
+    "score": 75,
+    "landing_url": "IDEA-20260513081021.html"
+  },
+  {
     "id": "IDEA-20260513012227",
     "nombre": "MarketingMatic",
     "tipo": "SaaS",
