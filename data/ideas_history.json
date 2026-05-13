@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FocusSync",
-      "descripcion": "FocusSync combina una interfaz intuitiva de gestión de tareas con un temporizador Pomodoro inteligente que ayuda a los usuarios a concentrarse en sus tareas mientras recopila datos sobre sus hábitos laborales. Además, ofrece consejos personalizados y análisis de productividad para ayudar a los usuarios a mejorar su rendimiento.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-11T05:01:47.762112"
-    },
-    {
       "nombre": "RepuTrack",
       "descripcion": "RepuTrack ayuda a los profesionales independientes y pequeños emprendedores a gestionar su presencia en línea consolidando reseñas de múltiples plataformas y ofreciendo sugerencias personalizadas para mejorar su imagen pública. Con notificaciones automáticas y un panel de control intuitivo, los usuarios pueden responder a reseñas y analizar su reputación de manera sencilla.",
       "tipo": "MicroSaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-13T10:41:58.365590"
+    },
+    {
+      "nombre": "PymeGestor",
+      "descripcion": "PymeGestor es una solución todo-en-uno que permite a las PYMES gestionar sus operaciones, incluyendo la facturación, la gestión de clientes, la programación de tareas y el seguimiento de proyectos, todo desde una única plataforma, con una interfaz intuitiva y altamente personalizable.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-05-13T17:49:48.433455"
     }
   ],
   "nombres_usados": [
-    "FocusSync",
     "RepuTrack",
     "MindFocus",
     "TimeSmart",
@@ -8001,6 +8000,7 @@
     "MarketingMatic",
     "Digital SkillUp",
     "MarketingSoporte",
-    "SalesEase"
+    "SalesEase",
+    "PymeGestor"
   ]
 }
