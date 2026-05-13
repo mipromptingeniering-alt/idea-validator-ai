@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FinanciaPYME",
-      "descripcion": "FinanciaPYME es un software de gestión financiera diseñado específicamente para pequeñas y medianas empresas. Ofrece herramientas de contabilidad, facturación, y generación de reportes en un solo lugar, destinado a usuarios sin experiencia previa en finanzas.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-10T19:57:27.281518"
-    },
-    {
       "nombre": "ContentHub",
       "descripcion": "ContentHub es una plataforma SaaS que permite a los creadores de contenido tener un control total sobre sus publicaciones, monetización y relaciones con los suscriptores. Con integración en tiempo real con plataformas como YouTube, Twitch, Instagram y Patreon, los usuarios podrán programar contenidos, gestionar suscripciones y analizar el rendimiento de manera eficiente.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-13T01:22:27.717511"
+    },
+    {
+      "nombre": "Digital SkillUp",
+      "descripcion": "Digital SkillUp es una plataforma SaaS que ofrece cursos modulares personalizados en habilidades digitales, marketing en redes sociales, comercio electrónico y más. Utiliza un enfoque de aprendizaje basado en proyectos para que los usuarios apliquen inmediatamente lo que aprenden a su negocio, facilitando así la transición hacia un entorno digital.",
+      "tipo": "SaaS",
+      "score": 76,
+      "fecha": "2026-05-13T05:03:40.607987"
     }
   ],
   "nombres_usados": [
-    "FinanciaPYME",
     "ContentHub",
     "ContentSync",
     "FocusSync",
@@ -8001,6 +8000,7 @@
     "SalesWise",
     "HR Simplify",
     "TimeOptimizer",
-    "MarketingMatic"
+    "MarketingMatic",
+    "Digital SkillUp"
   ]
 }

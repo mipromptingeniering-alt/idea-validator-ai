@@ -528,6 +528,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260513012227",
+    "nombre": "MarketingMatic",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de marketing digital automatizado para PYMEs que facilita la creación y gestión de campañas personalizadas....",
+    "score": 75,
+    "landing_url": "IDEA-20260513012227.html"
+  },
+  {
     "id": "IDEA-20260512231758",
     "nombre": "TimeOptimizer",
     "tipo": "MicroSaaS",
