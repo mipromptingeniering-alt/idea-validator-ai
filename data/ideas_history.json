@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "DataSimplify",
-      "descripcion": "DataSimplify es una herramienta SaaS que permite a las PYMEs cargar sus datos, visualizarlos de forma intuitiva y obtener informes analíticos personalizados que les ayuden a tomar decisiones informadas. Con plantillas prediseñadas y un enfoque en métricas clave, es ideal para aquellos sin experiencia en análisis de datos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-11T14:30:19.578457"
-    },
-    {
       "nombre": "EasyFin",
       "descripcion": "EasyFin es una plataforma que permite crear y enviar facturas, registrar gastos y generar reportes financieros de manera rápida y sencilla. Su interface intuitiva está diseñada para no requerir conocimientos contables previos, facilitando así que los usuarios se concentren en su trabajo y no en la contabilidad.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-14T05:32:18.671069"
+    },
+    {
+      "nombre": "FinTrackero",
+      "descripcion": "FinTrackero permite a los usuarios registrar y clasificar sus transacciones financieras de manera sencilla, generar informes fiscales y establecer alertas para fechas de pago, todo desde una interfaz amigable y accesible.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-14T10:40:03.663019"
     }
   ],
   "nombres_usados": [
-    "DataSimplify",
     "EasyFin",
     "SkillSync",
     "HealthTime",
@@ -8001,6 +8000,7 @@
     "TaskSphere",
     "MindCare",
     "CreativeHuddle",
-    "MarketCraft"
+    "MarketCraft",
+    "FinTrackero"
   ]
 }

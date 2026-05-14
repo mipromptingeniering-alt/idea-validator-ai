@@ -536,6 +536,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260514053218",
+    "nombre": "MarketCraft",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral de marketing digital para PYMEs que automatiza la creación y gestión de campañas publicitarias personalizadas....",
+    "score": 75,
+    "landing_url": "IDEA-20260514053218.html"
+  },
+  {
     "id": "IDEA-20260514013146",
     "nombre": "CreativeHuddle",
     "tipo": "SaaS",
