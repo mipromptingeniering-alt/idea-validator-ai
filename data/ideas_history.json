@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "EasyFactur",
-      "descripcion": "EasyFactur permite a los usuarios crear facturas, llevar un control de gastos e ingresos y recibir recomendaciones personalizadas para mejorar su flujo de caja. Con una interfaz amigable y funcional, hace que la contabilidad sea accesible para todos, sin necesidad de conocimientos previos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-11T13:37:06.337854"
-    },
-    {
       "nombre": "DataSimplify",
       "descripcion": "DataSimplify es una herramienta SaaS que permite a las PYMEs cargar sus datos, visualizarlos de forma intuitiva y obtener informes analíticos personalizados que les ayuden a tomar decisiones informadas. Con plantillas prediseñadas y un enfoque en métricas clave, es ideal para aquellos sin experiencia en análisis de datos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-14T01:31:46.903280"
+    },
+    {
+      "nombre": "MarketCraft",
+      "descripcion": "MarketCraft permite a las PYMEs, sin experiencia previa en marketing digital, crear, gestionar y optimizar campañas publicitarias a través de un enfoque basado en datos e inteligencia artificial. La plataforma ofrece herramientas para análisis, segmentación de audiencia, y generación de contenido optimizado.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-14T05:32:18.671069"
     }
   ],
   "nombres_usados": [
-    "EasyFactur",
     "DataSimplify",
     "EasyFin",
     "SkillSync",
@@ -8001,6 +8000,7 @@
     "TimeCoach",
     "TaskSphere",
     "MindCare",
-    "CreativeHuddle"
+    "CreativeHuddle",
+    "MarketCraft"
   ]
 }

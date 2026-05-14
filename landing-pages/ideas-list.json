@@ -536,6 +536,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260514013146",
+    "nombre": "CreativeHuddle",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de proyectos diseñada especialmente para creativos, que combina herramientas de colaboración y gestión de tareas....",
+    "score": 75,
+    "landing_url": "IDEA-20260514013146.html"
+  },
+  {
     "id": "IDEA-20260513234056",
     "nombre": "MindCare",
     "tipo": "SaaS",
