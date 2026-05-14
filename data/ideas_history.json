@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "WellTrack",
-      "descripcion": "WellTrack es una aplicación SaaS diseñada para trabajadores remotos que combina herramientas de gestión de tareas con módulos de bienestar emocional. Ofrece funciones de seguimiento de tareas, meditación guiada, y coaching emocional personalizado, todo en una interfaz amigable y gamificada.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-11T20:56:17.017955"
-    },
-    {
       "nombre": "TaskFlow AI",
       "descripcion": "TaskFlow AI permite a los usuarios gestionar sus tareas, calendarios y comunicaciones en un solo lugar, utilizando algoritmos de inteligencia artificial para adaptar las recomendaciones y prioridades según el estilo de trabajo del usuario. La plataforma ofrece integración con herramientas existentes y funcionalidades como recordatorios inteligentes y análisis de productividad.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-14T22:49:56.200986"
+    },
+    {
+      "nombre": "MedUp",
+      "descripcion": "MedUp es una plataforma en línea que permite a los profesionales de la salud acceder a resúmenes de investigaciones, tratamientos y avances en su especialidad, filtrados y organizados según sus intereses y hábitos de lectura. La plataforma utiliza inteligencia artificial para personalizar el contenido y ofrecer recomendaciones de artículos, estudios y webinars relevantes.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-14T23:48:08.685851"
     }
   ],
   "nombres_usados": [
-    "WellTrack",
     "TaskFlow AI",
     "TimeHarmony",
     "AdAnalytics Pro",
@@ -8001,6 +8000,7 @@
     "CollaboWork",
     "CollabFlow",
     "ContentHub",
-    "TimeSmart"
+    "TimeSmart",
+    "MedUp"
   ]
 }

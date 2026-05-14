@@ -536,6 +536,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260514224955",
+    "nombre": "TimeSmart",
+    "tipo": "SaaS",
+    "resumen": "Una aplicación de gestión del tiempo que usa inteligencia artificial para personalizar la experiencia del usuario y mejorar la productividad....",
+    "score": 75,
+    "landing_url": "IDEA-20260514224955.html"
+  },
+  {
     "id": "IDEA-20260514215001",
     "nombre": "ContentHub",
     "tipo": "SaaS",
