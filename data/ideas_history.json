@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SkillSync",
-      "descripcion": "SkillSync es una plataforma SaaS que proporciona a los profesionales recomendaciones de cursos y habilidades basadas en sus necesidades de desarrollo y las tendencias actuales del mercado laboral. Al integrar algoritmos de IA que analizan datos de empleo, los usuarios reciben una guía personalizada para adquirir las competencias más demandadas.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-11T16:09:21.463952"
-    },
-    {
       "nombre": "HealthTime",
       "descripcion": "HealthTime ofrece un sistema de gestión de agenda que permite a los profesionales de la salud gestionar sus citas de manera eficiente. Utiliza algoritmos avanzados para recomendar la carga de trabajo óptima y la distribución de citas, lo que ayuda a mejorar la satisfacción del paciente y la productividad del profesional.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-14T12:16:11.643453"
+    },
+    {
+      "nombre": "TaskSnap",
+      "descripcion": "TaskSnap ofrece un enfoque minimalista para la gestión de tareas, permitiendo a los usuarios crear listas de tareas personalizables y plantillas para diferentes proyectos. La interfaz amigable y la integración con herramientas populares de calendario facilitan la organización del tiempo y las tareas.",
+      "tipo": "MicroSaaS",
+      "score": 72,
+      "fecha": "2026-05-14T15:03:24.023062"
     }
   ],
   "nombres_usados": [
-    "SkillSync",
     "HealthTime",
     "SocialPostGen",
     "Finanzas360",
@@ -8001,6 +8000,7 @@
     "CreativeHuddle",
     "MarketCraft",
     "FinTrackero",
-    "MindTasker"
+    "MindTasker",
+    "TaskSnap"
   ]
 }

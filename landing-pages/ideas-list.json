@@ -536,6 +536,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260514121611",
+    "nombre": "MindTasker",
+    "tipo": "SaaS",
+    "resumen": "Una aplicación de gestión de tareas diseñada para mejorar la productividad personal y el bienestar mental....",
+    "score": 75,
+    "landing_url": "IDEA-20260514121611.html"
+  },
+  {
     "id": "IDEA-20260514104003",
     "nombre": "FinTrackero",
     "tipo": "SaaS",
