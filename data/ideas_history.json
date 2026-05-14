@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "EasyFin",
-      "descripcion": "EasyFin es una plataforma que permite crear y enviar facturas, registrar gastos y generar reportes financieros de manera rápida y sencilla. Su interface intuitiva está diseñada para no requerir conocimientos contables previos, facilitando así que los usuarios se concentren en su trabajo y no en la contabilidad.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-11T15:29:50.495617"
-    },
-    {
       "nombre": "SkillSync",
       "descripcion": "SkillSync es una plataforma SaaS que proporciona a los profesionales recomendaciones de cursos y habilidades basadas en sus necesidades de desarrollo y las tendencias actuales del mercado laboral. Al integrar algoritmos de IA que analizan datos de empleo, los usuarios reciben una guía personalizada para adquirir las competencias más demandadas.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-14T10:40:03.663019"
+    },
+    {
+      "nombre": "MindTasker",
+      "descripcion": "MindTasker combina la gestión de tareas con técnicas de bienestar mental, ayudando a los usuarios a planificar su día de manera efectiva mientras se aseguran de que están cuidando su salud mental. Ofrece recordatorios para descansar, técnicas de Pomodoro y seguimiento del progreso.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-14T12:16:11.643453"
     }
   ],
   "nombres_usados": [
-    "EasyFin",
     "SkillSync",
     "HealthTime",
     "SocialPostGen",
@@ -8001,6 +8000,7 @@
     "MindCare",
     "CreativeHuddle",
     "MarketCraft",
-    "FinTrackero"
+    "FinTrackero",
+    "MindTasker"
   ]
 }
