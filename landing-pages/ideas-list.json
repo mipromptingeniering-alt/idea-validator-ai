@@ -536,6 +536,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260514215001",
+    "nombre": "ContentHub",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para la gestión y optimización del contenido en redes sociales para creadores....",
+    "score": 75,
+    "landing_url": "IDEA-20260514215001.html"
+  },
+  {
     "id": "IDEA-20260514204257",
     "nombre": "CollabFlow",
     "tipo": "SaaS",

@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MailSmart",
-      "descripcion": "MailSmart es un servicio que ayuda a los profesionales a gestionar su bandeja de entrada de manera más eficiente. Utiliza inteligencia artificial para clasificar automáticamente los correos, detectar los más importantes y sugerir respuestas. También permite integrar calendarios y tareas para tener una vista completa de la comunicación y las responsabilidades.",
-      "tipo": "SaaS",
-      "score": 76,
-      "fecha": "2026-03-11T20:26:14.502640"
-    },
-    {
       "nombre": "WellTrack",
       "descripcion": "WellTrack es una aplicación SaaS diseñada para trabajadores remotos que combina herramientas de gestión de tareas con módulos de bienestar emocional. Ofrece funciones de seguimiento de tareas, meditación guiada, y coaching emocional personalizado, todo en una interfaz amigable y gamificada.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-14T21:50:01.782700"
+    },
+    {
+      "nombre": "TimeSmart",
+      "descripcion": "TimeSmart es una plataforma de gestión del tiempo que combina técnicas de productividad con análisis de datos para ayudar a los usuarios a optimizar su uso del tiempo. La aplicación ofrece recordatorios inteligentes, análisis de tendencias de tiempo y sugerencias personalizadas para mejorar la eficiencia.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-14T22:49:56.200986"
     }
   ],
   "nombres_usados": [
-    "MailSmart",
     "WellTrack",
     "TaskFlow AI",
     "TimeHarmony",
@@ -8001,6 +8000,7 @@
     "CRMpyme",
     "CollaboWork",
     "CollabFlow",
-    "ContentHub"
+    "ContentHub",
+    "TimeSmart"
   ]
 }
