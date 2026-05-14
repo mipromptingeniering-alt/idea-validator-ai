@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SimpleConnect",
-      "descripcion": "SimpleConnect es una plataforma de gestión de relaciones que permite a los usuarios gestionar sus contactos, realizar seguimientos automáticos y obtener recordatorios para mantener relaciones efectivas y productivas con sus clientes, todo desde una interfaz intuitiva y accesible.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-11T19:50:02.053821"
-    },
-    {
       "nombre": "MailSmart",
       "descripcion": "MailSmart es un servicio que ayuda a los profesionales a gestionar su bandeja de entrada de manera más eficiente. Utiliza inteligencia artificial para clasificar automáticamente los correos, detectar los más importantes y sugerir respuestas. También permite integrar calendarios y tareas para tener una vista completa de la comunicación y las responsabilidades.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-14T20:42:58.059528"
+    },
+    {
+      "nombre": "ContentHub",
+      "descripcion": "ContentHub es una herramienta SaaS diseñada para ayudar a creadores de contenido a gestionar sus publicaciones, realizar análisis de rendimiento y optimizar sus estrategias de monetización en múltiples plataformas sociales desde un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-14T21:50:01.782700"
     }
   ],
   "nombres_usados": [
-    "SimpleConnect",
     "MailSmart",
     "WellTrack",
     "TaskFlow AI",
@@ -8001,6 +8000,7 @@
     "TaskSnap",
     "CRMpyme",
     "CollaboWork",
-    "CollabFlow"
+    "CollabFlow",
+    "ContentHub"
   ]
 }
