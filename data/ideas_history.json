@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialPostGen",
-      "descripcion": "SocialPostGen utiliza inteligencia artificial para crear publicaciones personalizadas en redes sociales basadas en tendencias actuales y en la industria específica de la PYME. Los usuarios pueden seleccionar sus preferencias de contenido y recibir publicaciones listas para usar, ahorrando tiempo y esfuerzo en su gestión de redes sociales.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-11T18:04:14.282132"
-    },
-    {
       "nombre": "Finanzas360",
       "descripcion": "Finanzas360 permite a los usuarios conectar sus cuentas bancarias, realizar seguimientos de gastos e ingresos, y generar informes financieros que combinan tanto sus finanzas personales como las de su negocio. Incluye funcionalidades de presupuestos, alertas de gastos y consejos financieros personalizados.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-14T17:07:57.484400"
+    },
+    {
+      "nombre": "CollaboWork",
+      "descripcion": "CollaboWork combina la gestión de proyectos, la comunicación y la colaboración en una única plataforma, permitiendo a las pymes organizar su trabajo, comunicarse de manera efectiva y mantener a todos los miembros del equipo en la misma página. Incluye funciones como seguimiento de tareas, gestión de documentos y chat en tiempo real.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-14T19:04:42.104279"
     }
   ],
   "nombres_usados": [
-    "SocialPostGen",
     "Finanzas360",
     "SimpleConnect",
     "MailSmart",
@@ -8001,6 +8000,7 @@
     "FinTrackero",
     "MindTasker",
     "TaskSnap",
-    "CRMpyme"
+    "CRMpyme",
+    "CollaboWork"
   ]
 }
