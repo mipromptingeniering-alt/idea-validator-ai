@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Finanzas360",
-      "descripcion": "Finanzas360 permite a los usuarios conectar sus cuentas bancarias, realizar seguimientos de gastos e ingresos, y generar informes financieros que combinan tanto sus finanzas personales como las de su negocio. Incluye funcionalidades de presupuestos, alertas de gastos y consejos financieros personalizados.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-11T19:10:14.616244"
-    },
-    {
       "nombre": "SimpleConnect",
       "descripcion": "SimpleConnect es una plataforma de gestión de relaciones que permite a los usuarios gestionar sus contactos, realizar seguimientos automáticos y obtener recordatorios para mantener relaciones efectivas y productivas con sus clientes, todo desde una interfaz intuitiva y accesible.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-14T19:04:42.104279"
+    },
+    {
+      "nombre": "CollabFlow",
+      "descripcion": "CollabFlow es una herramienta diseñada para simplificar la gestión de proyectos y la comunicación con clientes. Permite a los usuarios crear proyectos, asignar tareas, programar reuniones, y comunicarse a través de una plataforma centralizada, mejorando la eficiencia y reduciendo la pérdida de información.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-14T20:42:58.059528"
     }
   ],
   "nombres_usados": [
-    "Finanzas360",
     "SimpleConnect",
     "MailSmart",
     "WellTrack",
@@ -8001,6 +8000,7 @@
     "MindTasker",
     "TaskSnap",
     "CRMpyme",
-    "CollaboWork"
+    "CollaboWork",
+    "CollabFlow"
   ]
 }
