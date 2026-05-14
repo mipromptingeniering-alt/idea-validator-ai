@@ -536,6 +536,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260513234056",
+    "nombre": "MindCare",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma digital que utiliza inteligencia artificial para personalizar y optimizar herramientas de bienestar mental y emocional....",
+    "score": 75,
+    "landing_url": "IDEA-20260513234056.html"
+  },
+  {
     "id": "IDEA-20260513223715",
     "nombre": "TaskSphere",
     "tipo": "SaaS",

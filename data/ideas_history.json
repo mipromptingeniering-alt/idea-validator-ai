@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Mediatize",
-      "descripcion": "Mediatize ofrece una solución integral que ayuda a las pequeñas y medianas empresas a gestionar su presencia digital, automatizar correos electrónicos, y crear contenido para redes sociales de manera sencilla y rápida. La plataforma está diseñada para ser intuitiva, permitiendo a los usuarios sin experiencia en marketing digital crear campañas efectivas.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-11T12:00:56.737023"
-    },
-    {
       "nombre": "EasyFactur",
       "descripcion": "EasyFactur permite a los usuarios crear facturas, llevar un control de gastos e ingresos y recibir recomendaciones personalizadas para mejorar su flujo de caja. Con una interfaz amigable y funcional, hace que la contabilidad sea accesible para todos, sin necesidad de conocimientos previos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-13T23:40:56.474697"
+    },
+    {
+      "nombre": "CreativeHuddle",
+      "descripcion": "CreativeHuddle es una solución SaaS que permite a los profesionales creativos gestionar sus proyectos de manera visual, colaborar con otros en tiempo real y establecer plazos y tareas de una forma intuitiva y atractiva. La plataforma incluye tableros visuales, herramientas de tiempo, chats integrados y opción de seguimiento de progreso.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-14T01:31:46.903280"
     }
   ],
   "nombres_usados": [
-    "Mediatize",
     "EasyFactur",
     "DataSimplify",
     "EasyFin",
@@ -8001,6 +8000,7 @@
     "LeadGenPro",
     "TimeCoach",
     "TaskSphere",
-    "MindCare"
+    "MindCare",
+    "CreativeHuddle"
   ]
 }
