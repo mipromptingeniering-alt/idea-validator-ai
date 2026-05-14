@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "HealthTime",
-      "descripcion": "HealthTime ofrece un sistema de gestión de agenda que permite a los profesionales de la salud gestionar sus citas de manera eficiente. Utiliza algoritmos avanzados para recomendar la carga de trabajo óptima y la distribución de citas, lo que ayuda a mejorar la satisfacción del paciente y la productividad del profesional.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-11T17:10:18.253932"
-    },
-    {
       "nombre": "SocialPostGen",
       "descripcion": "SocialPostGen utiliza inteligencia artificial para crear publicaciones personalizadas en redes sociales basadas en tendencias actuales y en la industria específica de la PYME. Los usuarios pueden seleccionar sus preferencias de contenido y recibir publicaciones listas para usar, ahorrando tiempo y esfuerzo en su gestión de redes sociales.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "MicroSaaS",
       "score": 72,
       "fecha": "2026-05-14T15:03:24.023062"
+    },
+    {
+      "nombre": "CRMpyme",
+      "descripcion": "CRMpyme combina herramientas de gestión de contactos, seguimiento de ventas y automatización de marketing en una única plataforma accesible y asequible para las pymes. Con una interfaz fácil de usar, permite a los usuarios gestionar todas sus interacciones con clientes sin complicaciones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-14T17:07:57.484400"
     }
   ],
   "nombres_usados": [
-    "HealthTime",
     "SocialPostGen",
     "Finanzas360",
     "SimpleConnect",
@@ -8001,6 +8000,7 @@
     "MarketCraft",
     "FinTrackero",
     "MindTasker",
-    "TaskSnap"
+    "TaskSnap",
+    "CRMpyme"
   ]
 }
