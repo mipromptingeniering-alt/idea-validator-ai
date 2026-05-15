@@ -8,6 +8,14 @@
     "landing_url": "IDEA-20260319210311.html"
   },
   {
+    "id": "IDEA-20260515131718",
+    "nombre": "TimeTailor",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión del tiempo que personaliza la organización de tareas y actividades utilizando inteligencia artificial....",
+    "score": 80,
+    "landing_url": "IDEA-20260515131718.html"
+  },
+  {
     "id": "IDEA-20260503103743",
     "nombre": "WellnessWork",
     "tipo": "SaaS",

@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MentalHealth Pro",
-      "descripcion": "MentalHealth Pro es un software diseñado para facilitar a los terapeutas y psicólogos la gestión de su práctica. Permite la programación de citas, envío de recordatorios a los pacientes, gestión de pagos y seguimiento del progreso del caso de cada paciente. Todo esto con un enfoque especial en la teleterapia.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-11T22:47:49.792218"
-    },
-    {
       "nombre": "SocialWizard",
       "descripcion": "SocialWizard permite a las pequeñas empresas generar posts visuales y textuales optimizados para diversas plataformas sociales en cuestión de minutos. Con funciones como sugerencias de hashtags, análisis de tendencias y programación automática de publicaciones, simplificamos el viaje del emprendedor en el mundo digital.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 80,
       "fecha": "2026-05-15T13:17:18.752390"
+    },
+    {
+      "nombre": "GlucosaTrack",
+      "descripcion": "GlucosaTrack es una plataforma en línea que permite a las personas con diabetes llevar un control eficaz de su salud. Integra el seguimiento de niveles de glucosa a través de dispositivos conectados, sugerencias de dieta basadas en los registros y recomendaciones para la actividad física, permitiendo una gestión proactiva de la diabetes.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-15T15:34:35.491557"
     }
   ],
   "nombres_usados": [
-    "MentalHealth Pro",
     "SocialWizard",
     "Invoise",
     "TeamFlow",
@@ -8001,6 +8000,7 @@
     "MedUp",
     "Campañas Simplificadas",
     "FocusBetter",
-    "TimeTailor"
+    "TimeTailor",
+    "GlucosaTrack"
   ]
 }
