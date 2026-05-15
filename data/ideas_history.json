@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "PresencePro",
-      "descripcion": "PresencePro reúne herramientas de creación de sitios web, gestión de redes sociales y análisis de SEO en una única interfaz intuitiva. Permite a las PYMES crear, optimizar y monitorear su presencia digital sin necesidad de conocimientos técnicos previos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-12T03:40:15.947459"
-    },
-    {
       "nombre": "ReputaciónPro",
       "descripcion": "ReputaciónPro permite a las pequeñas y medianas empresas gestionar su presencia online, monitorear reseñas y responder a clientes, todo desde un solo lugar. Además, ofrece análisis de la competencia y recomendaciones para mejorar la estrategia digital.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-15T21:18:22.134712"
+    },
+    {
+      "nombre": "WorkFlowyze",
+      "descripcion": "WorkFlowyze es una herramienta SaaS que permite a las pequeñas y medianas empresas diseñar y gestionar sus proyectos de manera eficiente, ofreciendo funcionalidades como tableros Kanban, gestión de tareas y colaboración en tiempo real, todo en una interfaz fácil de usar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-15T22:29:06.599969"
     }
   ],
   "nombres_usados": [
-    "PresencePro",
     "ReputaciónPro",
     "PymeWebSimplificado",
     "RepuGen",
@@ -8001,6 +8000,7 @@
     "GlucosaTrack",
     "FinanciaPyme",
     "ClienteSmart",
-    "StockSmart"
+    "StockSmart",
+    "WorkFlowyze"
   ]
 }
