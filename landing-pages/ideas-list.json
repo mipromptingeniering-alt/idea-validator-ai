@@ -544,6 +544,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260515171409",
+    "nombre": "FinanciaPyme",
+    "tipo": "SaaS",
+    "resumen": "FinanciaPyme es una plataforma SaaS de gestión financiera diseñada específicamente para pequeñas y medianas empresas, que automatiza procesos contable...",
+    "score": 75,
+    "landing_url": "IDEA-20260515171409.html"
+  },
+  {
     "id": "IDEA-20260515153435",
     "nombre": "GlucosaTrack",
     "tipo": "SaaS",
