@@ -536,6 +536,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260515113228",
+    "nombre": "FocusBetter",
+    "tipo": "SaaS",
+    "resumen": "FocusBetter es una herramienta de gestión del tiempo que combina la planificación de tareas con recordatorios de bienestar y motivación....",
+    "score": 75,
+    "landing_url": "IDEA-20260515113228.html"
+  },
+  {
     "id": "IDEA-20260515022540",
     "nombre": "Campañas Simplificadas",
     "tipo": "SaaS",

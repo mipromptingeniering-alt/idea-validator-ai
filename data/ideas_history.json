@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "AdAnalytics Pro",
-      "descripcion": "AdAnalytics Pro permite a los usuarios integrar sus cuentas de publicidad de diversas plataformas, analizar el rendimiento de sus campañas y recibir recomendaciones automatizadas para mejorar la efectividad. Con una interfaz intuitiva, los usuarios pueden ver informes visuales y sugerencias sin necesidad de conocimientos técnicos avanzados.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-11T22:20:09.628591"
-    },
-    {
       "nombre": "MentalHealth Pro",
       "descripcion": "MentalHealth Pro es un software diseñado para facilitar a los terapeutas y psicólogos la gestión de su práctica. Permite la programación de citas, envío de recordatorios a los pacientes, gestión de pagos y seguimiento del progreso del caso de cada paciente. Todo esto con un enfoque especial en la teleterapia.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-15T11:32:29.086564"
+    },
+    {
+      "nombre": "TimeTailor",
+      "descripcion": "TimeTailor utiliza un algoritmo de inteligencia artificial para analizar hábitos y patrones del usuario, proporcionando recomendaciones personalizadas sobre cómo organizar y priorizar tareas según su estilo de trabajo y preferencias. Incluye recordatorios automáticos y visualización de progreso para fomentar la gestión efectiva del tiempo.",
+      "tipo": "SaaS",
+      "score": 80,
+      "fecha": "2026-05-15T13:17:18.752390"
     }
   ],
   "nombres_usados": [
-    "AdAnalytics Pro",
     "MentalHealth Pro",
     "SocialWizard",
     "Invoise",
@@ -8001,6 +8000,7 @@
     "TimeSmart",
     "MedUp",
     "Campañas Simplificadas",
-    "FocusBetter"
+    "FocusBetter",
+    "TimeTailor"
   ]
 }
