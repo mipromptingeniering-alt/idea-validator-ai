@@ -536,6 +536,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260514234808",
+    "nombre": "MedUp",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de actualización profesional para el sector salud que proporciona contenido médico personalizado....",
+    "score": 75,
+    "landing_url": "IDEA-20260514234808.html"
+  },
+  {
     "id": "IDEA-20260514224955",
     "nombre": "TimeSmart",
     "tipo": "SaaS",

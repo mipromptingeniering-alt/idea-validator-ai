@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TaskFlow AI",
-      "descripcion": "TaskFlow AI permite a los usuarios gestionar sus tareas, calendarios y comunicaciones en un solo lugar, utilizando algoritmos de inteligencia artificial para adaptar las recomendaciones y prioridades según el estilo de trabajo del usuario. La plataforma ofrece integración con herramientas existentes y funcionalidades como recordatorios inteligentes y análisis de productividad.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-11T21:28:06.463979"
-    },
-    {
       "nombre": "TimeHarmony",
       "descripcion": "TimeHarmony es una aplicación que permite a los usuarios planificar su día a día, establecer objetivos, y recibir recomendaciones personalizadas sobre cómo mejorar su gestión del tiempo. Al integrarse con calendarios y aplicaciones de tareas, ofrece una vista holística de las actividades y sugiere ajustes para maximizar la productividad.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-14T23:48:08.685851"
+    },
+    {
+      "nombre": "Campañas Simplificadas",
+      "descripcion": "Campañas Simplificadas es una herramienta accesible que permite a los profesionales del marketing gestionar y optimizar campañas en Facebook, Google Ads, e Instagram desde una sola interfaz. Utilizando Inteligencia Artificial, la plataforma ofrece análisis de rendimiento y recomendaciones personalizadas para maximizar el retorno de inversión.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-15T02:25:40.307505"
     }
   ],
   "nombres_usados": [
-    "TaskFlow AI",
     "TimeHarmony",
     "AdAnalytics Pro",
     "MentalHealth Pro",
@@ -8001,6 +8000,7 @@
     "CollabFlow",
     "ContentHub",
     "TimeSmart",
-    "MedUp"
+    "MedUp",
+    "Campañas Simplificadas"
   ]
 }
