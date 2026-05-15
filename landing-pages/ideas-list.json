@@ -544,6 +544,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260515222906",
+    "nombre": "WorkFlowyze",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de proyectos y colaboración diseñada específicamente para pymes, con una interfaz intuitiva y flujos de trabajo personalizab...",
+    "score": 75,
+    "landing_url": "IDEA-20260515222906.html"
+  },
+  {
     "id": "IDEA-20260515185443",
     "nombre": "ClienteSmart",
     "tipo": "MicroSaaS",

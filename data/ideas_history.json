@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ReputaciónPro",
-      "descripcion": "ReputaciónPro permite a las pequeñas y medianas empresas gestionar su presencia online, monitorear reseñas y responder a clientes, todo desde un solo lugar. Además, ofrece análisis de la competencia y recomendaciones para mejorar la estrategia digital.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-12T05:07:48.055435"
-    },
-    {
       "nombre": "PymeWebSimplificado",
       "descripcion": "PymeWebSimplificado es una solución diseñada específicamente para pequeñas y medianas empresas que buscan establecer o mejorar su presencia online sin complicaciones técnicas. Ofrecemos un constructor de sitios web intuitivo, herramientas de optimización SEO y un sistema de atención al cliente automatizado para ayudar a las pymes a atraer y retener clientes.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-15T22:29:06.599969"
+    },
+    {
+      "nombre": "ProAtsio",
+      "descripcion": "ProAtsio es una plataforma de gestión de proyectos diseñada específicamente para autónomos y pequeñas empresas. Combina la gestión de tareas y proyectos con recordatorios para pausas y ejercicios de bienestar mental, ayudando a los usuarios a mantener su productividad sin sacrificar su salud mental.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-15T23:28:41.715314"
     }
   ],
   "nombres_usados": [
-    "ReputaciónPro",
     "PymeWebSimplificado",
     "RepuGen",
     "WorkFlowX",
@@ -8001,6 +8000,7 @@
     "FinanciaPyme",
     "ClienteSmart",
     "StockSmart",
-    "WorkFlowyze"
+    "WorkFlowyze",
+    "ProAtsio"
   ]
 }
