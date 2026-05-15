@@ -544,6 +544,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260515153435",
+    "nombre": "GlucosaTrack",
+    "tipo": "SaaS",
+    "resumen": "GlucosaTrack es una aplicación de seguimiento de diabetes que permite a los usuarios registrar su nivel de glucosa, dieta y actividad física, todo en ...",
+    "score": 75,
+    "landing_url": "IDEA-20260515153435.html"
+  },
+  {
     "id": "IDEA-20260515113228",
     "nombre": "FocusBetter",
     "tipo": "SaaS",

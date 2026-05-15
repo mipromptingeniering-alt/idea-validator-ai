@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialWizard",
-      "descripcion": "SocialWizard permite a las pequeñas empresas generar posts visuales y textuales optimizados para diversas plataformas sociales en cuestión de minutos. Con funciones como sugerencias de hashtags, análisis de tendencias y programación automática de publicaciones, simplificamos el viaje del emprendedor en el mundo digital.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-11T23:18:33.386643"
-    },
-    {
       "nombre": "Invoise",
       "descripcion": "Invoise permite a los usuarios crear y enviar facturas de manera rápida y automatizada, gestionar su flujo de caja y recibir pagos en línea a través de diversas plataformas de pago, con recordatorios automáticos para evitar retrasos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-15T15:34:35.491557"
+    },
+    {
+      "nombre": "FinanciaPyme",
+      "descripcion": "FinanciaPyme permite a los usuarios gestionar sus facturas, gastos, flujos de caja y generar informes financieros con facilidad. Incluye integración con bancos, opciones de automatización y un dashboard intuitivo que muestra la salud financiera de la empresa en un vistazo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-15T17:14:09.483021"
     }
   ],
   "nombres_usados": [
-    "SocialWizard",
     "Invoise",
     "TeamFlow",
     "PresencePro",
@@ -8001,6 +8000,7 @@
     "Campañas Simplificadas",
     "FocusBetter",
     "TimeTailor",
-    "GlucosaTrack"
+    "GlucosaTrack",
+    "FinanciaPyme"
   ]
 }
