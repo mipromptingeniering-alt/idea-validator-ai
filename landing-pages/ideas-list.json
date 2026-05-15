@@ -544,6 +544,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260515185443",
+    "nombre": "ClienteSmart",
+    "tipo": "MicroSaaS",
+    "resumen": "Una herramienta de gestión de clientes y proyectos sencilla y asequible para freelancers y pequeñas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260515185443.html"
+  },
+  {
     "id": "IDEA-20260515171409",
     "nombre": "FinanciaPyme",
     "tipo": "SaaS",
