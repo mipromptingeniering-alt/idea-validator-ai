@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "PymeWebSimplificado",
-      "descripcion": "PymeWebSimplificado es una solución diseñada específicamente para pequeñas y medianas empresas que buscan establecer o mejorar su presencia online sin complicaciones técnicas. Ofrecemos un constructor de sitios web intuitivo, herramientas de optimización SEO y un sistema de atención al cliente automatizado para ayudar a las pymes a atraer y retener clientes.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-12T06:11:01.241728"
-    },
-    {
       "nombre": "RepuGen",
       "descripcion": "RepuGen permite a las pequeñas y medianas empresas gestionar sus reseñas en múltiples plataformas desde un solo panel de control. Utilizando inteligencia artificial, el software analiza las reseñas y sugiere respuestas que ayudan a mejorar la reputación online de la empresa. Además, proporciona informes sobre tendencias de reseñas y satisfacción del cliente.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-15T23:28:41.715314"
+    },
+    {
+      "nombre": "MarketingView",
+      "descripcion": "MarketingView es una plataforma SaaS diseñada para ayudar a los profesionales del marketing a gestionar sus campañas de manera más eficiente. La herramienta permite integrar diferentes plataformas (Google Ads, Facebook Ads, email marketing, etc.) y ofrece análisis en tiempo real, informes personalizables y visualizaciones gráficas para facilitar la toma de decisiones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-16T01:14:39.057931"
     }
   ],
   "nombres_usados": [
-    "PymeWebSimplificado",
     "RepuGen",
     "WorkFlowX",
     "MindConnect",
@@ -8001,6 +8000,7 @@
     "ClienteSmart",
     "StockSmart",
     "WorkFlowyze",
-    "ProAtsio"
+    "ProAtsio",
+    "MarketingView"
   ]
 }
