@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialScheduler AI",
-      "descripcion": "SocialScheduler AI permite a los usuarios, ya sean influencers o pequeñas empresas, ahorrar tiempo y aumentar la efectividad de sus publicaciones en redes sociales a través de sugerencias basadas en inteligencia artificial, programaciones automatizadas y análisis de rendimiento en tiempo real.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-12T12:56:54.755517"
-    },
-    {
       "nombre": "TimeBuddy",
       "descripcion": "TimeBuddy combina la gestión de tareas con un sistema de recordatorios para hábitos saludables, permitiendo a los usuarios establecer objetivos diarios y recibir notificaciones cuando es hora de tomar un descanso, hacer ejercicio o meditar. Además, incluye un sistema de seguimiento del tiempo y análisis de productividad.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-16T16:10:13.513474"
+    },
+    {
+      "nombre": "EduRecommender",
+      "descripcion": "EduRecommender utiliza inteligencia artificial para analizar el progreso y las preferencias de aprendizaje de los estudiantes, proporcionando recomendaciones de cursos y recursos personalizados que mejoran la experiencia de aprendizaje y la retención.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-16T17:14:17.467594"
     }
   ],
   "nombres_usados": [
-    "SocialScheduler AI",
     "TimeBuddy",
     "CRM Simple",
     "FinanceBuddy",
@@ -8001,6 +8000,7 @@
     "ROI Dashboard",
     "Digital Skills Hub",
     "MindfulTime",
-    "ProductivityQuest"
+    "ProductivityQuest",
+    "EduRecommender"
   ]
 }
