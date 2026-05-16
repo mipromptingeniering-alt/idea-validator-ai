@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "WorkFlowX",
-      "descripcion": "WorkFlowX es un software que permite a los usuarios gestionar proyectos, comunicarse con clientes y facturar de manera eficiente, todo en un solo lugar. Ofrece integración de herramientas populares, funciones de automatización y analíticas avanzadas para optimizar el flujo de trabajo.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-12T08:33:27.040671"
-    },
-    {
       "nombre": "MindConnect",
       "descripcion": "MindConnect es una plataforma que ofrece herramientas interactivas para ayudar a los empleados a gestionar su salud mental, incluyendo ejercicios de respiración, seguimiento del estado emocional y asignación de tareas gamificadas que fomentan el bienestar. La plataforma también proporciona informes analíticos para las empresas sobre el bienestar general de sus empleados.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-16T04:38:28.486982"
+    },
+    {
+      "nombre": "ContentOptimizer",
+      "descripcion": "ContentOptimizer es una herramienta todo en uno que integra la gestión de contenido, análisis de rendimiento y opciones de monetización en una interfaz fácil de usar. Permite a los creadores programar publicaciones, analizar el rendimiento en tiempo real y encontrar nuevas oportunidades de monetización a través de colaboración y publicidad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-16T07:01:34.762092"
     }
   ],
   "nombres_usados": [
-    "WorkFlowX",
     "MindConnect",
     "Creative Vault",
     "ProdTime",
@@ -8001,6 +8000,7 @@
     "WorkFlowyze",
     "ProAtsio",
     "MarketingView",
-    "ContentFlow"
+    "ContentFlow",
+    "ContentOptimizer"
   ]
 }

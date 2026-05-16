@@ -544,6 +544,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260516043828",
+    "nombre": "ContentFlow",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que ayuda a los creadores de contenido a planificar, crear y distribuir contenido de manera eficiente y efectiva....",
+    "score": 75,
+    "landing_url": "IDEA-20260516043828.html"
+  },
+  {
     "id": "IDEA-20260516011438",
     "nombre": "MarketingView",
     "tipo": "SaaS",
