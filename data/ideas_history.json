@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "RepuGen",
-      "descripcion": "RepuGen permite a las pequeñas y medianas empresas gestionar sus reseñas en múltiples plataformas desde un solo panel de control. Utilizando inteligencia artificial, el software analiza las reseñas y sugiere respuestas que ayudan a mejorar la reputación online de la empresa. Además, proporciona informes sobre tendencias de reseñas y satisfacción del cliente.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-12T07:54:55.869394"
-    },
-    {
       "nombre": "WorkFlowX",
       "descripcion": "WorkFlowX es un software que permite a los usuarios gestionar proyectos, comunicarse con clientes y facturar de manera eficiente, todo en un solo lugar. Ofrece integración de herramientas populares, funciones de automatización y analíticas avanzadas para optimizar el flujo de trabajo.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-16T01:14:39.057931"
+    },
+    {
+      "nombre": "ContentFlow",
+      "descripcion": "ContentFlow es una herramienta todo-en-uno que permite a los creadores de contenido visualizar su calendario de publicaciones, generar ideas a partir de tendencias actuales y recibir análisis sobre el rendimiento del contenido en tiempo real. Con plantillas personalizables y recomendaciones de contenido, los usuarios pueden mejorar fácilmente su proceso de creación.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-16T04:38:28.486982"
     }
   ],
   "nombres_usados": [
-    "RepuGen",
     "WorkFlowX",
     "MindConnect",
     "Creative Vault",
@@ -8001,6 +8000,7 @@
     "StockSmart",
     "WorkFlowyze",
     "ProAtsio",
-    "MarketingView"
+    "MarketingView",
+    "ContentFlow"
   ]
 }

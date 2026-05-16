@@ -544,6 +544,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260516011438",
+    "nombre": "MarketingView",
+    "tipo": "SaaS",
+    "resumen": "Centraliza y analiza los datos de tus campañas de marketing en un solo lugar, brindando información clara y visualizaciones intuitivas....",
+    "score": 75,
+    "landing_url": "IDEA-20260516011438.html"
+  },
+  {
     "id": "IDEA-20260515232841",
     "nombre": "ProAtsio",
     "tipo": "SaaS",
