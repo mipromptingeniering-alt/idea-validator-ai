@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MindConnect",
-      "descripcion": "MindConnect es una plataforma que ofrece herramientas interactivas para ayudar a los empleados a gestionar su salud mental, incluyendo ejercicios de respiración, seguimiento del estado emocional y asignación de tareas gamificadas que fomentan el bienestar. La plataforma también proporciona informes analíticos para las empresas sobre el bienestar general de sus empleados.",
-      "tipo": "SaaS",
-      "score": 78,
-      "fecha": "2026-03-12T09:26:53.680164"
-    },
-    {
       "nombre": "Creative Vault",
       "descripcion": "Creative Vault permite a diseñadores y fotógrafos almacenar y organizar sus activos digitales de manera eficiente. Mediante el uso de algoritmos de inteligencia artificial, la plataforma categoriza automáticamente las imágenes y otros archivos, facilitando la búsqueda y el acceso rápido a los mismos, optimizando así el flujo de trabajo creativo.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-16T07:01:34.762092"
+    },
+    {
+      "nombre": "ROI Dashboard",
+      "descripcion": "ROI Dashboard es una herramienta SaaS que permite a los profesionales de marketing conectar sus diferentes plataformas de marketing (como Google Ads, Facebook Ads, Mailchimp, etc.) y obtener informes detallados sobre su ROI. La plataforma ofrece análisis en tiempo real, visualizaciones personalizadas y recomendaciones para optimizar las campañas.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-05-16T09:00:58.146699"
     }
   ],
   "nombres_usados": [
-    "MindConnect",
     "Creative Vault",
     "ProdTime",
     "Portfoliify",
@@ -8001,6 +8000,7 @@
     "ProAtsio",
     "MarketingView",
     "ContentFlow",
-    "ContentOptimizer"
+    "ContentOptimizer",
+    "ROI Dashboard"
   ]
 }
