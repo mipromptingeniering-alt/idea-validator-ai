@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Portfoliify",
-      "descripcion": "Portfoliify es una plataforma SaaS que permite a los diseñadores, fotógrafos y artistas construir portfolios digitales interactivos que se adaptan a su estilo único y resaltan su trabajo de manera atractiva. La herramienta ofrece plantillas personalizables, integración con redes sociales y opciones de SEO para mejorar la visibilidad.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-12T11:58:31.570984"
-    },
-    {
       "nombre": "SocialScheduler AI",
       "descripcion": "SocialScheduler AI permite a los usuarios, ya sean influencers o pequeñas empresas, ahorrar tiempo y aumentar la efectividad de sus publicaciones en redes sociales a través de sugerencias basadas en inteligencia artificial, programaciones automatizadas y análisis de rendimiento en tiempo real.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-16T15:14:58.020512"
+    },
+    {
+      "nombre": "ProductivityQuest",
+      "descripcion": "ProductivityQuest es una plataforma que ayuda a los equipos a gestionar sus tareas diarias mediante la gamificación. Los usuarios pueden ganar puntos y recompensas por completar tareas, colaborar con compañeros y cumplir plazos, haciendo que la productividad sea más atractiva y efectiva en entornos de trabajo híbridos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-16T16:10:13.513474"
     }
   ],
   "nombres_usados": [
-    "Portfoliify",
     "SocialScheduler AI",
     "TimeBuddy",
     "CRM Simple",
@@ -8001,6 +8000,7 @@
     "ContentOptimizer",
     "ROI Dashboard",
     "Digital Skills Hub",
-    "MindfulTime"
+    "MindfulTime",
+    "ProductivityQuest"
   ]
 }

@@ -544,6 +544,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260516151457",
+    "nombre": "MindfulTime",
+    "tipo": "SaaS",
+    "resumen": "Una aplicación de gestión del tiempo que integra técnicas de mindfulness para mejorar la productividad y reducir el estrés....",
+    "score": 75,
+    "landing_url": "IDEA-20260516151457.html"
+  },
+  {
     "id": "IDEA-20260516113003",
     "nombre": "Digital Skills Hub",
     "tipo": "SaaS",
