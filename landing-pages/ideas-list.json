@@ -544,6 +544,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260516180557",
+    "nombre": "CitaFácil",
+    "tipo": "SaaS",
+    "resumen": "CitaFácil es una plataforma de gestión de citas y seguimiento de pacientes diseñada específicamente para profesionales de la salud que buscan optimiza...",
+    "score": 75,
+    "landing_url": "IDEA-20260516180557.html"
+  },
+  {
     "id": "IDEA-20260516171417",
     "nombre": "EduRecommender",
     "tipo": "SaaS",

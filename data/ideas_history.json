@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "CRM Simple",
-      "descripcion": "CRM Simple es una herramienta de gestión de relaciones con clientes que facilita a las PYMES organizar contactos, seguir oportunidades de ventas y automatizar las comunicaciones, todo desde una interfaz amigable.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-12T14:48:37.955024"
-    },
-    {
       "nombre": "FinanceBuddy",
       "descripcion": "FinanceBuddy permite a los usuarios llevar un control de sus ingresos y gastos de manera intuitiva y simplificada. Además, incluye un asistente virtual que ofrece recomendaciones personalizadas y recordatorios importantes relacionados con la planificación fiscal y las fechas de pago.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-16T18:05:57.200086"
+    },
+    {
+      "nombre": "FocusHealth",
+      "descripcion": "FocusHealth ofrece herramientas de planificación del tiempo, técnicas de motivación personalizadas y recursos para mejorar la salud mental, todo en una interfaz fácil de usar. Los usuarios pueden establecer objetivos diarios, recibir recordatorios motivacionales y acceder a contenidos de bienestar mental.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-16T19:22:17.777166"
     }
   ],
   "nombres_usados": [
-    "CRM Simple",
     "FinanceBuddy",
     "SocialBoost for SMEs",
     "CashFlow Master",
@@ -8001,6 +8000,7 @@
     "MindfulTime",
     "ProductivityQuest",
     "EduRecommender",
-    "CitaFácil"
+    "CitaFácil",
+    "FocusHealth"
   ]
 }
