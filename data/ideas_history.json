@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialBoost for SMEs",
-      "descripcion": "SocialBoost permite a las pymes gestionar múltiples cuentas de redes sociales desde una sola plataforma. Ofrece programación automática de contenido, análisis de rendimiento de publicaciones y recomendaciones personalizadas para maximizar el alcance y la interacción con los usuarios.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-12T16:53:00.298209"
-    },
-    {
       "nombre": "CashFlow Master",
       "descripcion": "CashFlow Master permite a las pequeñas y medianas empresas gestionar su flujo de caja en tiempo real, proyectar gastos e ingresos futuros y recibir alertas para evitar problemas de liquidez. Su interfaz intuitiva y características automatizadas facilitan su uso, incluso para quienes no tienen experiencia financiera.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 73,
       "fecha": "2026-05-16T20:09:38.063341"
+    },
+    {
+      "nombre": "EduTime",
+      "descripcion": "EduTime ayuda a los estudiantes a planificar su semana de manera eficiente, sugiriendo horarios ideales para estudiar y completar tareas basados en su carga académica y preferencias personales. Utiliza algoritmos de aprendizaje automático para adaptarse a las necesidades individuales de cada usuario.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-05-16T21:02:45.280746"
     }
   ],
   "nombres_usados": [
-    "SocialBoost for SMEs",
     "CashFlow Master",
     "DataSmart Analytics",
     "TaskAI",
@@ -8001,6 +8000,7 @@
     "EduRecommender",
     "CitaFácil",
     "FocusHealth",
-    "TimeHero"
+    "TimeHero",
+    "EduTime"
   ]
 }
