@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Creative Vault",
-      "descripcion": "Creative Vault permite a diseñadores y fotógrafos almacenar y organizar sus activos digitales de manera eficiente. Mediante el uso de algoritmos de inteligencia artificial, la plataforma categoriza automáticamente las imágenes y otros archivos, facilitando la búsqueda y el acceso rápido a los mismos, optimizando así el flujo de trabajo creativo.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-12T10:05:58.050947"
-    },
-    {
       "nombre": "ProdTime",
       "descripcion": "ProdTime es una herramienta diseñada para facilitar la vida de trabajadores remotos y estudiantes al combinar el seguimiento de su tiempo de trabajo, la gestión de tareas y un espacio de comunicación en equipo. Su interfaz intuitiva permite que los usuarios no solo se mantengan organizados, sino que también se mantengan enfocados y colaboren eficazmente.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-16T09:00:58.146699"
+    },
+    {
+      "nombre": "Digital Skills Hub",
+      "descripcion": "Digital Skills Hub es una plataforma en línea que ofrece cursos prácticos y personalizables sobre herramientas digitales, marketing en redes sociales, comercio electrónico y más, específicamente diseñados para pequeñas empresas y autónomos. Los cursos son cortos, interactivos y orientados a resultados concretos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-16T11:30:03.426409"
     }
   ],
   "nombres_usados": [
-    "Creative Vault",
     "ProdTime",
     "Portfoliify",
     "SocialScheduler AI",
@@ -8001,6 +8000,7 @@
     "MarketingView",
     "ContentFlow",
     "ContentOptimizer",
-    "ROI Dashboard"
+    "ROI Dashboard",
+    "Digital Skills Hub"
   ]
 }

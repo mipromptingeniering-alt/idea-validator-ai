@@ -9712,6 +9712,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260516090057",
+    "nombre": "ROI Dashboard",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que integra datos de múltiples herramientas de marketing para medir y visualizar el ROI en tiempo real....",
+    "score": 70,
+    "landing_url": "IDEA-20260516090057.html"
+  },
+  {
     "id": "IDEA-20260515211821",
     "nombre": "StockSmart",
     "tipo": "SaaS",
