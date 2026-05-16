@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ProdTime",
-      "descripcion": "ProdTime es una herramienta diseñada para facilitar la vida de trabajadores remotos y estudiantes al combinar el seguimiento de su tiempo de trabajo, la gestión de tareas y un espacio de comunicación en equipo. Su interfaz intuitiva permite que los usuarios no solo se mantengan organizados, sino que también se mantengan enfocados y colaboren eficazmente.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-12T10:59:22.300407"
-    },
-    {
       "nombre": "Portfoliify",
       "descripcion": "Portfoliify es una plataforma SaaS que permite a los diseñadores, fotógrafos y artistas construir portfolios digitales interactivos que se adaptan a su estilo único y resaltan su trabajo de manera atractiva. La herramienta ofrece plantillas personalizables, integración con redes sociales y opciones de SEO para mejorar la visibilidad.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-16T11:30:03.426409"
+    },
+    {
+      "nombre": "MindfulTime",
+      "descripcion": "MindfulTime es una herramienta digital que no solo permite a los usuarios planificar su día, sino que también sugiere pausas y ejercicios de mindfulness. Utiliza algoritmos para ajustar las recomendaciones en función de las preferencias y el rendimiento del usuario.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-16T15:14:58.020512"
     }
   ],
   "nombres_usados": [
-    "ProdTime",
     "Portfoliify",
     "SocialScheduler AI",
     "TimeBuddy",
@@ -8001,6 +8000,7 @@
     "ContentFlow",
     "ContentOptimizer",
     "ROI Dashboard",
-    "Digital Skills Hub"
+    "Digital Skills Hub",
+    "MindfulTime"
   ]
 }

@@ -544,6 +544,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260516113003",
+    "nombre": "Digital Skills Hub",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de aprendizaje digital que capacita a pequeñas empresas en habilidades tecnológicas esenciales....",
+    "score": 75,
+    "landing_url": "IDEA-20260516113003.html"
+  },
+  {
     "id": "IDEA-20260516070134",
     "nombre": "ContentOptimizer",
     "tipo": "SaaS",
