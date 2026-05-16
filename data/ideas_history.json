@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TimeBuddy",
-      "descripcion": "TimeBuddy combina la gestión de tareas con un sistema de recordatorios para hábitos saludables, permitiendo a los usuarios establecer objetivos diarios y recibir notificaciones cuando es hora de tomar un descanso, hacer ejercicio o meditar. Además, incluye un sistema de seguimiento del tiempo y análisis de productividad.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-12T13:58:29.571418"
-    },
-    {
       "nombre": "CRM Simple",
       "descripcion": "CRM Simple es una herramienta de gestión de relaciones con clientes que facilita a las PYMES organizar contactos, seguir oportunidades de ventas y automatizar las comunicaciones, todo desde una interfaz amigable.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-16T17:14:17.467594"
+    },
+    {
+      "nombre": "CitaFácil",
+      "descripcion": "CitaFácil permite a médicos, enfermeras y clínicas gestionar sus citas, enviar recordatorios automáticos a pacientes y hacer un seguimiento del historial de salud en una sola herramienta. La interfaz es intuitiva y está diseñada para ser utilizada por personal médico sin conocimientos técnicos avanzados.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-16T18:05:57.200086"
     }
   ],
   "nombres_usados": [
-    "TimeBuddy",
     "CRM Simple",
     "FinanceBuddy",
     "SocialBoost for SMEs",
@@ -8001,6 +8000,7 @@
     "Digital Skills Hub",
     "MindfulTime",
     "ProductivityQuest",
-    "EduRecommender"
+    "EduRecommender",
+    "CitaFácil"
   ]
 }
