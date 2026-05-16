@@ -9768,6 +9768,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260516210245",
+    "nombre": "EduTime",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión del tiempo y tareas diseñada específicamente para estudiantes universitarios que incorpora inteligencia artificial....",
+    "score": 70,
+    "landing_url": "IDEA-20260516210245.html"
+  },
+  {
     "id": "IDEA-20260516090057",
     "nombre": "ROI Dashboard",
     "tipo": "SaaS",

@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "CashFlow Master",
-      "descripcion": "CashFlow Master permite a las pequeñas y medianas empresas gestionar su flujo de caja en tiempo real, proyectar gastos e ingresos futuros y recibir alertas para evitar problemas de liquidez. Su interfaz intuitiva y características automatizadas facilitan su uso, incluso para quienes no tienen experiencia financiera.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-12T17:43:18.029158"
-    },
-    {
       "nombre": "DataSmart Analytics",
       "descripcion": "DataSmart Analytics permite a las empresas conectar sus diversas cuentas de marketing digital (como redes sociales, email marketing, SEO, etc.) y obtener reportes visuales y recomendaciones basadas en datos. Permitimos que los usuarios sin experiencia técnica puedan interpretar sus datos y actuar sobre ellos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-16T21:02:45.280746"
+    },
+    {
+      "nombre": "ProjectSphere",
+      "descripcion": "ProjectSphere permite a los usuarios gestionar sus proyectos y clientes desde una única plataforma, ofreciendo herramientas de planificación, seguimiento de tareas, facturación y gestión de relaciones con clientes, todo en un entorno intuitivo y accesible.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-05-16T23:06:21.760921"
     }
   ],
   "nombres_usados": [
-    "CashFlow Master",
     "DataSmart Analytics",
     "TaskAI",
     "HabitBuddy",
@@ -8001,6 +8000,7 @@
     "CitaFácil",
     "FocusHealth",
     "TimeHero",
-    "EduTime"
+    "EduTime",
+    "ProjectSphere"
   ]
 }
