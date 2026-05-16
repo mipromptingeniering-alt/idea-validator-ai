@@ -544,6 +544,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260516192217",
+    "nombre": "FocusHealth",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que ayuda a los trabajadores remotos a gestionar su tiempo de manera efectiva mientras mantiene su bienestar mental....",
+    "score": 75,
+    "landing_url": "IDEA-20260516192217.html"
+  },
+  {
     "id": "IDEA-20260516180557",
     "nombre": "CitaFácil",
     "tipo": "SaaS",
