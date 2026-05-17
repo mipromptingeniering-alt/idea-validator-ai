@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SalesCare",
-      "descripcion": "SalesCare es una solución SaaS que permite a las PYMES gestionar sus ventas y su atención al cliente en una única plataforma. Ofrece herramientas de gestión de leads, seguimiento de clientes, y un sistema de tickets para soporte al cliente, todo ello con un enfoque en la simplicidad y la facilidad de uso.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-13T01:17:42.628152"
-    },
-    {
       "nombre": "SocialAI",
       "descripcion": "SocialAI es una herramienta de marketing digital basada en inteligencia artificial que permite a las pequeñas y medianas empresas crear y administrar su contenido en redes sociales de forma sencilla. Ofrece análisis de audiencia, sugerencias de contenido personalizadas y programación automática de publicaciones.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-17T21:37:11.009119"
+    },
+    {
+      "nombre": "Mindful Productivity",
+      "descripcion": "Mindful Productivity es una aplicación SaaS que permite a los usuarios gestionar su tiempo de manera efectiva al incorporar técnicas clásicas de productividad, como el método Pomodoro, combinadas con breves sesiones de meditación y ejercicios de respiración. El objetivo es ayudar a los usuarios a concentrarse en sus tareas mientras se cuida su bienestar mental.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-05-17T22:34:03.395474"
     }
   ],
   "nombres_usados": [
-    "SalesCare",
     "SocialAI",
     "DataSense for SMEs",
     "ProyecTIC",
@@ -8001,6 +8000,7 @@
     "DataSimplicity",
     "PYMEs CRM Simplificado",
     "EasyBrand",
-    "TaskOptimizer"
+    "TaskOptimizer",
+    "Mindful Productivity"
   ]
 }
