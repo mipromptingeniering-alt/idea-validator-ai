@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SalesBuddy",
-      "descripcion": "SalesBuddy ayuda a las PYMES a gestionar sus procesos de ventas y atención al cliente de manera eficiente, permitiendo la automatización de tareas, seguimiento de clientes potenciales y análisis de datos de ventas, todo en una plataforma fácil de usar.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-12T21:04:28.298706"
-    },
-    {
       "nombre": "WellnessTask",
       "descripcion": "WellnessTask ofrece un sistema de gestión de tareas fácil de usar que, además de permitir a los usuarios organizar su trabajo, les recuerda tomar pausas y realiza seguimientos de su bienestar emocional a través de breves actividades de meditación y respiración.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-17T07:21:08.322062"
+    },
+    {
+      "nombre": "EasySales",
+      "descripcion": "EasySales es una herramienta en línea que permite a las PYMES gestionar sus contactos, automatizar sus campañas de marketing y analizar el rendimiento de ventas, todo en un solo lugar. Con una interfaz simple y funcionalidades esenciales, ayuda a las empresas a maximizar su rendimiento sin necesidad de grandes inversiones tecnológicas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-17T11:55:22.064224"
     }
   ],
   "nombres_usados": [
-    "SalesBuddy",
     "WellnessTask",
     "PitchPerfect",
     "Freelance Finance Buddy",
@@ -8001,6 +8000,7 @@
     "ProjectSphere",
     "Time4Kids",
     "FreelanceBoost",
-    "TaskSync"
+    "TaskSync",
+    "EasySales"
   ]
 }

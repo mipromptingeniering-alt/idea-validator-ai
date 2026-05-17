@@ -544,6 +544,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260517072108",
+    "nombre": "TaskSync",
+    "tipo": "SaaS",
+    "resumen": "TaskSync es una herramienta de gestión de proyectos diseñada específicamente para freelancers y pequeños emprendedores, que permite organizar tareas y...",
+    "score": 75,
+    "landing_url": "IDEA-20260517072108.html"
+  },
+  {
     "id": "IDEA-20260517041934",
     "nombre": "FreelanceBoost",
     "tipo": "SaaS",
