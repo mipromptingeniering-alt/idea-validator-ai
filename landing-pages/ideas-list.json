@@ -64,6 +64,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260517125947",
+    "nombre": "CreativoControl",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de proyectos diseñada específicamente para profesionales creativos y freelance que buscan una solución simple y visual....",
+    "score": 78,
+    "landing_url": "IDEA-20260517125947.html"
+  },
+  {
     "id": "IDEA-20260512045545",
     "nombre": "EasySales Hub",
     "tipo": "SaaS",

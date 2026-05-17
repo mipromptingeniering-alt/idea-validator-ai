@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "PitchPerfect",
-      "descripcion": "PitchPerfect es una herramienta SaaS que brinda a los emprendedores una guía paso a paso para elaborar su pitch perfecto, acceso a plantillas personalizables y recursos educativos sobre financiación y presentación ante inversores.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-12T22:17:46.075424"
-    },
-    {
       "nombre": "Freelance Finance Buddy",
       "descripcion": "Freelance Finance Buddy permite a los freelancers gestionar sus finanzas de manera intuitiva. La herramienta ofrece funcionalidades para crear facturas personalizadas, registrar gastos automáticamente a través de la integración con cuentas bancarias y generar reportes financieros sencillos para facilitar la declaración de impuestos.",
       "tipo": "MicroSaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-05-17T12:59:47.985506"
+    },
+    {
+      "nombre": "DataSimplicity",
+      "descripcion": "DataSimplicity es una plataforma de software como servicio que permite a las PYMEs cargar sus datos, visualizar tendencias y realizar análisis en tiempo real a través de un dashboard sencillo e interactivo. La plataforma incluye tutoriales y ayuda en línea para facilitar la curva de aprendizaje.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-17T14:26:10.632992"
     }
   ],
   "nombres_usados": [
-    "PitchPerfect",
     "Freelance Finance Buddy",
     "TaskButter",
     "AutoSocial",
@@ -8001,6 +8000,7 @@
     "FreelanceBoost",
     "TaskSync",
     "EasySales",
-    "CreativoControl"
+    "CreativoControl",
+    "DataSimplicity"
   ]
 }
