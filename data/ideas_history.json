@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialAI",
-      "descripcion": "SocialAI es una herramienta de marketing digital basada en inteligencia artificial que permite a las pequeñas y medianas empresas crear y administrar su contenido en redes sociales de forma sencilla. Ofrece análisis de audiencia, sugerencias de contenido personalizadas y programación automática de publicaciones.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-13T03:41:19.662095"
-    },
-    {
       "nombre": "DataSense for SMEs",
       "descripcion": "DataSense es una herramienta de análisis de datos en la nube que permite a las PYMES visualizar sus datos, generar informes y obtener insights valiosos de manera sencilla. Incluye tutoriales integrados y recursos educativos para ayudar a los usuarios a entender mejor cómo utilizar el análisis de datos para mejorar su negocio.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-17T22:34:03.395474"
+    },
+    {
+      "nombre": "StreamGenie",
+      "descripcion": "StreamGenie permite a los usuarios conectar sus cuentas de streaming y recibir recomendaciones de contenido basado en sus hábitos de visualización anteriores, evaluando sus gustos y preferencias. Además, el usuario puede calificar lo que ve, mejorando constantemente las recomendaciones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-17T23:40:09.705865"
     }
   ],
   "nombres_usados": [
-    "SocialAI",
     "DataSense for SMEs",
     "ProyecTIC",
     "SocialPro",
@@ -8001,6 +8000,7 @@
     "PYMEs CRM Simplificado",
     "EasyBrand",
     "TaskOptimizer",
-    "Mindful Productivity"
+    "Mindful Productivity",
+    "StreamGenie"
   ]
 }

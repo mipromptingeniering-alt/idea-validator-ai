@@ -9840,6 +9840,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260517223403",
+    "nombre": "Mindful Productivity",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo que integra técnicas de productividad con ejercicios de bienestar mental....",
+    "score": 70,
+    "landing_url": "IDEA-20260517223403.html"
+  },
+  {
     "id": "IDEA-20260516230621",
     "nombre": "ProjectSphere",
     "tipo": "SaaS",
