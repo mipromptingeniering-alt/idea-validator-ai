@@ -9768,6 +9768,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260516230621",
+    "nombre": "ProjectSphere",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma todo-en-uno que combina gestión de proyectos y CRM para autónomos y pequeños emprendedores....",
+    "score": 70,
+    "landing_url": "IDEA-20260516230621.html"
+  },
+  {
     "id": "IDEA-20260516210245",
     "nombre": "EduTime",
     "tipo": "SaaS",

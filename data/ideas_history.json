@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "DataSmart Analytics",
-      "descripcion": "DataSmart Analytics permite a las empresas conectar sus diversas cuentas de marketing digital (como redes sociales, email marketing, SEO, etc.) y obtener reportes visuales y recomendaciones basadas en datos. Permitimos que los usuarios sin experiencia técnica puedan interpretar sus datos y actuar sobre ellos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-12T18:32:08.848762"
-    },
-    {
       "nombre": "TaskAI",
       "descripcion": "TaskAI es una herramienta de gestión de tareas que utiliza inteligencia artificial para ayudar a los freelancers y trabajadores remotos a organizar su trabajo de manera más efectiva. Analiza el comportamiento y las preferencias de trabajo del usuario para crear un plan de tareas optimizado cada día.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-16T23:06:21.760921"
+    },
+    {
+      "nombre": "Time4Kids",
+      "descripcion": "Time4Kids es una aplicación que permite a los padres buscar, planificar y compartir actividades recreativas y educativas. Ofrece recomendaciones basadas en la edad del niño, intereses y tiempo disponible. Además, incluye un foro donde los padres pueden intercambiar ideas y experiencias.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-17T00:10:53.967012"
     }
   ],
   "nombres_usados": [
-    "DataSmart Analytics",
     "TaskAI",
     "HabitBuddy",
     "SalesBuddy",
@@ -8001,6 +8000,7 @@
     "FocusHealth",
     "TimeHero",
     "EduTime",
-    "ProjectSphere"
+    "ProjectSphere",
+    "Time4Kids"
   ]
 }
