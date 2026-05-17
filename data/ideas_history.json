@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TaskAI",
-      "descripcion": "TaskAI es una herramienta de gestión de tareas que utiliza inteligencia artificial para ayudar a los freelancers y trabajadores remotos a organizar su trabajo de manera más efectiva. Analiza el comportamiento y las preferencias de trabajo del usuario para crear un plan de tareas optimizado cada día.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-12T19:58:59.651445"
-    },
-    {
       "nombre": "HabitBuddy",
       "descripcion": "HabitBuddy permite a los usuarios establecer metas de hábitos saludables (como ejercicio, meditación, y pausas activas) y les proporciona herramientas para hacer seguimiento de su progreso, recompensas personalizadas y recordatorios integrados en su agenda laboral.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-17T00:10:53.967012"
+    },
+    {
+      "nombre": "FreelanceBoost",
+      "descripcion": "FreelanceBoost es una herramienta que permite a los freelancers registrar sus horas de trabajo, generar facturas automáticas y obtener análisis de productividad personalizados para mejorar su gestión del tiempo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-17T04:19:34.815614"
     }
   ],
   "nombres_usados": [
-    "TaskAI",
     "HabitBuddy",
     "SalesBuddy",
     "WellnessTask",
@@ -8001,6 +8000,7 @@
     "TimeHero",
     "EduTime",
     "ProjectSphere",
-    "Time4Kids"
+    "Time4Kids",
+    "FreelanceBoost"
   ]
 }

@@ -544,6 +544,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260517001053",
+    "nombre": "Time4Kids",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma para que padres planifiquen actividades recreativas y educativas para sus hijos, integrando opciones personalizadas y una comunidad de ...",
+    "score": 75,
+    "landing_url": "IDEA-20260517001053.html"
+  },
+  {
     "id": "IDEA-20260516192217",
     "nombre": "FocusHealth",
     "tipo": "SaaS",
