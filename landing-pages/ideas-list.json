@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260517194903",
+    "nombre": "PYMEs CRM Simplificado",
+    "tipo": "SaaS",
+    "resumen": "Un CRM diseñado específicamente para PYMEs que simplifica la gestión de ventas y relaciones con los clientes....",
+    "score": 75,
+    "landing_url": "IDEA-20260517194903.html"
+  },
+  {
     "id": "IDEA-20260517142610",
     "nombre": "DataSimplicity",
     "tipo": "SaaS",

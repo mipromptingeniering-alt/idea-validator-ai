@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TaskButter",
-      "descripcion": "TaskButter es una herramienta de gestión de tareas diseñada para profesionales y equipos pequeños que buscan una forma simple y eficaz de organizar su trabajo. Incorporando inteligencia artificial, la aplicación ofrecerá recordatorios y sugerencias personalizadas para ayudar a priorizar tareas y mantenerse en el camino correcto.",
-      "tipo": "MicroSaaS",
-      "score": 70,
-      "fecha": "2026-03-12T23:20:39.118838"
-    },
-    {
       "nombre": "AutoSocial",
       "descripcion": "AutoSocial permite a los usuarios programar publicaciones, generar contenido atractivo basado en su audiencia y analizar el rendimiento de sus redes sociales, todo en una interfaz sencilla y amigable.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-17T19:49:03.454503"
+    },
+    {
+      "nombre": "EasyBrand",
+      "descripcion": "EasyBrand es una plataforma SaaS que proporciona a los usuarios herramientas intuitivas para diseñar su sitio web, optimizar el SEO y gestionar campañas de marketing digital, todo sin necesidad de conocimientos técnicos. A través de plantillas adaptadas y un asistente de configuración guiado, los usuarios pueden lanzar su marca al mercado rápidamente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-17T20:40:36.874639"
     }
   ],
   "nombres_usados": [
-    "TaskButter",
     "AutoSocial",
     "SalesCare",
     "SocialAI",
@@ -8001,6 +8000,7 @@
     "EasySales",
     "CreativoControl",
     "DataSimplicity",
-    "PYMEs CRM Simplificado"
+    "PYMEs CRM Simplificado",
+    "EasyBrand"
   ]
 }
