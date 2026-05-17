@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "HabitBuddy",
-      "descripcion": "HabitBuddy permite a los usuarios establecer metas de hábitos saludables (como ejercicio, meditación, y pausas activas) y les proporciona herramientas para hacer seguimiento de su progreso, recompensas personalizadas y recordatorios integrados en su agenda laboral.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-12T20:37:05.697176"
-    },
-    {
       "nombre": "SalesBuddy",
       "descripcion": "SalesBuddy ayuda a las PYMES a gestionar sus procesos de ventas y atención al cliente de manera eficiente, permitiendo la automatización de tareas, seguimiento de clientes potenciales y análisis de datos de ventas, todo en una plataforma fácil de usar.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-17T04:19:34.815614"
+    },
+    {
+      "nombre": "TaskSync",
+      "descripcion": "TaskSync ofrece un espacio de trabajo donde los usuarios pueden crear, asignar y seguir sus tareas de forma sencilla. Incluye funciones de calendario, establecimiento de plazos, y reportes de progreso, todo en una sola plataforma. La herramienta está diseñada para ser fácil de usar, permitiendo que incluso aquellos con menos experiencia tecnológica puedan beneficiarse.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-17T07:21:08.322062"
     }
   ],
   "nombres_usados": [
-    "HabitBuddy",
     "SalesBuddy",
     "WellnessTask",
     "PitchPerfect",
@@ -8001,6 +8000,7 @@
     "EduTime",
     "ProjectSphere",
     "Time4Kids",
-    "FreelanceBoost"
+    "FreelanceBoost",
+    "TaskSync"
   ]
 }
