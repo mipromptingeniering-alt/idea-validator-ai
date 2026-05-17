@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "WellnessTask",
-      "descripcion": "WellnessTask ofrece un sistema de gestión de tareas fácil de usar que, además de permitir a los usuarios organizar su trabajo, les recuerda tomar pausas y realiza seguimientos de su bienestar emocional a través de breves actividades de meditación y respiración.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-12T21:47:43.544923"
-    },
-    {
       "nombre": "PitchPerfect",
       "descripcion": "PitchPerfect es una herramienta SaaS que brinda a los emprendedores una guía paso a paso para elaborar su pitch perfecto, acceso a plantillas personalizables y recursos educativos sobre financiación y presentación ante inversores.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-17T11:55:22.064224"
+    },
+    {
+      "nombre": "CreativoControl",
+      "descripcion": "CreativoControl permite a los usuarios gestionar sus proyectos de manera visual e intuitiva, facilitando el seguimiento de plazos, tareas y la colaboración con clientes y equipos. Ofrece plantillas específicas para diseñadores, escritores y otros creativos, así como integraciones con herramientas populares en la industria.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-05-17T12:59:47.985506"
     }
   ],
   "nombres_usados": [
-    "WellnessTask",
     "PitchPerfect",
     "Freelance Finance Buddy",
     "TaskButter",
@@ -8001,6 +8000,7 @@
     "Time4Kids",
     "FreelanceBoost",
     "TaskSync",
-    "EasySales"
+    "EasySales",
+    "CreativoControl"
   ]
 }
