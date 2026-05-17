@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260517204036",
+    "nombre": "EasyBrand",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que permite a emprendedores y pequeñas empresas crear, gestionar y optimizar su presencia digital desde una única interfaz....",
+    "score": 75,
+    "landing_url": "IDEA-20260517204036.html"
+  },
+  {
     "id": "IDEA-20260517194903",
     "nombre": "PYMEs CRM Simplificado",
     "tipo": "SaaS",
