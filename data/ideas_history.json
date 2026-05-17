@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Freelance Finance Buddy",
-      "descripcion": "Freelance Finance Buddy permite a los freelancers gestionar sus finanzas de manera intuitiva. La herramienta ofrece funcionalidades para crear facturas personalizadas, registrar gastos automáticamente a través de la integración con cuentas bancarias y generar reportes financieros sencillos para facilitar la declaración de impuestos.",
-      "tipo": "MicroSaaS",
-      "score": 75,
-      "fecha": "2026-03-12T22:50:35.199355"
-    },
-    {
       "nombre": "TaskButter",
       "descripcion": "TaskButter es una herramienta de gestión de tareas diseñada para profesionales y equipos pequeños que buscan una forma simple y eficaz de organizar su trabajo. Incorporando inteligencia artificial, la aplicación ofrecerá recordatorios y sugerencias personalizadas para ayudar a priorizar tareas y mantenerse en el camino correcto.",
       "tipo": "MicroSaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-17T14:26:10.632992"
+    },
+    {
+      "nombre": "PYMEs CRM Simplificado",
+      "descripcion": "PYMEs CRM Simplificado es una plataforma fácil de usar que permite a las pequeñas y medianas empresas gestionar sus contactos, seguimiento de ventas y comunicación con clientes de manera eficiente, sin la complejidad de soluciones más grandes.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-17T19:49:03.454503"
     }
   ],
   "nombres_usados": [
-    "Freelance Finance Buddy",
     "TaskButter",
     "AutoSocial",
     "SalesCare",
@@ -8001,6 +8000,7 @@
     "TaskSync",
     "EasySales",
     "CreativoControl",
-    "DataSimplicity"
+    "DataSimplicity",
+    "PYMEs CRM Simplificado"
   ]
 }
