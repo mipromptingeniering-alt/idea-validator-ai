@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "VisuaLizer",
-      "descripcion": "VisuaLizer es una herramienta SaaS que permite a los profesionales del marketing digital generar y personalizar contenido visual automáticamente para múltiples plataformas, asegurando que cada publicación esté optimizada para el rendimiento. Los usuarios pueden cargar imágenes o plantillas y ajustar la configuración para crear variaciones específicas por red social (Instagram, Facebook, Twitter, LinkedIn, etc.).",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-13T11:51:29.124853"
-    },
-    {
       "nombre": "AdminAutomat",
       "descripcion": "AdminAutomat es una solución integral que permite a las pequeñas y medianas empresas gestionar sus procesos administrativos de forma eficiente a través de la automatización. La plataforma ofrece un conjunto de herramientas que simplifican tareas como la facturación, gestión de inventarios y seguimiento de proyectos, además de proporcionar asistencia virtual para facilitar su uso.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-18T20:10:25.700165"
+    },
+    {
+      "nombre": "PymeMktPro",
+      "descripcion": "PymeMktPro es una solución SaaS diseñada específicamente para pequeñas y medianas empresas. Proporciona herramientas integradas para la gestión de redes sociales, optimización SEO, y análisis de resultados, todo en una interfaz sencilla y amigable. Su enfoque en el usuario final garantiza que incluso aquellos sin experiencia en marketing digital puedan gestionar sus campañas efectivamente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-18T22:37:03.344603"
     }
   ],
   "nombres_usados": [
-    "VisuaLizer",
     "AdminAutomat",
     "WellnessHub",
     "WorkConnect",
@@ -8001,6 +8000,7 @@
     "TaskFlow Pro",
     "WebEasy",
     "TimeProject",
-    "CreaPaga"
+    "CreaPaga",
+    "PymeMktPro"
   ]
 }

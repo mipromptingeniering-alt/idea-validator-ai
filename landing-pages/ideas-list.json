@@ -9888,6 +9888,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260518201025",
+    "nombre": "CreaPaga",
+    "tipo": "SaaS",
+    "resumen": "CreaPaga es una plataforma de monetización para creadores de contenido que les permite gestionar sus suscripciones, contenido premium y pagos en un so...",
+    "score": 70,
+    "landing_url": "IDEA-20260518201025.html"
+  },
+  {
     "id": "IDEA-20260517223403",
     "nombre": "Mindful Productivity",
     "tipo": "SaaS",
