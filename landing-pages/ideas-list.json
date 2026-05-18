@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260518125628",
+    "nombre": "WebEasy",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma intuitiva para crear y gestionar sitios web para emprendedores y pequeños negocios sin necesidad de habilidades técnicas....",
+    "score": 75,
+    "landing_url": "IDEA-20260518125628.html"
+  },
+  {
     "id": "IDEA-20260518094349",
     "nombre": "TaskFlow Pro",
     "tipo": "SaaS",

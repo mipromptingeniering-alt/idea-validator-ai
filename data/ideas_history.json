@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialBee Manager",
-      "descripcion": "SocialBee Manager permite a los usuarios planificar, programar y analizar sus publicaciones en múltiples redes sociales desde una sola plataforma. Con características como plantillas personalizables, publicación automática y reportes de rendimiento fáciles de entender, SocialBee Manager ayuda a los usuarios a aumentar su alcance y mejorar su presencia online.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-13T10:00:54.057571"
-    },
-    {
       "nombre": "Campaña Central",
       "descripcion": "Campaña Central es un software como servicio que permite a los profesionales de marketing gestionar, analizar y optimizar sus campañas en diversas plataformas (Google Ads, Facebook Ads, Instagram, etc.) desde una única interfaz. Al integrar datos en tiempo real, los usuarios pueden tomar decisiones informadas y ajustar sus estrategias sobre la marcha.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-18T12:56:28.623464"
+    },
+    {
+      "nombre": "TimeProject",
+      "descripcion": "TimeProject es una herramienta diseñada para ayudar a los freelancers y pequeñas empresas a gestionar sus proyectos de manera más eficiente, permitiendo seguir el tiempo que dedican a cada tarea y generando facturas automáticamente basadas en el tiempo trabajado. La plataforma es intuitiva y está diseñada para optimizar la productividad y la rentabilidad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-18T18:17:28.090953"
     }
   ],
   "nombres_usados": [
-    "SocialBee Manager",
     "Campaña Central",
     "VisuaLizer",
     "AdminAutomat",
@@ -8001,6 +8000,7 @@
     "SocialPostGen",
     "TaskAI",
     "TaskFlow Pro",
-    "WebEasy"
+    "WebEasy",
+    "TimeProject"
   ]
 }
