@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260518094349",
+    "nombre": "TaskFlow Pro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma todo en uno para freelancers y pequeños empresarios que combina gestión de tareas, seguimiento de tiempo y facturación....",
+    "score": 75,
+    "landing_url": "IDEA-20260518094349.html"
+  },
+  {
     "id": "IDEA-20260518055545",
     "nombre": "TaskAI",
     "tipo": "SaaS",

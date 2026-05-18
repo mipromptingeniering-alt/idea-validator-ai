@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "PymeAnalytics",
-      "descripcion": "PymeAnalytics es un software en la nube que permite a las pymes obtener reportes analíticos automatizados y personalizados. La herramienta se integra fácilmente con plataformas populares como Shopify, WooCommerce, y Google Analytics, permitiendo a los usuarios tomar decisiones informadas sin necesidad de conocimientos técnicos avanzados.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-13T07:54:45.838717"
-    },
-    {
       "nombre": "SocialBee Manager",
       "descripcion": "SocialBee Manager permite a los usuarios planificar, programar y analizar sus publicaciones en múltiples redes sociales desde una sola plataforma. Con características como plantillas personalizables, publicación automática y reportes de rendimiento fáciles de entender, SocialBee Manager ayuda a los usuarios a aumentar su alcance y mejorar su presencia online.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-18T09:43:49.391375"
+    },
+    {
+      "nombre": "WebEasy",
+      "descripcion": "WebEasy es un constructor de sitios web que permite a los emprendedores crear, personalizar y gestionar sus propios sitios web de forma sencilla, con plantillas adaptadas a sectores específicos y guías paso a paso. Incluye funcionalidades como SEO básico, integración con redes sociales y herramientas de marketing digital.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-18T12:56:28.623464"
     }
   ],
   "nombres_usados": [
-    "PymeAnalytics",
     "SocialBee Manager",
     "Campaña Central",
     "VisuaLizer",
@@ -8001,6 +8000,7 @@
     "StreamGenie",
     "SocialPostGen",
     "TaskAI",
-    "TaskFlow Pro"
+    "TaskFlow Pro",
+    "WebEasy"
   ]
 }
