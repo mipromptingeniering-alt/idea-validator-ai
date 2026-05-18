@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialPro",
-      "descripcion": "SocialPro permite a las PYMES crear, programar y analizar contenido en múltiples plataformas sociales desde un solo lugar, utilizando plantillas personalizables que se adaptan a su sector. Con herramientas de automatización y análisis de rendimiento, las empresas pueden optimizar su estrategia en redes sociales sin necesidad de experiencia previa.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-13T07:11:07.571569"
-    },
-    {
       "nombre": "PymeAnalytics",
       "descripcion": "PymeAnalytics es un software en la nube que permite a las pymes obtener reportes analíticos automatizados y personalizados. La herramienta se integra fácilmente con plataformas populares como Shopify, WooCommerce, y Google Analytics, permitiendo a los usuarios tomar decisiones informadas sin necesidad de conocimientos técnicos avanzados.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-18T05:55:45.972658"
+    },
+    {
+      "nombre": "TaskFlow Pro",
+      "descripcion": "TaskFlow Pro es una herramienta diseñada para facilitar la vida de los freelancers y pequeños empresarios. Permite gestionar proyectos y tareas, registrar el tiempo trabajado y generar facturas de manera sencilla. Con una interfaz intuitiva, los usuarios podrán organizar su trabajo y optimizar su tiempo en un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-18T09:43:49.391375"
     }
   ],
   "nombres_usados": [
-    "SocialPro",
     "PymeAnalytics",
     "SocialBee Manager",
     "Campaña Central",
@@ -8001,6 +8000,7 @@
     "Mindful Productivity",
     "StreamGenie",
     "SocialPostGen",
-    "TaskAI"
+    "TaskAI",
+    "TaskFlow Pro"
   ]
 }

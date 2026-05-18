@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260518055545",
+    "nombre": "TaskAI",
+    "tipo": "SaaS",
+    "resumen": "TaskAI es una plataforma de gestión de proyectos que utiliza inteligencia artificial para optimizar la organización y priorización de tareas en equipo...",
+    "score": 75,
+    "landing_url": "IDEA-20260518055545.html"
+  },
+  {
     "id": "IDEA-20260518013416",
     "nombre": "SocialPostGen",
     "tipo": "SaaS",
