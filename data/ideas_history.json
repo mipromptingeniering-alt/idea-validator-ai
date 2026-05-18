@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Campaña Central",
-      "descripcion": "Campaña Central es un software como servicio que permite a los profesionales de marketing gestionar, analizar y optimizar sus campañas en diversas plataformas (Google Ads, Facebook Ads, Instagram, etc.) desde una única interfaz. Al integrar datos en tiempo real, los usuarios pueden tomar decisiones informadas y ajustar sus estrategias sobre la marcha.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-13T10:56:04.053548"
-    },
-    {
       "nombre": "VisuaLizer",
       "descripcion": "VisuaLizer es una herramienta SaaS que permite a los profesionales del marketing digital generar y personalizar contenido visual automáticamente para múltiples plataformas, asegurando que cada publicación esté optimizada para el rendimiento. Los usuarios pueden cargar imágenes o plantillas y ajustar la configuración para crear variaciones específicas por red social (Instagram, Facebook, Twitter, LinkedIn, etc.).",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-18T18:17:28.090953"
+    },
+    {
+      "nombre": "CreaPaga",
+      "descripcion": "CreaPaga permite a los creadores de contenido ofrecer contenido exclusivo y gestionar las suscripciones de sus seguidores directamente, facilitando la monetización de su trabajo a través de un sistema fácil de usar que integra pagos, análisis y un CMS para contenido premium.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-05-18T20:10:25.700165"
     }
   ],
   "nombres_usados": [
-    "Campaña Central",
     "VisuaLizer",
     "AdminAutomat",
     "WellnessHub",
@@ -8001,6 +8000,7 @@
     "TaskAI",
     "TaskFlow Pro",
     "WebEasy",
-    "TimeProject"
+    "TimeProject",
+    "CreaPaga"
   ]
 }
