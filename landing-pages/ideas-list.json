@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260517234009",
+    "nombre": "StreamGenie",
+    "tipo": "SaaS",
+    "resumen": "StreamGenie es una herramienta de recomendación de contenido que utiliza inteligencia artificial para personalizar las sugerencias de películas y seri...",
+    "score": 75,
+    "landing_url": "IDEA-20260517234009.html"
+  },
+  {
     "id": "IDEA-20260517213710",
     "nombre": "TaskOptimizer",
     "tipo": "SaaS",

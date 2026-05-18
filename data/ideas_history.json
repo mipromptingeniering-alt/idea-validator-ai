@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "DataSense for SMEs",
-      "descripcion": "DataSense es una herramienta de análisis de datos en la nube que permite a las PYMES visualizar sus datos, generar informes y obtener insights valiosos de manera sencilla. Incluye tutoriales integrados y recursos educativos para ayudar a los usuarios a entender mejor cómo utilizar el análisis de datos para mejorar su negocio.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-13T05:04:35.525422"
-    },
-    {
       "nombre": "ProyecTIC",
       "descripcion": "ProyecTIC es una herramienta de gestión de proyectos diseñada para pequeñas y medianas empresas que busca facilitar la colaboración y mejorar la eficiencia. Con un enfoque en la simplicidad y la asequibilidad, ProyecTIC permite a los equipos gestionar tareas, comunicarse y colaborar sin complicaciones.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-17T23:40:09.705865"
+    },
+    {
+      "nombre": "SocialPostGen",
+      "descripcion": "SocialPostGen es una plataforma en la que los usuarios pueden generar contenido visual atractivo para sus publicaciones en redes sociales de manera rápida y fácil, utilizando plantillas personalizables y un asistente de inteligencia artificial que sugiere temas y tendencias relevantes para su industria.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-18T01:34:16.252068"
     }
   ],
   "nombres_usados": [
-    "DataSense for SMEs",
     "ProyecTIC",
     "SocialPro",
     "PymeAnalytics",
@@ -8001,6 +8000,7 @@
     "EasyBrand",
     "TaskOptimizer",
     "Mindful Productivity",
-    "StreamGenie"
+    "StreamGenie",
+    "SocialPostGen"
   ]
 }
