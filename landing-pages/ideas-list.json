@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260518013416",
+    "nombre": "SocialPostGen",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de redes sociales que automatiza la creación y programación de contenido visual específico para PYMEs....",
+    "score": 75,
+    "landing_url": "IDEA-20260518013416.html"
+  },
+  {
     "id": "IDEA-20260517234009",
     "nombre": "StreamGenie",
     "tipo": "SaaS",

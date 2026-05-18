@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ProyecTIC",
-      "descripcion": "ProyecTIC es una herramienta de gestión de proyectos diseñada para pequeñas y medianas empresas que busca facilitar la colaboración y mejorar la eficiencia. Con un enfoque en la simplicidad y la asequibilidad, ProyecTIC permite a los equipos gestionar tareas, comunicarse y colaborar sin complicaciones.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-13T06:13:12.509152"
-    },
-    {
       "nombre": "SocialPro",
       "descripcion": "SocialPro permite a las PYMES crear, programar y analizar contenido en múltiples plataformas sociales desde un solo lugar, utilizando plantillas personalizables que se adaptan a su sector. Con herramientas de automatización y análisis de rendimiento, las empresas pueden optimizar su estrategia en redes sociales sin necesidad de experiencia previa.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-18T01:34:16.252068"
+    },
+    {
+      "nombre": "TaskAI",
+      "descripcion": "TaskAI ayuda a equipos y profesionales a gestionar sus proyectos de manera más eficiente mediante la automatización de la priorización y la asignación de tareas utilizando algoritmos de inteligencia artificial. La plataforma también ofrece herramientas de seguimiento del tiempo, colaboración en tiempo real y análisis de rendimiento.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-18T05:55:45.972658"
     }
   ],
   "nombres_usados": [
-    "ProyecTIC",
     "SocialPro",
     "PymeAnalytics",
     "SocialBee Manager",
@@ -8001,6 +8000,7 @@
     "TaskOptimizer",
     "Mindful Productivity",
     "StreamGenie",
-    "SocialPostGen"
+    "SocialPostGen",
+    "TaskAI"
   ]
 }
