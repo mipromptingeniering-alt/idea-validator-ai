@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260519175759",
+    "nombre": "EcoInsights",
+    "tipo": "SaaS",
+    "resumen": "Plataforma que proporciona análisis de sostenibilidad en tiempo real para consumidores y pequeñas empresas, ofreciendo datos y recomendaciones persona...",
+    "score": 75,
+    "landing_url": "IDEA-20260519175759.html"
+  },
+  {
     "id": "IDEA-20260519121427",
     "nombre": "ProjectEase",
     "tipo": "SaaS",

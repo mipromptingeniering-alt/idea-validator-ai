@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TherapyTrack",
-      "descripcion": "TherapyTrack es un sistema de gestión diseñado específicamente para psicólogos y terapeutas, que permite llevar un control exhaustivo de las sesiones, objetivos del paciente, y resultados en un entorno seguro y privado. Incluye recordatorios automáticos de citas, informes de progreso y herramientas de análisis.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-13T17:57:38.539114"
-    },
-    {
       "nombre": "WellTeam",
       "descripcion": "WellTeam permite a los equipos remotos gestionar su tiempo de manera efectiva mientras participan en actividades gamificadas que fomentan la cohesión del grupo. Los usuarios pueden establecer objetivos, participar en desafíos y recibir recompensas virtuales, todo mientras monitorizan su productividad y bienestar.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-19T17:57:59.908881"
+    },
+    {
+      "nombre": "KidActivity Hub",
+      "descripcion": "KidActivity Hub ofrece una variedad de actividades extracurriculares en línea, desde cursos de arte hasta clases de ciencias, con recomendaciones personalizadas. Los padres pueden filtrar las opciones por edad, interés y nivel de habilidad, y también cuentan con un sistema de evaluación basado en la experiencia de otros usuarios.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-19T21:12:40.037124"
     }
   ],
   "nombres_usados": [
-    "TherapyTrack",
     "WellTeam",
     "WebPymes",
     "CoLab Connect",
@@ -8001,6 +8000,7 @@
     "TeamBoost",
     "TaskEase",
     "ProjectEase",
-    "EcoInsights"
+    "EcoInsights",
+    "KidActivity Hub"
   ]
 }
