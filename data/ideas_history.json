@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "WellTeam",
-      "descripcion": "WellTeam permite a los equipos remotos gestionar su tiempo de manera efectiva mientras participan en actividades gamificadas que fomentan la cohesión del grupo. Los usuarios pueden establecer objetivos, participar en desafíos y recibir recompensas virtuales, todo mientras monitorizan su productividad y bienestar.",
-      "tipo": "SaaS",
-      "score": 72,
-      "fecha": "2026-03-13T18:39:15.246353"
-    },
-    {
       "nombre": "WebPymes",
       "descripcion": "WebPymes es una herramienta que permite a pequeños y medianos negocios crear un perfil digital optimizado para SEO, incluyendo sitios web básicos, listas de negocios y gestión de redes sociales, todo en una sola plataforma fácil de usar.",
       "tipo": "MicroSaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-19T21:12:40.037124"
+    },
+    {
+      "nombre": "ClientManager Lite",
+      "descripcion": "ClientManager Lite es una herramienta de gestión de relaciones con los clientes que permite a las PYMEs organizar, automatizar y analizar sus interacciones con los clientes. Incluye funcionalidades básicas como seguimiento de contactos, automatización de correos electrónicos y generación de reportes sencillos, todo en una interfaz intuitiva.",
+      "tipo": "MicroSaaS",
+      "score": 68,
+      "fecha": "2026-05-19T22:38:27.203173"
     }
   ],
   "nombres_usados": [
-    "WellTeam",
     "WebPymes",
     "CoLab Connect",
     "Productivity Plus",
@@ -8001,6 +8000,7 @@
     "TaskEase",
     "ProjectEase",
     "EcoInsights",
-    "KidActivity Hub"
+    "KidActivity Hub",
+    "ClientManager Lite"
   ]
 }
