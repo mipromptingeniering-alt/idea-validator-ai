@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260519013615",
+    "nombre": "TeamBoost",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de colaboración gamificada para equipos remotos que mejora la comunicación y la productividad....",
+    "score": 75,
+    "landing_url": "IDEA-20260519013615.html"
+  },
+  {
     "id": "IDEA-20260518234407",
     "nombre": "SocialMGR",
     "tipo": "SaaS",

@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "WorkConnect",
-      "descripcion": "WorkConnect es una plataforma diseñada para fomentar la interacción social entre trabajadores remotos a través de actividades gamificadas, salas virtuales para brainstorming, y herramientas de colaboración en tiempo real. La plataforma busca mitigar los efectos del aislamiento social y mejorar la cohesión del equipo.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-13T15:10:47.695929"
-    },
-    {
       "nombre": "EmprendeControl",
       "descripcion": "EmprendeControl ofrece una interfaz sencilla donde los usuarios pueden gestionar sus proyectos, realizar un seguimiento de sus finanzas y acceder a recursos educativos para mejorar su rendimiento empresarial.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-19T01:36:15.491608"
+    },
+    {
+      "nombre": "TaskEase",
+      "descripcion": "TaskEase permite a los usuarios gestionar proyectos, asignar tareas, establecer plazos y realizar un seguimiento del progreso en un tablero intuitivo y fácil de usar. Además, ofrece plantillas adaptables a diferentes industrias.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-05-19T09:00:00.016311"
     }
   ],
   "nombres_usados": [
-    "WorkConnect",
     "EmprendeControl",
     "CollabAI",
     "TherapyTrack",
@@ -8001,6 +8000,7 @@
     "CreaPaga",
     "PymeMktPro",
     "SocialMGR",
-    "TeamBoost"
+    "TeamBoost",
+    "TaskEase"
   ]
 }
