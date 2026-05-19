@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "EmprendeControl",
-      "descripcion": "EmprendeControl ofrece una interfaz sencilla donde los usuarios pueden gestionar sus proyectos, realizar un seguimiento de sus finanzas y acceder a recursos educativos para mejorar su rendimiento empresarial.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-13T15:57:10.468179"
-    },
-    {
       "nombre": "CollabAI",
       "descripcion": "CollabAI es una herramienta de gestión de proyectos diseñada específicamente para equipos remotos. La plataforma ofrece funcionalidades de planificación, seguimiento de tareas, y análisis de rendimiento, todo potenciado por inteligencia artificial que sugiere mejoras y optimizaciones en flujos de trabajo basados en datos históricos y comportamiento del equipo.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-19T09:00:00.016311"
+    },
+    {
+      "nombre": "ProjectEase",
+      "descripcion": "ProjectEase es una herramienta de gestión de proyectos en línea que permite a las PYMEs planificar y monitorizar proyectos de manera sencilla. Con características como gestión de tareas, calendarios compartidos, y reportes de progreso, facilita la colaboración del equipo y mejora la productividad. Además, ofrece recursos educativos y soporte dedicado para maximizar el uso de la plataforma.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-19T12:14:27.841585"
     }
   ],
   "nombres_usados": [
-    "EmprendeControl",
     "CollabAI",
     "TherapyTrack",
     "WellTeam",
@@ -8001,6 +8000,7 @@
     "PymeMktPro",
     "SocialMGR",
     "TeamBoost",
-    "TaskEase"
+    "TaskEase",
+    "ProjectEase"
   ]
 }

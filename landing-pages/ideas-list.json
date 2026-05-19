@@ -9912,6 +9912,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260519085959",
+    "nombre": "TaskEase",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de proyectos y tareas sencilla y personalizable dirigida a freelancers y pequeñas empresas....",
+    "score": 70,
+    "landing_url": "IDEA-20260519085959.html"
+  },
+  {
     "id": "IDEA-20260518201025",
     "nombre": "CreaPaga",
     "tipo": "SaaS",
