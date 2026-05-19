@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260518234407",
+    "nombre": "SocialMGR",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de redes sociales diseñada específicamente para pequeñas y medianas empresas, que utiliza IA para generar contenido y planif...",
+    "score": 75,
+    "landing_url": "IDEA-20260518234407.html"
+  },
+  {
     "id": "IDEA-20260518223703",
     "nombre": "PymeMktPro",
     "tipo": "SaaS",

@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "WellnessHub",
-      "descripcion": "WellnessHub ofrece a las empresas una suite de herramientas para monitorear y mejorar el bienestar de sus empleados, incluyendo programas de formación en salud mental, evaluaciones periódicas, y recursos personalizados. La plataforma permite a los empleados acceder a ejercicios de mindfulness, terapia en línea y coaching, mientras que los líderes pueden obtener informes sobre el estado general del bienestar en la organización.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-13T14:29:52.895674"
-    },
-    {
       "nombre": "WorkConnect",
       "descripcion": "WorkConnect es una plataforma diseñada para fomentar la interacción social entre trabajadores remotos a través de actividades gamificadas, salas virtuales para brainstorming, y herramientas de colaboración en tiempo real. La plataforma busca mitigar los efectos del aislamiento social y mejorar la cohesión del equipo.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-18T23:44:08.054670"
+    },
+    {
+      "nombre": "TeamBoost",
+      "descripcion": "TeamBoost es una herramienta que combina funciones de chat, videoconferencia y gestión de tareas en un entorno gamificado. Los usuarios ganan puntos y recompensas al completar tareas, participar en reuniones y colaborar en proyectos, lo que fomenta una mayor interacción y compromiso entre los miembros del equipo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-19T01:36:15.491608"
     }
   ],
   "nombres_usados": [
-    "WellnessHub",
     "WorkConnect",
     "EmprendeControl",
     "CollabAI",
@@ -8001,6 +8000,7 @@
     "TimeProject",
     "CreaPaga",
     "PymeMktPro",
-    "SocialMGR"
+    "SocialMGR",
+    "TeamBoost"
   ]
 }
