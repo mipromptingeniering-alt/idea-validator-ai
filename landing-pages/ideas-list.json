@@ -9960,6 +9960,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260520181045",
+    "nombre": "Designify",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que permite a las PYMEs crear contenido visual atractivo mediante plantillas personalizables y una interfaz fácil de usar....",
+    "score": 70,
+    "landing_url": "IDEA-20260520181045.html"
+  },
+  {
     "id": "IDEA-20260519085959",
     "nombre": "TaskEase",
     "tipo": "SaaS",

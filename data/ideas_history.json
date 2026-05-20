@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MentalManage",
-      "descripcion": "MentalManage es una herramienta integral que permite a terapeutas y psicólogos gestionar sus citas, llevar un seguimiento del progreso de los pacientes y comunicarse de forma segura, todo en un solo lugar.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-13T22:33:24.571053"
-    },
-    {
       "nombre": "BrandBuilder AI",
       "descripcion": "BrandBuilder AI ofrece herramientas de creación de contenido, plantillas personalizables y sugerencias de contenido generadas por inteligencia artificial, todo en un solo lugar para ayudar a las pequeñas empresas a construir su marca en línea efectivamente.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-20T18:10:45.480849"
+    },
+    {
+      "nombre": "Pymedia",
+      "descripcion": "Pymedia es un software como servicio diseñado especialmente para pequeñas y medianas empresas que buscan optimizar su presencia en redes sociales. Con Pymedia, las PYMEs pueden programar publicaciones, analizar el engagement y recibir recomendaciones personalizadas para mejorar su estrategia de marketing digital.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-20T20:29:38.738171"
     }
   ],
   "nombres_usados": [
-    "MentalManage",
     "BrandBuilder AI",
     "KanbanFreelance",
     "AutoMarketer",
@@ -8001,6 +8000,7 @@
     "SocioRedes",
     "SmartStudy Planner",
     "AgileFlow",
-    "Designify"
+    "Designify",
+    "Pymedia"
   ]
 }
