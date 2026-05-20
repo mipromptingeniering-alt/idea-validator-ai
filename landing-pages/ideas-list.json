@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260520202938",
+    "nombre": "Pymedia",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que permite a las PYMEs gestionar sus redes sociales de manera eficiente, con herramientas de automatización y análisis específico....",
+    "score": 75,
+    "landing_url": "IDEA-20260520202938.html"
+  },
+  {
     "id": "IDEA-20260520121049",
     "nombre": "AgileFlow",
     "tipo": "SaaS",

@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "BrandBuilder AI",
-      "descripcion": "BrandBuilder AI ofrece herramientas de creación de contenido, plantillas personalizables y sugerencias de contenido generadas por inteligencia artificial, todo en un solo lugar para ayudar a las pequeñas empresas a construir su marca en línea efectivamente.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-13T23:00:22.997135"
-    },
-    {
       "nombre": "KanbanFreelance",
       "descripcion": "KanbanFreelance permite a los freelancers gestionar sus proyectos usando tableros Kanban, establecer y seguir plazos, calcular su tiempo de trabajo y registrar ingresos de manera intuitiva, mejorando así su productividad y organización financiera.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-20T20:29:38.738171"
+    },
+    {
+      "nombre": "WorkSmart",
+      "descripcion": "WorkSmart es una herramienta SaaS que proporciona a las pequeñas y medianas empresas un enfoque integral para la gestión de proyectos y la colaboración de equipos. Con funciones de planificación, asignación de tareas, comunicación en tiempo real y reportes de progreso, permite a los equipos trabajar de manera más eficiente y efectiva.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-20T22:11:56.338350"
     }
   ],
   "nombres_usados": [
-    "BrandBuilder AI",
     "KanbanFreelance",
     "AutoMarketer",
     "SocialAI Assistant",
@@ -8001,6 +8000,7 @@
     "SmartStudy Planner",
     "AgileFlow",
     "Designify",
-    "Pymedia"
+    "Pymedia",
+    "WorkSmart"
   ]
 }
