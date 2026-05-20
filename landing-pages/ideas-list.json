@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260520121049",
+    "nombre": "AgileFlow",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que permite a los equipos remotos gestionar sus proyectos de forma ágil, personalizando flujos de trabajo y metodologías....",
+    "score": 75,
+    "landing_url": "IDEA-20260520121049.html"
+  },
+  {
     "id": "IDEA-20260520093915",
     "nombre": "SmartStudy Planner",
     "tipo": "SaaS",

@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "CuidaTuMente",
-      "descripcion": "CuidaTuMente es una aplicación web y móvil diseñada para apoyar a los cuidadores de personas mayores o con discapacidad. Ofrecemos una biblioteca de recursos de autocuidado, acceso a una comunidad de apoyo y herramientas para gestionar el tiempo y la carga emocional. Los usuarios pueden encontrar tips, meditación, foros de discusión y planes de autocuidado personalizados.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-13T20:59:23.411041"
-    },
-    {
       "nombre": "MentalManage",
       "descripcion": "MentalManage es una herramienta integral que permite a terapeutas y psicólogos gestionar sus citas, llevar un seguimiento del progreso de los pacientes y comunicarse de forma segura, todo en un solo lugar.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-20T12:10:49.489608"
+    },
+    {
+      "nombre": "Designify",
+      "descripcion": "Designify es una herramienta en línea que ofrece plantillas de diseño gráfico adaptadas a diferentes sectores, facilitando a las pequeñas y medianas empresas la creación de materiales visuales profesionales para sus redes sociales, sitios web y campañas de marketing. Con una interfaz intuitiva, los usuarios podrán arrastrar y soltar elementos, editar texto y personalizar colores y fuentes para reflejar su marca.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-05-20T18:10:45.480849"
     }
   ],
   "nombres_usados": [
-    "CuidaTuMente",
     "MentalManage",
     "BrandBuilder AI",
     "KanbanFreelance",
@@ -8001,6 +8000,7 @@
     "ClientManager Lite",
     "SocioRedes",
     "SmartStudy Planner",
-    "AgileFlow"
+    "AgileFlow",
+    "Designify"
   ]
 }
