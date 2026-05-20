@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Productivity Plus",
-      "descripcion": "Productivity Plus ayudará a trabajadores remotos y freelancers a gestionar su tiempo y tareas de manera más eficiente, ofreciendo análisis en tiempo real y recomendaciones personalizadas para mejorar la productividad. Los usuarios podrán integrar otras herramientas que ya utilizan, como calendarios y aplicaciones de gestión de tareas, en un solo espacio, generando informes de rendimiento y optimizando su flujo de trabajo.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-13T20:24:59.837198"
-    },
-    {
       "nombre": "CuidaTuMente",
       "descripcion": "CuidaTuMente es una aplicación web y móvil diseñada para apoyar a los cuidadores de personas mayores o con discapacidad. Ofrecemos una biblioteca de recursos de autocuidado, acceso a una comunidad de apoyo y herramientas para gestionar el tiempo y la carga emocional. Los usuarios pueden encontrar tips, meditación, foros de discusión y planes de autocuidado personalizados.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-20T09:39:15.337758"
+    },
+    {
+      "nombre": "AgileFlow",
+      "descripcion": "AgileFlow es una herramienta SaaS diseñada para equipos remotos que buscan optimizar su gestión de proyectos. Ofrece la posibilidad de adaptar y personalizar flujos de trabajo para diferentes metodologías ágiles, facilitando la colaboración en tiempo real y la visualización del progreso del proyecto.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-20T12:10:49.489608"
     }
   ],
   "nombres_usados": [
-    "Productivity Plus",
     "CuidaTuMente",
     "MentalManage",
     "BrandBuilder AI",
@@ -8001,6 +8000,7 @@
     "KidActivity Hub",
     "ClientManager Lite",
     "SocioRedes",
-    "SmartStudy Planner"
+    "SmartStudy Planner",
+    "AgileFlow"
   ]
 }

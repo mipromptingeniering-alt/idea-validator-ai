@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260520093915",
+    "nombre": "SmartStudy Planner",
+    "tipo": "SaaS",
+    "resumen": "Una aplicación que combina la gestión del tiempo con técnicas de productividad y bienestar para estudiantes universitarios....",
+    "score": 75,
+    "landing_url": "IDEA-20260520093915.html"
+  },
+  {
     "id": "IDEA-20260520055925",
     "nombre": "SocioRedes",
     "tipo": "SaaS",
