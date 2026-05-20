@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "CoLab Connect",
-      "descripcion": "CoLab Connect es una plataforma que combina elementos de gamificación con herramientas de colaboración, permitiendo a los empleados participar en desafíos, juegos y actividades que fomenten el trabajo en equipo y la creación de relaciones en un entorno remoto.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-13T19:53:53.518137"
-    },
-    {
       "nombre": "Productivity Plus",
       "descripcion": "Productivity Plus ayudará a trabajadores remotos y freelancers a gestionar su tiempo y tareas de manera más eficiente, ofreciendo análisis en tiempo real y recomendaciones personalizadas para mejorar la productividad. Los usuarios podrán integrar otras herramientas que ya utilizan, como calendarios y aplicaciones de gestión de tareas, en un solo espacio, generando informes de rendimiento y optimizando su flujo de trabajo.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-20T05:59:25.733409"
+    },
+    {
+      "nombre": "SmartStudy Planner",
+      "descripcion": "SmartStudy Planner es una plataforma que ayuda a los estudiantes a gestionar su tiempo de manera efectiva, integrando recordatorios, planificación de tareas y técnicas de productividad que fomentan el bienestar mental. Ofrecemos un enfoque holístico hacia la productividad personal y el logro académico.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-20T09:39:15.337758"
     }
   ],
   "nombres_usados": [
-    "CoLab Connect",
     "Productivity Plus",
     "CuidaTuMente",
     "MentalManage",
@@ -8001,6 +8000,7 @@
     "EcoInsights",
     "KidActivity Hub",
     "ClientManager Lite",
-    "SocioRedes"
+    "SocioRedes",
+    "SmartStudy Planner"
   ]
 }

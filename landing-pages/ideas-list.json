@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260520055925",
+    "nombre": "SocioRedes",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de redes sociales diseñada específicamente para pequeñas empresas y emprendedores....",
+    "score": 75,
+    "landing_url": "IDEA-20260520055925.html"
+  },
+  {
     "id": "IDEA-20260519211239",
     "nombre": "KidActivity Hub",
     "tipo": "SaaS",
