@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialBuzz",
-      "descripcion": "SocialBuzz permite a los pequeños emprendedores gestionar sus redes sociales de manera integral. La plataforma utiliza inteligencia artificial para crear contenido adaptado a la audiencia del usuario, programar publicaciones en múltiples redes y proporcionar análisis de rendimiento, todo desde un solo lugar.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-14T04:19:14.736523"
-    },
-    {
       "nombre": "ProyEasy",
       "descripcion": "ProyEasy es una herramienta de gestión de proyectos diseñada para pequeñas y medianas empresas que buscan una solución accesible y fácil de usar. Con funciones que incluyen la planificación de tareas, seguimiento de tiempo, y comunicación del equipo, ProyEasy permite a las empresas gestionar sus proyectos de manera eficiente y colaborativa.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-21T08:58:09.064623"
+    },
+    {
+      "nombre": "SocioSocial",
+      "descripcion": "SocioSocial permite a las PYMEs programar publicaciones, recibir sugerencias de contenido basadas en eventos locales y analizar el rendimiento de su presencia en redes sociales. Se enfoca en simplificar el proceso de marketing digital para que las pequeñas empresas puedan concentrarse en su actividad principal.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-21T15:51:27.872579"
     }
   ],
   "nombres_usados": [
-    "SocialBuzz",
     "ProyEasy",
     "WellnessWorkspace",
     "Contabilidad Fácil",
@@ -8001,6 +8000,7 @@
     "WorkSmart",
     "DataSmart PYMES",
     "FinanzApp",
-    "Financiero Autónomo"
+    "Financiero Autónomo",
+    "SocioSocial"
   ]
 }

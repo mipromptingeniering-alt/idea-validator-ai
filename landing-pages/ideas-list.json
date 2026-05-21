@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260521085808",
+    "nombre": "Financiero Autónomo",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión financiera diseñada para autónomos y pequeñas empresas, que permite un seguimiento fácil y accesible de ingresos, gastos e i...",
+    "score": 75,
+    "landing_url": "IDEA-20260521085808.html"
+  },
+  {
     "id": "IDEA-20260521013325",
     "nombre": "DataSmart PYMES",
     "tipo": "SaaS",
