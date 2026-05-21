@@ -9984,6 +9984,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260521055229",
+    "nombre": "FinanzApp",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta financiera fácil de usar que permite a freelance y pequeñas empresas llevar un control claro de sus ingresos y gastos....",
+    "score": 70,
+    "landing_url": "IDEA-20260521055229.html"
+  },
+  {
     "id": "IDEA-20260520181045",
     "nombre": "Designify",
     "tipo": "SaaS",
