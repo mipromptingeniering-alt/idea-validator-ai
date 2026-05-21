@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260520221156",
+    "nombre": "WorkSmart",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma todo-en-uno diseñada para ayudar a las PYMES a gestionar su flujo de trabajo de manera eficiente, integrando comunicación, gestión de p...",
+    "score": 75,
+    "landing_url": "IDEA-20260520221156.html"
+  },
+  {
     "id": "IDEA-20260520202938",
     "nombre": "Pymedia",
     "tipo": "SaaS",

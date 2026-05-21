@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "KanbanFreelance",
-      "descripcion": "KanbanFreelance permite a los freelancers gestionar sus proyectos usando tableros Kanban, establecer y seguir plazos, calcular su tiempo de trabajo y registrar ingresos de manera intuitiva, mejorando así su productividad y organización financiera.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-13T23:33:08.378524"
-    },
-    {
       "nombre": "AutoMarketer",
       "descripcion": "AutoMarketer es un servicio SaaS que permite a las pequeñas empresas gestionar sus campañas de marketing digital de manera automatizada y personalizada. La plataforma utiliza inteligencia artificial para ofrecer recomendaciones sobre qué tipo de contenido crear, cuándo publicarlo y cómo optimizar anuncios en redes sociales.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-20T22:11:56.338350"
+    },
+    {
+      "nombre": "DataSmart PYMES",
+      "descripcion": "DataSmart PYMES ofrece herramientas de análisis y visualización de datos que permiten a los propietarios de pequeñas empresas analizar sus datos de ventas, marketing y operaciones sin necesidad de conocimientos previos en análisis de datos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-21T01:33:25.543899"
     }
   ],
   "nombres_usados": [
-    "KanbanFreelance",
     "AutoMarketer",
     "SocialAI Assistant",
     "SocialBuzz",
@@ -8001,6 +8000,7 @@
     "AgileFlow",
     "Designify",
     "Pymedia",
-    "WorkSmart"
+    "WorkSmart",
+    "DataSmart PYMES"
   ]
 }
