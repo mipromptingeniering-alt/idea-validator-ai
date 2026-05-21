@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260521175113",
+    "nombre": "Emprendify",
+    "tipo": "SaaS",
+    "resumen": "Plataforma integral para emprendedores que facilita la creación, gestión y optimización de su presencia online....",
+    "score": 75,
+    "landing_url": "IDEA-20260521175113.html"
+  },
+  {
     "id": "IDEA-20260521155127",
     "nombre": "SocioSocial",
     "tipo": "SaaS",

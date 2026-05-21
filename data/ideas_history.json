@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "WellnessWorkspace",
-      "descripcion": "WellnessWorkspace es una plataforma SaaS que ayuda a los trabajadores remotos a mejorar su productividad mientras cuida su bienestar mental y físico. La herramienta ofrece funciones como planificación de tareas, sesiones de meditación guiada, recordatorios de descanso y ejercicio, y análisis de productividad.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-14T06:06:32.742678"
-    },
-    {
       "nombre": "Contabilidad Fácil",
       "descripcion": "Contabilidad Fácil es una herramienta SaaS que permite a los emprendedores gestionar sus finanzas desde cualquier lugar. Ofrece características como automatización de facturación, seguimiento de gastos, informes financieros sencillos y recordatorios de pago, todo en una interfaz fácil de usar.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-21T17:51:13.467275"
+    },
+    {
+      "nombre": "Financify",
+      "descripcion": "Financify es una herramienta SaaS que permite a freelancers y pequeños empresarios gestionar sus finanzas diarias, integrando el seguimiento de ingresos y gastos, pronósticos de flujo de caja y consejos personalizados para mejorar la salud financiera.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-21T19:44:23.494604"
     }
   ],
   "nombres_usados": [
-    "WellnessWorkspace",
     "Contabilidad Fácil",
     "MetricsMate",
     "EmprendeSmart",
@@ -8001,6 +8000,7 @@
     "FinanzApp",
     "Financiero Autónomo",
     "SocioSocial",
-    "Emprendify"
+    "Emprendify",
+    "Financify"
   ]
 }
