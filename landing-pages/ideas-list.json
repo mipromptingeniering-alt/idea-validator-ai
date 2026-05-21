@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260521013325",
+    "nombre": "DataSmart PYMES",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de análisis de datos diseñada específicamente para PYMES que permite tomar decisiones informadas con facilidad....",
+    "score": 75,
+    "landing_url": "IDEA-20260521013325.html"
+  },
+  {
     "id": "IDEA-20260520221156",
     "nombre": "WorkSmart",
     "tipo": "SaaS",
