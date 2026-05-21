@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Contabilidad Fácil",
-      "descripcion": "Contabilidad Fácil es una herramienta SaaS que permite a los emprendedores gestionar sus finanzas desde cualquier lugar. Ofrece características como automatización de facturación, seguimiento de gastos, informes financieros sencillos y recordatorios de pago, todo en una interfaz fácil de usar.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-14T07:05:08.176327"
-    },
-    {
       "nombre": "MetricsMate",
       "descripcion": "MetricsMate permite a los usuarios conectar sus cuentas de redes sociales, plataformas de publicidad y herramientas de análisis web para visualizar todas sus métricas en un único lugar. Con características avanzadas de inteligencia artificial, la herramienta ofrece insights sobre qué estrategias están funcionando y cuáles no, junto con recomendaciones proactivas para mejorar el rendimiento.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-21T19:44:23.494604"
+    },
+    {
+      "nombre": "SocialEasy for SMEs",
+      "descripcion": "SocialEasy for SMEs es una herramienta que permite a las pequeñas y medianas empresas gestionar sus cuentas de redes sociales desde una sola plataforma. Los usuarios pueden programar publicaciones, analizar el rendimiento de sus contenidos y recibir recomendaciones personalizadas, todo adaptado a sus necesidades y presupuesto.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-05-21T21:18:03.384192"
     }
   ],
   "nombres_usados": [
-    "Contabilidad Fácil",
     "MetricsMate",
     "EmprendeSmart",
     "MindSphere",
@@ -8001,6 +8000,7 @@
     "Financiero Autónomo",
     "SocioSocial",
     "Emprendify",
-    "Financify"
+    "Financify",
+    "SocialEasy for SMEs"
   ]
 }

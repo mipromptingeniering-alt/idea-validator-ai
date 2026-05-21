@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260521194423",
+    "nombre": "Financify",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de gestión financiera para freelancers y pequeños empresarios....",
+    "score": 75,
+    "landing_url": "IDEA-20260521194423.html"
+  },
+  {
     "id": "IDEA-20260521175113",
     "nombre": "Emprendify",
     "tipo": "SaaS",
