@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ProyEasy",
-      "descripcion": "ProyEasy es una herramienta de gestión de proyectos diseñada para pequeñas y medianas empresas que buscan una solución accesible y fácil de usar. Con funciones que incluyen la planificación de tareas, seguimiento de tiempo, y comunicación del equipo, ProyEasy permite a las empresas gestionar sus proyectos de manera eficiente y colaborativa.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-14T05:29:18.833936"
-    },
-    {
       "nombre": "WellnessWorkspace",
       "descripcion": "WellnessWorkspace es una plataforma SaaS que ayuda a los trabajadores remotos a mejorar su productividad mientras cuida su bienestar mental y físico. La herramienta ofrece funciones como planificación de tareas, sesiones de meditación guiada, recordatorios de descanso y ejercicio, y análisis de productividad.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-21T15:51:27.872579"
+    },
+    {
+      "nombre": "Emprendify",
+      "descripcion": "Emprendify es una solución SaaS que permite a los emprendedores crear su sitio web y gestionar sus campañas de marketing digital de forma sencilla. Incluye herramientas de diseño web, email marketing, gestión de redes sociales y análisis de datos, todo en una única plataforma fácil de usar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-21T17:51:13.467275"
     }
   ],
   "nombres_usados": [
-    "ProyEasy",
     "WellnessWorkspace",
     "Contabilidad Fácil",
     "MetricsMate",
@@ -8001,6 +8000,7 @@
     "DataSmart PYMES",
     "FinanzApp",
     "Financiero Autónomo",
-    "SocioSocial"
+    "SocioSocial",
+    "Emprendify"
   ]
 }
