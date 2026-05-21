@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MetricsMate",
-      "descripcion": "MetricsMate permite a los usuarios conectar sus cuentas de redes sociales, plataformas de publicidad y herramientas de análisis web para visualizar todas sus métricas en un único lugar. Con características avanzadas de inteligencia artificial, la herramienta ofrece insights sobre qué estrategias están funcionando y cuáles no, junto con recomendaciones proactivas para mejorar el rendimiento.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-14T07:48:55.677182"
-    },
-    {
       "nombre": "EmprendeSmart",
       "descripcion": "EmprendeSmart es una plataforma que proporciona cursos interactivos y recursos prácticos diseñados específicamente para emprendedores digitales. Los usuarios pueden acceder a plantillas, herramientas y guías paso a paso que les ayudarán a aplicar lo aprendido de forma inmediata en sus proyectos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-21T21:18:03.384192"
+    },
+    {
+      "nombre": "SocialContentWizard",
+      "descripcion": "SocialContentWizard utiliza inteligencia artificial para analizar comentarios y reseñas de clientes en múltiples plataformas y generar publicaciones atractivas para redes sociales. Ideal para PYMEs que buscan mejorar su presencia digital sin necesidad de un experto en marketing.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-05-21T22:47:13.630014"
     }
   ],
   "nombres_usados": [
-    "MetricsMate",
     "EmprendeSmart",
     "MindSphere",
     "MarketHub",
@@ -8001,6 +8000,7 @@
     "SocioSocial",
     "Emprendify",
     "Financify",
-    "SocialEasy for SMEs"
+    "SocialEasy for SMEs",
+    "SocialContentWizard"
   ]
 }
