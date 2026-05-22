@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MindSphere",
-      "descripcion": "MindSphere es una aplicación que permite a los usuarios gestionar su salud mental mediante el acceso a terapia en línea, herramientas de autoayuda, seguimiento del estado emocional y comunidades de apoyo. Los usuarios pueden programar sesiones con terapeutas certificados, acceder a contenido educativo sobre salud mental y participar en grupos de apoyo según sus intereses y necesidades.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-14T08:58:15.732924"
-    },
-    {
       "nombre": "MarketHub",
       "descripcion": "MarketHub permite a los usuarios gestionar todas sus campañas de marketing digital desde un solo lugar, ofreciendo herramientas para la programación de publicaciones, análisis de rendimiento, y la automatización de tareas repetitivas. Esto mejora la eficiencia y ahorra tiempo a los profesionales del marketing.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-22T06:33:59.528900"
+    },
+    {
+      "nombre": "Subscriptor Fácil",
+      "descripcion": "Subscriptor Fácil permitirá a los creadores configurar suscripciones, gestionar pagos, crear contenido exclusivo y comunicarse directamente con sus suscriptores, todo en una interfaz intuitiva y fácil de usar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-22T15:28:41.485402"
     }
   ],
   "nombres_usados": [
-    "MindSphere",
     "MarketHub",
     "ContentPilot",
     "ContabSimple",
@@ -8001,6 +8000,7 @@
     "Financify",
     "SocialEasy for SMEs",
     "SocialContentWizard",
-    "SubscriptorPlus"
+    "SubscriptorPlus",
+    "Subscriptor Fácil"
   ]
 }
