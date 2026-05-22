@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "EmprendeSmart",
-      "descripcion": "EmprendeSmart es una plataforma que proporciona cursos interactivos y recursos prácticos diseñados específicamente para emprendedores digitales. Los usuarios pueden acceder a plantillas, herramientas y guías paso a paso que les ayudarán a aplicar lo aprendido de forma inmediata en sus proyectos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-14T08:35:34.654707"
-    },
-    {
       "nombre": "MindSphere",
       "descripcion": "MindSphere es una aplicación que permite a los usuarios gestionar su salud mental mediante el acceso a terapia en línea, herramientas de autoayuda, seguimiento del estado emocional y comunidades de apoyo. Los usuarios pueden programar sesiones con terapeutas certificados, acceder a contenido educativo sobre salud mental y participar en grupos de apoyo según sus intereses y necesidades.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-21T22:47:13.630014"
+    },
+    {
+      "nombre": "SubscriptorPlus",
+      "descripcion": "SubscriptorPlus permitirá a los creadores de contenido ofrecer niveles de suscripción, contenido exclusivo y herramientas de gamificación (recompensas y logros) para incentivar a los suscriptores a interactuar y permanecer suscritos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-22T06:33:59.528900"
     }
   ],
   "nombres_usados": [
-    "EmprendeSmart",
     "MindSphere",
     "MarketHub",
     "ContentPilot",
@@ -8001,6 +8000,7 @@
     "Emprendify",
     "Financify",
     "SocialEasy for SMEs",
-    "SocialContentWizard"
+    "SocialContentWizard",
+    "SubscriptorPlus"
   ]
 }

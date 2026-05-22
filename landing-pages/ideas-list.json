@@ -10016,6 +10016,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260521224713",
+    "nombre": "SocialContentWizard",
+    "tipo": "SaaS",
+    "resumen": "Herramienta que crea automáticamente contenido para redes sociales a partir de las interacciones con clientes....",
+    "score": 70,
+    "landing_url": "IDEA-20260521224713.html"
+  },
+  {
     "id": "IDEA-20260521211803",
     "nombre": "SocialEasy for SMEs",
     "tipo": "SaaS",
