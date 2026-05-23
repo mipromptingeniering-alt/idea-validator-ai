@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260523174141",
+    "nombre": "DataSync Hub",
+    "tipo": "SaaS",
+    "resumen": "Un hub de análisis de datos que centraliza métricas de múltiples plataformas de marketing en un solo lugar, permitiendo a los usuarios generar informe...",
+    "score": 75,
+    "landing_url": "IDEA-20260523174141.html"
+  },
+  {
     "id": "IDEA-20260523163045",
     "nombre": "Marketing Insight Hub",
     "tipo": "SaaS",

@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MenteClara",
-      "descripcion": "MenteClara es una plataforma digital que proporciona apoyo en salud mental a través de una interfaz fácil de usar. Los usuarios puede completar un breve cuestionario sobre sus emociones, preocupaciones y necesidades, y la plataforma les ofrecerá recursos específicos, como ejercicios de meditación, artículos relevantes y la conexión con profesionales de la salud mental cuando sea necesario.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-14T15:20:36.382178"
-    },
-    {
       "nombre": "WorkBalance",
       "descripcion": "WorkBalance es una plataforma que combina técnicas de gestión del tiempo, herramientas de seguimiento de tareas y consejos de bienestar, ayudando a los usuarios a aumentar su productividad mientras mantienen un equilibrio saludable en su vida diaria.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-23T17:41:41.531226"
+    },
+    {
+      "nombre": "DataSynth",
+      "descripcion": "DataSynth es una herramienta todo-en-uno que permite a los profesionales del marketing digital consolidar y analizar datos de múltiples plataformas (Google Analytics, Facebook Ads, Mailchimp, entre otros) en un dashboard intuitivo. Los usuarios pueden generar reportes personalizados y obtener insights en tiempo real para optimizar sus estrategias de marketing.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-05-23T18:42:58.251595"
     }
   ],
   "nombres_usados": [
-    "MenteClara",
     "WorkBalance",
     "TeamUp Gamify",
     "OptimizaPYME",
@@ -8001,6 +8000,7 @@
     "FácilConta",
     "CashFlow Simple",
     "Marketing Insight Hub",
-    "DataSync Hub"
+    "DataSync Hub",
+    "DataSynth"
   ]
 }
