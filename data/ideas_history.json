@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "WorkBalance",
-      "descripcion": "WorkBalance es una plataforma que combina técnicas de gestión del tiempo, herramientas de seguimiento de tareas y consejos de bienestar, ayudando a los usuarios a aumentar su productividad mientras mantienen un equilibrio saludable en su vida diaria.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-14T15:49:12.730473"
-    },
-    {
       "nombre": "TeamUp Gamify",
       "descripcion": "TeamUp Gamify es una aplicación que permite a los equipos remotos participar en desafíos y actividades que mejoran la cohesión del equipo y la motivación. A través de un sistema de puntos y recompensas, los empleados pueden completar tareas, interactuar entre sí y recibir reconocimiento por sus logros.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-23T18:42:58.251595"
+    },
+    {
+      "nombre": "TimeChampion",
+      "descripcion": "TimeChampion es una aplicación web que permite a los usuarios establecer objetivos diarios y semanales, gestionar tareas, y acumular puntos y recompensas a medida que cumplen con sus metas. Ofrece análisis de rendimiento y recomendaciones personalizadas basadas en el comportamiento del usuario para ayudarles a mejorar su gestión del tiempo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-23T20:39:30.365433"
     }
   ],
   "nombres_usados": [
-    "WorkBalance",
     "TeamUp Gamify",
     "OptimizaPYME",
     "ContableSencillo",
@@ -8001,6 +8000,7 @@
     "CashFlow Simple",
     "Marketing Insight Hub",
     "DataSync Hub",
-    "DataSynth"
+    "DataSynth",
+    "TimeChampion"
   ]
 }
