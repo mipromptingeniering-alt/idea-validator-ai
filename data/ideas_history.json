@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "OptimizaPYME",
-      "descripcion": "OptimizaPYME es una solución SaaS que permite a las PYMES gestionar su tiempo, recursos y tareas de manera eficiente. Integrando inteligencia artificial, la plataforma ofrece recomendaciones personalizadas para optimizar la carga de trabajo y reducir costos operativos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-14T17:49:32.273704"
-    },
-    {
       "nombre": "ContableSencillo",
       "descripcion": "ContableSencillo permite a las pequeñas y medianas empresas llevar su contabilidad de manera sencilla y efectiva, con funciones automáticas para mantener el flujo de caja organizado, emitir facturas, y generar reportes financieros básicos. Se obtiene una vista clara de la situación financiera en tiempo real y se pueden tomar decisiones informadas rápidamente.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-23T21:36:47.394124"
+    },
+    {
+      "nombre": "MentalTrack",
+      "descripcion": "MentalTrack permite a los terapeutas y psicólogos gestionar sus citas, llevar un registro del progreso de sus pacientes y almacenar notas de cada sesión de forma segura, asegurando que toda la información esté organizada y sea fácilmente accesible.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-23T22:35:57.583906"
     }
   ],
   "nombres_usados": [
-    "OptimizaPYME",
     "ContableSencillo",
     "SocialMinds",
     "AutonomPlus",
@@ -8001,6 +8000,7 @@
     "DataSync Hub",
     "DataSynth",
     "TimeChampion",
-    "TimeGenius"
+    "TimeGenius",
+    "MentalTrack"
   ]
 }

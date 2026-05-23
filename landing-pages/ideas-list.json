@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260523213647",
+    "nombre": "TimeGenius",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo que combina técnicas de neurociencia y gamificación para mejorar la productividad de profesionales y freelancers....",
+    "score": 75,
+    "landing_url": "IDEA-20260523213647.html"
+  },
+  {
     "id": "IDEA-20260523203930",
     "nombre": "TimeChampion",
     "tipo": "SaaS",
