@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260523001519",
+    "nombre": "MarketPulse",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de análisis y optimización de marketing digital diseñada para PYMEs....",
+    "score": 75,
+    "landing_url": "IDEA-20260523001519.html"
+  },
+  {
     "id": "IDEA-20260522152841",
     "nombre": "Subscriptor Fácil",
     "tipo": "SaaS",

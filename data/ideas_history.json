@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ContentPilot",
-      "descripcion": "ContentPilot ayuda a los creadores a optimizar su estrategia de contenido a través de un único panel de control que combina programación de publicaciones, generación de ideas mediante IA y análisis de rendimiento. La herramienta está diseñada para facilitar el flujo de trabajo de los creadores, permitiendo que se enfoquen en crear contenido atractivo en lugar de preocuparse por la logística.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-14T10:00:01.386622"
-    },
-    {
       "nombre": "ContabSimple",
       "descripcion": "ContabSimple ofrece una plataforma intuitiva que permite a los pequeños propietarios de negocios ingresar sus ingresos y gastos de forma sencilla, generando automáticamente informes financieros y ayudando con la preparación de impuestos. Además, se integra con plataformas populares como Shopify, WooCommerce y Stripe para simplificar la gestión financiera.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-23T00:15:20.005358"
+    },
+    {
+      "nombre": "TheraEase",
+      "descripcion": "TheraEase es una plataforma diseñada para facilitar la gestión de prácticas de salud mental. Ofrece un sistema de gestión de citas, facturación, seguimiento de la evolución de los pacientes y recursos educativos. La plataforma ayuda a los terapeutas a optimizar su tiempo, mejorar la atención al paciente y aumentar su rentabilidad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-23T06:44:09.178398"
     }
   ],
   "nombres_usados": [
-    "ContentPilot",
     "ContabSimple",
     "BizLink",
     "Creator Hub",
@@ -8001,6 +8000,7 @@
     "SocialContentWizard",
     "SubscriptorPlus",
     "Subscriptor Fácil",
-    "MarketPulse"
+    "MarketPulse",
+    "TheraEase"
   ]
 }
