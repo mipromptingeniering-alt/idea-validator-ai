@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FreelanceTaxPro",
-      "descripcion": "FreelanceTaxPro ayuda a los autónomos a gestionar sus impuestos, gastos y facturación desde una única plataforma. Ofrece recordatorios personalizados, informes de impuestos y una integración simplificada con los sistemas fiscales locales.",
-      "tipo": "SaaS",
-      "score": 72,
-      "fecha": "2026-03-14T12:32:21.892215"
-    },
-    {
       "nombre": "TimePlay",
       "descripcion": "TimePlay es una herramienta SaaS que permite a las PYMES gestionar el tiempo y las tareas de manera visual e interactiva. Los empleados pueden establecer metas, rastrear su progreso y competir amigablemente con sus compañeros para desbloquear recompensas, lo que fomenta un ambiente de trabajo más motivador y eficiente.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-23T12:41:28.135814"
+    },
+    {
+      "nombre": "Marketing Insight Hub",
+      "descripcion": "Marketing Insight Hub es una solución SaaS que permite a los usuarios conectar sus cuentas de marketing digital y recibir informes automáticos, análisis de rendimiento y recomendaciones basadas en datos. La herramienta está diseñada para emprendedores y pequeños negocios que desean optimizar sus campañas sin complicaciones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-23T16:30:45.541622"
     }
   ],
   "nombres_usados": [
-    "FreelanceTaxPro",
     "TimePlay",
     "MenteClara",
     "WorkBalance",
@@ -8001,6 +8000,7 @@
     "TheraEase",
     "FinTech PYMES",
     "FácilConta",
-    "CashFlow Simple"
+    "CashFlow Simple",
+    "Marketing Insight Hub"
   ]
 }

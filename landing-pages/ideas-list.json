@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260523124127",
+    "nombre": "CashFlow Simple",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de flujo de caja diseñada para PYMES, que permite monitorizar y optimizar el flujo de efectivo de forma sencilla....",
+    "score": 75,
+    "landing_url": "IDEA-20260523124127.html"
+  },
+  {
     "id": "IDEA-20260523113939",
     "nombre": "FácilConta",
     "tipo": "SaaS",
