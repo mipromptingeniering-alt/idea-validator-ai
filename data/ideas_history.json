@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MarketHub",
-      "descripcion": "MarketHub permite a los usuarios gestionar todas sus campañas de marketing digital desde un solo lugar, ofreciendo herramientas para la programación de publicaciones, análisis de rendimiento, y la automatización de tareas repetitivas. Esto mejora la eficiencia y ahorra tiempo a los profesionales del marketing.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-14T09:32:23.162954"
-    },
-    {
       "nombre": "ContentPilot",
       "descripcion": "ContentPilot ayuda a los creadores a optimizar su estrategia de contenido a través de un único panel de control que combina programación de publicaciones, generación de ideas mediante IA y análisis de rendimiento. La herramienta está diseñada para facilitar el flujo de trabajo de los creadores, permitiendo que se enfoquen en crear contenido atractivo en lugar de preocuparse por la logística.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-22T15:28:41.485402"
+    },
+    {
+      "nombre": "MarketPulse",
+      "descripcion": "MarketPulse proporciona a las pequeñas y medianas empresas insights en tiempo real sobre el rendimiento de sus campañas de marketing digital, junto con recomendaciones personalizadas para mejorar su eficacia y retorno de inversión.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-23T00:15:20.005358"
     }
   ],
   "nombres_usados": [
-    "MarketHub",
     "ContentPilot",
     "ContabSimple",
     "BizLink",
@@ -8001,6 +8000,7 @@
     "SocialEasy for SMEs",
     "SocialContentWizard",
     "SubscriptorPlus",
-    "Subscriptor Fácil"
+    "Subscriptor Fácil",
+    "MarketPulse"
   ]
 }
