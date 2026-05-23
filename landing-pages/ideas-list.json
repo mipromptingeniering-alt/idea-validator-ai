@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260523163045",
+    "nombre": "Marketing Insight Hub",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que unifica el rendimiento de campañas de marketing en múltiples canales, ofreciendo análisis en tiempo real y recomendaciones automati...",
+    "score": 75,
+    "landing_url": "IDEA-20260523163045.html"
+  },
+  {
     "id": "IDEA-20260523124127",
     "nombre": "CashFlow Simple",
     "tipo": "SaaS",

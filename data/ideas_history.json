@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TimePlay",
-      "descripcion": "TimePlay es una herramienta SaaS que permite a las PYMES gestionar el tiempo y las tareas de manera visual e interactiva. Los empleados pueden establecer metas, rastrear su progreso y competir amigablemente con sus compañeros para desbloquear recompensas, lo que fomenta un ambiente de trabajo más motivador y eficiente.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-14T14:04:58.663945"
-    },
-    {
       "nombre": "MenteClara",
       "descripcion": "MenteClara es una plataforma digital que proporciona apoyo en salud mental a través de una interfaz fácil de usar. Los usuarios puede completar un breve cuestionario sobre sus emociones, preocupaciones y necesidades, y la plataforma les ofrecerá recursos específicos, como ejercicios de meditación, artículos relevantes y la conexión con profesionales de la salud mental cuando sea necesario.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-23T16:30:45.541622"
+    },
+    {
+      "nombre": "DataSync Hub",
+      "descripcion": "DataSync Hub permite a los profesionales del marketing conectar diversas plataformas de publicidad y redes sociales, unificando sus métricas en un solo dashboard visual e intuitivo. Con herramientas de análisis y generación de informes personalizables, los usuarios pueden evaluar el rendimiento de sus campañas en tiempo real y optimizar sus estrategias.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-23T17:41:41.531226"
     }
   ],
   "nombres_usados": [
-    "TimePlay",
     "MenteClara",
     "WorkBalance",
     "TeamUp Gamify",
@@ -8001,6 +8000,7 @@
     "FinTech PYMES",
     "FácilConta",
     "CashFlow Simple",
-    "Marketing Insight Hub"
+    "Marketing Insight Hub",
+    "DataSync Hub"
   ]
 }
