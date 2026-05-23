@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260523085353",
+    "nombre": "FinTech PYMES",
+    "tipo": "SaaS",
+    "resumen": "FinTech PYMES es una plataforma de contabilidad inteligente diseñada específicamente para pequeñas y medianas empresas que simplifica la gestión finan...",
+    "score": 75,
+    "landing_url": "IDEA-20260523085353.html"
+  },
+  {
     "id": "IDEA-20260523064409",
     "nombre": "TheraEase",
     "tipo": "SaaS",
