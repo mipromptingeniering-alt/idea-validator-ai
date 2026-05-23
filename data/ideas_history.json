@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Creator Hub",
-      "descripcion": "Creator Hub es un software como servicio diseñado para creadores de contenido que les ayuda a unificar su presencia en varias plataformas. Ofrece herramientas para planificación de contenido, análisis de rendimiento, y opciones de monetización, todo accesible desde un solo panel de control. Además, incluye funcionalidades como gestión de suscriptores, venta de productos digitales y análisis de datos para mejorar la estrategia de contenido.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-14T11:47:11.987486"
-    },
-    {
       "nombre": "FreelanceTaxPro",
       "descripcion": "FreelanceTaxPro ayuda a los autónomos a gestionar sus impuestos, gastos y facturación desde una única plataforma. Ofrece recordatorios personalizados, informes de impuestos y una integración simplificada con los sistemas fiscales locales.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-23T11:39:39.485659"
+    },
+    {
+      "nombre": "CashFlow Simple",
+      "descripcion": "CashFlow Simple proporciona una interfaz intuitiva donde los usuarios pueden ingresar sus ingresos y gastos, recibir alertas sobre su situación financiera y generar informes visuales que facilitan la toma de decisiones. Se integra con plataformas existentes para que no requiera una reestructuración de procesos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-23T12:41:28.135814"
     }
   ],
   "nombres_usados": [
-    "Creator Hub",
     "FreelanceTaxPro",
     "TimePlay",
     "MenteClara",
@@ -8001,6 +8000,7 @@
     "MarketPulse",
     "TheraEase",
     "FinTech PYMES",
-    "FácilConta"
+    "FácilConta",
+    "CashFlow Simple"
   ]
 }
