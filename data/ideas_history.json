@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ContabSimple",
-      "descripcion": "ContabSimple ofrece una plataforma intuitiva que permite a los pequeños propietarios de negocios ingresar sus ingresos y gastos de forma sencilla, generando automáticamente informes financieros y ayudando con la preparación de impuestos. Además, se integra con plataformas populares como Shopify, WooCommerce y Stripe para simplificar la gestión financiera.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-14T11:00:21.770844"
-    },
-    {
       "nombre": "BizLink",
       "descripcion": "BizLink es una solución SaaS que permite a pequeños empresarios y freelancers gestionar sus proyectos, generar facturas y comunicarse con sus clientes desde una única plataforma. La herramienta está diseñada para ser intuitiva y fácil de usar, evitando la necesidad de múltiples suscripciones a diferentes servicios.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-23T06:44:09.178398"
+    },
+    {
+      "nombre": "FinTech PYMES",
+      "descripcion": "FinTech PYMES es una herramienta de contabilidad que utiliza inteligencia artificial para automatizar la entrada de datos, la categorización de gastos y la generación de informes. Está diseñada para ser intuitiva y amigable con el usuario, permitiendo a las PYMES gestionar sus finanzas sin necesidad de contar con un equipo contable completo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-23T08:53:53.761505"
     }
   ],
   "nombres_usados": [
-    "ContabSimple",
     "BizLink",
     "Creator Hub",
     "FreelanceTaxPro",
@@ -8001,6 +8000,7 @@
     "SubscriptorPlus",
     "Subscriptor Fácil",
     "MarketPulse",
-    "TheraEase"
+    "TheraEase",
+    "FinTech PYMES"
   ]
 }

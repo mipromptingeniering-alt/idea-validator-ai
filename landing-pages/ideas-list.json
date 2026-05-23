@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260523064409",
+    "nombre": "TheraEase",
+    "tipo": "SaaS",
+    "resumen": "Gestor integral para terapeutas que combina citas, pagos y herramientas de seguimiento del bienestar del paciente....",
+    "score": 75,
+    "landing_url": "IDEA-20260523064409.html"
+  },
+  {
     "id": "IDEA-20260523001519",
     "nombre": "MarketPulse",
     "tipo": "SaaS",
