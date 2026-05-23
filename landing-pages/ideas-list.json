@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260523203930",
+    "nombre": "TimeChampion",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión del tiempo gamificada que ayuda a los usuarios a cumplir sus objetivos y a mejorar su productividad diaria....",
+    "score": 75,
+    "landing_url": "IDEA-20260523203930.html"
+  },
+  {
     "id": "IDEA-20260523174141",
     "nombre": "DataSync Hub",
     "tipo": "SaaS",
