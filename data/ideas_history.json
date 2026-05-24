@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TaskBlend",
-      "descripcion": "TaskBlend permite a los usuarios crear, asignar y gestionar tareas directamente desde sus plataformas de comunicación, facilitando la visibilidad y el seguimiento del progreso sin salir de su entorno de trabajo habitual.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-14T23:19:57.445116"
-    },
-    {
       "nombre": "ArtLink",
       "descripcion": "ArtLink conecta artistas y creativos con un público amante del arte. Sin comisiones por venta, los artistas pueden monetizar su trabajo al máximo. Los suscriptores reciben acceso a contenido exclusivo, descuentos y oportunidades para colaborar con artistas emergentes.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-24T16:53:17.160884"
+    },
+    {
+      "nombre": "PyMeMarketing",
+      "descripcion": "PyMeMarketing es un software que integra herramientas de SEO, gestión de redes sociales, creación de contenido y análisis de datos para ayudar a las PYMES a mejorar su visibilidad en línea y atraer nuevos clientes, todo en una interfaz sencilla y accesible.",
+      "tipo": "SaaS",
+      "score": 68,
+      "fecha": "2026-05-24T17:53:47.963593"
     }
   ],
   "nombres_usados": [
-    "TaskBlend",
     "ArtLink",
     "EasyProject",
     "EasySocial Manager",
@@ -8001,6 +8000,7 @@
     "Freelance Finance Simplified",
     "TaskFlow AI",
     "FlexiCRM",
-    "Wellbeing Quest"
+    "Wellbeing Quest",
+    "PyMeMarketing"
   ]
 }

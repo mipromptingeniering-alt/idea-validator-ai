@@ -560,6 +560,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260524165316",
+    "nombre": "Wellbeing Quest",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma gamificada que promueve el bienestar emocional en el trabajo remoto a través de desafíos, recompensas y herramientas de seguimiento....",
+    "score": 75,
+    "landing_url": "IDEA-20260524165316.html"
+  },
+  {
     "id": "IDEA-20260524154805",
     "nombre": "FlexiCRM",
     "tipo": "SaaS",
