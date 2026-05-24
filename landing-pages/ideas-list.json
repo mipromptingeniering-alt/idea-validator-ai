@@ -560,6 +560,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260524201501",
+    "nombre": "Taskify Pro",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión de tareas y proyectos diseñada específicamente para autónomos y pequeñas empresas, que permite optimizar la productividad y...",
+    "score": 75,
+    "landing_url": "IDEA-20260524201501.html"
+  },
+  {
     "id": "IDEA-20260524190440",
     "nombre": "CollabBoost",
     "tipo": "SaaS",

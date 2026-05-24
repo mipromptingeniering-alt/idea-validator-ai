@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "EasySocial Manager",
-      "descripcion": "EasySocial Manager permite a las PYMES programar publicaciones, analizar métricas de rendimiento, y obtener recomendaciones personalizadas para mejorar su presencia en redes sociales, todo en una interfaz intuitiva.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-15T04:14:50.743773"
-    },
-    {
       "nombre": "MarketingAuto",
       "descripcion": "MarketingAuto permite a las pequeñas y medianas empresas programar, gestionar y analizar sus campañas de marketing digital en un solo lugar, proporcionando recomendaciones personalizadas basadas en el análisis de datos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-24T20:15:01.361727"
+    },
+    {
+      "nombre": "Contabilidad Simple",
+      "descripcion": "Contabilidad Simple ofrece herramientas de gestión contable y de facturación que permiten a las PYMEs llevar un control eficiente de sus finanzas sin necesidad de ser expertos en contabilidad. La plataforma incluye plantillas de facturas, reportes automatizados y conexión directa con bancos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-24T21:12:22.549690"
     }
   ],
   "nombres_usados": [
-    "EasySocial Manager",
     "MarketingAuto",
     "Socialify",
     "HomeMate",
@@ -8001,6 +8000,7 @@
     "Wellbeing Quest",
     "PyMeMarketing",
     "CollabBoost",
-    "Taskify Pro"
+    "Taskify Pro",
+    "Contabilidad Simple"
   ]
 }
