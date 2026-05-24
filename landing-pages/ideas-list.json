@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260523223557",
+    "nombre": "MentalTrack",
+    "tipo": "SaaS",
+    "resumen": "Un software de gestión diseñado específicamente para profesionales de la salud mental que facilita el seguimiento de pacientes y la gestión de sesione...",
+    "score": 75,
+    "landing_url": "IDEA-20260523223557.html"
+  },
+  {
     "id": "IDEA-20260523213647",
     "nombre": "TimeGenius",
     "tipo": "SaaS",

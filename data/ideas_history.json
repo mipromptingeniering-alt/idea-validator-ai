@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ContableSencillo",
-      "descripcion": "ContableSencillo permite a las pequeñas y medianas empresas llevar su contabilidad de manera sencilla y efectiva, con funciones automáticas para mantener el flujo de caja organizado, emitir facturas, y generar reportes financieros básicos. Se obtiene una vista clara de la situación financiera en tiempo real y se pueden tomar decisiones informadas rápidamente.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-14T18:26:42.811610"
-    },
-    {
       "nombre": "SocialMinds",
       "descripcion": "SocialMinds es una herramienta de gestión de redes sociales diseñada específicamente para pequeñas y medianas empresas. Utiliza inteligencia artificial para analizar tendencias locales y sugiere publicaciones que resuenan con la audiencia objetivo. Permite programar contenido, monitorizar interacciones y obtener análisis fáciles de entender.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-23T22:35:57.583906"
+    },
+    {
+      "nombre": "Pyme Digital Hub",
+      "descripcion": "Pyme Digital Hub es un SaaS diseñado específicamente para pequeñas y medianas empresas que buscan mejorar su presencia digital. Ofrece una interfaz intuitiva que combina la gestión de redes sociales, la creación de sitios web optimizados y herramientas de analítica de datos para ayudar a las pymes a atraer y retener clientes.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-24T01:35:08.292144"
     }
   ],
   "nombres_usados": [
-    "ContableSencillo",
     "SocialMinds",
     "AutonomPlus",
     "PymeMarketing",
@@ -8001,6 +8000,7 @@
     "DataSynth",
     "TimeChampion",
     "TimeGenius",
-    "MentalTrack"
+    "MentalTrack",
+    "Pyme Digital Hub"
   ]
 }
