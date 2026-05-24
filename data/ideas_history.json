@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialMinds",
-      "descripcion": "SocialMinds es una herramienta de gestión de redes sociales diseñada específicamente para pequeñas y medianas empresas. Utiliza inteligencia artificial para analizar tendencias locales y sugiere publicaciones que resuenan con la audiencia objetivo. Permite programar contenido, monitorizar interacciones y obtener análisis fáciles de entender.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-14T19:39:34.164917"
-    },
-    {
       "nombre": "AutonomPlus",
       "descripcion": "AutonomPlus ofrece una solución todo-en-uno que permite a los autónomos gestionar sus proyectos, clientes y facturas desde una sola aplicación. Incluye herramientas para seguimiento de tiempo, generación de facturas personalizadas y gestión de contactos, optimizando el flujo de trabajo y permitiendo un enfoque más eficiente en el negocio.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-24T01:35:08.292144"
+    },
+    {
+      "nombre": "SocialScheduler AI",
+      "descripcion": "SocialScheduler AI es una herramienta SaaS que combina la programación de publicaciones con análisis predictivo impulsado por IA. Permite a los creadores de contenido programar publicaciones en múltiples plataformas, obtener sugerencias de contenido optimizado y analizar el rendimiento en tiempo real.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-24T05:46:19.366305"
     }
   ],
   "nombres_usados": [
-    "SocialMinds",
     "AutonomPlus",
     "PymeMarketing",
     "EduSmart",
@@ -8001,6 +8000,7 @@
     "TimeChampion",
     "TimeGenius",
     "MentalTrack",
-    "Pyme Digital Hub"
+    "Pyme Digital Hub",
+    "SocialScheduler AI"
   ]
 }

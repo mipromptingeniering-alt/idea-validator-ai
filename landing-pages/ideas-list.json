@@ -552,6 +552,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260524013508",
+    "nombre": "Pyme Digital Hub",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral para que las pymes gestionen su presencia online de manera sencilla y efectiva....",
+    "score": 75,
+    "landing_url": "IDEA-20260524013508.html"
+  },
+  {
     "id": "IDEA-20260523223557",
     "nombre": "MentalTrack",
     "tipo": "SaaS",
