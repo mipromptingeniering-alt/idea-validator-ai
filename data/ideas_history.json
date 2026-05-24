@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "CreativTrack",
-      "descripcion": "CreativTrack es una plataforma que ayuda a los profesionales creativos a gestionar sus proyectos de forma más efectiva, ofreciendo herramientas de seguimiento de tareas, colaboración y organización visual.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-14T21:19:22.572589"
-    },
-    {
       "nombre": "MultiSell",
       "descripcion": "MultiSell es una solución SaaS que simplifica la gestión de inventario y ventas para pequeñas empresas que venden en plataformas como Shopify, Amazon y eBay. Permite la integración automática de productos, sincronización de inventarios y análisis en tiempo real para ayudar a tomar decisiones basadas en datos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-24T13:03:44.089855"
+    },
+    {
+      "nombre": "FlexiCRM",
+      "descripcion": "FlexiCRM ofrece un enfoque modular que permite a las PYMES seleccionar solo las funcionalidades que realmente necesitan, como gestión de contactos, seguimiento de ventas, automatización de marketing, y servicio al cliente. Los usuarios pueden escalar y agregar módulos a medida que crece su negocio, sin complicaciones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-24T15:48:05.365395"
     }
   ],
   "nombres_usados": [
-    "CreativTrack",
     "MultiSell",
     "TaskBlend",
     "ArtLink",
@@ -8001,6 +8000,7 @@
     "SocialScheduler AI",
     "TimeBuddy",
     "Freelance Finance Simplified",
-    "TaskFlow AI"
+    "TaskFlow AI",
+    "FlexiCRM"
   ]
 }
