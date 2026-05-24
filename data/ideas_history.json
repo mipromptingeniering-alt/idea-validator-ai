@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "EduSmart",
-      "descripcion": "EduSmart utiliza algoritmos de IA para analizar el progreso, las preferencias y el estilo de aprendizaje de cada estudiante, recomendando recursos como videos, artículos y ejercicios que se alineen con sus necesidades específicas. La plataforma también ofrece un espacio para la planificación de actividades y seguimiento de objetivos de aprendizaje.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-14T20:50:37.974836"
-    },
-    {
       "nombre": "CreativTrack",
       "descripcion": "CreativTrack es una plataforma que ayuda a los profesionales creativos a gestionar sus proyectos de forma más efectiva, ofreciendo herramientas de seguimiento de tareas, colaboración y organización visual.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-05-24T11:46:55.378422"
+    },
+    {
+      "nombre": "TaskFlow AI",
+      "descripcion": "TaskFlow AI ayuda a los profesionales a organizar sus tareas y proyectos a través de una interfaz intuitiva que permite personalizar flujos de trabajo. La inteligencia artificial sugiere la mejor forma de estructurar el día o la semana, teniendo en cuenta plazos, prioridades y hábitos de trabajo previos, mejorando así la productividad.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-24T13:03:44.089855"
     }
   ],
   "nombres_usados": [
-    "EduSmart",
     "CreativTrack",
     "MultiSell",
     "TaskBlend",
@@ -8001,6 +8000,7 @@
     "Pyme Digital Hub",
     "SocialScheduler AI",
     "TimeBuddy",
-    "Freelance Finance Simplified"
+    "Freelance Finance Simplified",
+    "TaskFlow AI"
   ]
 }
