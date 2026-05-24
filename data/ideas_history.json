@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ArtLink",
-      "descripcion": "ArtLink conecta artistas y creativos con un público amante del arte. Sin comisiones por venta, los artistas pueden monetizar su trabajo al máximo. Los suscriptores reciben acceso a contenido exclusivo, descuentos y oportunidades para colaborar con artistas emergentes.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-14T23:48:45.766473"
-    },
-    {
       "nombre": "EasyProject",
       "descripcion": "EasyProject es una solución de software que permite a las pequeñas y medianas empresas gestionar sus proyectos de forma sencilla. A través de un interfaz intuitivo, los usuarios pueden crear tareas, asignarlas a miembros del equipo, establecer fechas de vencimiento y realizar un seguimiento del progreso. Además, integra herramientas de comunicación para fomentar la colaboración y mantener a todos en la misma página.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 68,
       "fecha": "2026-05-24T17:53:47.963593"
+    },
+    {
+      "nombre": "CollabBoost",
+      "descripcion": "CollabBoost es una herramienta que combina gestión de tareas, comunicación en tiempo real y gamificación para fomentar la productividad y el trabajo en equipo entre empleados remotos. Los usuarios pueden ganar puntos y recompensas por completar tareas, participar en discusiones y colaborar, creando un ambiente de trabajo más motivador y atractivo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-24T19:04:41.000987"
     }
   ],
   "nombres_usados": [
-    "ArtLink",
     "EasyProject",
     "EasySocial Manager",
     "MarketingAuto",
@@ -8001,6 +8000,7 @@
     "TaskFlow AI",
     "FlexiCRM",
     "Wellbeing Quest",
-    "PyMeMarketing"
+    "PyMeMarketing",
+    "CollabBoost"
   ]
 }

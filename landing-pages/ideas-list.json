@@ -11432,6 +11432,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260524175347",
+    "nombre": "PyMeMarketing",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de marketing digital todo en uno diseñada especialmente para pequeñas y medianas empresas....",
+    "score": 68,
+    "landing_url": "IDEA-20260524175347.html"
+  },
+  {
     "id": "IDEA-20260519223827",
     "nombre": "ClientManager Lite",
     "tipo": "MicroSaaS",
