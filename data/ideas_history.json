@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MarketingAuto",
-      "descripcion": "MarketingAuto permite a las pequeñas y medianas empresas programar, gestionar y analizar sus campañas de marketing digital en un solo lugar, proporcionando recomendaciones personalizadas basadas en el análisis de datos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-15T06:45:22.204914"
-    },
-    {
       "nombre": "Socialify",
       "descripcion": "Socialify permite a los usuarios gestionar múltiples cuentas de redes sociales desde una sola plataforma, programar publicaciones, y obtener análisis detallados de su rendimiento, todo en un entorno intuitivo y accesible.",
       "tipo": "MicroSaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-24T21:12:22.549690"
+    },
+    {
+      "nombre": "Finanzas al Alcance",
+      "descripcion": "Finanzas al Alcance es un software de gestión financiera que permite a los usuarios llevar un control de sus ingresos y gastos, establecer presupuestos, y realizar proyecciones financieras. Incluye herramientas específicas para calcular impuestos, evaluar rentabilidad de proyectos y generar informes sencillos para su presentación a bancos o inversores.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-24T22:09:22.881793"
     }
   ],
   "nombres_usados": [
-    "MarketingAuto",
     "Socialify",
     "HomeMate",
     "Financa",
@@ -8001,6 +8000,7 @@
     "PyMeMarketing",
     "CollabBoost",
     "Taskify Pro",
-    "Contabilidad Simple"
+    "Contabilidad Simple",
+    "Finanzas al Alcance"
   ]
 }

@@ -560,6 +560,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260524211222",
+    "nombre": "Contabilidad Simple",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de contabilidad y facturación diseñada específicamente para pequeñas y medianas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260524211222.html"
+  },
+  {
     "id": "IDEA-20260524201501",
     "nombre": "Taskify Pro",
     "tipo": "SaaS",
