@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "PymeMarketing",
-      "descripcion": "PymeMarketing es una herramienta integral que permite a las pequeñas y medianas empresas gestionar sus campañas de marketing digital desde un solo lugar. Ofrece funcionalidades como la creación de contenido, análisis de redes sociales, gestión de correos electrónicos, y SEO, todo adaptado a las necesidades específicas de las pymes y con plantillas fáciles de usar.",
-      "tipo": "SaaS",
-      "score": 72,
-      "fecha": "2026-03-14T20:19:05.293145"
-    },
-    {
       "nombre": "EduSmart",
       "descripcion": "EduSmart utiliza algoritmos de IA para analizar el progreso, las preferencias y el estilo de aprendizaje de cada estudiante, recomendando recursos como videos, artículos y ejercicios que se alineen con sus necesidades específicas. La plataforma también ofrece un espacio para la planificación de actividades y seguimiento de objetivos de aprendizaje.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "MicroSaaS",
       "score": 72,
       "fecha": "2026-05-24T08:18:12.634290"
+    },
+    {
+      "nombre": "Freelance Finance Simplified",
+      "descripcion": "Freelance Finance Simplified permite a los usuarios gestionar sus finanzas de forma intuitiva, proporcionando herramientas para registrar ingresos, categorizar gastos, y generar reportes fiscales al final del año. La plataforma también ofrece una sección de educación financiera para ayudar a los usuarios a entender mejor cómo funcionan las finanzas personales y empresariales.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-05-24T11:46:55.378422"
     }
   ],
   "nombres_usados": [
-    "PymeMarketing",
     "EduSmart",
     "CreativTrack",
     "MultiSell",
@@ -8001,6 +8000,7 @@
     "MentalTrack",
     "Pyme Digital Hub",
     "SocialScheduler AI",
-    "TimeBuddy"
+    "TimeBuddy",
+    "Freelance Finance Simplified"
   ]
 }
