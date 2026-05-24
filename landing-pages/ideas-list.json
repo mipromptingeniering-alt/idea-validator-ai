@@ -560,6 +560,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260524190440",
+    "nombre": "CollabBoost",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de colaboración y gestión de proyectos que integra gamificación para aumentar la productividad del trabajo remoto....",
+    "score": 75,
+    "landing_url": "IDEA-20260524190440.html"
+  },
+  {
     "id": "IDEA-20260524165316",
     "nombre": "Wellbeing Quest",
     "tipo": "SaaS",
