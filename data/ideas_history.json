@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "AutonomPlus",
-      "descripcion": "AutonomPlus ofrece una solución todo-en-uno que permite a los autónomos gestionar sus proyectos, clientes y facturas desde una sola aplicación. Incluye herramientas para seguimiento de tiempo, generación de facturas personalizadas y gestión de contactos, optimizando el flujo de trabajo y permitiendo un enfoque más eficiente en el negocio.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-14T19:54:52.007189"
-    },
-    {
       "nombre": "PymeMarketing",
       "descripcion": "PymeMarketing es una herramienta integral que permite a las pequeñas y medianas empresas gestionar sus campañas de marketing digital desde un solo lugar. Ofrece funcionalidades como la creación de contenido, análisis de redes sociales, gestión de correos electrónicos, y SEO, todo adaptado a las necesidades específicas de las pymes y con plantillas fáciles de usar.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-24T05:46:19.366305"
+    },
+    {
+      "nombre": "TimeBuddy",
+      "descripcion": "TimeBuddy permite a los usuarios gestionar sus tareas y horarios de manera eficiente, integrando herramientas que ya usan, como calendarios y aplicaciones de tareas, ofreciéndoles una interfaz simplificada donde puedan priorizar actividades y recibir recordatorios personalizados.",
+      "tipo": "MicroSaaS",
+      "score": 72,
+      "fecha": "2026-05-24T08:18:12.634290"
     }
   ],
   "nombres_usados": [
-    "AutonomPlus",
     "PymeMarketing",
     "EduSmart",
     "CreativTrack",
@@ -8001,6 +8000,7 @@
     "TimeGenius",
     "MentalTrack",
     "Pyme Digital Hub",
-    "SocialScheduler AI"
+    "SocialScheduler AI",
+    "TimeBuddy"
   ]
 }
