@@ -560,6 +560,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260524154805",
+    "nombre": "FlexiCRM",
+    "tipo": "SaaS",
+    "resumen": "FlexiCRM es un CRM modular diseñado específicamente para pequeñas y medianas empresas, que permite una personalización sencilla y un coste controlado....",
+    "score": 75,
+    "landing_url": "IDEA-20260524154805.html"
+  },
+  {
     "id": "IDEA-20260524130343",
     "nombre": "TaskFlow AI",
     "tipo": "SaaS",

@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MultiSell",
-      "descripcion": "MultiSell es una solución SaaS que simplifica la gestión de inventario y ventas para pequeñas empresas que venden en plataformas como Shopify, Amazon y eBay. Permite la integración automática de productos, sincronización de inventarios y análisis en tiempo real para ayudar a tomar decisiones basadas en datos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-14T22:17:30.302696"
-    },
-    {
       "nombre": "TaskBlend",
       "descripcion": "TaskBlend permite a los usuarios crear, asignar y gestionar tareas directamente desde sus plataformas de comunicación, facilitando la visibilidad y el seguimiento del progreso sin salir de su entorno de trabajo habitual.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-24T15:48:05.365395"
+    },
+    {
+      "nombre": "Wellbeing Quest",
+      "descripcion": "Wellbeing Quest es una plataforma que ofrece a los trabajadores remotos una serie de desafíos semanales relacionados con la salud mental y el bienestar emocional. Al completar estos desafíos, los empleados obtienen recompensas que pueden canjear en una tienda virtual. Además, proporciona herramientas para monitorear el estado emocional y el progreso del bienestar personal.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-24T16:53:17.160884"
     }
   ],
   "nombres_usados": [
-    "MultiSell",
     "TaskBlend",
     "ArtLink",
     "EasyProject",
@@ -8001,6 +8000,7 @@
     "TimeBuddy",
     "Freelance Finance Simplified",
     "TaskFlow AI",
-    "FlexiCRM"
+    "FlexiCRM",
+    "Wellbeing Quest"
   ]
 }
