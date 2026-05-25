@@ -560,6 +560,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260524220922",
+    "nombre": "Finanzas al Alcance",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión financiera diseñada específicamente para autónomos y pequeños emprendedores que simplifica la planificación y seguimiento de...",
+    "score": 75,
+    "landing_url": "IDEA-20260524220922.html"
+  },
+  {
     "id": "IDEA-20260524211222",
     "nombre": "Contabilidad Simple",
     "tipo": "SaaS",

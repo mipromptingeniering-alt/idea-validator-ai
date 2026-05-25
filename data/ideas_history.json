@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Socialify",
-      "descripcion": "Socialify permite a los usuarios gestionar múltiples cuentas de redes sociales desde una sola plataforma, programar publicaciones, y obtener análisis detallados de su rendimiento, todo en un entorno intuitivo y accesible.",
-      "tipo": "MicroSaaS",
-      "score": 75,
-      "fecha": "2026-03-15T07:34:36.852534"
-    },
-    {
       "nombre": "HomeMate",
       "descripcion": "HomeMate permite a los propietarios de viviendas gestionar el mantenimiento y las reparaciones de manera eficiente. Los usuarios pueden crear un calendario de mantenimiento, recibir notificaciones para tareas pendientes, y acceder a profesionales de servicios de confianza en su área. Además, la app ofrece recomendaciones personalizadas basadas en el historial del hogar.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-24T22:09:22.881793"
+    },
+    {
+      "nombre": "SocialBoost for SMEs",
+      "descripcion": "SocialBoost for SMEs es una herramienta basada en la nube que permite a las pequeñas y medianas empresas gestionar sus perfiles de redes sociales, programar publicaciones y recibir recomendaciones personalizadas basadas en análisis de datos específicos del sector. Además, proporciona informes detallados sobre el rendimiento de las publicaciones y el crecimiento de la audiencia.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-25T04:50:35.184053"
     }
   ],
   "nombres_usados": [
-    "Socialify",
     "HomeMate",
     "Financa",
     "ProjectBuddy",
@@ -8001,6 +8000,7 @@
     "CollabBoost",
     "Taskify Pro",
     "Contabilidad Simple",
-    "Finanzas al Alcance"
+    "Finanzas al Alcance",
+    "SocialBoost for SMEs"
   ]
 }
