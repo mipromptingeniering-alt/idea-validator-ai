@@ -560,6 +560,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260525223957",
+    "nombre": "TaskGuru",
+    "tipo": "SaaS",
+    "resumen": "Plataforma de gestión de tareas basada en inteligencia artificial para autónomos y pequeñas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260525223957.html"
+  },
+  {
     "id": "IDEA-20260525202041",
     "nombre": "CollabEase",
     "tipo": "SaaS",

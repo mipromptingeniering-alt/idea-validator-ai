@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SimpleCRM",
-      "descripcion": "SimpleCRM ofrece una plataforma de gestión de relaciones con clientes que es fácil de usar, asequible y adaptada a las necesidades de las PYMES. Incluye características como gestión de contactos, seguimiento de interacciones y reportes de ventas, todo en una interfaz amigable.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-15T12:34:39.463634"
-    },
-    {
       "nombre": "SocialBuddy",
       "descripcion": "SocialBuddy permite a los pequeños y medianos negocios gestionar sus redes sociales de manera eficiente, programando publicaciones, analizando el rendimiento y recibiendo sugerencias de contenido personalizadas. Utiliza inteligencia artificial para optimizar la estrategia de contenido según la audiencia y las tendencias del mercado.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-25T22:39:57.836040"
+    },
+    {
+      "nombre": "TeamFlow",
+      "descripcion": "TeamFlow permite a las PYMEs gestionar proyectos, tareas y colaborar en tiempo real, todo en un solo lugar. Con características como tableros Kanban, chat integrado, y gestión de documentos, TeamFlow optimiza el flujo de trabajo y mejora la comunicación dentro de los equipos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-25T23:44:06.990491"
     }
   ],
   "nombres_usados": [
-    "SimpleCRM",
     "SocialBuddy",
     "LifeMaster",
     "TimeSnap",
@@ -8001,6 +8000,7 @@
     "SmartTime",
     "CollabEase",
     "Portfoliify",
-    "TaskGuru"
+    "TaskGuru",
+    "TeamFlow"
   ]
 }
