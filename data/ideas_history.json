@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "HomeMate",
-      "descripcion": "HomeMate permite a los propietarios de viviendas gestionar el mantenimiento y las reparaciones de manera eficiente. Los usuarios pueden crear un calendario de mantenimiento, recibir notificaciones para tareas pendientes, y acceder a profesionales de servicios de confianza en su área. Además, la app ofrece recomendaciones personalizadas basadas en el historial del hogar.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-15T08:04:25.702620"
-    },
-    {
       "nombre": "Financa",
       "descripcion": "Financa es un software de contabilidad basado en la nube que permite a los freelancers y pequeñas empresas llevar un control fácil y eficiente de sus ingresos, gastos, y obligaciones fiscales. Ofrece integración con plataformas de pago y permite la generación automática de informes y facturas.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-25T04:50:35.184053"
+    },
+    {
+      "nombre": "SocialContent Genius",
+      "descripcion": "SocialContent Genius es una herramienta de gestión de redes sociales que automatiza la creación de contenido, sugiere publicaciones basadas en tendencias y permite una programación eficiente. Con un diseño centrado en el usuario y fácil de usar, los emprendedores podrán aumentar su visibilidad en línea y atraer más clientes.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-25T15:34:49.813531"
     }
   ],
   "nombres_usados": [
-    "HomeMate",
     "Financa",
     "ProjectBuddy",
     "DashInsights",
@@ -8001,6 +8000,7 @@
     "Taskify Pro",
     "Contabilidad Simple",
     "Finanzas al Alcance",
-    "SocialBoost for SMEs"
+    "SocialBoost for SMEs",
+    "SocialContent Genius"
   ]
 }
