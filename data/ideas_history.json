@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ProjectBuddy",
-      "descripcion": "ProjectBuddy es una plataforma de gestión de proyectos diseñada específicamente para pequeñas y medianas empresas. Permite a los usuarios personalizar su entorno de trabajo, integrar otras herramientas como calendarios y software de contabilidad, y colaborar con su equipo en un solo lugar. Incluye funcionalidades como asignación de tareas, seguimiento del tiempo y generación de informes.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-15T09:56:34.826364"
-    },
-    {
       "nombre": "DashInsights",
       "descripcion": "DashInsights es una herramienta que permite a los profesionales del marketing consolidar y analizar datos de múltiples plataformas en un solo lugar. Utiliza inteligencia artificial para ofrecer recomendaciones personalizadas y facilitar la toma de decisiones basada en datos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-25T17:22:26.408111"
+    },
+    {
+      "nombre": "CollabEase",
+      "descripcion": "CollabEase es una solución SaaS que permite a los equipos de PYMEs gestionar su comunicación interna, asignar tareas y compartir documentos en un espacio de trabajo virtual. Incluye chat en tiempo real, tableros de tareas y almacenamiento de archivos con accesibilidad fácil y rápida.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-25T20:20:41.585221"
     }
   ],
   "nombres_usados": [
-    "ProjectBuddy",
     "DashInsights",
     "TaskSprint",
     "SimpleCRM",
@@ -8001,6 +8000,7 @@
     "Finanzas al Alcance",
     "SocialBoost for SMEs",
     "SocialContent Genius",
-    "SmartTime"
+    "SmartTime",
+    "CollabEase"
   ]
 }
