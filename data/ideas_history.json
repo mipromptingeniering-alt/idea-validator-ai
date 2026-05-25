@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TaskSprint",
-      "descripcion": "TaskSprint ayuda a los usuarios a gestionar su tiempo y tareas mediante la implementación de intervalos de trabajo (Pomodoros) y recompensas que motivan a completar objetivos. Además, la herramienta permite seguir el progreso y generar informes sobre la eficiencia.",
-      "tipo": "MicroSaaS",
-      "score": 75,
-      "fecha": "2026-03-15T11:19:24.200073"
-    },
-    {
       "nombre": "SimpleCRM",
       "descripcion": "SimpleCRM ofrece una plataforma de gestión de relaciones con clientes que es fácil de usar, asequible y adaptada a las necesidades de las PYMES. Incluye características como gestión de contactos, seguimiento de interacciones y reportes de ventas, todo en una interfaz amigable.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-25T21:40:53.597480"
+    },
+    {
+      "nombre": "TaskGuru",
+      "descripcion": "TaskGuru es una herramienta SaaS que ayuda a los autónomos y pequeñas empresas a gestionar su tiempo y tareas de manera eficiente. Utiliza inteligencia artificial para analizar los hábitos de trabajo del usuario y sugiere las mejores prioridades y horarios para completar tareas, aumentando así la productividad del usuario.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-25T22:39:57.836040"
     }
   ],
   "nombres_usados": [
-    "TaskSprint",
     "SimpleCRM",
     "SocialBuddy",
     "LifeMaster",
@@ -8001,6 +8000,7 @@
     "SocialContent Genius",
     "SmartTime",
     "CollabEase",
-    "Portfoliify"
+    "Portfoliify",
+    "TaskGuru"
   ]
 }

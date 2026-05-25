@@ -10232,6 +10232,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260525214053",
+    "nombre": "Portfoliify",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma para crear y gestionar portafolios digitales diseñados específicamente para profesionales creativos....",
+    "score": 70,
+    "landing_url": "IDEA-20260525214053.html"
+  },
+  {
     "id": "IDEA-20260523184258",
     "nombre": "DataSynth",
     "tipo": "SaaS",
