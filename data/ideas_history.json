@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Financa",
-      "descripcion": "Financa es un software de contabilidad basado en la nube que permite a los freelancers y pequeñas empresas llevar un control fácil y eficiente de sus ingresos, gastos, y obligaciones fiscales. Ofrece integración con plataformas de pago y permite la generación automática de informes y facturas.",
-      "tipo": "SaaS",
-      "score": 78,
-      "fecha": "2026-03-15T09:26:35.200980"
-    },
-    {
       "nombre": "ProjectBuddy",
       "descripcion": "ProjectBuddy es una plataforma de gestión de proyectos diseñada específicamente para pequeñas y medianas empresas. Permite a los usuarios personalizar su entorno de trabajo, integrar otras herramientas como calendarios y software de contabilidad, y colaborar con su equipo en un solo lugar. Incluye funcionalidades como asignación de tareas, seguimiento del tiempo y generación de informes.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-25T15:34:49.813531"
+    },
+    {
+      "nombre": "SmartTime",
+      "descripcion": "SmartTime permite a los usuarios ingresar sus tareas y horarios, y utiliza algoritmos de inteligencia artificial para analizar su comportamiento y ofrecer sugerencias personalizadas sobre cómo gestionar su tiempo. Incluye recordatorios, análisis de productividad y recomendaciones de optimización.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-25T17:22:26.408111"
     }
   ],
   "nombres_usados": [
-    "Financa",
     "ProjectBuddy",
     "DashInsights",
     "TaskSprint",
@@ -8001,6 +8000,7 @@
     "Contabilidad Simple",
     "Finanzas al Alcance",
     "SocialBoost for SMEs",
-    "SocialContent Genius"
+    "SocialContent Genius",
+    "SmartTime"
   ]
 }
