@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "DashInsights",
-      "descripcion": "DashInsights es una herramienta que permite a los profesionales del marketing consolidar y analizar datos de múltiples plataformas en un solo lugar. Utiliza inteligencia artificial para ofrecer recomendaciones personalizadas y facilitar la toma de decisiones basada en datos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-15T10:23:16.148139"
-    },
-    {
       "nombre": "TaskSprint",
       "descripcion": "TaskSprint ayuda a los usuarios a gestionar su tiempo y tareas mediante la implementación de intervalos de trabajo (Pomodoros) y recompensas que motivan a completar objetivos. Además, la herramienta permite seguir el progreso y generar informes sobre la eficiencia.",
       "tipo": "MicroSaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-25T20:20:41.585221"
+    },
+    {
+      "nombre": "Portfoliify",
+      "descripcion": "Portfoliify permite a los usuarios construir un portafolio atractivo y fácil de usar mediante plantillas personalizables. Los usuarios pueden integrar sus redes sociales, importar proyectos de diferentes plataformas y compartir su portafolio en un enlace único. También incluye herramientas de análisis para ver la interacción con el portafolio.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-05-25T21:40:53.597480"
     }
   ],
   "nombres_usados": [
-    "DashInsights",
     "TaskSprint",
     "SimpleCRM",
     "SocialBuddy",
@@ -8001,6 +8000,7 @@
     "SocialBoost for SMEs",
     "SocialContent Genius",
     "SmartTime",
-    "CollabEase"
+    "CollabEase",
+    "Portfoliify"
   ]
 }

@@ -560,6 +560,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260525202041",
+    "nombre": "CollabEase",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de colaboración para PYMEs que integra comunicación, gestión de tareas y documentos en un solo lugar....",
+    "score": 75,
+    "landing_url": "IDEA-20260525202041.html"
+  },
+  {
     "id": "IDEA-20260525172226",
     "nombre": "SmartTime",
     "tipo": "SaaS",
