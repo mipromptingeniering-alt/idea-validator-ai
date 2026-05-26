@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "DigitizeMe",
-      "descripcion": "DigitizeMe ofrece herramientas integradas para gestión de redes sociales, email marketing, creación de sitios web y automatización de procesos, todo en un solo lugar. Su interfaz intuitiva permite a los propietarios de PYMES administrar sus necesidades digitales fácilmente, sin requerir conocimientos técnicos avanzados.",
-      "tipo": "SaaS",
-      "score": 76,
-      "fecha": "2026-03-15T16:59:51.196806"
-    },
-    {
       "nombre": "BalancedWork",
       "descripcion": "BalancedWork es una herramienta en línea que permite a los usuarios crear su lista de tareas diarias y establece un sistema de gestión de tiempo que incluye recordatorios para pausas. Además, ofrece estadísticas sobre la productividad y el bienestar de los usuarios, fomentando hábitos de trabajo más saludables.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-26T21:43:25.130005"
+    },
+    {
+      "nombre": "EasyWeb",
+      "descripcion": "EasyWeb permite a los emprendedores y pequeñas empresas construir su presencia en línea de manera fácil y rápida, con herramientas de arrastrar y soltar, plantillas específicas para diferentes sectores, y un sistema de soporte integrado que ofrece tutoriales y asesoría personalizada.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-26T22:53:58.545931"
     }
   ],
   "nombres_usados": [
-    "DigitizeMe",
     "BalancedWork",
     "SocialSage",
     "Funnel Genius",
@@ -8001,6 +8000,7 @@
     "TaskTime",
     "TaskSimple",
     "NominaExpress",
-    "TaskWell"
+    "TaskWell",
+    "EasyWeb"
   ]
 }

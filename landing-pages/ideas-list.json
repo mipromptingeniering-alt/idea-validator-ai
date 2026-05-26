@@ -560,6 +560,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260526214324",
+    "nombre": "TaskWell",
+    "tipo": "SaaS",
+    "resumen": "TaskWell es una plataforma de gestión de tareas y tiempo que ayuda a los autónomos a maximizar su productividad y bienestar....",
+    "score": 75,
+    "landing_url": "IDEA-20260526214324.html"
+  },
+  {
     "id": "IDEA-20260526195807",
     "nombre": "NominaExpress",
     "tipo": "SaaS",
