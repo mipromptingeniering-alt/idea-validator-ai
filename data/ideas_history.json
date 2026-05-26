@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MarketSync",
-      "descripcion": "MarketSync proporciona dashboards personalizables donde los profesionales de marketing pueden monitorear el rendimiento de sus campañas en redes sociales, email marketing y publicidad pagada. Incluye análisis predictivo para ayudar a optimizar futuras inversiones en marketing.",
-      "tipo": "SaaS",
-      "score": 78,
-      "fecha": "2026-03-15T15:21:54.603790"
-    },
-    {
       "nombre": "SocialWorkHub",
       "descripcion": "SocialWorkHub es una plataforma donde los usuarios pueden crear avatares, moverse por espacios virtuales personalizados y participar en encuentros sociales espontáneos o programados. Incluye características como salas de descanso virtuales, eventos, y herramientas de colaboración en grupo, todo diseñado para fomentar la conexión y la productividad.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-26T08:55:28.046200"
+    },
+    {
+      "nombre": "TaskSimple",
+      "descripcion": "TaskSimple ofrece una interfaz limpia y simple que permite a los usuarios gestionar sus tareas diarias, establecer prioridades y rastrear el tiempo dedicado a cada proyecto. Incluye una función de recordatorio y análisis de tiempo para facilitar el equilibrio entre el trabajo y la vida personal.",
+      "tipo": "MicroSaaS",
+      "score": 70,
+      "fecha": "2026-05-26T14:58:01.190802"
     }
   ],
   "nombres_usados": [
-    "MarketSync",
     "SocialWorkHub",
     "MindFit",
     "DigitizeMe",
@@ -8001,6 +8000,7 @@
     "TeamFlow",
     "MetricDash",
     "PymeSmart",
-    "TaskTime"
+    "TaskTime",
+    "TaskSimple"
   ]
 }
