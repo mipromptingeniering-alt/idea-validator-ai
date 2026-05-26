@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialBuddy",
-      "descripcion": "SocialBuddy permite a los pequeños y medianos negocios gestionar sus redes sociales de manera eficiente, programando publicaciones, analizando el rendimiento y recibiendo sugerencias de contenido personalizadas. Utiliza inteligencia artificial para optimizar la estrategia de contenido según la audiencia y las tendencias del mercado.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-15T13:33:59.309923"
-    },
-    {
       "nombre": "LifeMaster",
       "descripcion": "LifeMaster permite a los usuarios gestionar todas sus actividades diarias desde un único lugar, integrando recordatorios, seguimiento de hábitos, y un calendario personal. La herramienta utiliza inteligencia artificial para ajustar y priorizar tareas basándose en las preferencias y hábitos del usuario.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-25T23:44:06.990491"
+    },
+    {
+      "nombre": "MetricDash",
+      "descripcion": "MetricDash permite a los profesionales del marketing digital seguir el rendimiento de sus campañas a través de un panel intuitivo que integra datos de múltiples plataformas en tiempo real, facilitando ajustes inmediatos en las estrategias.",
+      "tipo": "SaaS",
+      "score": 70,
+      "fecha": "2026-05-26T01:32:55.237118"
     }
   ],
   "nombres_usados": [
-    "SocialBuddy",
     "LifeMaster",
     "TimeSnap",
     "MarketSync",
@@ -8001,6 +8000,7 @@
     "CollabEase",
     "Portfoliify",
     "TaskGuru",
-    "TeamFlow"
+    "TeamFlow",
+    "MetricDash"
   ]
 }

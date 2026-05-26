@@ -560,6 +560,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260525234406",
+    "nombre": "TeamFlow",
+    "tipo": "SaaS",
+    "resumen": "TeamFlow es una plataforma integrada para la gestión de proyectos y la colaboración de equipos, diseñada especialmente para PYMEs que buscan mejorar s...",
+    "score": 75,
+    "landing_url": "IDEA-20260525234406.html"
+  },
+  {
     "id": "IDEA-20260525223957",
     "nombre": "TaskGuru",
     "tipo": "SaaS",
