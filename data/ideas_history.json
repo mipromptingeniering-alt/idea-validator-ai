@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "LifeMaster",
-      "descripcion": "LifeMaster permite a los usuarios gestionar todas sus actividades diarias desde un único lugar, integrando recordatorios, seguimiento de hábitos, y un calendario personal. La herramienta utiliza inteligencia artificial para ajustar y priorizar tareas basándose en las preferencias y hábitos del usuario.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-15T14:06:44.360156"
-    },
-    {
       "nombre": "TimeSnap",
       "descripcion": "TimeSnap permite a los usuarios ingresar sus tareas diarias, establecer prioridades y recibir recomendaciones personalizadas sobre cómo optimizar su tiempo. Además, ofrece análisis visuales de hábitos de trabajo, alertas para tomar descansos y sugerencias para mejorar la eficiencia.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 70,
       "fecha": "2026-05-26T01:32:55.237118"
+    },
+    {
+      "nombre": "PymeSmart",
+      "descripcion": "PymeSmart es una plataforma todo en uno que permite a las pequeñas y medianas empresas gestionar redes sociales, crear campañas de marketing, analizar datos de tráfico web y automatizar procesos de marketing, todo desde una interfaz intuitiva y fácil de usar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-26T05:43:20.101886"
     }
   ],
   "nombres_usados": [
-    "LifeMaster",
     "TimeSnap",
     "MarketSync",
     "SocialWorkHub",
@@ -8001,6 +8000,7 @@
     "Portfoliify",
     "TaskGuru",
     "TeamFlow",
-    "MetricDash"
+    "MetricDash",
+    "PymeSmart"
   ]
 }
