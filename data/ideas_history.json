@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MindFit",
-      "descripcion": "MindFit es una plataforma que utiliza algoritmos de inteligencia artificial para ofrecer a los usuarios un programa de bienestar mental personalizado. Incluye ejercicios de meditación, técnicas de respiración, seguimiento del estado de ánimo, y acceso a un chatbot para consultas rápidas sobre salud mental, además de recursos educativos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-15T16:22:52.554980"
-    },
-    {
       "nombre": "DigitizeMe",
       "descripcion": "DigitizeMe ofrece herramientas integradas para gestión de redes sociales, email marketing, creación de sitios web y automatización de procesos, todo en un solo lugar. Su interfaz intuitiva permite a los propietarios de PYMES administrar sus necesidades digitales fácilmente, sin requerir conocimientos técnicos avanzados.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-26T19:58:07.302334"
+    },
+    {
+      "nombre": "TaskWell",
+      "descripcion": "TaskWell permite a los usuarios gestionar sus tareas diarias, programar su tiempo y seguir sus hábitos de bienestar. La plataforma ofrece recordatorios inteligentes, análisis de productividad y recomendaciones personalizadas para mejorar la gestión del tiempo y reducir el estrés.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-26T21:43:25.130005"
     }
   ],
   "nombres_usados": [
-    "MindFit",
     "DigitizeMe",
     "BalancedWork",
     "SocialSage",
@@ -8001,6 +8000,7 @@
     "PymeSmart",
     "TaskTime",
     "TaskSimple",
-    "NominaExpress"
+    "NominaExpress",
+    "TaskWell"
   ]
 }
