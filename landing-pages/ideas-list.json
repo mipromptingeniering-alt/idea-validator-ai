@@ -10264,6 +10264,14 @@
     "landing_url": "nan"
   },
   {
+    "id": "IDEA-20260526145800",
+    "nombre": "TaskSimple",
+    "tipo": "MicroSaaS",
+    "resumen": "Una aplicación de gestión de tareas sencilla y amigable diseñada específicamente para freelancers y pequeños emprendedores....",
+    "score": 70,
+    "landing_url": "IDEA-20260526145800.html"
+  },
+  {
     "id": "IDEA-20260526013255",
     "nombre": "MetricDash",
     "tipo": "SaaS",
