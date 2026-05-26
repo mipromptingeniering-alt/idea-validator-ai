@@ -560,6 +560,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260526225358",
+    "nombre": "EasyWeb",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de creación de sitios web simplificada para pequeñas empresas que ofrece plantillas personalizables y soporte dedicado....",
+    "score": 75,
+    "landing_url": "IDEA-20260526225358.html"
+  },
+  {
     "id": "IDEA-20260526214324",
     "nombre": "TaskWell",
     "tipo": "SaaS",

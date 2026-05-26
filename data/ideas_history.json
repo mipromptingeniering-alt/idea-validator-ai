@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "BalancedWork",
-      "descripcion": "BalancedWork es una herramienta en línea que permite a los usuarios crear su lista de tareas diarias y establece un sistema de gestión de tiempo que incluye recordatorios para pausas. Además, ofrece estadísticas sobre la productividad y el bienestar de los usuarios, fomentando hábitos de trabajo más saludables.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-15T17:21:17.829174"
-    },
-    {
       "nombre": "SocialSage",
       "descripcion": "SocialSage es una plataforma que permite a pequeñas empresas y freelancers gestionar sus redes sociales de forma eficiente. Utiliza algoritmos de inteligencia artificial para sugerir contenido relevante y optimizar las publicaciones en función de las tendencias actuales y los intereses de su audiencia. Además, ofrece análisis en tiempo real para mejorar la estrategia de contenido.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-26T22:53:58.545931"
+    },
+    {
+      "nombre": "HireGenius",
+      "descripcion": "HireGenius permite a los reclutadores gestionar, organizar y evaluar candidaturas a través de un sistema automatizado que no solo valida las habilidades técnicas, sino que también analiza competencias blandas gracias a un sistema de evaluación basado en IA. Los usuarios pueden personalizar criterios de selección, recibir recomendaciones de candidatos y tener una visión general del ajuste cultural de cada postulante.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-26T23:58:32.737687"
     }
   ],
   "nombres_usados": [
-    "BalancedWork",
     "SocialSage",
     "Funnel Genius",
     "FocusAI",
@@ -8001,6 +8000,7 @@
     "TaskSimple",
     "NominaExpress",
     "TaskWell",
-    "EasyWeb"
+    "EasyWeb",
+    "HireGenius"
   ]
 }
