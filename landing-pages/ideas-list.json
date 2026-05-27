@@ -560,6 +560,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260527075003",
+    "nombre": "MailMaster",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta que integra la gestión de correos electrónicos y tareas, optimizando la productividad del trabajador del conocimiento mediante intelig...",
+    "score": 75,
+    "landing_url": "IDEA-20260527075003.html"
+  },
+  {
     "id": "IDEA-20260527033806",
     "nombre": "SocialConnectPro",
     "tipo": "SaaS",
