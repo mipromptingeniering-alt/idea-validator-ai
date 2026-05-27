@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialSage",
-      "descripcion": "SocialSage es una plataforma que permite a pequeñas empresas y freelancers gestionar sus redes sociales de forma eficiente. Utiliza algoritmos de inteligencia artificial para sugerir contenido relevante y optimizar las publicaciones en función de las tendencias actuales y los intereses de su audiencia. Además, ofrece análisis en tiempo real para mejorar la estrategia de contenido.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-15T18:27:43.342612"
-    },
-    {
       "nombre": "Funnel Genius",
       "descripcion": "Funnel Genius es una solución SaaS que permite a los usuarios crear embudos de venta personalizados con herramientas de análisis y recomendaciones automatizadas. Incluye un 'coaching' que guía a los usuarios para mejorar su tasa de conversión.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-26T23:58:32.737687"
+    },
+    {
+      "nombre": "SocialConnectPro",
+      "descripcion": "SocialConnectPro permite a las pequeñas y medianas empresas planificar, programar y analizar sus publicaciones en múltiples plataformas sociales desde una sola interfaz. Ofrece un analizador de métricas fácil de entender y recomendaciones personalizadas para mejorar el engagement.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-27T03:38:06.434782"
     }
   ],
   "nombres_usados": [
-    "SocialSage",
     "Funnel Genius",
     "FocusAI",
     "Salud Fácil",
@@ -8001,6 +8000,7 @@
     "NominaExpress",
     "TaskWell",
     "EasyWeb",
-    "HireGenius"
+    "HireGenius",
+    "SocialConnectPro"
   ]
 }

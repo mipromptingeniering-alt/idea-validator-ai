@@ -560,6 +560,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260526235832",
+    "nombre": "HireGenius",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de selección de personal que utiliza inteligencia artificial para analizar currículos y evaluar candidatos de manera integral....",
+    "score": 75,
+    "landing_url": "IDEA-20260526235832.html"
+  },
+  {
     "id": "IDEA-20260526225358",
     "nombre": "EasyWeb",
     "tipo": "SaaS",
