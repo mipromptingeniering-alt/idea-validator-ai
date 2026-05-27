@@ -560,6 +560,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260527113048",
+    "nombre": "MindfulTask",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de tareas que promueve la productividad y el bienestar personal mediante técnicas de mindfulness....",
+    "score": 75,
+    "landing_url": "IDEA-20260527113048.html"
+  },
+  {
     "id": "IDEA-20260527075003",
     "nombre": "MailMaster",
     "tipo": "SaaS",

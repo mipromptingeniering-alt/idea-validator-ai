@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Salud Fácil",
-      "descripcion": "Salud Fácil permitirá a médicos y terapeutas gestionar sus citas de manera eficiente, comunicarse con pacientes y realizar seguimientos automáticos a través de una interfaz intuitiva. La plataforma ofrecerá funcionalidades de recordatorios, gestión de historiales médicos y opciones de telemedicina.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-15T20:23:34.875501"
-    },
-    {
       "nombre": "DigitalPlus45",
       "descripcion": "DigitalPlus45 es una plataforma SaaS que ofrece cursos de habilidades digitales personalizados y adaptativos, diseñados específicamente para trabajadores mayores de 45 años. Utiliza inteligencia artificial para adaptar el contenido a las necesidades y niveles de competencia de cada usuario, incorporando módulos de acompañamiento emocional para motivar y facilitar el aprendizaje.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-27T11:30:48.425275"
+    },
+    {
+      "nombre": "AdSmartHub",
+      "descripcion": "AdSmartHub es una herramienta que permite a los profesionales del marketing digital gestionar, analizar y optimizar sus campañas a través de una interfaz sencilla. La plataforma utiliza inteligencia artificial para ofrecer recomendaciones automáticas sobre cómo mejorar el rendimiento de las campañas en tiempo real, basándose en datos de diversas plataformas de publicidad y redes sociales.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-27T14:48:56.039600"
     }
   ],
   "nombres_usados": [
-    "Salud Fácil",
     "DigitalPlus45",
     "EconoWise",
     "SociaFlex",
@@ -8001,6 +8000,7 @@
     "HireGenius",
     "SocialConnectPro",
     "MailMaster",
-    "MindfulTask"
+    "MindfulTask",
+    "AdSmartHub"
   ]
 }
