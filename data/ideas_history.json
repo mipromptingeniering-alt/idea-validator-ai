@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "DigitalPlus45",
-      "descripcion": "DigitalPlus45 es una plataforma SaaS que ofrece cursos de habilidades digitales personalizados y adaptativos, diseñados específicamente para trabajadores mayores de 45 años. Utiliza inteligencia artificial para adaptar el contenido a las necesidades y niveles de competencia de cada usuario, incorporando módulos de acompañamiento emocional para motivar y facilitar el aprendizaje.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-15T20:51:21.818649"
-    },
-    {
       "nombre": "EconoWise",
       "descripcion": "EconoWise proporciona a los usuarios una plataforma fácil de usar para gestionar su presupuesto, categorizar gastos, visualizar ingresos proyectados y recibir consejos personalizados sobre cómo optimizar sus finanzas. La aplicación utiliza inteligencia artificial para ofrecer recomendaciones basadas en patrones de gasto y ahorro.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-27T14:48:56.039600"
+    },
+    {
+      "nombre": "EduPulse",
+      "descripcion": "EduPulse es una plataforma de aprendizaje en línea que emplea algoritmos de inteligencia artificial para evaluar el progreso de cada estudiante y ajustar el contenido, las actividades y las evaluaciones según sus necesidades y estilos de aprendizaje. Esto no solo mejora la retención del conocimiento, sino que también permite a los educadores enfocarse en los aspectos donde los estudiantes necesitan más apoyo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-27T17:44:56.155774"
     }
   ],
   "nombres_usados": [
-    "DigitalPlus45",
     "EconoWise",
     "SociaFlex",
     "Taskify AI",
@@ -8001,6 +8000,7 @@
     "SocialConnectPro",
     "MailMaster",
     "MindfulTask",
-    "AdSmartHub"
+    "AdSmartHub",
+    "EduPulse"
   ]
 }
