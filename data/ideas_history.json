@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "EconoWise",
-      "descripcion": "EconoWise proporciona a los usuarios una plataforma fácil de usar para gestionar su presupuesto, categorizar gastos, visualizar ingresos proyectados y recibir consejos personalizados sobre cómo optimizar sus finanzas. La aplicación utiliza inteligencia artificial para ofrecer recomendaciones basadas en patrones de gasto y ahorro.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-15T21:20:29.658894"
-    },
-    {
       "nombre": "SociaFlex",
       "descripcion": "SociaFlex es una solución todo-en-uno diseñada específicamente para pequeños y medianos emprendedores. La plataforma permite la creación de contenido fácil mediante plantillas, la programación de publicaciones en múltiples redes sociales y la analítica del rendimiento del contenido, todo desde una única interfaz intuitiva.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-27T17:44:56.155774"
+    },
+    {
+      "nombre": "MindBalance",
+      "descripcion": "MindBalance ayuda a los trabajadores remotos a equilibrar su carga laboral y su bienestar emocional. Ofrece recordatorios para pausas, sesiones de meditación guiadas y un planificador que sugiere momentos de reflexión y autocuidado.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-05-27T19:50:13.903589"
     }
   ],
   "nombres_usados": [
-    "EconoWise",
     "SociaFlex",
     "Taskify AI",
     "CashFlowWise",
@@ -8001,6 +8000,7 @@
     "MailMaster",
     "MindfulTask",
     "AdSmartHub",
-    "EduPulse"
+    "EduPulse",
+    "MindBalance"
   ]
 }
