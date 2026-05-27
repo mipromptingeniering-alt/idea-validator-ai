@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Funnel Genius",
-      "descripcion": "Funnel Genius es una solución SaaS que permite a los usuarios crear embudos de venta personalizados con herramientas de análisis y recomendaciones automatizadas. Incluye un 'coaching' que guía a los usuarios para mejorar su tasa de conversión.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-15T19:05:23.314492"
-    },
-    {
       "nombre": "FocusAI",
       "descripcion": "FocusAI ayuda a los freelancers a optimizar su tiempo a través de un sistema inteligente que analiza hábitos de trabajo y ofrece recomendaciones personalizadas para mejorar la eficiencia y reducir la procrastinación.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-27T03:38:06.434782"
+    },
+    {
+      "nombre": "MailMaster",
+      "descripcion": "MailMaster es una plataforma que ayuda a los usuarios a organizar sus correos electrónicos y tareas de manera eficiente. Utilizando inteligencia artificial, prioriza los correos importantes y relaciona tareas con correos relevantes, permitiendo que los usuarios se concentren en lo que realmente importa.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-27T07:50:03.936477"
     }
   ],
   "nombres_usados": [
-    "Funnel Genius",
     "FocusAI",
     "Salud Fácil",
     "DigitalPlus45",
@@ -8001,6 +8000,7 @@
     "TaskWell",
     "EasyWeb",
     "HireGenius",
-    "SocialConnectPro"
+    "SocialConnectPro",
+    "MailMaster"
   ]
 }

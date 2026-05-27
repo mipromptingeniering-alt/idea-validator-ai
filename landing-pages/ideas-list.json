@@ -560,6 +560,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260527033806",
+    "nombre": "SocialConnectPro",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión de redes sociales diseñada específicamente para PYMEs, que simplifica la automatización de publicaciones, la analítica y la ...",
+    "score": 75,
+    "landing_url": "IDEA-20260527033806.html"
+  },
+  {
     "id": "IDEA-20260526235832",
     "nombre": "HireGenius",
     "tipo": "SaaS",
