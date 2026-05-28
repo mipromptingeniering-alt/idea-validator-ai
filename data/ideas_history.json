@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SociaFlex",
-      "descripcion": "SociaFlex es una solución todo-en-uno diseñada específicamente para pequeños y medianos emprendedores. La plataforma permite la creación de contenido fácil mediante plantillas, la programación de publicaciones en múltiples redes sociales y la analítica del rendimiento del contenido, todo desde una única interfaz intuitiva.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-15T21:48:38.073409"
-    },
-    {
       "nombre": "Taskify AI",
       "descripcion": "Taskify AI utiliza inteligencia artificial para analizar las tareas y el flujo de trabajo de un equipo, proporcionando recomendaciones sobre la priorización y el enfoque de trabajo. Con una interfaz simple y fácil de usar, permite a los usuarios gestionar sus tareas diarias de forma eficiente, asegurando que el equipo mantenga su productividad incluso en entornos de trabajo remoto.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-05-27T19:50:13.903589"
+    },
+    {
+      "nombre": "MarketingDash",
+      "descripcion": "MarketingDash es un SaaS diseñado para ayudar a pequeñas y medianas empresas a monitorizar y optimizar sus campañas de marketing digital. Proporciona un dashboard intuitivo donde los usuarios pueden ver métricas clave de varias plataformas, recibir recomendaciones automatizadas y generar informes fácilmente.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-28T00:12:48.244246"
     }
   ],
   "nombres_usados": [
-    "SociaFlex",
     "Taskify AI",
     "CashFlowWise",
     "Taskify",
@@ -8001,6 +8000,7 @@
     "MindfulTask",
     "AdSmartHub",
     "EduPulse",
-    "MindBalance"
+    "MindBalance",
+    "MarketingDash"
   ]
 }

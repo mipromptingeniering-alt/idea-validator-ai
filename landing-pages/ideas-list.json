@@ -64,6 +64,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260527195013",
+    "nombre": "MindBalance",
+    "tipo": "SaaS",
+    "resumen": "Una herramienta de gestión del tiempo y bienestar para trabajadores remotos que integra mindfulness en la planificación diaria....",
+    "score": 78,
+    "landing_url": "IDEA-20260527195013.html"
+  },
+  {
     "id": "IDEA-20260524114655",
     "nombre": "Freelance Finance Simplified",
     "tipo": "SaaS",
