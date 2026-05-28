@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "CashFlowWise",
-      "descripcion": "CashFlowWise permite a las pequeñas y medianas empresas gestionar su flujo de caja de forma eficiente, ofreciendo una interfaz intuitiva y análisis automatizados que ayudan a prever y optimizar el flujo de ingresos y gastos. La herramienta se integra con plataformas contables y bancos para ofrecer una visión clara y en tiempo real de la situación financiera.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-15T22:52:51.518719"
-    },
-    {
       "nombre": "Taskify",
       "descripcion": "Taskify permite a las PYMES gestionar proyectos y tareas de manera colaborativa, con funciones que facilitan la asignación de tareas, seguimiento del progreso y comunicación en tiempo real, todo en un solo lugar.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-28T08:30:47.011274"
+    },
+    {
+      "nombre": "WorkLife Balance Assistant",
+      "descripcion": "WorkLife Balance Assistant es una plataforma de suscripción que combina la gestión de tareas con recordatorios de bienestar y descanso. Utiliza inteligencia artificial para personalizar la experiencia del usuario, ofreciendo recomendaciones basadas en los hábitos de trabajo de cada individuo.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-28T12:04:58.743023"
     }
   ],
   "nombres_usados": [
-    "CashFlowWise",
     "Taskify",
     "EasyProManage",
     "StudySync",
@@ -8001,6 +8000,7 @@
     "EduPulse",
     "MindBalance",
     "MarketingDash",
-    "SocialSynergy"
+    "SocialSynergy",
+    "WorkLife Balance Assistant"
   ]
 }
