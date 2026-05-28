@@ -568,6 +568,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260528191910",
+    "nombre": "Alquimia Social",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma basada en IA que ayuda a las PYMES a generar contenido atractivo para redes sociales y mejorar su análisis de métricas....",
+    "score": 75,
+    "landing_url": "IDEA-20260528191910.html"
+  },
+  {
     "id": "IDEA-20260528163242",
     "nombre": "FinEduPro",
     "tipo": "SaaS",

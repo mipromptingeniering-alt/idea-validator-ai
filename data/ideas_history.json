@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "StudySync",
-      "descripcion": "StudySync es una herramienta que ayuda a los estudiantes a organizar sus tareas y horarios de clase, ofreciendo recordatorios automáticos y sugerencias de técnicas de estudio basadas en el rendimiento del usuario. La plataforma permite a los estudiantes visualizar su carga de trabajo y optimizar su tiempo para maximizar el rendimiento académico.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-16T01:29:11.000080"
-    },
-    {
       "nombre": "SocialLocal",
       "descripcion": "SocialLocal es una herramienta que permite a los emprendedores programar publicaciones en redes sociales y obtener sugerencias de contenido en función de eventos y festividades locales. Con una interfaz intuitiva, los usuarios pueden seleccionar eventos relevantes para su negocio y la plataforma generará automáticamente publicaciones atractivas.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-28T19:19:10.804751"
+    },
+    {
+      "nombre": "MindFocus",
+      "descripcion": "MindFocus es una herramienta que permite a los usuarios planificar su día, establecer prioridades y gestionar su tiempo, mientras integra sesiones cortas de meditación y ejercicios de respiración para ayudar a reducir el estrés y mejorar la concentración.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-28T21:29:09.451140"
     }
   ],
   "nombres_usados": [
-    "StudySync",
     "SocialLocal",
     "TaskConnect",
     "FileMaster",
@@ -8001,6 +8000,7 @@
     "SocialSynergy",
     "WorkLife Balance Assistant",
     "FinEduPro",
-    "Alquimia Social"
+    "Alquimia Social",
+    "MindFocus"
   ]
 }
