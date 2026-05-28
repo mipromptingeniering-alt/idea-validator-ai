@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Taskify",
-      "descripcion": "Taskify permite a las PYMES gestionar proyectos y tareas de manera colaborativa, con funciones que facilitan la asignación de tareas, seguimiento del progreso y comunicación en tiempo real, todo en un solo lugar.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-15T23:21:08.500623"
-    },
-    {
       "nombre": "EasyProManage",
       "descripcion": "EasyProManage permite a las pymes gestionar sus proyectos, asignar tareas, y colaborar en tiempo real, todo desde una plataforma intuitiva y accesible.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-28T12:04:58.743023"
+    },
+    {
+      "nombre": "FinEduPro",
+      "descripcion": "FinEduPro es una plataforma de software como servicio (SaaS) diseñada para pequeñas y medianas empresas que combina la gestión financiera, la contabilidad y la educación financiera. Permite a los usuarios realizar un seguimiento de sus ingresos y gastos, gestionar facturas y ofrecer recursos educativos sobre finanzas para ayudarles a tomar mejores decisiones empresariales.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-28T16:32:43.058111"
     }
   ],
   "nombres_usados": [
-    "Taskify",
     "EasyProManage",
     "StudySync",
     "SocialLocal",
@@ -8001,6 +8000,7 @@
     "MindBalance",
     "MarketingDash",
     "SocialSynergy",
-    "WorkLife Balance Assistant"
+    "WorkLife Balance Assistant",
+    "FinEduPro"
   ]
 }
