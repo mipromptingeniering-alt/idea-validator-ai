@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialLocal",
-      "descripcion": "SocialLocal es una herramienta que permite a los emprendedores programar publicaciones en redes sociales y obtener sugerencias de contenido en función de eventos y festividades locales. Con una interfaz intuitiva, los usuarios pueden seleccionar eventos relevantes para su negocio y la plataforma generará automáticamente publicaciones atractivas.",
-      "tipo": "SaaS",
-      "score": 78,
-      "fecha": "2026-03-16T04:20:49.000380"
-    },
-    {
       "nombre": "TaskConnect",
       "descripcion": "TaskConnect permitirá a los equipos gestionar sus tareas diarias mientras se comunican en tiempo real, integrando calendarios, listas de tareas y chats en una única aplicación. Esto facilitará un flujo de trabajo más eficiente y reducirá el estrés asociado con la gestión del tiempo.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-28T21:29:09.451140"
+    },
+    {
+      "nombre": "WorkWell",
+      "descripcion": "WorkWell es una aplicación SaaS que permite a los profesionales remotos gestionar su tiempo de manera más eficiente, al mismo tiempo que proporciona un análisis del bienestar emocional. Incorpora técnicas de productividad, recordatorios y autoevaluaciones de bienestar para ayudar a los usuarios a equilibrar su carga de trabajo y mejorar su calidad de vida.",
+      "tipo": "SaaS",
+      "score": 65,
+      "fecha": "2026-05-28T22:53:21.474665"
     }
   ],
   "nombres_usados": [
-    "SocialLocal",
     "TaskConnect",
     "FileMaster",
     "FocusTime",
@@ -8001,6 +8000,7 @@
     "WorkLife Balance Assistant",
     "FinEduPro",
     "Alquimia Social",
-    "MindFocus"
+    "MindFocus",
+    "WorkWell"
   ]
 }
