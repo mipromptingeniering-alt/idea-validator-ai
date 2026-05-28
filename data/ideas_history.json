@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Taskify AI",
-      "descripcion": "Taskify AI utiliza inteligencia artificial para analizar las tareas y el flujo de trabajo de un equipo, proporcionando recomendaciones sobre la priorización y el enfoque de trabajo. Con una interfaz simple y fácil de usar, permite a los usuarios gestionar sus tareas diarias de forma eficiente, asegurando que el equipo mantenga su productividad incluso en entornos de trabajo remoto.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-15T22:19:16.548326"
-    },
-    {
       "nombre": "CashFlowWise",
       "descripcion": "CashFlowWise permite a las pequeñas y medianas empresas gestionar su flujo de caja de forma eficiente, ofreciendo una interfaz intuitiva y análisis automatizados que ayudan a prever y optimizar el flujo de ingresos y gastos. La herramienta se integra con plataformas contables y bancos para ofrecer una visión clara y en tiempo real de la situación financiera.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-28T00:12:48.244246"
+    },
+    {
+      "nombre": "SocialSynergy",
+      "descripcion": "SocialSynergy permite a pequeñas empresas y freelancers gestionar todas sus cuentas de redes sociales en una única plataforma, ofreciendo análisis en tiempo real, sugerencias automatizadas para optimizar publicaciones y recursos educativos sobre el rendimiento de sus campañas.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-28T08:30:47.011274"
     }
   ],
   "nombres_usados": [
-    "Taskify AI",
     "CashFlowWise",
     "Taskify",
     "EasyProManage",
@@ -8001,6 +8000,7 @@
     "AdSmartHub",
     "EduPulse",
     "MindBalance",
-    "MarketingDash"
+    "MarketingDash",
+    "SocialSynergy"
   ]
 }
