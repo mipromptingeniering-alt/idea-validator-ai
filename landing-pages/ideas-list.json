@@ -568,6 +568,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260528163242",
+    "nombre": "FinEduPro",
+    "tipo": "SaaS",
+    "resumen": "FinEduPro ayuda a pymes a gestionar sus finanzas y contabilidad con un enfoque educativo....",
+    "score": 75,
+    "landing_url": "IDEA-20260528163242.html"
+  },
+  {
     "id": "IDEA-20260528120458",
     "nombre": "WorkLife Balance Assistant",
     "tipo": "SaaS",

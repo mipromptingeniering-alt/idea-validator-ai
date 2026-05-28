@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "EasyProManage",
-      "descripcion": "EasyProManage permite a las pymes gestionar sus proyectos, asignar tareas, y colaborar en tiempo real, todo desde una plataforma intuitiva y accesible.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-15T23:51:06.372870"
-    },
-    {
       "nombre": "StudySync",
       "descripcion": "StudySync es una herramienta que ayuda a los estudiantes a organizar sus tareas y horarios de clase, ofreciendo recordatorios automáticos y sugerencias de técnicas de estudio basadas en el rendimiento del usuario. La plataforma permite a los estudiantes visualizar su carga de trabajo y optimizar su tiempo para maximizar el rendimiento académico.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-28T16:32:43.058111"
+    },
+    {
+      "nombre": "Alquimia Social",
+      "descripcion": "Alquimia Social es un software como servicio que permite a las pequeñas y medianas empresas crear, programar y analizar contenido en redes sociales de manera eficiente. Utiliza inteligencia artificial para sugerir temas y formatos de contenido que mejor se alineen con su audiencia objetivo, así como ofrecer informes de rendimiento automáticos.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-28T19:19:10.804751"
     }
   ],
   "nombres_usados": [
-    "EasyProManage",
     "StudySync",
     "SocialLocal",
     "TaskConnect",
@@ -8001,6 +8000,7 @@
     "MarketingDash",
     "SocialSynergy",
     "WorkLife Balance Assistant",
-    "FinEduPro"
+    "FinEduPro",
+    "Alquimia Social"
   ]
 }
