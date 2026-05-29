@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Equilibra",
-      "descripcion": "Equilibra es una plataforma que permite a los usuarios planificar su día de manera efectiva, estableciendo límites claros entre el trabajo y la vida personal, y ofreciendo recordatorios para hacer pausas y practicar mindfulness. La aplicación también incluye análisis de rendimiento y bienestar para que los usuarios puedan ajustar su rutina diaria.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-16T14:05:08.162742"
-    },
-    {
       "nombre": "FinTrack",
       "descripcion": "FinTrack permite a los usuarios conectar sus cuentas bancarias y automáticamente clasificar transacciones en categorías personalizables, generar reportes y ofrecer recomendaciones financieras personalizadas a partir del análisis de datos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-29T20:09:21.435133"
+    },
+    {
+      "nombre": "DigiPlan",
+      "descripcion": "DigiPlan permite a los usuarios crear, programar y analizar contenido para redes sociales desde una única interfaz. Incluye herramientas de generación automática de contenido basado en tendencias y hashtags populares, así como un análisis de métricas que informa sobre el rendimiento del contenido publicado.",
+      "tipo": "SaaS",
+      "score": 76,
+      "fecha": "2026-05-29T23:41:16.080457"
     }
   ],
   "nombres_usados": [
-    "Equilibra",
     "FinTrack",
     "FocusWell",
     "LearnPath",
@@ -8001,6 +8000,7 @@
     "FinanciaPro",
     "Therapisto",
     "OfficeConnect",
-    "FocusSync"
+    "FocusSync",
+    "DigiPlan"
   ]
 }
