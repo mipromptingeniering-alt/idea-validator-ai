@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ContentHub Pro",
-      "descripcion": "ContentHub Pro es una herramienta diseñada para creadores de contenido que buscan maximizar su producción y monetización. Permite gestionar fácilmente el contenido en múltiples plataformas, analizar el rendimiento en tiempo real y activar opciones de monetización, como suscripciones y ventas de productos digitales, desde un solo lugar.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-16T12:35:48.049581"
-    },
-    {
       "nombre": "Equilibra",
       "descripcion": "Equilibra es una plataforma que permite a los usuarios planificar su día de manera efectiva, estableciendo límites claros entre el trabajo y la vida personal, y ofreciendo recordatorios para hacer pausas y practicar mindfulness. La aplicación también incluye análisis de rendimiento y bienestar para que los usuarios puedan ajustar su rutina diaria.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-29T17:59:47.061515"
+    },
+    {
+      "nombre": "FocusSync",
+      "descripcion": "FocusSync permite a los usuarios gestionar sus tareas diarias utilizando métodos probados como Pomodoro y GTD, personalizándolos según su estilo de trabajo. La IA analiza el rendimiento y sugiere ajustes para mejorar la eficiencia y el enfoque a lo largo del día. Además, se integra con aplicaciones de calendario y gestión de tareas populares para una experiencia unificada.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-29T20:09:21.435133"
     }
   ],
   "nombres_usados": [
-    "ContentHub Pro",
     "Equilibra",
     "FinTrack",
     "FocusWell",
@@ -8001,6 +8000,7 @@
     "GoalFlow",
     "FinanciaPro",
     "Therapisto",
-    "OfficeConnect"
+    "OfficeConnect",
+    "FocusSync"
   ]
 }
