@@ -568,6 +568,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260529044110",
+    "nombre": "FinanciaPro",
+    "tipo": "SaaS",
+    "resumen": "FinanciaPro es una plataforma de gestión financiera diseñada para pequeñas y medianas empresas que simplifica la contabilidad y ofrece asesoría en tie...",
+    "score": 75,
+    "landing_url": "IDEA-20260529044110.html"
+  },
+  {
     "id": "IDEA-20260529000420",
     "nombre": "GoalFlow",
     "tipo": "SaaS",

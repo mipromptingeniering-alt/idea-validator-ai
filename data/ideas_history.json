@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FocusTime",
-      "descripcion": "FocusTime permite a los usuarios planificar su jornada laboral, establecer metas diarias y semanales, y realizar un seguimiento de su tiempo de manera efectiva. Además, incorpora elementos de gamificación, donde los usuarios pueden ganar recompensas virtuales por completar tareas y mantener su productividad.",
-      "tipo": "SaaS",
-      "score": 78,
-      "fecha": "2026-03-16T10:49:55.785727"
-    },
-    {
       "nombre": "ContentConnect",
       "descripcion": "ContentConnect permite a los usuarios gestionar su contenido a través de diversas plataformas desde un único dashboard, ofreciéndoles análisis de rendimiento y recomendaciones personalizadas basadas en la interacción de la audiencia. Integraciones con redes sociales, análisis de rendimiento, y herramientas de optimización de contenido.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-29T04:41:10.554996"
+    },
+    {
+      "nombre": "Therapisto",
+      "descripcion": "Therapisto ofrece un sistema de gestión de citas que permite a los terapeutas coordinar su agenda con facilidad, así como realizar consultas en línea. Asimismo, incluye herramientas para enviar recordatorios automáticos a los pacientes y llevar un registro del avance terapéutico, todo en una interfaz intuitiva y fácil de usar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-29T14:43:31.692421"
     }
   ],
   "nombres_usados": [
-    "FocusTime",
     "ContentConnect",
     "ContentHub Pro",
     "Equilibra",
@@ -8001,6 +8000,7 @@
     "MindFocus",
     "WorkWell",
     "GoalFlow",
-    "FinanciaPro"
+    "FinanciaPro",
+    "Therapisto"
   ]
 }
