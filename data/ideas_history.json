@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FileMaster",
-      "descripcion": "FileMaster usa inteligencia artificial para ayudar a los creativos a organizar y gestionar sus archivos multimedia. Con funciones de etiquetado automático, búsqueda avanzada y colaboración en tiempo real, facilita el trabajo en equipo y mejora la eficiencia en proyectos creativos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-16T09:57:27.411117"
-    },
-    {
       "nombre": "FocusTime",
       "descripcion": "FocusTime permite a los usuarios planificar su jornada laboral, establecer metas diarias y semanales, y realizar un seguimiento de su tiempo de manera efectiva. Además, incorpora elementos de gamificación, donde los usuarios pueden ganar recompensas virtuales por completar tareas y mantener su productividad.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-29T00:04:20.771000"
+    },
+    {
+      "nombre": "FinanciaPro",
+      "descripcion": "FinanciaPro ofrece una interfaz intuitiva que permite a las PYMES llevar un control de sus ingresos y gastos, gestionar facturas, y cumplir con las obligaciones fiscales. Incluye tutoriales, recomendaciones personalizadas y un chat en vivo para asesoría financiera. La plataforma se actualiza automáticamente con cambios en regulaciones fiscales y ofrece reportes financieros claros y comprensibles.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-29T04:41:10.554996"
     }
   ],
   "nombres_usados": [
-    "FileMaster",
     "FocusTime",
     "ContentConnect",
     "ContentHub Pro",
@@ -8001,6 +8000,7 @@
     "Alquimia Social",
     "MindFocus",
     "WorkWell",
-    "GoalFlow"
+    "GoalFlow",
+    "FinanciaPro"
   ]
 }

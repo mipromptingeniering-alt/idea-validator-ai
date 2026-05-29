@@ -568,6 +568,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260529000420",
+    "nombre": "GoalFlow",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma de gestión del tiempo que combina la planificación diaria con la visualización de objetivos a largo plazo, utilizando elementos de gami...",
+    "score": 75,
+    "landing_url": "IDEA-20260529000420.html"
+  },
+  {
     "id": "IDEA-20260528212909",
     "nombre": "MindFocus",
     "tipo": "SaaS",
