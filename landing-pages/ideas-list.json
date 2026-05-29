@@ -568,6 +568,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260529144331",
+    "nombre": "Therapisto",
+    "tipo": "SaaS",
+    "resumen": "Therapisto es una plataforma de gestión integral para terapeutas que facilita la programación de citas, la teleconsulta y el seguimiento del progreso ...",
+    "score": 75,
+    "landing_url": "IDEA-20260529144331.html"
+  },
+  {
     "id": "IDEA-20260529044110",
     "nombre": "FinanciaPro",
     "tipo": "SaaS",

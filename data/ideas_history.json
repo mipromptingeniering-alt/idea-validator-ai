@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ContentConnect",
-      "descripcion": "ContentConnect permite a los usuarios gestionar su contenido a través de diversas plataformas desde un único dashboard, ofreciéndoles análisis de rendimiento y recomendaciones personalizadas basadas en la interacción de la audiencia. Integraciones con redes sociales, análisis de rendimiento, y herramientas de optimización de contenido.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-16T11:41:07.678613"
-    },
-    {
       "nombre": "ContentHub Pro",
       "descripcion": "ContentHub Pro es una herramienta diseñada para creadores de contenido que buscan maximizar su producción y monetización. Permite gestionar fácilmente el contenido en múltiples plataformas, analizar el rendimiento en tiempo real y activar opciones de monetización, como suscripciones y ventas de productos digitales, desde un solo lugar.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-29T14:43:31.692421"
+    },
+    {
+      "nombre": "OfficeConnect",
+      "descripcion": "OfficeConnect ofrece un entorno de oficina virtual donde los empleados pueden interactuar, colaborar en proyectos y participar en actividades de bienestar. Con avatares personalizados, salas de reuniones virtuales y espacios para actividades recreativas, la plataforma busca romper la barrera de la desconexión social en el trabajo remoto.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-29T17:59:47.061515"
     }
   ],
   "nombres_usados": [
-    "ContentConnect",
     "ContentHub Pro",
     "Equilibra",
     "FinTrack",
@@ -8001,6 +8000,7 @@
     "WorkWell",
     "GoalFlow",
     "FinanciaPro",
-    "Therapisto"
+    "Therapisto",
+    "OfficeConnect"
   ]
 }
