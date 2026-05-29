@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "TaskConnect",
-      "descripcion": "TaskConnect permitirá a los equipos gestionar sus tareas diarias mientras se comunican en tiempo real, integrando calendarios, listas de tareas y chats en una única aplicación. Esto facilitará un flujo de trabajo más eficiente y reducirá el estrés asociado con la gestión del tiempo.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-16T06:02:42.533773"
-    },
-    {
       "nombre": "FileMaster",
       "descripcion": "FileMaster usa inteligencia artificial para ayudar a los creativos a organizar y gestionar sus archivos multimedia. Con funciones de etiquetado automático, búsqueda avanzada y colaboración en tiempo real, facilita el trabajo en equipo y mejora la eficiencia en proyectos creativos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 65,
       "fecha": "2026-05-28T22:53:21.474665"
+    },
+    {
+      "nombre": "GoalFlow",
+      "descripcion": "GoalFlow es una aplicación web que permite a los usuarios planificar sus tareas diarias mientras mantienen un enfoque en sus objetivos a largo plazo. La interfaz gamificada presenta un tablero visual donde los usuarios pueden arrastrar y soltar tareas, establecer metas semanales y mensuales, y seguir su progreso. Además, incorpora recordatorios y análisis de rendimiento para ofrecer retroalimentación y fomentar la mejora continua.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-29T00:04:20.771000"
     }
   ],
   "nombres_usados": [
-    "TaskConnect",
     "FileMaster",
     "FocusTime",
     "ContentConnect",
@@ -8001,6 +8000,7 @@
     "FinEduPro",
     "Alquimia Social",
     "MindFocus",
-    "WorkWell"
+    "WorkWell",
+    "GoalFlow"
   ]
 }
