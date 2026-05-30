@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "CashFlow Smart",
-      "descripcion": "CashFlow Smart es una herramienta de gestión financiera que permite a las PYMEs visualizar su flujo de caja en tiempo real, recibir alertas sobre necesidades de liquidez y obtener recomendaciones personalizadas para optimizar sus finanzas.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-16T20:05:42.428607"
-    },
-    {
       "nombre": "EmpreSaaS",
       "descripcion": "EmpreSaaS es una plataforma diseñada para pequeños y medianos emprendedores que desean establecer su presencia en línea sin la necesidad de conocimientos técnicos avanzados. La herramienta permite crear sitios web optimizados, ejecutar campañas de marketing y gestionar tiendas en línea de manera fácil y eficiente.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-30T11:50:03.877178"
+    },
+    {
+      "nombre": "MarketBuddy",
+      "descripcion": "MarketBuddy es una plataforma SaaS que ofrece a las pequeñas empresas herramientas de automatización de marketing, análisis de datos en tiempo real y formación personalizada sobre mejores prácticas de marketing digital. Ayuda a los empresarios a crear y ejecutar campañas efectivas sin necesidad de un gran presupuesto ni experiencia previa.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-30T14:46:41.387330"
     }
   ],
   "nombres_usados": [
-    "CashFlow Smart",
     "EmpreSaaS",
     "ProdLogix",
     "Financiera Freemium",
@@ -8001,6 +8000,7 @@
     "DigiPlan",
     "FreelanceTrack",
     "SocialProPYME",
-    "ComuniPro"
+    "ComuniPro",
+    "MarketBuddy"
   ]
 }

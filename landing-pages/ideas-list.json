@@ -584,6 +584,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260530115003",
+    "nombre": "ComuniPro",
+    "tipo": "SaaS",
+    "resumen": "ComuniPro es una plataforma de comunicación y gestión de proyectos diseñada para pequeñas y medianas empresas, que integra chat, videoconferencias y g...",
+    "score": 75,
+    "landing_url": "IDEA-20260530115003.html"
+  },
+  {
     "id": "IDEA-20260530013019",
     "nombre": "FreelanceTrack",
     "tipo": "SaaS",
