@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Financiera Freemium",
-      "descripcion": "Financiera Freemium permite a los usuarios crear y enviar facturas, registrar gastos, y generar reportes financieros en una única plataforma fácil de usar. Ofrece una combinación de funcionalidades gratuitas y premium, asegurando accesibilidad.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-16T22:50:59.159829"
-    },
-    {
       "nombre": "Digital Mentor",
       "descripcion": "Digital Mentor es una plataforma SaaS que ofrece cursos interactivos sobre herramientas digitales esenciales, acompañados de herramientas prácticas que permiten a los usuarios aplicar lo aprendido directamente en sus negocios. Además, cuenta con una comunidad donde los usuarios pueden compartir experiencias y soluciones.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-30T17:09:10.991219"
+    },
+    {
+      "nombre": "TaskSmart",
+      "descripcion": "TaskSmart combina la gestión de tareas, programación de proyectos y un sistema de seguimiento del tiempo en una sola aplicación. Utiliza algoritmos de IA para personalizar las recomendaciones de organización, ayudando a los usuarios a ser más productivos y evitar el agotamiento.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-30T18:15:02.662795"
     }
   ],
   "nombres_usados": [
-    "Financiera Freemium",
     "Digital Mentor",
     "AdEasy",
     "AdInsight",
@@ -8001,6 +8000,7 @@
     "ComuniPro",
     "MarketBuddy",
     "SocialBuddy",
-    "WellnessHub"
+    "WellnessHub",
+    "TaskSmart"
   ]
 }
