@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "LearnPath",
-      "descripcion": "LearnPath ofrece a los usuarios un recorrido personalizado para adquirir nuevas habilidades en línea, adaptando los cursos, artículos y videos a sus preferencias y ritmo. La plataforma incluye un sistema de seguimiento de progreso y sugerencias basadas en el comportamiento del usuario.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-16T19:40:19.940997"
-    },
-    {
       "nombre": "CashFlow Smart",
       "descripcion": "CashFlow Smart es una herramienta de gestión financiera que permite a las PYMEs visualizar su flujo de caja en tiempo real, recibir alertas sobre necesidades de liquidez y obtener recomendaciones personalizadas para optimizar sus finanzas.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-05-30T08:02:33.734134"
+    },
+    {
+      "nombre": "ComuniPro",
+      "descripcion": "ComuniPro permite a las PYMEs mejorar su comunicación interna y la relación con sus clientes mediante un software sencillo de usar que combina todas las herramientas necesarias para la colaboración efectiva. Incluye funciones como la asignación de tareas, seguimiento del progreso, videollamadas integradas y un chat en tiempo real.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-30T11:50:03.877178"
     }
   ],
   "nombres_usados": [
-    "LearnPath",
     "CashFlow Smart",
     "EmpreSaaS",
     "ProdLogix",
@@ -8001,6 +8000,7 @@
     "FocusSync",
     "DigiPlan",
     "FreelanceTrack",
-    "SocialProPYME"
+    "SocialProPYME",
+    "ComuniPro"
   ]
 }
