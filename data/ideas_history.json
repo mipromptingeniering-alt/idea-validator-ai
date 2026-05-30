@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "FinTrack",
-      "descripcion": "FinTrack permite a los usuarios conectar sus cuentas bancarias y automáticamente clasificar transacciones en categorías personalizables, generar reportes y ofrecer recomendaciones financieras personalizadas a partir del análisis de datos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-16T15:21:58.067491"
-    },
-    {
       "nombre": "FocusWell",
       "descripcion": "FocusWell ofrece herramientas para planificar el día, establecer metas, y pausas programadas para mejorar el bienestar mental y físico, además de un seguimiento de la productividad y el estado emocional del usuario.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 76,
       "fecha": "2026-05-29T23:41:16.080457"
+    },
+    {
+      "nombre": "FreelanceTrack",
+      "descripcion": "FreelanceTrack ofrece a los usuarios la capacidad de gestionar sus proyectos, tareas y tiempo, así como generar facturas personalizadas y seguir el estado de sus finanzas, todo en un solo lugar. Con una interfaz sencilla, permite a los usuarios concentrarse en su trabajo sin distracciones.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-30T01:30:19.543608"
     }
   ],
   "nombres_usados": [
-    "FinTrack",
     "FocusWell",
     "LearnPath",
     "CashFlow Smart",
@@ -8001,6 +8000,7 @@
     "Therapisto",
     "OfficeConnect",
     "FocusSync",
-    "DigiPlan"
+    "DigiPlan",
+    "FreelanceTrack"
   ]
 }
