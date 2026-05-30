@@ -584,6 +584,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260530155944",
+    "nombre": "SocialBuddy",
+    "tipo": "SaaS",
+    "resumen": "Herramienta de gestión de redes sociales que permite a las pequeñas empresas generar contenido personalizado a través de inteligencia artificial....",
+    "score": 75,
+    "landing_url": "IDEA-20260530155944.html"
+  },
+  {
     "id": "IDEA-20260530144641",
     "nombre": "MarketBuddy",
     "tipo": "SaaS",

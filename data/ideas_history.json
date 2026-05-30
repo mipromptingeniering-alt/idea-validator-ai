@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "ProdLogix",
-      "descripcion": "ProdLogix es un software que permite a las PYMES gestionar su producción y logística de manera eficiente, con herramientas de análisis de datos que ayudan a tomar decisiones informadas y optimizar recursos.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-16T22:06:22.248868"
-    },
-    {
       "nombre": "Financiera Freemium",
       "descripcion": "Financiera Freemium permite a los usuarios crear y enviar facturas, registrar gastos, y generar reportes financieros en una única plataforma fácil de usar. Ofrece una combinación de funcionalidades gratuitas y premium, asegurando accesibilidad.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-30T15:59:45.036887"
+    },
+    {
+      "nombre": "WellnessHub",
+      "descripcion": "WellnessHub es una plataforma todo en uno que permite a terapeutas, coaches y otros profesionales del bienestar gestionar citas, recibir pagos y comunicarse con sus clientes de manera eficiente, todo desde un solo lugar.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-30T17:09:10.991219"
     }
   ],
   "nombres_usados": [
-    "ProdLogix",
     "Financiera Freemium",
     "Digital Mentor",
     "AdEasy",
@@ -8001,6 +8000,7 @@
     "SocialProPYME",
     "ComuniPro",
     "MarketBuddy",
-    "SocialBuddy"
+    "SocialBuddy",
+    "WellnessHub"
   ]
 }
