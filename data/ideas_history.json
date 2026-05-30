@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "EmpreSaaS",
-      "descripcion": "EmpreSaaS es una plataforma diseñada para pequeños y medianos emprendedores que desean establecer su presencia en línea sin la necesidad de conocimientos técnicos avanzados. La herramienta permite crear sitios web optimizados, ejecutar campañas de marketing y gestionar tiendas en línea de manera fácil y eficiente.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-16T20:56:53.078898"
-    },
-    {
       "nombre": "ProdLogix",
       "descripcion": "ProdLogix es un software que permite a las PYMES gestionar su producción y logística de manera eficiente, con herramientas de análisis de datos que ayudan a tomar decisiones informadas y optimizar recursos.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-30T14:46:41.387330"
+    },
+    {
+      "nombre": "SocialBuddy",
+      "descripcion": "SocialBuddy es una plataforma que ayuda a pequeñas empresas a crear, programar y analizar publicaciones en redes sociales. Utiliza inteligencia artificial para recomendar contenido relevante y optimizado según la audiencia y el sector del negocio.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-30T15:59:45.036887"
     }
   ],
   "nombres_usados": [
-    "EmpreSaaS",
     "ProdLogix",
     "Financiera Freemium",
     "Digital Mentor",
@@ -8001,6 +8000,7 @@
     "FreelanceTrack",
     "SocialProPYME",
     "ComuniPro",
-    "MarketBuddy"
+    "MarketBuddy",
+    "SocialBuddy"
   ]
 }
