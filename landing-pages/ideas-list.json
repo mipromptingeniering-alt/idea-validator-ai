@@ -584,6 +584,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260530203637",
+    "nombre": "FocusBoost",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que gamifica la gestión de tareas para trabajadores remotos, mejorando su productividad y bienestar a través de desafíos y recompensas....",
+    "score": 75,
+    "landing_url": "IDEA-20260530203637.html"
+  },
+  {
     "id": "IDEA-20260530194117",
     "nombre": "ContractEase",
     "tipo": "SaaS",

@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "AdInsight",
-      "descripcion": "AdInsight permite a los marketers digital tener una visión holística de su rendimiento publicitario, integrando datos de diversas fuentes y proporcionando análisis en tiempo real para optimizar campañas y maximizar el retorno de inversión.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-17T05:18:38.731630"
-    },
-    {
       "nombre": "MedManage",
       "descripcion": "MedManage es una plataforma que permite a médicos y terapeutas gestionar sus citas de forma eficiente, enviando recordatorios automáticos a sus pacientes y ofreciendo análisis sobre horarios y disponibilidad. Esta herramienta ayudará a reducir las ausencias, mejorar la satisfacción del paciente y aumentar la productividad del profesional.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-30T20:36:37.414347"
+    },
+    {
+      "nombre": "CreaSync",
+      "descripcion": "CreaSync permite a los creativos organizar sus proyectos de manera intuitiva, estableciendo plazos, creando listas de tareas, y, al mismo tiempo, agregando imágenes y referencias visuales que alimenten su proceso creativo. La plataforma facilita la colaboración entre equipos creativos, permitiendo que varios usuarios trabajen y se inspiren en un mismo espacio.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-30T21:39:39.004904"
     }
   ],
   "nombres_usados": [
-    "AdInsight",
     "MedManage",
     "FinPlanify",
     "EasyBooks",
@@ -8001,6 +8000,7 @@
     "WellnessHub",
     "TaskSmart",
     "ContractEase",
-    "FocusBoost"
+    "FocusBoost",
+    "CreaSync"
   ]
 }
