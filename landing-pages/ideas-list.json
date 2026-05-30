@@ -584,6 +584,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260530181502",
+    "nombre": "TaskSmart",
+    "tipo": "SaaS",
+    "resumen": "TaskSmart es una aplicación de gestión de tareas y tiempo que utiliza inteligencia artificial para optimizar la planificación diaria de freelancers y ...",
+    "score": 75,
+    "landing_url": "IDEA-20260530181502.html"
+  },
+  {
     "id": "IDEA-20260530170910",
     "nombre": "WellnessHub",
     "tipo": "SaaS",
