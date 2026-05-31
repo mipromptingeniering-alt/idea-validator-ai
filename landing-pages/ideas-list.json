@@ -584,6 +584,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260530213938",
+    "nombre": "CreaSync",
+    "tipo": "SaaS",
+    "resumen": "CreaSync es una plataforma de gestión de proyectos especialmente diseñada para profesionales creativos, que combina gestión de tareas, plazos y herram...",
+    "score": 75,
+    "landing_url": "IDEA-20260530213938.html"
+  },
+  {
     "id": "IDEA-20260530203637",
     "nombre": "FocusBoost",
     "tipo": "SaaS",

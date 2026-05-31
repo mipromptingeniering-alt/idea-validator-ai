@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "MedManage",
-      "descripcion": "MedManage es una plataforma que permite a médicos y terapeutas gestionar sus citas de forma eficiente, enviando recordatorios automáticos a sus pacientes y ofreciendo análisis sobre horarios y disponibilidad. Esta herramienta ayudará a reducir las ausencias, mejorar la satisfacción del paciente y aumentar la productividad del profesional.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-17T06:37:34.474953"
-    },
-    {
       "nombre": "FinPlanify",
       "descripcion": "FinPlanify es una herramienta que ayuda a los usuarios a establecer y alcanzar metas financieras a través de un enfoque fácil de usar, ofreciendo contenido educativo gamificado, visualizaciones interactivas y recordatorios personalizados. Los usuarios pueden crear una visión clara de sus finanzas, realizar un seguimiento de sus gastos y aprender sobre cómo optimizar su ahorro.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-30T21:39:39.004904"
+    },
+    {
+      "nombre": "WellnessBuddy",
+      "descripcion": "WellnessBuddy ofrece un servicio personalizado que ayuda a los usuarios a establecer y mantener hábitos saludables. A través de un algoritmo inteligente, la aplicación sugiere planes de comidas y rutinas de ejercicios adaptados a las preferencias y objetivos del usuario, además de incluir ejercicios de mindfulness y bienestar mental.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-31T01:51:06.000066"
     }
   ],
   "nombres_usados": [
-    "MedManage",
     "FinPlanify",
     "EasyBooks",
     "SocialMatic",
@@ -8001,6 +8000,7 @@
     "TaskSmart",
     "ContractEase",
     "FocusBoost",
-    "CreaSync"
+    "CreaSync",
+    "WellnessBuddy"
   ]
 }
