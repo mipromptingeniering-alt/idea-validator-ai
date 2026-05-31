@@ -584,6 +584,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260531122046",
+    "nombre": "CollabAI",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma integral que combina mensajería, videoconferencias y gestión de tareas, potenciada por inteligencia artificial....",
+    "score": 75,
+    "landing_url": "IDEA-20260531122046.html"
+  },
+  {
     "id": "IDEA-20260531111331",
     "nombre": "Marketyzer",
     "tipo": "SaaS",

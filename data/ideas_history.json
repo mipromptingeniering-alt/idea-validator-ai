@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "DigiMakers",
-      "descripcion": "DigiMakers permite a las pequeñas y medianas empresas crear sitios web, gestionar redes sociales y realizar campañas de marketing digital de forma sencilla, obteniendo herramientas integradas que facilitan la digitalización sin necesidad de conocimientos técnicos avanzados.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-17T12:50:25.226825"
-    },
-    {
       "nombre": "DecideMe",
       "descripcion": "DecideMe ofrece un espacio interactivo donde los usuarios pueden evaluar diferentes opciones, recibir retroalimentación personalizada y gamificar el proceso de toma de decisiones. La plataforma ayuda a visualizar pros y contras, a establecer prioridades y a tomar decisiones de manera más clara y efectiva.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-31T12:20:46.326307"
+    },
+    {
+      "nombre": "DataEase",
+      "descripcion": "DataEase permite a las pequeñas y medianas empresas importar sus datos de ventas, marketing y operativos, generando informes automáticos y visualizaciones amigables que facilitan la comprensión de las métricas clave y las tendencias del negocio.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-31T15:45:39.704896"
     }
   ],
   "nombres_usados": [
-    "DigiMakers",
     "DecideMe",
     "SocialSense",
     "TaskFusion",
@@ -8001,6 +8000,7 @@
     "WellFocus",
     "Freetime",
     "Marketyzer",
-    "CollabAI"
+    "CollabAI",
+    "DataEase"
   ]
 }
