@@ -592,6 +592,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260531192344",
+    "nombre": "Emprende360",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que combina educación y herramientas de gestión para emprendedores y pequeñas empresas....",
+    "score": 75,
+    "landing_url": "IDEA-20260531192344.html"
+  },
+  {
     "id": "IDEA-20260531154539",
     "nombre": "DataEase",
     "tipo": "SaaS",
