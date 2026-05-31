@@ -584,6 +584,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260531154539",
+    "nombre": "DataEase",
+    "tipo": "SaaS",
+    "resumen": "DataEase es una herramienta de análisis de datos diseñada para PYMES que simplifica la visualización y toma de decisiones a partir de sus datos....",
+    "score": 75,
+    "landing_url": "IDEA-20260531154539.html"
+  },
+  {
     "id": "IDEA-20260531122046",
     "nombre": "CollabAI",
     "tipo": "SaaS",

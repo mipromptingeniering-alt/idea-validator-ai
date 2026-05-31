@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "DecideMe",
-      "descripcion": "DecideMe ofrece un espacio interactivo donde los usuarios pueden evaluar diferentes opciones, recibir retroalimentación personalizada y gamificar el proceso de toma de decisiones. La plataforma ayuda a visualizar pros y contras, a establecer prioridades y a tomar decisiones de manera más clara y efectiva.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-17T14:15:45.907386"
-    },
-    {
       "nombre": "SocialSense",
       "descripcion": "SocialSense permite a pequeñas empresas y emprendedores gestionar sus cuentas de redes sociales de manera sencilla, programar publicaciones, y recibir análisis de sentimiento sobre el contenido que publican. Esto les ayuda a optimizar su estrategia de contenido y mejorar su relación con los seguidores.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-31T15:45:39.704896"
+    },
+    {
+      "nombre": "MindFlow",
+      "descripcion": "MindFlow permite a los usuarios crear y gestionar tareas de manera intuitiva, mientras ofrece recordatorios de pausas para la salud mental, ejercicios de respiración y herramientas para la gestión del tiempo que fomentan un equilibrio entre trabajo y bienestar.",
+      "tipo": "SaaS",
+      "score": 78,
+      "fecha": "2026-05-31T18:01:06.041488"
     }
   ],
   "nombres_usados": [
-    "DecideMe",
     "SocialSense",
     "TaskFusion",
     "TaskVision",
@@ -8001,6 +8000,7 @@
     "Freetime",
     "Marketyzer",
     "CollabAI",
-    "DataEase"
+    "DataEase",
+    "MindFlow"
   ]
 }
