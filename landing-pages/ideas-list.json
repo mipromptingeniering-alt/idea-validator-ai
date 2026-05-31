@@ -584,6 +584,14 @@
     "landing_url": "https://idea-20260210231358-fxh47ly52-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260531061021",
+    "nombre": "WellFocus",
+    "tipo": "SaaS",
+    "resumen": "Una plataforma que ayuda a los trabajadores remotos a optimizar su productividad mientras cuidan de su bienestar mental y físico mediante recordatorio...",
+    "score": 75,
+    "landing_url": "IDEA-20260531061021.html"
+  },
+  {
     "id": "IDEA-20260531015105",
     "nombre": "WellnessBuddy",
     "tipo": "SaaS",
