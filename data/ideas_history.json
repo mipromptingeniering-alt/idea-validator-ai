@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialMatic",
-      "descripcion": "SocialMatic permite a las pymes gestionar y optimizar su presencia en redes sociales de manera simple e intuitiva. Con un enfoque en la automatización, la plataforma ayuda a programar publicaciones, analizar el rendimiento y recibir recomendaciones personalizadas, todo en un solo lugar.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-17T11:09:17.512788"
-    },
-    {
       "nombre": "Balancea",
       "descripcion": "Balancea ayuda a los usuarios a gestionar sus tareas diarias mientras promueve prácticas de bienestar. Ofrece una interfaz intuitiva para planificar y priorizar tareas, y a la vez, incorpora recordatorios para pausas activas, ejercicios de respiración, y actividades de autocuidado.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "MicroSaaS",
       "score": 75,
       "fecha": "2026-05-31T09:22:41.625039"
+    },
+    {
+      "nombre": "Marketyzer",
+      "descripcion": "Marketyzer es una plataforma que permite a las pequeñas y medianas empresas crear y gestionar campañas de marketing digital efectivas. Ofrece herramientas de diseño de campañas, gestión de redes sociales, email marketing, creación de landing pages y análisis de resultados, todo accesible en un panel intuitivo. Además, incluye módulos de formación en estrategias de marketing digital.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-31T11:13:31.464455"
     }
   ],
   "nombres_usados": [
-    "SocialMatic",
     "Balancea",
     "DigiMakers",
     "DecideMe",
@@ -8001,6 +8000,7 @@
     "CreaSync",
     "WellnessBuddy",
     "WellFocus",
-    "Freetime"
+    "Freetime",
+    "Marketyzer"
   ]
 }
