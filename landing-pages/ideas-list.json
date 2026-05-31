@@ -64,6 +64,14 @@
     "landing_url": "https://idea-idea-20260210232936-p4ry4silf-idearias-projects.vercel.app"
   },
   {
+    "id": "IDEA-20260531180105",
+    "nombre": "MindFlow",
+    "tipo": "SaaS",
+    "resumen": "MindFlow es una herramienta de gestión de tareas que integra técnicas de mindfulness para ayudar a los profesionales a mantener su productividad y bie...",
+    "score": 78,
+    "landing_url": "IDEA-20260531180105.html"
+  },
+  {
     "id": "IDEA-20260530080233",
     "nombre": "SocialProPYME",
     "tipo": "SaaS",

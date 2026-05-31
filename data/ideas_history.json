@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "SocialSense",
-      "descripcion": "SocialSense permite a pequeñas empresas y emprendedores gestionar sus cuentas de redes sociales de manera sencilla, programar publicaciones, y recibir análisis de sentimiento sobre el contenido que publican. Esto les ayuda a optimizar su estrategia de contenido y mejorar su relación con los seguidores.",
-      "tipo": "SaaS",
-      "score": 75,
-      "fecha": "2026-03-17T16:37:50.195192"
-    },
-    {
       "nombre": "TaskFusion",
       "descripcion": "TaskFusion permite a los equipos gestionar sus tareas, comunicarse y colaborar en un solo lugar, eliminando la necesidad de múltiples aplicaciones. Incluye herramientas de planificación de proyectos, chat en tiempo real, y un tablero visual que ayuda a llevar un seguimiento claro del progreso.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 78,
       "fecha": "2026-05-31T18:01:06.041488"
+    },
+    {
+      "nombre": "Emprende360",
+      "descripcion": "Emprende360 es una plataforma en línea que ofrece cursos sobre habilidades empresariales, gestión de proyectos y herramientas digitales, integrando estas lecciones con aplicaciones prácticas y recursos que ayudan a los usuarios a implementar lo aprendido directamente en sus negocios. Incluye foros colaborativos y soporte en tiempo real.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-31T19:23:44.999393"
     }
   ],
   "nombres_usados": [
-    "SocialSense",
     "TaskFusion",
     "TaskVision",
     "FactuGenio",
@@ -8001,6 +8000,7 @@
     "Marketyzer",
     "CollabAI",
     "DataEase",
-    "MindFlow"
+    "MindFlow",
+    "Emprende360"
   ]
 }
