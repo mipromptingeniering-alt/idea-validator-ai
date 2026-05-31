@@ -1,13 +1,6 @@
 {
   "ideas": [
     {
-      "nombre": "Balancea",
-      "descripcion": "Balancea ayuda a los usuarios a gestionar sus tareas diarias mientras promueve prácticas de bienestar. Ofrece una interfaz intuitiva para planificar y priorizar tareas, y a la vez, incorpora recordatorios para pausas activas, ejercicios de respiración, y actividades de autocuidado.",
-      "tipo": "SaaS",
-      "score": 70,
-      "fecha": "2026-03-17T11:54:28.677004"
-    },
-    {
       "nombre": "DigiMakers",
       "descripcion": "DigiMakers permite a las pequeñas y medianas empresas crear sitios web, gestionar redes sociales y realizar campañas de marketing digital de forma sencilla, obteniendo herramientas integradas que facilitan la digitalización sin necesidad de conocimientos técnicos avanzados.",
       "tipo": "SaaS",
@@ -6999,10 +6992,16 @@
       "tipo": "SaaS",
       "score": 75,
       "fecha": "2026-05-31T11:13:31.464455"
+    },
+    {
+      "nombre": "CollabAI",
+      "descripcion": "CollabAI es una herramienta de colaboración que permite a los equipos remotos comunicarse, realizar videollamadas y gestionar proyectos en un solo lugar. Utiliza inteligencia artificial para mejorar la asignación de tareas y recordatorios, asegurando que ningún miembro del equipo se sienta perdido o abrumado.",
+      "tipo": "SaaS",
+      "score": 75,
+      "fecha": "2026-05-31T12:20:46.326307"
     }
   ],
   "nombres_usados": [
-    "Balancea",
     "DigiMakers",
     "DecideMe",
     "SocialSense",
@@ -8001,6 +8000,7 @@
     "WellnessBuddy",
     "WellFocus",
     "Freetime",
-    "Marketyzer"
+    "Marketyzer",
+    "CollabAI"
   ]
 }
